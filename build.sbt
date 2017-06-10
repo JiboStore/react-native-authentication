@@ -13,6 +13,13 @@ libraryDependencies ++= Seq(
   "org.scalatestplus.play" %% "scalatestplus-play" % "1.5.1" % Test
 )
 
+libraryDependencies ++= Seq(
+  jdbc,
+  cache,
+  ws,
+  specs2 % Test,
+  "org.reactivemongo" %% "play2-reactivemongo" % "0.11.7.play24"
+)
 
 
 fork in run := true

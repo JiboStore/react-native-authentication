@@ -11,3 +11,10 @@ GET     /message                    controllers.AsyncController.message
 
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+
+# API
+GET		/api/widgets				controllers.WidgetsController.index
+POST	/api/widgets				controllers.WidgetsController.create
+GET		/api/widgets/:id			controllers.WidgetsController.read(id: String)
+PATCH	/api/widgets/:id			controllers.WidgetsController.update(id: String)
+DELETE	/api/widgets/:id			controllers.WidgetsController.delete(id: String)

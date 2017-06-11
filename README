@@ -1,5 +1,8 @@
 Source: http://spr.com/building-a-simple-rest-api-with-scala-play-part-1/
 
+How to make it work in eclipse:
+-. https://github.com/typesafehub/sbteclipse
+
 This is your new Play application
 =================================
 

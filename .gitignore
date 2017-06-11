@@ -8,3 +8,6 @@ target
 /RUNNING_PID
 .sbtserver
 .sbtserver.lock
+/bin/
+.cache-main
+.cache-tests

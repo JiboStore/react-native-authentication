@@ -11,6 +11,7 @@ libraryDependencies ++= Seq(
   cache,
   ws,
   specs2 % Test,
+  "javax.inject" % "javax.inject" % "1",
   "org.scalatestplus.play" %% "scalatestplus-play" % "1.5.1" % Test,
   "org.reactivemongo" %% "play2-reactivemongo" % "0.11.7.play24"
 )

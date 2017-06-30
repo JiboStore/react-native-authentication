@@ -1,25 +1,17 @@
-name := """play-scala"""
+name := "deadbolt-2-usage-scala"
 
-version := "1.0-SNAPSHOT"
+version := "2.5.0"
 
 lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
-scalaVersion := "2.11.6"
+scalaVersion := "2.11.7"
+
+organization := "be.objectify"
 
 libraryDependencies ++= Seq(
-  jdbc,
-  cache,
-  ws,
-  specs2 % Test,
-  "org.reactivemongo" %% "play2-reactivemongo" % "0.11.7.play24",
-  "be.objectify" %% "deadbolt-scala" % "2.5.1"
+  "be.objectify" %% "deadbolt-scala" % "2.5.0"
 )
 
-resolvers += "scalaz-bintray" at "http://dl.bintray.com/scalaz/releases"
-resolvers += Resolver.sonatypeRepo("snapshots")
-
-// Play provides two styles of routers, one expects its actions to be injected, the
-// other, legacy style, accesses its actions statically.
 routesGenerator := InjectedRoutesGenerator
 
 

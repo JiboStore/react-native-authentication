@@ -1,17 +1,11 @@
 package security
 
-import scala.concurrent._
-import scala.concurrent.ExecutionContext.Implicits.global
-
-import be.objectify.deadbolt.scala.AuthenticatedRequest
-import be.objectify.deadbolt.scala.DeadboltHandler
-import be.objectify.deadbolt.scala.DynamicResourceHandler
 import be.objectify.deadbolt.scala.models.Subject
+import be.objectify.deadbolt.scala.{AuthenticatedRequest, DynamicResourceHandler, DeadboltHandler}
+import play.api.mvc.{Request, Result, Results}
 import models.User
-import play.api.mvc.Request
-import play.api.mvc.Result
-import play.api.mvc.Results
-import play.api.mvc.Results.Status
+import scala.concurrent.ExecutionContext.Implicits.global
+import scala.concurrent._
 
 /**
  *
@@ -31,6 +25,6 @@ class MyDeadboltHandler(dynamicResourceHandler: Option[DynamicResourceHandler] =
   }
 
   def onAuthFailure[A](request: AuthenticatedRequest[A]): Future[Result] = {
-    Future.successful{Status(404)("not found")}
+    Future {Results.Forbidden(views.html.accessFailed())}
   }
 }

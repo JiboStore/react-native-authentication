@@ -11,10 +11,12 @@ libraryDependencies ++= Seq(
   cache,
   ws,
   specs2 % Test,
-  "org.reactivemongo" %% "play2-reactivemongo" % "0.11.7.play24"
+  "org.reactivemongo" %% "play2-reactivemongo" % "0.11.7.play24",
+  "be.objectify" %% "deadbolt-scala" % "2.5.1"
 )
 
 resolvers += "scalaz-bintray" at "http://dl.bintray.com/scalaz/releases"
+resolvers += Resolver.sonatypeRepo("snapshots")
 
 // Play provides two styles of routers, one expects its actions to be injected, the
 // other, legacy style, accesses its actions statically.

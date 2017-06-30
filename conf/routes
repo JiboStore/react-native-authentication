@@ -16,6 +16,8 @@ GET     /assets/*file               controllers.Assets.versioned(path="/public",
 GET		/widgets/seeder/index		controllers.WidgetsSeederController.index
 GET		/widgets/seeder/cleanup		controllers.WidgetsSeederController.cleanup
 
+GET		/deadbolt/subjectpresent	controllers.DeadboltTestController.subjectpresent
+
 # API
 GET		/api/widgets				controllers.WidgetsController.index
 POST	/api/widgets				controllers.WidgetsController.create

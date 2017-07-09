@@ -1,4 +1,4 @@
-package repos
+package com.mangafun.repos
 
 import scala.concurrent._
 

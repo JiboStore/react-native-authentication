@@ -11,6 +11,7 @@ import play.api.libs.json._
 import play.api.libs.concurrent.Execution.Implicits.defaultContext
 import reactivemongo.bson._
 import reactivemongo.api.commands.WriteResult
+import com.mangafun.repos._
 
 class UsersTestController @Inject() (reactiveMongoApi: ReactiveMongoApi) 
   extends Controller with MongoController with ReactiveMongoComponents {
@@ -24,7 +25,7 @@ class UsersTestController @Inject() (reactiveMongoApi: ReactiveMongoApi)
   def usersRepo = new UsersRepoImpl(reactiveMongoApi)
   
   def index = Action.async { implicit request =>
-    usersRepo.find().map(users => Ok(Json.toJson(widgets)))
+    usersRepo.find().map(users => Ok(Json.toJson(users)))
   }
   
   def create = Action.async(BodyParsers.parse.json) {

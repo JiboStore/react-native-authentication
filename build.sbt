@@ -1,3 +1,7 @@
+import com.typesafe.sbt.packager.MappingsHelper._
+
+mappings in Universal ++= directory(baseDirectory.value / "resources")
+    
 name := "deadbolt-2-usage-scala"
 
 version := "2.5.0"

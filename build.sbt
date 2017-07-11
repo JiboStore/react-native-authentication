@@ -14,7 +14,8 @@ organization := "be.objectify"
 
 libraryDependencies ++= Seq(
   "be.objectify" %% "deadbolt-scala" % "2.5.0",
-  "org.reactivemongo" %% "play2-reactivemongo" % "0.11.14"
+  "org.reactivemongo" %% "play2-reactivemongo" % "0.11.14",
+  "commons-io" % "commons-io" % "2.4"
 )
 
 routesGenerator := InjectedRoutesGenerator

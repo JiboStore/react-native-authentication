@@ -44,7 +44,11 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(appPr
     Future {
       blocking {
 //        var res = new ListBuffer[String]
-        var f = app.getFile("/resources/manga.json")
+//        var f = app.getFile("/resources/manga.json") // ok
+//        var f = FileUtils.getFile("/resources/manga.json") // not working
+//        var f = new File("/resources/manga.json") // not working
+//        var f = new File("resources/manga.json") // ok
+        var f = FileUtils.getFile("resources/manga.json") // ok, so we don't need to inject Play.application() anymore
         var list: java.util.List[String] = FileUtils.readLines(f, "UTF-8")
         var scalaList = list.toList
         scalaList

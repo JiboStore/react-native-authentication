@@ -21,13 +21,16 @@ import java.io.File
 import java.nio.charset.Charset
 import org.apache.commons.io.FileUtils
 import scala.collection.JavaConversions._
+import play.api.libs.ws.WSClient
 
 /** TODO: https://stackoverflow.com/a/37180103/474330 */
 
-class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(appProvider: Provider[Application])
+class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(ws: WSClient)(appProvider: Provider[Application])
   extends Controller with MongoController with ReactiveMongoComponents {
   
   lazy val app = appProvider.get
+  
+  val urlHost = "http://localhost:3003"
   
   def reactiveMongoApi() : ReactiveMongoApi = {
     return reactiveMongoApi;
@@ -40,8 +43,13 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(appPr
   def index(): Action[AnyContent] = Action.async {
     val fString = readMangaToString()
     val fMangas: Future[List[MangaSearchData]] = fString.map( strArray => {
-        Json.parse(strArray).as[List[MangaSearchData]]
+//        Json.parse(strArray).as[List[MangaSearchData]]
+      val jsv: JsValue = Json.parse(strArray)
+      val jsl: List[MangaSearchData] = jsv.as[List[MangaSearchData]]
+      jsl
     })
+    
+    
     fMangas.map( lMangas => {
       Ok(lMangas.mkString(" :: "))
     })
@@ -81,6 +89,12 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(appPr
         FileUtils.readFileToString(f, "UTF-8")
       }
     }
+  }
+  
+  def requestMangaInfo(mangaSearchData: MangaSearchData) = {
+    val urlApi = urlHost + "/search?t="
+    val urlReq = urlApi + mangaSearchData.mangaId
+    // TODO: make the request
   }
   
 }

@@ -13,6 +13,8 @@ scalaVersion := "2.11.6"
 organization := "be.objectify"
 
 libraryDependencies ++= Seq(
+  cache,
+  ws,
   "be.objectify" %% "deadbolt-scala" % "2.5.0",
   "org.reactivemongo" %% "play2-reactivemongo" % "0.11.14",
   "commons-io" % "commons-io" % "2.4"

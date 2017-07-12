@@ -33,14 +33,32 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(appPr
     return reactiveMongoApi;
   }
   
-  def index() : Action[AnyContent] = Action.async {
-    val result = readMangaJson()
-    result.map( list => {
-      Ok("here: " + list)
+  case class MangaSearchData(var mangaId: String, var name: String)
+  
+  implicit val mangaSearchDataJson = Json.format[MangaSearchData]
+  
+  def index(): Action[AnyContent] = Action.async {
+    val fString = readMangaToString()
+    val fMangas: Future[List[MangaSearchData]] = fString.map( strArray => {
+        Json.parse(strArray).as[List[MangaSearchData]]
+    })
+    fMangas.map( lMangas => {
+      Ok(lMangas.mkString(" :: "))
     })
   }
   
-  def readMangaJson(): Future[List[String]] = {
+  def index_string() : Action[AnyContent] = Action.async {
+//    val result = readMangaToList()
+//    result.map( list => {
+//      Ok("here: " + list)
+//    })
+    val r = readMangaToString()
+    r.map( s => {
+      Ok(s)
+    })
+  }
+  
+  def readMangaToList(): Future[List[String]] = {
     Future {
       blocking {
 //        var res = new ListBuffer[String]
@@ -52,6 +70,15 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(appPr
         var list: java.util.List[String] = FileUtils.readLines(f, "UTF-8")
         var scalaList = list.toList
         scalaList
+      }
+    }
+  }
+  
+  def readMangaToString(): Future[String] = {
+    Future {
+      blocking {
+        var f = FileUtils.getFile("resources/manga.json")
+        FileUtils.readFileToString(f, "UTF-8")
       }
     }
   }

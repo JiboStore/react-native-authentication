@@ -69,7 +69,7 @@ object Manga {
   import play.api.libs.json.Json
   
   // Generates Writes and Reads
-  implicit val imageJsonFormat = Json.format[Image]
+  implicit val imageJsonFormats = Json.format[Image]
   implicit val pageJsonFormats = Json.format[Page]
   implicit val chapterJsonFormats = Json.format[Chapter]
   implicit val mangaJsonFormats = Json.format[Manga]

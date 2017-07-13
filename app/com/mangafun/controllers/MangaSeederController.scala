@@ -24,6 +24,7 @@ import scala.collection.JavaConversions._
 import play.api.libs.ws.WSClient
 import play.api.libs.ws.WSRequest
 import play.api.libs.ws.WSResponse
+import com.mangafun.repos._
 
 /** TODO: https://stackoverflow.com/a/37180103/474330 */
 
@@ -58,9 +59,21 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       Future.sequence(lRes)
     })
     
-    fResults.map( str => {
-      Ok( str.mkString(", "))
+    var sRes = ""
+    var fList = fResults.map( lObj => {
+      lObj.foreach( obj => { 
+          sRes += (obj.searchTerm + " " + obj.resultCount + " > " + obj.resultPageCount + " > " +
+          obj.results(0).resultName + " >> " + obj.results(0).resultUrl + " >> " + obj.results(0).resultFullUrl +
+          obj.results(0).resultThumbImageUrl + " >> " + obj.results(0).resultChapters + " >> " +
+          obj.results(0).resultType + " >> " + obj.results(0).resultGenre) 
+      })
     })
+    
+    // TODO: fList is still a Unit!
+    
+//    fResults.map( str => {
+//      Ok( str.mkString(", "))
+//    })
     
 //    fMangas.map( lMangas => {
 //      Ok(lMangas.mkString(" :: "))
@@ -103,21 +116,34 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     }
   }
   
-  def requestMangaInfo(mangaSearchData: MangaSearchData): Future[String] = {
-//    val urlApi = urlHost + "/search?t="
-//    val urlReq = urlApi + mangaSearchData.mangaId
-    val urlReq = urlHost + "/search"
-    // TODO: make the request
-    val wsRequest: WSRequest = wsClient.url(urlReq)
-      .withHeaders(("Accept" -> "application/json"))
-      .withQueryString(("t" -> mangaSearchData.mangaId))
-    val fResponse: Future[WSResponse] = wsRequest.get()
-    val fRet = fResponse.map( res => {
-      res.body
-//      val jsVal = res.json
-//      jsVal.as[String]
-    })
-    fRet
-  }
+//  def requestMangaInfo(mangaSearchData: MangaSearchData): Future[String] = {
+////    val urlApi = urlHost + "/search?t="
+////    val urlReq = urlApi + mangaSearchData.mangaId
+//    val urlReq = urlHost + "/search"
+//    // TODO: make the request
+//    val wsRequest: WSRequest = wsClient.url(urlReq)
+//      .withHeaders(("Accept" -> "application/json"))
+//      .withQueryString(("t" -> mangaSearchData.mangaId))
+//    val fResponse: Future[WSResponse] = wsRequest.get()
+//    val fRet = fResponse.map( res => {
+//      res.body
+////      val jsVal = res.json
+////      jsVal.as[String]
+//    })
+//    fRet
+//  }
+  
+    def requestMangaInfo(mangaSearchData: MangaSearchData): Future[ResultSearchResponse] = {
+      val urlReq = urlHost + "/search"
+      val wsRequest: WSRequest = wsClient.url(urlReq)
+        .withHeaders(("Accept" -> "application/json"))
+        .withQueryString(("t" -> mangaSearchData.mangaId))
+      val fResponse: Future[WSResponse] = wsRequest.get()
+      val fRet = fResponse.map( res => {
+//        res.body
+        res.json.as[ResultSearchResponse]
+      })
+      fRet
+    }
   
 }

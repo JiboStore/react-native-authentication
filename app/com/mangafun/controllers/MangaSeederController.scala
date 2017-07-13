@@ -22,10 +22,12 @@ import java.nio.charset.Charset
 import org.apache.commons.io.FileUtils
 import scala.collection.JavaConversions._
 import play.api.libs.ws.WSClient
+import play.api.libs.ws.WSRequest
+import play.api.libs.ws.WSResponse
 
 /** TODO: https://stackoverflow.com/a/37180103/474330 */
 
-class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(ws: WSClient)(appProvider: Provider[Application])
+class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: WSClient)(appProvider: Provider[Application])
   extends Controller with MongoController with ReactiveMongoComponents {
   
   lazy val app = appProvider.get
@@ -49,10 +51,20 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(ws: W
       jsl
     })
     
-    
-    fMangas.map( lMangas => {
-      Ok(lMangas.mkString(" :: "))
+    val fResults = fMangas.flatMap( lMangas => {
+      val lRes = for ( m <- lMangas ) yield {
+        requestMangaInfo(m)
+      }
+      Future.sequence(lRes)
     })
+    
+    fResults.map( str => {
+      Ok( str.mkString(", "))
+    })
+    
+//    fMangas.map( lMangas => {
+//      Ok(lMangas.mkString(" :: "))
+//    })
   }
   
   def index_string() : Action[AnyContent] = Action.async {
@@ -91,10 +103,21 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(ws: W
     }
   }
   
-  def requestMangaInfo(mangaSearchData: MangaSearchData) = {
-    val urlApi = urlHost + "/search?t="
-    val urlReq = urlApi + mangaSearchData.mangaId
+  def requestMangaInfo(mangaSearchData: MangaSearchData): Future[String] = {
+//    val urlApi = urlHost + "/search?t="
+//    val urlReq = urlApi + mangaSearchData.mangaId
+    val urlReq = urlHost + "/search"
     // TODO: make the request
+    val wsRequest: WSRequest = wsClient.url(urlReq)
+      .withHeaders(("Accept" -> "application/json"))
+      .withQueryString(("t" -> mangaSearchData.mangaId))
+    val fResponse: Future[WSResponse] = wsRequest.get()
+    val fRet = fResponse.map( res => {
+      res.body
+//      val jsVal = res.json
+//      jsVal.as[String]
+    })
+    fRet
   }
   
 }

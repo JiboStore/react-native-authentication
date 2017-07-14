@@ -53,8 +53,9 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     })
     
     val fResults = fMangas.flatMap( lMangas => {
-      val lRes = for ( m <- lMangas ) yield {
-        requestMangaInfo(m)
+      val lRes: List[Future[ResultSearchResponse]] = for ( m <- lMangas ) yield {
+        // TODO: do not request the whole list, only request a range
+        requestSearchInfo(m)
       }
       Future.sequence(lRes)
     })
@@ -119,7 +120,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     }
   }
   
-//  def requestMangaInfo(mangaSearchData: MangaSearchData): Future[String] = {
+//  def requestSearchInfo(mangaSearchData: MangaSearchData): Future[String] = {
 ////    val urlApi = urlHost + "/search?t="
 ////    val urlReq = urlApi + mangaSearchData.mangaId
 //    val urlReq = urlHost + "/search"
@@ -136,7 +137,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
 //    fRet
 //  }
   
-    def requestMangaInfo(mangaSearchData: MangaSearchData): Future[ResultSearchResponse] = {
+    def requestSearchInfo(mangaSearchData: MangaSearchData): Future[ResultSearchResponse] = {
       val urlReq = urlHost + "/search"
       val wsRequest: WSRequest = wsClient.url(urlReq)
         .withHeaders(("Accept" -> "application/json"))
@@ -147,6 +148,23 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
         res.json.as[ResultSearchResponse]
       })
       fRet
+    }
+    
+    def requestComicInfo(resultSearch: Future[ResultSearchResponse]): Future[List[ResultComicResponse]] = {
+      val urlReq = urlHost + "/comic"
+      val wsRequest: WSRequest = wsClient.url(urlReq)
+      .withHeaders(("Accept" -> "application/json"))
+      val f = resultSearch.flatMap( rsr => {
+        val allResponse: List[Future[ResultComicResponse]] = for( info <- rsr.results ) yield {
+          val fResponse = wsRequest.withQueryString(("c" -> info.resultFullUrl)).get()
+          val fRet = fResponse.map( res => {
+            res.json.as[ResultComicResponse]
+          })
+          fRet
+        }
+        Future.sequence(allResponse)
+      })
+      return f
     }
   
 }

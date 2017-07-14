@@ -63,11 +63,14 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     var fList = fResults.map( lObj => {
       lObj.foreach( obj => { 
           sRes += (obj.searchTerm + " " + obj.resultCount + " > " + obj.resultPageCount + " > " +
-          obj.results(0).resultName + " >> " + obj.results(0).resultUrl + " >> " + obj.results(0).resultFullUrl +
+          obj.results(0).resultName + " >> " + obj.results(0).resultUrl + " >> " + obj.results(0).resultFullUrl + " >> " +
           obj.results(0).resultThumbImageUrl + " >> " + obj.results(0).resultChapters + " >> " +
           obj.results(0).resultType + " >> " + obj.results(0).resultGenre) 
       })
+      Ok(sRes)
     })
+    
+    fList
     
     // TODO: fList is still a Unit!
     

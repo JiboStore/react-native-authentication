@@ -156,20 +156,75 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     })
     
     val flManga = flResults.map( lResults => {
-      val lMangas = for ( r <- lResults ) yield {
-        mangaRepo.constructMangaFromApiResponse(r)
+      val lMangas = for ( resultSearchResponse <- lResults ) yield {
+        val manga: Manga = mangaRepo.constructMangaFromApiResponse(resultSearchResponse)
+        manga
       }
       lMangas
     })
-    flManga.map( lManga => {
-      var strRes = ""
-      lManga.foreach( manga => {
-        val js = Json.toJson(manga)
-        strRes += js.toString()
-      })
-      Logger.debug("result: " + strRes)
-      Ok(strRes)
+    
+    val flfManga = for {
+        lResultSearchResponse <- flResults
+        lManga <- flManga
+    } yield {
+      for ( m <- lManga ) yield {
+        val rsr = lResultSearchResponse.find( r => {
+          r.results(0).resultFullUrl == m.mangaUrl
+        })
+        val fManga = rsr match { 
+            case Some(res) => {
+              val flResultComicResponse = requestComicInfo(res)
+              val fM = flResultComicResponse.map( lRcr => {
+                lRcr.foreach( r => {
+                  mangaRepo.updateMangaFromApiResponse(m, r)
+                })
+                m
+              })
+              fM
+            }
+            case None => {
+              Future {
+                m
+              }
+            }
+        }
+        fManga
+      }
+    } // end yield
+    
+    var strRes = ""
+    var ffManga = flfManga.map( lfManga => {
+      Future.sequence( lfManga )
     })
+    var futureResult = ffManga.flatMap( flManga => {
+      var fRes = flManga.map( lManga => {
+        var lStr = for ( m <- lManga ) yield {
+          var strManga = Json.toJson(m).toString() + ", "
+          strRes += strManga
+          strManga
+        }
+        Ok(strRes)
+      })
+      fRes
+    })
+    futureResult
+    
+    // working
+//    val flManga = flResults.map( lResults => {
+//      val lMangas = for ( r <- lResults ) yield {
+//        mangaRepo.constructMangaFromApiResponse(r)
+//      }
+//      lMangas
+//    })
+//    flManga.map( lManga => {
+//      var strRes = ""
+//      lManga.foreach( manga => {
+//        val js = Json.toJson(manga)
+//        strRes += js.toString()
+//      })
+//      Logger.debug("result: " + strRes)
+//      Ok(strRes)
+//    })
 
   }
   
@@ -186,30 +241,45 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       fRet
     }
     
-    def requestComicInfo(resultSearch: Future[ResultSearchResponse]): Future[List[ResultComicResponse]] = {
+    def requestComicInfo(resultSearchResponse: ResultSearchResponse): Future[List[ResultComicResponse]] = {
       val urlReq = urlHost + "/comic"
       val wsRequest: WSRequest = wsClient.url(urlReq)
       .withHeaders(("Accept" -> "application/json"))
-      val f = resultSearch.flatMap( rsr => {
-        val allResponse: List[Future[ResultComicResponse]] = for( info <- rsr.results ) yield {
-          val fResponse = wsRequest.withQueryString(("c" -> info.resultFullUrl)).get()
-          val fRet = fResponse.map( res => {
-//            System.err.println(res.body)
-            Logger.debug("res => " + res.body)
-            res.json.as[ResultComicResponse]
-          })
-          fRet
-        }
-        Future.sequence(allResponse)
-      })
-      return f
+      val lfResultComicResponse = for ( info <- resultSearchResponse.results ) yield {
+        val fResponse = wsRequest.withQueryString(("c" -> info.resultFullUrl)).get()
+        val fResultComicResponse = fResponse.map( wsres => {
+          Logger.debug("wsres: " + wsres.body)
+          wsres.json.as[ResultComicResponse]
+        })
+        fResultComicResponse
+      }
+      Future.sequence(lfResultComicResponse)
     }
     
-    // TODO: do and test this
-    def requestChapterInfo(resultComic: Future[ResultComicResponse]) = {
-      val urlReq = urlHost + "/chapters"
-      val wsRequest: WSRequest = wsClient.url(urlReq)
-      .withHeaders(("Accept" -> "application/json"))
-    }
+//    def requestComicInfo(resultSearch: Future[ResultSearchResponse]): Future[List[ResultComicResponse]] = {
+//      val urlReq = urlHost + "/comic"
+//      val wsRequest: WSRequest = wsClient.url(urlReq)
+//      .withHeaders(("Accept" -> "application/json"))
+//      val f = resultSearch.flatMap( rsr => {
+//        val allResponse: List[Future[ResultComicResponse]] = for( info <- rsr.results ) yield {
+//          val fResponse = wsRequest.withQueryString(("c" -> info.resultFullUrl)).get()
+//          val fRet = fResponse.map( res => {
+////            System.err.println(res.body)
+//            Logger.debug("res => " + res.body)
+//            res.json.as[ResultComicResponse]
+//          })
+//          fRet
+//        }
+//        Future.sequence(allResponse)
+//      })
+//      return f
+//    }
+//    
+//    // TODO: do and test this
+//    def requestChapterInfo(resultComic: Future[ResultComicResponse]) = {
+//      val urlReq = urlHost + "/chapters"
+//      val wsRequest: WSRequest = wsClient.url(urlReq)
+//      .withHeaders(("Accept" -> "application/json"))
+//    }
   
 }

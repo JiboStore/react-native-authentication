@@ -43,7 +43,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
   
   implicit val mangaSearchDataJson = Json.format[MangaSearchData]
   
-  def index(): Action[AnyContent] = Action.async {
+  def index_obj1(): Action[AnyContent] = Action.async {
     val fString = readMangaToString()
     val fMangas: Future[List[MangaSearchData]] = fString.map( strArray => {
 //        Json.parse(strArray).as[List[MangaSearchData]]
@@ -137,6 +137,44 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
 //    fRet
 //  }
   
+  def index(): Action[AnyContent] = Action.async {
+    val fString = readMangaToString()
+    val fMangas: Future[List[MangaSearchData]] = fString.map( strArray => {
+      val jsv: JsValue = Json.parse(strArray)
+      val jsl: List[MangaSearchData] = jsv.as[List[MangaSearchData]]
+      jsl
+    })
+    
+    val fResults = fMangas.flatMap( lMangas => {
+      val lRes: List[Future[ResultSearchResponse]] = for ( m <- lMangas ) yield {
+        // TODO: do not request the whole list, only request a range
+        requestSearchInfo(m)
+      }
+      Future.sequence(lRes)
+    })
+    
+    val flComicResponse = fResults.flatMap( lResultSearch => {
+      val fComic = for( resultSearch <- lResultSearch ) yield {
+        requestComicInfo( Future{ resultSearch } )
+      }
+      Future.sequence(fComic)
+    })
+    
+    var sRes = ""
+    var fList = fResults.map( lObj => {
+      lObj.foreach( obj => { 
+          sRes += (obj.searchTerm + " " + obj.resultCount + " > " + obj.resultPageCount + " > " +
+          obj.results(0).resultName + " >> " + obj.results(0).resultUrl + " >> " + obj.results(0).resultFullUrl + " >> " +
+          obj.results(0).resultThumbImageUrl + " >> " + obj.results(0).resultChapters + " >> " +
+          obj.results(0).resultType + " >> " + obj.results(0).resultGenre) 
+      })
+      Ok(sRes)
+    })
+    
+    fList
+
+  }
+  
     def requestSearchInfo(mangaSearchData: MangaSearchData): Future[ResultSearchResponse] = {
       val urlReq = urlHost + "/search"
       val wsRequest: WSRequest = wsClient.url(urlReq)
@@ -165,6 +203,10 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
         Future.sequence(allResponse)
       })
       return f
+    }
+    
+    def requestChapterInfo(resultComic: Future[ResultComicResponse]) = {
+    
     }
   
 }

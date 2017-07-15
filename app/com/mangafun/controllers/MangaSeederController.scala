@@ -160,18 +160,47 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       Future.sequence(fComic)
     })
     
-    var sRes = ""
-    var fList = fResults.map( lObj => {
-      lObj.foreach( obj => { 
-          sRes += (obj.searchTerm + " " + obj.resultCount + " > " + obj.resultPageCount + " > " +
-          obj.results(0).resultName + " >> " + obj.results(0).resultUrl + " >> " + obj.results(0).resultFullUrl + " >> " +
-          obj.results(0).resultThumbImageUrl + " >> " + obj.results(0).resultChapters + " >> " +
-          obj.results(0).resultType + " >> " + obj.results(0).resultGenre) 
+    val vRes = flComicResponse.map( llComic => {
+      var vStrAll = ""
+      llComic.foreach( lComic => {
+        lComic.foreach( c => {
+          vStrAll += "<br><br>startComic: " + c.comicUrl + " [" + c.chapterCount + "] chapters: "
+          c.chapters.foreach( ch => {
+            vStrAll += "chDesc: " + ch.chapterTitle
+          })
+        })
       })
-      Ok(sRes)
-    })
+      Logger.debug(vStrAll)
+       
+//      Future{
+        Ok(vStrAll)
+//      }
+      
+      })
+      vRes
+      
+//      for( lc <- llComic ) yield {
+//        val vstr = lc.foreach ( c => {
+//          vStrAll += "startComic: " + c.comicUrl + " [" + c.chapterCount + "] chapters: " 
+//          c.chapters.foreach( ch => {
+//            vStrAll += ch.chapterDescription
+//          })
+//        }
+//      )}
+//    })
     
-    fList
+//    var sRes = ""
+//    var fList = fResults.map( lObj => {
+//      lObj.foreach( obj => { 
+//          sRes += (obj.searchTerm + " " + obj.resultCount + " > " + obj.resultPageCount + " > " +
+//          obj.results(0).resultName + " >> " + obj.results(0).resultUrl + " >> " + obj.results(0).resultFullUrl + " >> " +
+//          obj.results(0).resultThumbImageUrl + " >> " + obj.results(0).resultChapters + " >> " +
+//          obj.results(0).resultType + " >> " + obj.results(0).resultGenre) 
+//      })
+//      Ok(sRes)
+//    })
+//    
+//    fList
 
   }
   
@@ -196,6 +225,8 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
         val allResponse: List[Future[ResultComicResponse]] = for( info <- rsr.results ) yield {
           val fResponse = wsRequest.withQueryString(("c" -> info.resultFullUrl)).get()
           val fRet = fResponse.map( res => {
+//            System.err.println(res.body)
+            Logger.debug("res => " + res.body)
             res.json.as[ResultComicResponse]
           })
           fRet
@@ -206,7 +237,9 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     }
     
     def requestChapterInfo(resultComic: Future[ResultComicResponse]) = {
-    
+      val urlReq = urlHost + "/chapters"
+      val wsRequest: WSRequest = wsClient.url(urlReq)
+      .withHeaders(("Accept" -> "application/json"))
     }
   
 }

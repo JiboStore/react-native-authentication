@@ -39,7 +39,7 @@ case class ResultComicInfo(
     var chapterUrl: String,
     var chapterFullUrl: String,
     var chapterTitle: String,
-    var chapterDescription: String,
+    var chapterDescription: Option[String],
     var chapterDate: String
 )
 

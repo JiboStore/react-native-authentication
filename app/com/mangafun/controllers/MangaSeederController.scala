@@ -192,20 +192,20 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       }
     } // end yield
     
-    var strRes = ""
-    var ffManga = flfManga.map( lfManga => {
+    val fManga = flfManga.flatMap( lfManga => {
       Future.sequence( lfManga )
     })
-    var futureResult = ffManga.flatMap( flManga => {
-      var fRes = flManga.map( lManga => {
+    
+    var strRes = ""    
+    val futureResult = fManga.flatMap( lManga => {
         var lStr = for ( m <- lManga ) yield {
           var strManga = Json.toJson(m).toString() + ", "
           strRes += strManga
           strManga
         }
-        Ok(strRes)
-      })
-      fRes
+        Future {
+          Ok(strRes)
+        }
     })
     futureResult
     
@@ -248,7 +248,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       val lfResultComicResponse = for ( info <- resultSearchResponse.results ) yield {
         val fResponse = wsRequest.withQueryString(("c" -> info.resultFullUrl)).get()
         val fResultComicResponse = fResponse.map( wsres => {
-          Logger.debug("wsres: " + wsres.body)
+//          Logger.debug("wsres: " + wsres.body)
           wsres.json.as[ResultComicResponse]
         })
         fResultComicResponse

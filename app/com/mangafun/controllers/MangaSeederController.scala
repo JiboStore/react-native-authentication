@@ -156,10 +156,12 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     })
     
     val flManga = flResults.map( lResults => {
+      Logger.debug("size results: " + lResults.count( r => true ))
       val lMangas = for ( resultSearchResponse <- lResults ) yield {
         val manga: Manga = mangaRepo.constructMangaFromApiResponse(resultSearchResponse)
         manga
       }
+      Logger.debug("size manga constructed: " + lMangas.count(m => true))
       lMangas
     })
     
@@ -167,6 +169,8 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
         lResultSearchResponse <- flResults
         lManga <- flManga
     } yield {
+      Logger.debug("size manga 1: " + lManga.count(m => true))
+      Logger.debug("size ResultSearchResponse: " + lResultSearchResponse.count(m => true))
       for ( m <- lManga ) yield {
         val rsr = lResultSearchResponse.find( r => {
           r.results(0).resultFullUrl == m.mangaUrl
@@ -193,11 +197,13 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     } // end yield
     
     val fManga = flfManga.flatMap( lfManga => {
+      Logger.debug("size lfManga: " + lfManga.count(m => true))
       Future.sequence( lfManga )
     })
     
     val flUpdatedManga = fManga.flatMap( lManga => {
       val llManga = for ( manga <- lManga ) yield {
+        Logger.debug("size lManga.flatten: " + lManga.count(m => true))
         val lfManga = for ( ch <- manga.chapters ) yield {
           val fResponse = requestChapterInfo( ch.chapterUrl )
           val fUpdatedManga = fResponse.map ( chapterResponse => {
@@ -208,6 +214,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
         lfManga
       }
       val lRes = llManga.flatten
+      Logger.debug("size llManga.flatten: " + lRes.count(m => true)) // here is the problem, size is 63
       Future.sequence(lRes)
     })
     
@@ -218,6 +225,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
         strRes += strManga
         strManga
       }
+      Logger.debug("total manga objects: " + lManga.count( m => true))
       Ok(strRes)
     })
     
@@ -287,7 +295,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       .withHeaders(("Accept" -> "application/json"))
       val fwsResponse = wsRequest.withQueryString(("c" -> chapterFullUrl)).get()
       val fResultChapterResponse = fwsResponse.map( wsres => {
-        Logger.debug("wsres: " + wsres.body)
+//        Logger.debug("wsres: " + wsres.body)
         wsres.json.as[ResultChapterResponse]
       })
       fResultChapterResponse

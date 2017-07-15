@@ -211,9 +211,9 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
           })
           fUpdatedManga
         }
-        lfManga
+        lfManga.get(0)
       }
-      val lRes = llManga.flatten
+      val lRes = llManga
       Logger.debug("size llManga.flatten: " + lRes.count(m => true)) // here is the problem, size is 63
       Future.sequence(lRes)
     })

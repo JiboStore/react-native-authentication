@@ -164,9 +164,9 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       var vStrAll = ""
       llComic.foreach( lComic => {
         lComic.foreach( c => {
-          vStrAll += "<br><br>startComic: " + c.comicUrl + " [" + c.chapterCount + "] chapters: "
+          vStrAll += "<h1>startComic: " + c.comicUrl + " [" + c.chapterCount + "] chapters: </h1>"
           c.chapters.foreach( ch => {
-            vStrAll += "chDesc: " + ch.chapterTitle
+            vStrAll += "<p>chDesc: " + ch.chapterTitle + "</p>"
           })
         })
       })
@@ -236,6 +236,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       return f
     }
     
+    // TODO: do and test this
     def requestChapterInfo(resultComic: Future[ResultComicResponse]) = {
       val urlReq = urlHost + "/chapters"
       val wsRequest: WSRequest = wsClient.url(urlReq)

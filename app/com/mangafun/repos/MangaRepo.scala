@@ -17,6 +17,7 @@ import reactivemongo.api.commands.bson.BSONCountCommand.{ Count, CountResult }
 import reactivemongo.api.commands.bson.BSONCountCommandImplicits._
 import reactivemongo.bson.BSONDocument
 import reactivemongo.play.json.collection.JSONCollection
+import scala.collection.mutable.ListBuffer
 
 /** http://localhost:3003/search?t=video */
 case class Manga (
@@ -90,5 +91,63 @@ class MangaRepoImpl @Inject() (reactiveMongoApi: ReactiveMongoApi) extends Manga
  
   def jsonCollection: JSONCollection = reactiveMongoApi.db.collection[JSONCollection]("manga");
   def bsonCollection: BSONCollection = reactiveMongoApi.db.collection[BSONCollection]("manga");
- 
+  
+  def constructMangaFromApiResponse(index: Int, searchResponse: ResultSearchResponse): Manga = {
+    var manga = new Manga(
+        index,
+        searchResponse.results(0).resultName,
+        searchResponse.results(0).resultFullUrl,
+        searchResponse.results(0).resultThumbImageUrl,
+        searchResponse.results(0).resultChapters,
+        searchResponse.results(0).resultType,
+        searchResponse.results(0).resultGenre,
+        0,
+        List[Chapter]()
+    )
+    manga
+  }
+  
+  def updateMangaFromApiResponse(manga: Manga, comicResponse: ResultComicResponse): Manga = {
+    manga.chapterCount = comicResponse.chapterCount
+    val lCh = for ( chRes <- comicResponse.chapters ) yield {
+      new Chapter(
+          chRes.chapterFullUrl,
+          chRes.chapterTitle,
+          chRes.chapterDescription.getOrElse(""),
+          chRes.chapterDate,
+          0,
+          List[Page]()
+      )
+    }
+    manga.chapters = lCh
+    manga
+  }
+  
+  def updateMangaFromApiResponse(manga: Manga, chapterResponse: ResultChapterResponse): Manga = {
+    var oChapter = manga.chapters.find( ch => {
+      ch.chapterUrl == chapterResponse.chapterUrl
+    })
+    var lPages = oChapter match {
+      case Some(chapter) => {
+        chapter.pageCount = chapterResponse.pageCount
+        val pages = for ( pageRes <- chapterResponse.pages ) yield {
+          new Page(
+              pageRes.pageNumber.toInt,
+              pageRes.pageFullUrl,
+              List[Image]()
+          )
+        }
+        chapter.pages = pages
+        pages
+      }
+      case None => {
+        List[Page]()
+      }
+    }
+    manga
+  }
+  
+  def updateMangaFromApiResponse(manga: Manga, pageResponse: ResultPageResponse) = {
+    // TODO: update List[Image] in pages
+  }
 }

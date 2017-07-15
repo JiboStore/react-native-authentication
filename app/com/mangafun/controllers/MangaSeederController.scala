@@ -39,6 +39,8 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     return reactiveMongoApi;
   }
   
+  def mangaRepo = new MangaRepoImpl(reactiveMongoApi)
+  
   case class MangaSearchData(var mangaId: String, var name: String)
   
   implicit val mangaSearchDataJson = Json.format[MangaSearchData]
@@ -145,7 +147,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       jsl
     })
     
-    val fResults = fMangas.flatMap( lMangas => {
+    val flResults = fMangas.flatMap( lMangas => {
       val lRes: List[Future[ResultSearchResponse]] = for ( m <- lMangas ) yield {
         // TODO: do not request the whole list, only request a range
         requestSearchInfo(m)
@@ -153,54 +155,21 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       Future.sequence(lRes)
     })
     
-    val flComicResponse = fResults.flatMap( lResultSearch => {
-      val fComic = for( resultSearch <- lResultSearch ) yield {
-        requestComicInfo( Future{ resultSearch } )
+    val flManga = flResults.map( lResults => {
+      val lMangas = for ( r <- lResults ) yield {
+        mangaRepo.constructMangaFromApiResponse(r)
       }
-      Future.sequence(fComic)
+      lMangas
     })
-    
-    val vRes = flComicResponse.map( llComic => {
-      var vStrAll = ""
-      llComic.foreach( lComic => {
-        lComic.foreach( c => {
-          vStrAll += "<h1>startComic: " + c.comicUrl + " [" + c.chapterCount + "] chapters: </h1>"
-          c.chapters.foreach( ch => {
-            vStrAll += "<p>chDesc: " + ch.chapterTitle + "</p>"
-          })
-        })
+    flManga.map( lManga => {
+      var strRes = ""
+      lManga.foreach( manga => {
+        val js = Json.toJson(manga)
+        strRes += js.toString()
       })
-      Logger.debug(vStrAll)
-       
-//      Future{
-        Ok(vStrAll)
-//      }
-      
-      })
-      vRes
-      
-//      for( lc <- llComic ) yield {
-//        val vstr = lc.foreach ( c => {
-//          vStrAll += "startComic: " + c.comicUrl + " [" + c.chapterCount + "] chapters: " 
-//          c.chapters.foreach( ch => {
-//            vStrAll += ch.chapterDescription
-//          })
-//        }
-//      )}
-//    })
-    
-//    var sRes = ""
-//    var fList = fResults.map( lObj => {
-//      lObj.foreach( obj => { 
-//          sRes += (obj.searchTerm + " " + obj.resultCount + " > " + obj.resultPageCount + " > " +
-//          obj.results(0).resultName + " >> " + obj.results(0).resultUrl + " >> " + obj.results(0).resultFullUrl + " >> " +
-//          obj.results(0).resultThumbImageUrl + " >> " + obj.results(0).resultChapters + " >> " +
-//          obj.results(0).resultType + " >> " + obj.results(0).resultGenre) 
-//      })
-//      Ok(sRes)
-//    })
-//    
-//    fList
+      Logger.debug("result: " + strRes)
+      Ok(strRes)
+    })
 
   }
   

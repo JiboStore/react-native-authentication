@@ -5,3 +5,33 @@ How to make it work in eclipse:
 
 List[Future[String]] => Future[List[String]]
 https://stackoverflow.com/a/20012490/474330
+
+Manga Object:
+[{
+	"mangaTitle": "#000000 - Ultra Black",
+	"mangaUrl": "http://www.mangareader.net/000000-ultra-black",
+	"mangaThumbUrl": "http://s1.mangareader.net/cover/000000-ultra-black/000000-ultra-black-r0.jpg",
+	"mangaChaptersInfo": "3 Chapters Published. (Ongoing)",
+	"mangaReadType": "Manga (Read Right to Left)",
+	"mangaGenre": "Action, Josei, Mystery, Supernatural",
+	"chapterCount": 0,
+	"chapters": []
+}, {
+	"mangaTitle": "+a no Tachiichi",
+	"mangaUrl": "http://www.mangareader.net/a-no-tachiichi",
+	"mangaThumbUrl": "http://s2.mangareader.net/cover/a-no-tachiichi/a-no-tachiichi-r0.jpg",
+	"mangaChaptersInfo": "10 Chapters Published. (Ongoing)",
+	"mangaReadType": "Manga (Read Right to Left)",
+	"mangaGenre": "Adventure, Comedy, Fantasy, Mystery, Shoujo",
+	"chapterCount": 0,
+	"chapters": []
+}, {
+	"mangaTitle": "+Anima",
+	"mangaUrl": "http://www.mangareader.net/anima",
+	"mangaThumbUrl": "http://s4.mangareader.net/cover/anima/anima-r0.jpg",
+	"mangaChaptersInfo": "42 Chapters Published. (Completed)",
+	"mangaReadType": "Manga (Read Right to Left)",
+	"mangaGenre": "Adventure, Fantasy, Shounen",
+	"chapterCount": 0,
+	"chapters": []
+}]

@@ -21,7 +21,7 @@ import scala.collection.mutable.ListBuffer
 
 /** http://localhost:3003/search?t=video */
 case class Manga (
-    var index: Int,                   // 0 based sequence number
+//    var index: Int,                   // 0 based sequence number
     var mangaTitle: String,           // title [resultName]
     var mangaUrl: String,             // [resultFullUrl]
     var mangaThumbUrl: String,        // [resultThumbImageUrl]
@@ -92,9 +92,8 @@ class MangaRepoImpl @Inject() (reactiveMongoApi: ReactiveMongoApi) extends Manga
   def jsonCollection: JSONCollection = reactiveMongoApi.db.collection[JSONCollection]("manga");
   def bsonCollection: BSONCollection = reactiveMongoApi.db.collection[BSONCollection]("manga");
   
-  def constructMangaFromApiResponse(index: Int, searchResponse: ResultSearchResponse): Manga = {
+  def constructMangaFromApiResponse(searchResponse: ResultSearchResponse): Manga = {
     var manga = new Manga(
-        index,
         searchResponse.results(0).resultName,
         searchResponse.results(0).resultFullUrl,
         searchResponse.results(0).resultThumbImageUrl,

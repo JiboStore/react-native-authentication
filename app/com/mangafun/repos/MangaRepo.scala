@@ -146,7 +146,58 @@ class MangaRepoImpl @Inject() (reactiveMongoApi: ReactiveMongoApi) extends Manga
     manga
   }
   
-  def updateMangaFromApiResponse(manga: Manga, pageResponse: ResultPageResponse) = {
+  def updateMangaFromApiResponse(manga: Manga, pageResponse: ResultPageResponse): Manga = {
     // TODO: update List[Image] in pages
+    val llPages = for( ch <- manga.chapters ) yield {
+      ch.pages
+    }
+    val lPages = llPages.flatten
+    val oPage = lPages.find( p => {
+      p.pageUrl == pageResponse.pageUrl
+    })
+//    val lImages = for ( pageInfo <- pageResponse.pageImage ) yield {
+      val image = new Image(
+          pageResponse.pageImage.imageWidth.toInt,
+          pageResponse.pageImage.imageHeight.toInt,
+          pageResponse.pageImage.imageSource,
+          pageResponse.pageImage.imageAlt
+      )
+//      image
+//    }
+    val lImages = List(image)
+    val page = oPage match {
+      case Some(p) => {
+        p.images = lImages
+        p
+      }
+    }
+    
+    var oChapter = manga.chapters.find( ch => {
+      var oPage = ch.pages.find( p => {
+        p.pageUrl == page.pageUrl
+      })
+      oPage.isDefined
+    })
+    val newChapter = oChapter match {
+      case Some(chapter) => {
+        val lPages = for ( p <- chapter.pages ) yield {
+          if ( p.pageUrl == page.pageUrl ) {
+            page
+          } else {
+            p
+          }
+        }
+        chapter.pages = lPages
+        chapter
+      }
+    }
+   val lChapters = for ( ch <- manga.chapters ) yield {
+     if ( ch.chapterUrl == newChapter.chapterUrl ) {
+       newChapter
+     }
+     ch
+   }
+   manga.chapters = lChapters
+   manga
   }
 }

@@ -218,16 +218,56 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       Future.sequence(lRes)
     })
     
-    var strRes = ""
-    flUpdatedManga.map( lManga => {
-      val lsManga = for ( m <- lManga ) yield {
-        val strManga = Json.toJson(m).toString() + ", "
-        strRes += strManga
-        strManga
+    val floUpdatedManga = flUpdatedManga.flatMap( listManga => {
+      Logger.debug("size listManga: " + listManga.count(m => true))
+      val llfoManga = for ( manga <- listManga ) yield {
+        val lfoManga = for ( ch <- manga.chapters ) yield {
+          val lfResult = for ( p <- ch.pages ) yield {
+            requestPageInfo(p.pageUrl)
+          }
+          val flResult = Future.sequence(lfResult)
+          val fManga = flResult.map( lResult => {
+            val listUpdatedManga = for ( r <- lResult ) yield {
+              mangaRepo.updateMangaFromApiResponse(manga, r)
+            }
+            val opM = listUpdatedManga.find( m => {
+              m.mangaUrl == manga.mangaUrl
+            })
+            opM
+          })
+          fManga
+        }
+        Logger.debug("size lfoManga: " + lfoManga.count(m => true))
+        lfoManga
       }
-      Logger.debug("total manga objects: " + lManga.count( m => true))
+      
+      val floManga = Future.sequence(llfoManga.flatten)
+      floManga
+    })
+    
+    var strRes = ""
+    floUpdatedManga.map( loManga => {
+      Logger.debug("size loManga: " + loManga.count(m => true))
+      loManga.foreach( oM => {
+        oM match {
+          case Some(m) => {
+            strRes += Json.toJson(m)
+          }
+        }
+      })
       Ok(strRes)
     })
+    
+//    var strRes = ""
+//    flUpdatedManga.map( lManga => {
+//      val lsManga = for ( m <- lManga ) yield {
+//        val strManga = Json.toJson(m).toString() + ", "
+//        strRes += strManga
+//        strManga
+//      }
+//      Logger.debug("total manga objects: " + lManga.count( m => true))
+//      Ok(strRes)
+//    })
     
 //    var strRes = ""    
 //    val futureResult = fManga.flatMap( lManga => {
@@ -299,6 +339,18 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
         wsres.json.as[ResultChapterResponse]
       })
       fResultChapterResponse
+    }
+    
+    def requestPageInfo(pageFullUrl: String): Future[ResultPageResponse] = {
+      val urlReq = urlHost + "/page"
+      val wsRequest = wsClient.url(urlReq)
+      .withHeaders(("Accept" -> "application/json"))
+      val fwsResponse = wsRequest.withQueryString(("p" -> pageFullUrl)).get()
+      val fResultPageResponse = fwsResponse.map( wsres => {
+//        Logger.debug("wsRes: " + wsres.body)
+        wsres.json.as[ResultPageResponse]
+      })
+      fResultPageResponse
     }
     
     // unused and untested

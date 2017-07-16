@@ -77,7 +77,7 @@ object ResultChapterResponse {
 
 case class ResultPageResponse(
     var pageUrl: String,
-    var pageImage: List[ResultPageInfo]
+    var pageImage: ResultPageInfo
 )
 
 case class ResultPageInfo(

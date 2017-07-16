@@ -220,7 +220,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     
     val floUpdatedManga = flUpdatedManga.flatMap( listManga => {
       Logger.debug("size listManga: " + listManga.count(m => true))
-      val llfoManga = for ( manga <- listManga ) yield {
+      val resListManga = for ( manga <- listManga ) yield {
         val lfoManga = for ( ch <- manga.chapters ) yield {
           val lfResult = for ( p <- ch.pages ) yield {
             requestPageInfo(p.pageUrl)
@@ -235,14 +235,13 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
             })
             opM
           })
-          fManga
+          fManga // lfoManga
         }
-        Logger.debug("size lfoManga: " + lfoManga.count(m => true))
-        lfoManga
+        Logger.debug("size lfoManga: " + lfoManga.count(m => true)) // wrong here
+        lfoManga.get(0)
       }
-      
-      val floManga = Future.sequence(llfoManga.flatten)
-      floManga
+      Logger.debug("size resListManga: " + resListManga.count(m => true)) // wrong here
+      Future.sequence(resListManga)
     })
     
     var strRes = ""
@@ -251,7 +250,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       loManga.foreach( oM => {
         oM match {
           case Some(m) => {
-            strRes += Json.toJson(m)
+            strRes += Json.toJson(m) + ", "
           }
         }
       })

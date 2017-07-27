@@ -28,6 +28,7 @@ import play.api.libs.ws.WSResponse
 import com.mangafun.repos._
 import akka.stream.scaladsl.Sink
 import akka.util.ByteString
+import scala.util.Random
 
 /** TODO: https://stackoverflow.com/a/37180103/474330 */
 
@@ -48,7 +49,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
   
   implicit val mangaSearchDataJson = Json.format[MangaSearchData]
   
-  val lThreadSleep = 10
+  val lThreadSleep = 2500
   val dTimeout = Duration.Inf
   
   def index_obj1(): Action[AnyContent] = Action.async {
@@ -221,7 +222,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     iLastSlash = m.mangaThumbUrl.lastIndexOf("/")
     val mangaThumbName = m.mangaThumbUrl.substring(iLastSlash+1)
     downloadImageToDir(strMangaRootDir + mangaDirName, mangaThumbName, m.mangaThumbUrl)
-    Thread.sleep(lThreadSleep)
+    Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
     m.chapters.foreach( ch => {
       iLastSlash = ch.chapterUrl.lastIndexOf("/")
       val chapterDirName = ch.chapterUrl.substring(iLastSlash+1)
@@ -238,7 +239,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
           iLastSlash = image.imageUrl.lastIndexOf("/")
           val imageName = image.imageUrl.substring(iLastSlash+1)
           downloadImageToDir(fullDirName, imageName, image.imageUrl)
-          Thread.sleep(lThreadSleep)
+          Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
         }
       })
     })
@@ -270,7 +271,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       iLastSlash = m.mangaThumbUrl.lastIndexOf("/")
       val mangaThumbName = m.mangaThumbUrl.substring(iLastSlash+1)
       downloadImageToDir(strMangaRootDir + mangaDirName, mangaThumbName, m.mangaThumbUrl)
-      Thread.sleep(lThreadSleep)
+      Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
       m.chapters.foreach( ch => {
         iLastSlash = ch.chapterUrl.lastIndexOf("/")
         val chapterDirName = ch.chapterUrl.substring(iLastSlash+1)
@@ -287,7 +288,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
             iLastSlash = image.imageUrl.lastIndexOf("/")
             val imageName = image.imageUrl.substring(iLastSlash+1)
             downloadImageToDir(fullDirName, imageName, image.imageUrl)
-            Thread.sleep(lThreadSleep)
+            Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
           }
         })
       })
@@ -316,14 +317,14 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     })
     
     val resultSearchResponse = Await.result(fResultSearchResponse, dTimeout)
-    Thread.sleep(lThreadSleep)
+    Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
     
     val mangaFirst = mangaRepo.constructMangaFromApiResponse(resultSearchResponse)
     
     val fResultComicResponse = requestComicInfo(resultSearchResponse)
     
     val resultComicResponse = Await.result(fResultComicResponse, dTimeout)
-    Thread.sleep(lThreadSleep)
+    Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
     
     resultComicResponse.foreach( rcr => {
       mangaRepo.updateMangaFromApiResponse(mangaFirst, rcr)
@@ -332,7 +333,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     mangaFirst.chapters.foreach( ch => {
       val fResultChapterResponse = requestChapterInfo(ch.chapterUrl)
       val resultChapterResponse = Await.result(fResultChapterResponse, dTimeout)
-      Thread.sleep(lThreadSleep)
+      Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
       mangaRepo.updateMangaFromApiResponse(mangaFirst, resultChapterResponse)
     })
     
@@ -340,7 +341,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       ch.pages.foreach( p => {
         val fResultPageResponse = requestPageInfo(p.pageUrl)
         val resultPageResponse = Await.result(fResultPageResponse, dTimeout)
-        Thread.sleep(lThreadSleep)
+        Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
         mangaRepo.updateMangaFromApiResponse(mangaFirst, resultPageResponse)
       })
     })
@@ -380,14 +381,14 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       })
       
       val resultSearchResponse = Await.result(fResultSearchResponse, dTimeout)
-      Thread.sleep(lThreadSleep)
+      Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
       
       val mangaFirst = mangaRepo.constructMangaFromApiResponse(resultSearchResponse)
       
       val fResultComicResponse = requestComicInfo(resultSearchResponse)
       
       val resultComicResponse = Await.result(fResultComicResponse, dTimeout)
-      Thread.sleep(lThreadSleep)
+      Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
       
       resultComicResponse.foreach( rcr => {
         mangaRepo.updateMangaFromApiResponse(mangaFirst, rcr)
@@ -396,7 +397,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       mangaFirst.chapters.foreach( ch => {
         val fResultChapterResponse = requestChapterInfo(ch.chapterUrl)
         val resultChapterResponse = Await.result(fResultChapterResponse, dTimeout)
-        Thread.sleep(lThreadSleep)
+        Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
         mangaRepo.updateMangaFromApiResponse(mangaFirst, resultChapterResponse)
       })
       
@@ -404,7 +405,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
         ch.pages.foreach( p => {
           val fResultPageResponse = requestPageInfo(p.pageUrl)
           val resultPageResponse = Await.result(fResultPageResponse, dTimeout)
-          Thread.sleep(lThreadSleep)
+          Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
           mangaRepo.updateMangaFromApiResponse(mangaFirst, resultPageResponse)
         })
       })

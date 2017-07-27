@@ -221,7 +221,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
         val chapterDirName = ch.chapterUrl.substring(iLastSlash+1)
         ch.pages.foreach( p => {
           iLastSlash = p.pageUrl.lastIndexOf("/")
-          val pageDirName = p.pageUrl.substring(iLastSlash+1)
+          val pageDirName = p.pageNumber //p.pageUrl.substring(iLastSlash+1)
           val fullDirName = strMangaRootDir + mangaDirName + "/" + chapterDirName + "/" + pageDirName + "/"
           val dir = FileUtils.getFile(fullDirName)
           if ( !dir.exists() ) {

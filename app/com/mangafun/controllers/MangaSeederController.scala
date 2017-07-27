@@ -123,6 +123,15 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     }
   }
   
+  def writeMangaToString(manga: Manga) = {
+    val strPath = "resources/json/"
+    val jsv = Json.toJson(manga)
+    val strContent = Json.prettyPrint(jsv)
+    val fileSave = FileUtils.getFile(strPath + manga.mangaTitle)
+    FileUtils.writeStringToFile(fileSave, strContent)
+    
+  }
+  
 //  def requestSearchInfo(mangaSearchData: MangaSearchData): Future[String] = {
 ////    val urlApi = urlHost + "/search?t="
 ////    val urlReq = urlApi + mangaSearchData.mangaId
@@ -186,6 +195,8 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
         mangaRepo.updateMangaFromApiResponse(mangaFirst, resultPageResponse)
       })
     })
+    
+    writeMangaToString(mangaFirst)
     
     Future {
       Ok(Json.toJson(mangaFirst))

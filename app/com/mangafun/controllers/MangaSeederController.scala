@@ -26,6 +26,8 @@ import play.api.libs.ws.WSClient
 import play.api.libs.ws.WSRequest
 import play.api.libs.ws.WSResponse
 import com.mangafun.repos._
+import akka.stream.scaladsl.Sink
+import akka.util.ByteString
 
 /** TODO: https://stackoverflow.com/a/37180103/474330 */
 
@@ -45,6 +47,9 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
   case class MangaSearchData(var mangaId: String, var name: String)
   
   implicit val mangaSearchDataJson = Json.format[MangaSearchData]
+  
+  val lThreadSleep = 10
+  val dTimeout = Duration.Inf
   
   def index_obj1(): Action[AnyContent] = Action.async {
     val fString = readMangaToString()
@@ -132,6 +137,41 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     
   }
   
+  def readMangaFromFile(filename: String): Option[Manga] = {
+    val strPath = "resources/json/"
+    val fileSaved = FileUtils.getFile(strPath + filename)
+    if ( !fileSaved.exists() ) {
+      return None
+    } else {
+      val strContent = FileUtils.readFileToString(fileSaved)
+      val jsv = Json.parse(strContent)
+      val manga = jsv.as[Manga]
+      Some(manga)
+    }
+  }
+  
+  def downloadImageToDir(dirName: String, imageName: String, imageUrl: String) = {
+    val strFile = dirName + "/" + imageName
+    val fileDest = FileUtils.getFile(strFile)
+    val wsRequest = wsClient.url(imageUrl)
+    val fwsResponse = wsRequest.get()
+    val fImageBytes = fwsResponse.map( wsres => {
+      wsres.bodyAsBytes
+    })
+    val bytes = Await.result(fImageBytes, dTimeout)
+    FileUtils.writeByteArrayToFile(fileDest, bytes.toArray[Byte])
+    
+//          val urlReq = urlHost + "/page"
+//      val wsRequest = wsClient.url(urlReq)
+//      .withHeaders(("Accept" -> "application/json"))
+//      val fwsResponse = wsRequest.withQueryString(("p" -> pageFullUrl)).get()
+//      val fResultPageResponse = fwsResponse.map( wsres => {
+////        Logger.debug("wsRes: " + wsres.body)
+//        wsres.json.as[ResultPageResponse]
+//      })
+//      fResultPageResponse
+  }
+  
 //  def requestSearchInfo(mangaSearchData: MangaSearchData): Future[String] = {
 ////    val urlApi = urlHost + "/search?t="
 ////    val urlReq = urlApi + mangaSearchData.mangaId
@@ -149,9 +189,59 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
 //    fRet
 //  }
   
+  def image(mangaIndex: Int): Action[AnyContent] = Action.async {
+    val strMangaRootDir = "resources/manga/"
+    
+    val fMangaList = readMangaToString()
+    val flMangaSearchData: Future[List[MangaSearchData]] = fMangaList.map( strJsonArray => {
+      val jsv: JsValue = Json.parse(strJsonArray)
+      val jsl: List[MangaSearchData] = jsv.as[List[MangaSearchData]]
+      jsl
+    });
+    
+    val lMangaSearchData = Await.result(flMangaSearchData, dTimeout)
+    val iMangaIndex = if ( mangaIndex < 0 || mangaIndex >= lMangaSearchData.length ) 0 else mangaIndex
+    val mangaSearchData = lMangaSearchData.get(iMangaIndex)
+    val oManga = readMangaFromFile(mangaSearchData.name)
+    
+    if ( !oManga.isDefined ) {
+      Future {
+        Ok("manga: file not found")
+      }
+    } else {
+      val m = oManga.get
+      var iLastSlash = m.mangaUrl.lastIndexOf("/")
+      val mangaDirName = m.mangaUrl.substring(iLastSlash+1)
+      m.chapters.foreach( ch => {
+        iLastSlash = ch.chapterUrl.lastIndexOf("/")
+        val chapterDirName = ch.chapterUrl.substring(iLastSlash+1)
+        ch.pages.foreach( p => {
+          iLastSlash = p.pageUrl.lastIndexOf("/")
+          val pageDirName = p.pageUrl.substring(iLastSlash+1)
+          val fullDirName = strMangaRootDir + mangaDirName + "/" + chapterDirName + "/" + pageDirName + "/"
+          val dir = FileUtils.getFile(fullDirName)
+          if ( !dir.exists() ) {
+            FileUtils.forceMkdir(dir)
+          }
+          val image = p.images.get(0)
+          if ( image != null ) {
+            iLastSlash = image.imageUrl.lastIndexOf("/")
+            val imageName = image.imageUrl.substring(iLastSlash+1)
+            downloadImageToDir(fullDirName, imageName, image.imageUrl)
+            Thread.sleep(lThreadSleep)
+          }
+        })
+      })
+    } // end if oManga.isDefined
+    
+    Future {
+      Ok("ok")
+    }
+  }
+  
   def index(mangaIndex: Int): Action[AnyContent] = Action.async {
-    val lThreadSleep = 10
-    val dTimeout = Duration.Inf
+//    val lThreadSleep = 10
+//    val dTimeout = Duration.Inf
     
     val fMangaList = readMangaToString()
     val flMangaSearchData: Future[List[MangaSearchData]] = fMangaList.map( strJsonArray => {
@@ -204,8 +294,8 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
   }
   
   def getfromto(startingIndex: Int, endingIndex: Int): Action[AnyContent] = Action.async {
-    val lThreadSleep = 10
-    val dTimeout = Duration.Inf
+//    val lThreadSleep = 10
+//    val dTimeout = Duration.Inf
     
     val fMangaList = readMangaToString()
     val flMangaSearchData: Future[List[MangaSearchData]] = fMangaList.map( strJsonArray => {

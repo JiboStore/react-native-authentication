@@ -203,6 +203,75 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     }
   }
   
+  def getfromto(startingIndex: Int, endingIndex: Int): Action[AnyContent] = Action.async {
+    val lThreadSleep = 10
+    val dTimeout = Duration.Inf
+    
+    val fMangaList = readMangaToString()
+    val flMangaSearchData: Future[List[MangaSearchData]] = fMangaList.map( strJsonArray => {
+      val jsv: JsValue = Json.parse(strJsonArray)
+      val jsl: List[MangaSearchData] = jsv.as[List[MangaSearchData]]
+      jsl
+    });
+    
+    val lMangaSearchData = Await.result(flMangaSearchData, dTimeout)
+    
+    val iStartingIndex = if (startingIndex < 0 || startingIndex >= lMangaSearchData.length)  0 else startingIndex
+    var iEndingIndex = if (endingIndex < 0 || endingIndex >= (lMangaSearchData.length+1) ) lMangaSearchData.length+1 else endingIndex
+    if ( iEndingIndex < iStartingIndex ) {
+      iEndingIndex = iStartingIndex+1
+    }
+    var iCurrentIndex = iStartingIndex
+    var iCount = 0
+    for ( iCurrentIndex <- iStartingIndex to iEndingIndex ) {
+    
+      val fResultSearchResponse = flMangaSearchData.flatMap( lMangaSearchData => {
+        val iMangaIndex = if (startingIndex < 0 || startingIndex >= lMangaSearchData.length)  0 else startingIndex
+        val msd = lMangaSearchData.get(iMangaIndex)
+        requestSearchInfo(msd)
+      })
+      
+      val resultSearchResponse = Await.result(fResultSearchResponse, dTimeout)
+      Thread.sleep(lThreadSleep)
+      
+      val mangaFirst = mangaRepo.constructMangaFromApiResponse(resultSearchResponse)
+      
+      val fResultComicResponse = requestComicInfo(resultSearchResponse)
+      
+      val resultComicResponse = Await.result(fResultComicResponse, dTimeout)
+      Thread.sleep(lThreadSleep)
+      
+      resultComicResponse.foreach( rcr => {
+        mangaRepo.updateMangaFromApiResponse(mangaFirst, rcr)
+      })
+      
+      mangaFirst.chapters.foreach( ch => {
+        val fResultChapterResponse = requestChapterInfo(ch.chapterUrl)
+        val resultChapterResponse = Await.result(fResultChapterResponse, dTimeout)
+        Thread.sleep(lThreadSleep)
+        mangaRepo.updateMangaFromApiResponse(mangaFirst, resultChapterResponse)
+      })
+      
+      mangaFirst.chapters.foreach( ch => {
+        ch.pages.foreach( p => {
+          val fResultPageResponse = requestPageInfo(p.pageUrl)
+          val resultPageResponse = Await.result(fResultPageResponse, dTimeout)
+          Thread.sleep(lThreadSleep)
+          mangaRepo.updateMangaFromApiResponse(mangaFirst, resultPageResponse)
+        })
+      })
+      
+      writeMangaToString(mangaFirst)
+      
+      iCount = iCount + 1
+      Logger.error("Written manga: " + iCurrentIndex + " : " + mangaFirst.mangaUrl)
+    }
+    
+    Future {
+      Ok(Json.toJson("done: " + iCount + "/" + lMangaSearchData.length))
+    }
+  }
+  
   def index_old(): Action[AnyContent] = Action.async {
     val fString = readMangaToString()
     val fMangas: Future[List[MangaSearchData]] = fString.map( strArray => {

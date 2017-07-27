@@ -212,6 +212,10 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       val m = oManga.get
       var iLastSlash = m.mangaUrl.lastIndexOf("/")
       val mangaDirName = m.mangaUrl.substring(iLastSlash+1)
+      iLastSlash = m.mangaThumbUrl.lastIndexOf("/")
+      val mangaThumbName = m.mangaThumbUrl.substring(iLastSlash+1)
+      downloadImageToDir(strMangaRootDir + mangaDirName, mangaThumbName, m.mangaThumbUrl)
+      Thread.sleep(lThreadSleep)
       m.chapters.foreach( ch => {
         iLastSlash = ch.chapterUrl.lastIndexOf("/")
         val chapterDirName = ch.chapterUrl.substring(iLastSlash+1)

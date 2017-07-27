@@ -23,7 +23,8 @@ GET		/api/widgets				@controllers.WidgetsController.index
 GET		/widgets/seeder/index		@com.mangafun.controllers.WidgetsSeederController.index
 GET		/widgets/seeder/cleanup		@com.mangafun.controllers.WidgetsSeederController.cleanup
 
-GET		/manga/seeder/index			@com.mangafun.controllers.MangaSeederController.index()
+GET		/manga/seeder/index_old		@com.mangafun.controllers.MangaSeederController.index_old()
+GET		/manga/seeder/index			@com.mangafun.controllers.MangaSeederController.index(mangaIndex: Int ?= 0)
 
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               @controllers.Assets.at(path="/public", file)

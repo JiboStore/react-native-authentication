@@ -1,0 +1,1 @@
+curl 'http://localhost:9000/manga/seeder/getfromto?startingIndex=0&endingIndex=99' > 0_99.txt

@@ -160,16 +160,6 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     })
     val bytes = Await.result(fImageBytes, dTimeout)
     FileUtils.writeByteArrayToFile(fileDest, bytes.toArray[Byte])
-    
-//          val urlReq = urlHost + "/page"
-//      val wsRequest = wsClient.url(urlReq)
-//      .withHeaders(("Accept" -> "application/json"))
-//      val fwsResponse = wsRequest.withQueryString(("p" -> pageFullUrl)).get()
-//      val fResultPageResponse = fwsResponse.map( wsres => {
-////        Logger.debug("wsRes: " + wsres.body)
-//        wsres.json.as[ResultPageResponse]
-//      })
-//      fResultPageResponse
   }
   
 //  def requestSearchInfo(mangaSearchData: MangaSearchData): Future[String] = {
@@ -188,6 +178,71 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
 //    })
 //    fRet
 //  }
+  
+  def imagefromto(startingIndex: Int, endingIndex: Int): Action[AnyContent] = Action.async {    
+    val fMangaList = readMangaToString()
+    val flMangaSearchData: Future[List[MangaSearchData]] = fMangaList.map( strJsonArray => {
+      val jsv: JsValue = Json.parse(strJsonArray)
+      val jsl: List[MangaSearchData] = jsv.as[List[MangaSearchData]]
+      jsl
+    });
+    
+    val lMangaSearchData = Await.result(flMangaSearchData, dTimeout)
+    
+    val iStartingIndex = if (startingIndex < 0 || startingIndex >= lMangaSearchData.length)  0 else startingIndex
+    var iEndingIndex = if (endingIndex < 0 || endingIndex >= lMangaSearchData.length ) lMangaSearchData.length-1 else endingIndex
+    if ( iEndingIndex < iStartingIndex ) {
+      iEndingIndex = iStartingIndex+1
+    }
+    var iCurrentIndex = iStartingIndex
+    var iCount = 0
+    for ( iCurrentIndex <- iStartingIndex to iEndingIndex ) { // iEndingIndex inclusive
+      val mangaSearchData = lMangaSearchData.get(iCurrentIndex)
+      val oManga = readMangaFromFile(mangaSearchData.name)
+      if ( !oManga.isDefined ) {
+        Logger.error("manga json not found: " + mangaSearchData.name)
+      } else {
+        val m = oManga.get
+        downloadMangaPages(m)
+      } // end if oManga.isDefined
+      iCount = iCount + 1
+      Logger.error("downloaded pages for manga: " + iCurrentIndex + " : " + mangaSearchData.name)
+    }
+    
+    Future {
+      Ok("ok: downloaded " + iCount + " manga")
+    }
+  }
+  
+  def downloadMangaPages(m: Manga) = {
+    val strMangaRootDir = "resources/manga/"
+    var iLastSlash = m.mangaUrl.lastIndexOf("/")
+    val mangaDirName = m.mangaUrl.substring(iLastSlash+1)
+    iLastSlash = m.mangaThumbUrl.lastIndexOf("/")
+    val mangaThumbName = m.mangaThumbUrl.substring(iLastSlash+1)
+    downloadImageToDir(strMangaRootDir + mangaDirName, mangaThumbName, m.mangaThumbUrl)
+    Thread.sleep(lThreadSleep)
+    m.chapters.foreach( ch => {
+      iLastSlash = ch.chapterUrl.lastIndexOf("/")
+      val chapterDirName = ch.chapterUrl.substring(iLastSlash+1)
+      ch.pages.foreach( p => {
+        iLastSlash = p.pageUrl.lastIndexOf("/")
+        val pageDirName = p.pageNumber //p.pageUrl.substring(iLastSlash+1)
+        val fullDirName = strMangaRootDir + mangaDirName + "/" + chapterDirName + "/" + pageDirName + "/"
+        val dir = FileUtils.getFile(fullDirName)
+        if ( !dir.exists() ) {
+          FileUtils.forceMkdir(dir)
+        }
+        val image = p.images.get(0)
+        if ( image != null ) {
+          iLastSlash = image.imageUrl.lastIndexOf("/")
+          val imageName = image.imageUrl.substring(iLastSlash+1)
+          downloadImageToDir(fullDirName, imageName, image.imageUrl)
+          Thread.sleep(lThreadSleep)
+        }
+      })
+    })
+  }
   
   def image(mangaIndex: Int): Action[AnyContent] = Action.async {
     val strMangaRootDir = "resources/manga/"

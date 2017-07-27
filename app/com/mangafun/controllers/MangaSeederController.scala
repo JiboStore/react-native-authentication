@@ -217,7 +217,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     val lMangaSearchData = Await.result(flMangaSearchData, dTimeout)
     
     val iStartingIndex = if (startingIndex < 0 || startingIndex >= lMangaSearchData.length)  0 else startingIndex
-    var iEndingIndex = if (endingIndex < 0 || endingIndex >= (lMangaSearchData.length+1) ) lMangaSearchData.length+1 else endingIndex
+    var iEndingIndex = if (endingIndex < 0 || endingIndex >= lMangaSearchData.length ) lMangaSearchData.length-1 else endingIndex
     if ( iEndingIndex < iStartingIndex ) {
       iEndingIndex = iStartingIndex+1
     }
@@ -226,8 +226,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     for ( iCurrentIndex <- iStartingIndex to iEndingIndex ) {
     
       val fResultSearchResponse = flMangaSearchData.flatMap( lMangaSearchData => {
-        val iMangaIndex = if (startingIndex < 0 || startingIndex >= lMangaSearchData.length)  0 else startingIndex
-        val msd = lMangaSearchData.get(iMangaIndex)
+        val msd = lMangaSearchData.get(iCurrentIndex)
         requestSearchInfo(msd)
       })
       

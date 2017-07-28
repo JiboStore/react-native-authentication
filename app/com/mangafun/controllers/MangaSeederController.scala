@@ -598,7 +598,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       val wsRequest: WSRequest = wsClient.url(urlReq)
         .withHeaders(("Accept" -> "application/json"))
         .withQueryString(("t" -> mangaSearchData.mangaId))
-      Logger.debug("requestSearchInfo: " + urlReq);
+      Logger.debug("requestSearchInfo: " + urlReq + "?t=" + mangaSearchData.mangaId);
       val fResponse: Future[WSResponse] = wsRequest.get()
       val fRet = fResponse.map( res => {
 //        res.body
@@ -611,8 +611,8 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       val urlReq = getUrlHost() + "/comic"
       val wsRequest: WSRequest = wsClient.url(urlReq)
       .withHeaders(("Accept" -> "application/json"))
-      Logger.debug("requestComicInfo: " + urlReq);
       val lfResultComicResponse = for ( info <- resultSearchResponse.results ) yield {
+        Logger.debug("requestComicInfo: " + urlReq + "?c=" + info.resultFullUrl)
         val fResponse = wsRequest.withQueryString(("c" -> info.resultFullUrl)).get()
         val fResultComicResponse = fResponse.map( wsres => {
 //          Logger.debug("wsres: " + wsres.body)
@@ -627,7 +627,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       val urlReq = getUrlHost() + "/chapters"
       val wsRequest: WSRequest = wsClient.url(urlReq)
       .withHeaders(("Accept" -> "application/json"))
-      Logger.debug("requestChapterInfo: " + urlReq);
+      Logger.debug("requestChapterInfo: " + urlReq + "?c=" + chapterFullUrl)
       val fwsResponse = wsRequest.withQueryString(("c" -> chapterFullUrl)).get()
       val fResultChapterResponse = fwsResponse.map( wsres => {
 //        Logger.debug("wsres: " + wsres.body)
@@ -640,7 +640,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       val urlReq = getUrlHost() + "/page"
       val wsRequest = wsClient.url(urlReq)
       .withHeaders(("Accept" -> "application/json"))
-      Logger.debug("requestPageInfo: " + urlReq);
+      Logger.debug("requestPageInfo: " + urlReq + "?p=" + pageFullUrl)
       val fwsResponse: Future[WSResponse] = wsRequest.withQueryString(("p" -> pageFullUrl)).get()
       val fResultPageResponse = fwsResponse.map( wsres => {
 //        Logger.debug("wsRes: " + wsres.body)

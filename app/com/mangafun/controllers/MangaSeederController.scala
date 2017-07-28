@@ -39,6 +39,16 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
   
   val urlHost = "http://localhost:3003"
   
+  val listhosts = List(
+      "https://3003-dot-2960427-dot-devshell.appspot.com/",
+      "https://mangaapi-170728.herokuapp.com/"
+  )
+  
+  def getUrlHost(): String = {
+    val iIndex = Random.nextInt(listhosts.size)
+    listhosts.get(iIndex)
+  }
+  
   def reactiveMongoApi() : ReactiveMongoApi = {
     return reactiveMongoApi;
   }
@@ -164,9 +174,9 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
   }
   
 //  def requestSearchInfo(mangaSearchData: MangaSearchData): Future[String] = {
-////    val urlApi = urlHost + "/search?t="
+////    val urlApi = getUrlHost() + "/search?t="
 ////    val urlReq = urlApi + mangaSearchData.mangaId
-//    val urlReq = urlHost + "/search"
+//    val urlReq = getUrlHost() + "/search"
 //    // TODO: make the request
 //    val wsRequest: WSRequest = wsClient.url(urlReq)
 //      .withHeaders(("Accept" -> "application/json"))
@@ -583,7 +593,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
   }
   
     def requestSearchInfo(mangaSearchData: MangaSearchData): Future[ResultSearchResponse] = {
-      val urlReq = urlHost + "/search"
+      val urlReq = getUrlHost() + "/search"
       val wsRequest: WSRequest = wsClient.url(urlReq)
         .withHeaders(("Accept" -> "application/json"))
         .withQueryString(("t" -> mangaSearchData.mangaId))
@@ -596,7 +606,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     }
     
     def requestComicInfo(resultSearchResponse: ResultSearchResponse): Future[List[ResultComicResponse]] = {
-      val urlReq = urlHost + "/comic"
+      val urlReq = getUrlHost() + "/comic"
       val wsRequest: WSRequest = wsClient.url(urlReq)
       .withHeaders(("Accept" -> "application/json"))
       val lfResultComicResponse = for ( info <- resultSearchResponse.results ) yield {
@@ -611,7 +621,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     }
     
     def requestChapterInfo(chapterFullUrl: String): Future[ResultChapterResponse] = {
-      val urlReq = urlHost + "/chapters"
+      val urlReq = getUrlHost() + "/chapters"
       val wsRequest: WSRequest = wsClient.url(urlReq)
       .withHeaders(("Accept" -> "application/json"))
       val fwsResponse = wsRequest.withQueryString(("c" -> chapterFullUrl)).get()
@@ -623,7 +633,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     }
     
     def requestPageInfo(pageFullUrl: String): Future[ResultPageResponse] = {
-      val urlReq = urlHost + "/page"
+      val urlReq = getUrlHost() + "/page"
       val wsRequest = wsClient.url(urlReq)
       .withHeaders(("Accept" -> "application/json"))
       val fwsResponse: Future[WSResponse] = wsRequest.withQueryString(("p" -> pageFullUrl)).get()
@@ -636,7 +646,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     
     // unused and untested
 //    def requestChapterInfo(resultComicResponse: ResultComicResponse): Future[List[ResultChapterResponse]] = {
-//      val urlReq = urlHost + "/chapters"
+//      val urlReq = getUrlHost() + "/chapters"
 //      val wsRequest: WSRequest = wsClient.url(urlReq)
 //      .withHeaders(("Accept" -> "application/json"))
 //      val lfResultChapterResponse = for ( info <- resultComicResponse.chapters ) yield {
@@ -651,7 +661,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
 //    }
     
 //    def requestComicInfo(resultSearch: Future[ResultSearchResponse]): Future[List[ResultComicResponse]] = {
-//      val urlReq = urlHost + "/comic"
+//      val urlReq = getUrlHost() + "/comic"
 //      val wsRequest: WSRequest = wsClient.url(urlReq)
 //      .withHeaders(("Accept" -> "application/json"))
 //      val f = resultSearch.flatMap( rsr => {
@@ -671,7 +681,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
 //    
 //    // TODO: do and test this
 //    def requestChapterInfo(resultComic: Future[ResultComicResponse]) = {
-//      val urlReq = urlHost + "/chapters"
+//      val urlReq = getUrlHost() + "/chapters"
 //      val wsRequest: WSRequest = wsClient.url(urlReq)
 //      .withHeaders(("Accept" -> "application/json"))
 //    }

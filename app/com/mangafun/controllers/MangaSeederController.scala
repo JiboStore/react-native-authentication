@@ -40,9 +40,9 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
   val urlHost = "http://localhost:3003"
   
   val listhosts = List(
-      "https://mangaapi-175103.appspot.com/",
-      "https://mangaapi-170728.herokuapp.com/",
-      "https://mangaapi-170729.herokuapp.com/"
+      "https://mangaapi-175103.appspot.com",
+      "https://mangaapi-170728.herokuapp.com",
+      "https://mangaapi-170729.herokuapp.com"
   )
   
   def getUrlHost(): String = {
@@ -598,6 +598,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       val wsRequest: WSRequest = wsClient.url(urlReq)
         .withHeaders(("Accept" -> "application/json"))
         .withQueryString(("t" -> mangaSearchData.mangaId))
+      Logger.debug("requestSearchInfo: " + urlReq);
       val fResponse: Future[WSResponse] = wsRequest.get()
       val fRet = fResponse.map( res => {
 //        res.body
@@ -610,6 +611,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       val urlReq = getUrlHost() + "/comic"
       val wsRequest: WSRequest = wsClient.url(urlReq)
       .withHeaders(("Accept" -> "application/json"))
+      Logger.debug("requestComicInfo: " + urlReq);
       val lfResultComicResponse = for ( info <- resultSearchResponse.results ) yield {
         val fResponse = wsRequest.withQueryString(("c" -> info.resultFullUrl)).get()
         val fResultComicResponse = fResponse.map( wsres => {
@@ -625,6 +627,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       val urlReq = getUrlHost() + "/chapters"
       val wsRequest: WSRequest = wsClient.url(urlReq)
       .withHeaders(("Accept" -> "application/json"))
+      Logger.debug("requestChapterInfo: " + urlReq);
       val fwsResponse = wsRequest.withQueryString(("c" -> chapterFullUrl)).get()
       val fResultChapterResponse = fwsResponse.map( wsres => {
 //        Logger.debug("wsres: " + wsres.body)
@@ -637,6 +640,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       val urlReq = getUrlHost() + "/page"
       val wsRequest = wsClient.url(urlReq)
       .withHeaders(("Accept" -> "application/json"))
+      Logger.debug("requestPageInfo: " + urlReq);
       val fwsResponse: Future[WSResponse] = wsRequest.withQueryString(("p" -> pageFullUrl)).get()
       val fResultPageResponse = fwsResponse.map( wsres => {
 //        Logger.debug("wsRes: " + wsres.body)

@@ -41,7 +41,8 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
   
   val listhosts = List(
       "https://3003-dot-2960427-dot-devshell.appspot.com/",
-      "https://mangaapi-170728.herokuapp.com/"
+      "https://mangaapi-170728.herokuapp.com/",
+      "https://mangaapi-170729.herokuapp.com/"
   )
   
   def getUrlHost(): String = {

@@ -49,7 +49,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
   
   implicit val mangaSearchDataJson = Json.format[MangaSearchData]
   
-  val lThreadSleep = 2500
+  val lThreadSleep = 500
   val dTimeout = Duration.Inf
   
   def index_obj1(): Action[AnyContent] = Action.async {
@@ -626,7 +626,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       val urlReq = urlHost + "/page"
       val wsRequest = wsClient.url(urlReq)
       .withHeaders(("Accept" -> "application/json"))
-      val fwsResponse = wsRequest.withQueryString(("p" -> pageFullUrl)).get()
+      val fwsResponse: Future[WSResponse] = wsRequest.withQueryString(("p" -> pageFullUrl)).get()
       val fResultPageResponse = fwsResponse.map( wsres => {
 //        Logger.debug("wsRes: " + wsres.body)
         wsres.json.as[ResultPageResponse]

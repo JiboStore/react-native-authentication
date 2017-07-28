@@ -46,9 +46,9 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       "http://localhost:3003",
       "http://localhost:3003",
       "http://localhost:3003",
-      "https://mangaapi-175103.appspot.com",
-      "https://mangaapi-170728.herokuapp.com",
-      "https://mangaapi-170729.herokuapp.com"
+      "https://mangaapi-175103.appspot.com"
+//      "https://mangaapi-170728.herokuapp.com",
+//      "https://mangaapi-170729.herokuapp.com"
   )
   
   def getUrlHost(): String = {

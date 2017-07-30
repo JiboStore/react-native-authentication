@@ -6,6 +6,20 @@ How to make it work in eclipse:
 How to make it work in docker:
 http://blog.jaceklaskowski.pl/2015/07/24/docker-your-scala-web-application-play-framework.html
 
+list of useful docker commands:
+sbt docker:publishLocal
+docker run --name mangafun -p 8080:9000 deadbolt-2-usage-scala:2.5.0
+=> now you can access your app from http://localhost:8080
+then:
+docker images
+docker container prune
+docker image rm <image-id-from-running docker images>
+
+https://stackoverflow.com/a/24850114/474330
+sbt docker:stage
+cd target/docker/stage
+docker build .
+
 List[Future[String]] => Future[List[String]]
 https://stackoverflow.com/a/20012490/474330
 

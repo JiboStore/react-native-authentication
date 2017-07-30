@@ -40,10 +40,10 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
   val urlHost = "http://localhost:3003"
   
   val listhosts = List(
-      "http://localhost:3003",
-      "https://mangaapi-175103.appspot.com"
-//      "https://mangaapi-170728.herokuapp.com",
-//      "https://mangaapi-170729.herokuapp.com"
+//      "http://localhost:3003",
+      "https://mangaapi-175103.appspot.com",
+      "https://mangaapi-170728.herokuapp.com",
+      "https://mangaapi-170729.herokuapp.com"
   )
   
   def getUrlHost(): String = {
@@ -387,45 +387,52 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     var iCount = 0
     for ( iCurrentIndex <- iStartingIndex to iEndingIndex ) {
     
-      val fResultSearchResponse = flMangaSearchData.flatMap( lMangaSearchData => {
-        val msd = lMangaSearchData.get(iCurrentIndex)
-        requestSearchInfo(msd)
-      })
-      
-      val resultSearchResponse = Await.result(fResultSearchResponse, dTimeout)
-      Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
-      
-      val mangaFirst = mangaRepo.constructMangaFromApiResponse(resultSearchResponse)
-      
-      val fResultComicResponse = requestComicInfo(resultSearchResponse)
-      
-      val resultComicResponse = Await.result(fResultComicResponse, dTimeout)
-      Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
-      
-      resultComicResponse.foreach( rcr => {
-        mangaRepo.updateMangaFromApiResponse(mangaFirst, rcr)
-      })
-      
-      mangaFirst.chapters.foreach( ch => {
-        val fResultChapterResponse = requestChapterInfo(ch.chapterUrl)
-        val resultChapterResponse = Await.result(fResultChapterResponse, dTimeout)
-        Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
-        mangaRepo.updateMangaFromApiResponse(mangaFirst, resultChapterResponse)
-      })
-      
-      mangaFirst.chapters.foreach( ch => {
-        ch.pages.foreach( p => {
-          val fResultPageResponse = requestPageInfo(p.pageUrl)
-          val resultPageResponse = Await.result(fResultPageResponse, dTimeout)
-          Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
-          mangaRepo.updateMangaFromApiResponse(mangaFirst, resultPageResponse)
+      try {
+        val fResultSearchResponse = flMangaSearchData.flatMap( lMangaSearchData => {
+          val msd = lMangaSearchData.get(iCurrentIndex)
+          requestSearchInfo(msd)
         })
-      })
-      
-      writeMangaToString(mangaFirst)
-      
-      iCount = iCount + 1
-      Logger.error("Written manga: " + iCurrentIndex + " : " + mangaFirst.mangaUrl)
+        
+        val resultSearchResponse = Await.result(fResultSearchResponse, dTimeout)
+        Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
+        
+        val mangaFirst = mangaRepo.constructMangaFromApiResponse(resultSearchResponse)
+        
+        val fResultComicResponse = requestComicInfo(resultSearchResponse)
+        
+        val resultComicResponse = Await.result(fResultComicResponse, dTimeout)
+        Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
+        
+        resultComicResponse.foreach( rcr => {
+          mangaRepo.updateMangaFromApiResponse(mangaFirst, rcr)
+        })
+        
+        mangaFirst.chapters.foreach( ch => {
+          val fResultChapterResponse = requestChapterInfo(ch.chapterUrl)
+          val resultChapterResponse = Await.result(fResultChapterResponse, dTimeout)
+          Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
+          mangaRepo.updateMangaFromApiResponse(mangaFirst, resultChapterResponse)
+        })
+        
+        mangaFirst.chapters.foreach( ch => {
+          ch.pages.foreach( p => {
+            val fResultPageResponse = requestPageInfo(p.pageUrl)
+            val resultPageResponse = Await.result(fResultPageResponse, dTimeout)
+            Thread.sleep(lThreadSleep + Random.nextInt(lThreadSleep))
+            mangaRepo.updateMangaFromApiResponse(mangaFirst, resultPageResponse)
+          })
+        })
+        
+        writeMangaToString(mangaFirst)
+        
+        iCount = iCount + 1
+        Logger.error("Written manga: " + iCurrentIndex + " : " + mangaFirst.mangaUrl)
+      }
+      catch {
+        case ex: Exception => {
+          Logger.error("Exception: " + iCurrentIndex)
+        }
+      }
     }
     
     Future {

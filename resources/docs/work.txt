@@ -3,6 +3,9 @@ Source: http://spr.com/building-a-simple-rest-api-with-scala-play-part-1/
 How to make it work in eclipse:
 -. https://github.com/typesafehub/sbteclipse
 
+How to make it work in docker:
+http://blog.jaceklaskowski.pl/2015/07/24/docker-your-scala-web-application-play-framework.html
+
 List[Future[String]] => Future[List[String]]
 https://stackoverflow.com/a/20012490/474330
 

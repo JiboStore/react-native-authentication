@@ -2,9 +2,9 @@ import com.typesafe.sbt.packager.MappingsHelper._
 
 mappings in Universal ++= directory(baseDirectory.value / "resources")
     
-name := "deadbolt-2-usage-scala"
+name := "mangafun"
 
-version := "2.5.0"
+version := "0.0.1"
 
 lazy val root = (project in file(".")).enablePlugins(PlayScala)
 

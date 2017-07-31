@@ -1,0 +1,4562 @@
+{
+  "mangaTitle" : "Alabaster",
+  "mangaUrl" : "http://www.mangareader.net/alabaster",
+  "mangaThumbUrl" : "http://s3.mangareader.net/cover/alabaster/alabaster-r0.jpg",
+  "mangaChaptersInfo" : "10 Chapters Published. (Completed)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Action, Mystery, Sci-Fi, Shounen",
+  "chapterCount" : 10,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/alabaster/1",
+    "chapterTitle" : "Alabaster 1",
+    "chapterDescription" : "",
+    "chapterDate" : "07/12/2012",
+    "pageCount" : 68,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/1/alabaster-3446235.jpg",
+        "imageAlt" : "Alabaster 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/1/alabaster-3446237.jpg",
+        "imageAlt" : "Alabaster 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/1/alabaster-3446239.jpg",
+        "imageAlt" : "Alabaster 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/1/alabaster-3446241.jpg",
+        "imageAlt" : "Alabaster 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/1/alabaster-3446243.jpg",
+        "imageAlt" : "Alabaster 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/1/alabaster-3446245.jpg",
+        "imageAlt" : "Alabaster 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/1/alabaster-3446247.jpg",
+        "imageAlt" : "Alabaster 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/1/alabaster-3446249.jpg",
+        "imageAlt" : "Alabaster 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/1/alabaster-3446251.jpg",
+        "imageAlt" : "Alabaster 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/1/alabaster-3446253.jpg",
+        "imageAlt" : "Alabaster 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/1/alabaster-3446255.jpg",
+        "imageAlt" : "Alabaster 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/1/alabaster-3446257.jpg",
+        "imageAlt" : "Alabaster 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/1/alabaster-3446259.jpg",
+        "imageAlt" : "Alabaster 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/1/alabaster-3446261.jpg",
+        "imageAlt" : "Alabaster 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/1/alabaster-3446263.jpg",
+        "imageAlt" : "Alabaster 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/1/alabaster-3446265.jpg",
+        "imageAlt" : "Alabaster 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/1/alabaster-3446267.jpg",
+        "imageAlt" : "Alabaster 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/1/alabaster-3446269.jpg",
+        "imageAlt" : "Alabaster 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/1/alabaster-3446271.jpg",
+        "imageAlt" : "Alabaster 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/1/alabaster-3446273.jpg",
+        "imageAlt" : "Alabaster 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/1/alabaster-3446275.jpg",
+        "imageAlt" : "Alabaster 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/1/alabaster-3446277.jpg",
+        "imageAlt" : "Alabaster 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/1/alabaster-3446279.jpg",
+        "imageAlt" : "Alabaster 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/1/alabaster-3446281.jpg",
+        "imageAlt" : "Alabaster 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/1/alabaster-3446283.jpg",
+        "imageAlt" : "Alabaster 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/1/alabaster-3446285.jpg",
+        "imageAlt" : "Alabaster 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/1/alabaster-3446287.jpg",
+        "imageAlt" : "Alabaster 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/1/alabaster-3446289.jpg",
+        "imageAlt" : "Alabaster 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/1/alabaster-3446291.jpg",
+        "imageAlt" : "Alabaster 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/1/alabaster-3446293.jpg",
+        "imageAlt" : "Alabaster 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/1/alabaster-3446295.jpg",
+        "imageAlt" : "Alabaster 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/1/alabaster-3446297.jpg",
+        "imageAlt" : "Alabaster 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/1/alabaster-3446299.jpg",
+        "imageAlt" : "Alabaster 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/1/alabaster-3446301.jpg",
+        "imageAlt" : "Alabaster 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/1/alabaster-3446303.jpg",
+        "imageAlt" : "Alabaster 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/1/alabaster-3446305.jpg",
+        "imageAlt" : "Alabaster 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/1/alabaster-3446307.jpg",
+        "imageAlt" : "Alabaster 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/1/alabaster-3446309.jpg",
+        "imageAlt" : "Alabaster 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/1/alabaster-3446311.jpg",
+        "imageAlt" : "Alabaster 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/1/alabaster-3446313.jpg",
+        "imageAlt" : "Alabaster 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/1/alabaster-3446315.jpg",
+        "imageAlt" : "Alabaster 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/1/alabaster-3446317.jpg",
+        "imageAlt" : "Alabaster 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/1/alabaster-3446319.jpg",
+        "imageAlt" : "Alabaster 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/1/alabaster-3446321.jpg",
+        "imageAlt" : "Alabaster 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/1/alabaster-3446323.jpg",
+        "imageAlt" : "Alabaster 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/1/alabaster-3446325.jpg",
+        "imageAlt" : "Alabaster 1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/1/alabaster-3446327.jpg",
+        "imageAlt" : "Alabaster 1 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/1/alabaster-3446329.jpg",
+        "imageAlt" : "Alabaster 1 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/1/alabaster-3446331.jpg",
+        "imageAlt" : "Alabaster 1 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/1/alabaster-3446333.jpg",
+        "imageAlt" : "Alabaster 1 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/1/alabaster-3446335.jpg",
+        "imageAlt" : "Alabaster 1 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/1/alabaster-3446337.jpg",
+        "imageAlt" : "Alabaster 1 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/1/alabaster-3446339.jpg",
+        "imageAlt" : "Alabaster 1 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/1/alabaster-3446341.jpg",
+        "imageAlt" : "Alabaster 1 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/1/alabaster-3446343.jpg",
+        "imageAlt" : "Alabaster 1 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/1/alabaster-3446345.jpg",
+        "imageAlt" : "Alabaster 1 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/1/alabaster-3446347.jpg",
+        "imageAlt" : "Alabaster 1 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/1/alabaster-3446349.jpg",
+        "imageAlt" : "Alabaster 1 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/1/alabaster-3446351.jpg",
+        "imageAlt" : "Alabaster 1 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/1/alabaster-3446353.jpg",
+        "imageAlt" : "Alabaster 1 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/1/alabaster-3446355.jpg",
+        "imageAlt" : "Alabaster 1 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/1/alabaster-3446357.jpg",
+        "imageAlt" : "Alabaster 1 - Page 62"
+      } ]
+    }, {
+      "pageNumber" : 63,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/63",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/1/alabaster-3446359.jpg",
+        "imageAlt" : "Alabaster 1 - Page 63"
+      } ]
+    }, {
+      "pageNumber" : 64,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/64",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/1/alabaster-3446361.jpg",
+        "imageAlt" : "Alabaster 1 - Page 64"
+      } ]
+    }, {
+      "pageNumber" : 65,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/65",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/1/alabaster-3446363.jpg",
+        "imageAlt" : "Alabaster 1 - Page 65"
+      } ]
+    }, {
+      "pageNumber" : 66,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/66",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/1/alabaster-3446365.jpg",
+        "imageAlt" : "Alabaster 1 - Page 66"
+      } ]
+    }, {
+      "pageNumber" : 67,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/67",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/1/alabaster-3446367.jpg",
+        "imageAlt" : "Alabaster 1 - Page 67"
+      } ]
+    }, {
+      "pageNumber" : 68,
+      "pageUrl" : "http://www.mangareader.net/alabaster/1/68",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/1/alabaster-3446369.jpg",
+        "imageAlt" : "Alabaster 1 - Page 68"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/alabaster/2",
+    "chapterTitle" : "Alabaster 2",
+    "chapterDescription" : "",
+    "chapterDate" : "04/02/2013",
+    "pageCount" : 29,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/2/alabaster-4024789.jpg",
+        "imageAlt" : "Alabaster 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/2/alabaster-4024791.jpg",
+        "imageAlt" : "Alabaster 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/2/alabaster-4024793.jpg",
+        "imageAlt" : "Alabaster 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/2/alabaster-4024795.jpg",
+        "imageAlt" : "Alabaster 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/2/alabaster-4024797.jpg",
+        "imageAlt" : "Alabaster 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/2/alabaster-4024799.jpg",
+        "imageAlt" : "Alabaster 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/2/alabaster-4024801.jpg",
+        "imageAlt" : "Alabaster 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/2/alabaster-4024803.jpg",
+        "imageAlt" : "Alabaster 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/2/alabaster-4024805.jpg",
+        "imageAlt" : "Alabaster 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/2/alabaster-4024807.jpg",
+        "imageAlt" : "Alabaster 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/2/alabaster-4024809.jpg",
+        "imageAlt" : "Alabaster 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/2/alabaster-4024811.jpg",
+        "imageAlt" : "Alabaster 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/2/alabaster-4024813.jpg",
+        "imageAlt" : "Alabaster 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/2/alabaster-4024815.jpg",
+        "imageAlt" : "Alabaster 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/2/alabaster-4024817.jpg",
+        "imageAlt" : "Alabaster 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/2/alabaster-4024819.jpg",
+        "imageAlt" : "Alabaster 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/2/alabaster-4024821.jpg",
+        "imageAlt" : "Alabaster 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/2/alabaster-4024823.jpg",
+        "imageAlt" : "Alabaster 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/2/alabaster-4024825.jpg",
+        "imageAlt" : "Alabaster 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/2/alabaster-4024827.jpg",
+        "imageAlt" : "Alabaster 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/2/alabaster-4024829.jpg",
+        "imageAlt" : "Alabaster 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/2/alabaster-4024831.jpg",
+        "imageAlt" : "Alabaster 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/2/alabaster-4024833.jpg",
+        "imageAlt" : "Alabaster 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/2/alabaster-4024835.jpg",
+        "imageAlt" : "Alabaster 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/2/alabaster-4024837.jpg",
+        "imageAlt" : "Alabaster 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/2/alabaster-4024839.jpg",
+        "imageAlt" : "Alabaster 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/2/alabaster-4024841.jpg",
+        "imageAlt" : "Alabaster 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/2/alabaster-4024843.jpg",
+        "imageAlt" : "Alabaster 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/alabaster/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 912,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/2/alabaster-4024845.jpg",
+        "imageAlt" : "Alabaster 2 - Page 29"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/alabaster/3",
+    "chapterTitle" : "Alabaster 3",
+    "chapterDescription" : "",
+    "chapterDate" : "04/02/2013",
+    "pageCount" : 49,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/3/alabaster-4024847.jpg",
+        "imageAlt" : "Alabaster 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/3/alabaster-4024849.jpg",
+        "imageAlt" : "Alabaster 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/3/alabaster-4024851.jpg",
+        "imageAlt" : "Alabaster 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/3/alabaster-4024853.jpg",
+        "imageAlt" : "Alabaster 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/3/alabaster-4024855.jpg",
+        "imageAlt" : "Alabaster 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1126,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/3/alabaster-4024857.jpg",
+        "imageAlt" : "Alabaster 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/3/alabaster-4024859.jpg",
+        "imageAlt" : "Alabaster 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/3/alabaster-4024861.jpg",
+        "imageAlt" : "Alabaster 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/3/alabaster-4024863.jpg",
+        "imageAlt" : "Alabaster 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/3/alabaster-4024865.jpg",
+        "imageAlt" : "Alabaster 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/3/alabaster-4024867.jpg",
+        "imageAlt" : "Alabaster 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/3/alabaster-4024869.jpg",
+        "imageAlt" : "Alabaster 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/3/alabaster-4024871.jpg",
+        "imageAlt" : "Alabaster 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/3/alabaster-4024873.jpg",
+        "imageAlt" : "Alabaster 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/3/alabaster-4024875.jpg",
+        "imageAlt" : "Alabaster 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/3/alabaster-4024877.jpg",
+        "imageAlt" : "Alabaster 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/3/alabaster-4024879.jpg",
+        "imageAlt" : "Alabaster 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/3/alabaster-4024881.jpg",
+        "imageAlt" : "Alabaster 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/3/alabaster-4024883.jpg",
+        "imageAlt" : "Alabaster 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/3/alabaster-4024885.jpg",
+        "imageAlt" : "Alabaster 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/3/alabaster-4024887.jpg",
+        "imageAlt" : "Alabaster 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/3/alabaster-4024889.jpg",
+        "imageAlt" : "Alabaster 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/3/alabaster-4024891.jpg",
+        "imageAlt" : "Alabaster 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/3/alabaster-4024893.jpg",
+        "imageAlt" : "Alabaster 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/3/alabaster-4024895.jpg",
+        "imageAlt" : "Alabaster 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/3/alabaster-4024897.jpg",
+        "imageAlt" : "Alabaster 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/3/alabaster-4024899.jpg",
+        "imageAlt" : "Alabaster 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/3/alabaster-4024901.jpg",
+        "imageAlt" : "Alabaster 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/3/alabaster-4024903.jpg",
+        "imageAlt" : "Alabaster 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/3/alabaster-4024905.jpg",
+        "imageAlt" : "Alabaster 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/3/alabaster-4024907.jpg",
+        "imageAlt" : "Alabaster 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/3/alabaster-4024909.jpg",
+        "imageAlt" : "Alabaster 3 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/3/alabaster-4024911.jpg",
+        "imageAlt" : "Alabaster 3 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/3/alabaster-4024913.jpg",
+        "imageAlt" : "Alabaster 3 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/3/alabaster-4024915.jpg",
+        "imageAlt" : "Alabaster 3 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/3/alabaster-4024917.jpg",
+        "imageAlt" : "Alabaster 3 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/3/alabaster-4024919.jpg",
+        "imageAlt" : "Alabaster 3 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/3/alabaster-4024921.jpg",
+        "imageAlt" : "Alabaster 3 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/3/alabaster-4024923.jpg",
+        "imageAlt" : "Alabaster 3 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/3/alabaster-4024925.jpg",
+        "imageAlt" : "Alabaster 3 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/3/alabaster-4024927.jpg",
+        "imageAlt" : "Alabaster 3 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/3/alabaster-4024929.jpg",
+        "imageAlt" : "Alabaster 3 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/3/alabaster-4024931.jpg",
+        "imageAlt" : "Alabaster 3 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/3/alabaster-4024933.jpg",
+        "imageAlt" : "Alabaster 3 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/3/alabaster-4024935.jpg",
+        "imageAlt" : "Alabaster 3 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/3/alabaster-4024937.jpg",
+        "imageAlt" : "Alabaster 3 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1126,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/3/alabaster-4024939.jpg",
+        "imageAlt" : "Alabaster 3 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/3/alabaster-4024941.jpg",
+        "imageAlt" : "Alabaster 3 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/alabaster/3/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 912,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/3/alabaster-4024943.jpg",
+        "imageAlt" : "Alabaster 3 - Page 49"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/alabaster/4",
+    "chapterTitle" : "Alabaster 4",
+    "chapterDescription" : "",
+    "chapterDate" : "04/02/2013",
+    "pageCount" : 39,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/4/alabaster-4024945.jpg",
+        "imageAlt" : "Alabaster 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/4/alabaster-4024947.jpg",
+        "imageAlt" : "Alabaster 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/4/alabaster-4024949.jpg",
+        "imageAlt" : "Alabaster 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/4/alabaster-4024951.jpg",
+        "imageAlt" : "Alabaster 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/4/alabaster-4024953.jpg",
+        "imageAlt" : "Alabaster 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/4/alabaster-4024955.jpg",
+        "imageAlt" : "Alabaster 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/4/alabaster-4024957.jpg",
+        "imageAlt" : "Alabaster 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/4/alabaster-4024959.jpg",
+        "imageAlt" : "Alabaster 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/4/alabaster-4024961.jpg",
+        "imageAlt" : "Alabaster 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/4/alabaster-4024963.jpg",
+        "imageAlt" : "Alabaster 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/4/alabaster-4024965.jpg",
+        "imageAlt" : "Alabaster 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/4/alabaster-4024967.jpg",
+        "imageAlt" : "Alabaster 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/4/alabaster-4024969.jpg",
+        "imageAlt" : "Alabaster 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/4/alabaster-4024971.jpg",
+        "imageAlt" : "Alabaster 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/4/alabaster-4024973.jpg",
+        "imageAlt" : "Alabaster 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/4/alabaster-4024975.jpg",
+        "imageAlt" : "Alabaster 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/4/alabaster-4024977.jpg",
+        "imageAlt" : "Alabaster 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/4/alabaster-4024979.jpg",
+        "imageAlt" : "Alabaster 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/4/alabaster-4024981.jpg",
+        "imageAlt" : "Alabaster 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/4/alabaster-4024983.jpg",
+        "imageAlt" : "Alabaster 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/4/alabaster-4024985.jpg",
+        "imageAlt" : "Alabaster 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/4/alabaster-4024987.jpg",
+        "imageAlt" : "Alabaster 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/4/alabaster-4024989.jpg",
+        "imageAlt" : "Alabaster 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/4/alabaster-4024991.jpg",
+        "imageAlt" : "Alabaster 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/4/alabaster-4024993.jpg",
+        "imageAlt" : "Alabaster 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/4/alabaster-4024995.jpg",
+        "imageAlt" : "Alabaster 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/4/alabaster-4024997.jpg",
+        "imageAlt" : "Alabaster 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/4/alabaster-4024999.jpg",
+        "imageAlt" : "Alabaster 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/4/alabaster-4025001.jpg",
+        "imageAlt" : "Alabaster 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/4/alabaster-4025003.jpg",
+        "imageAlt" : "Alabaster 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/4/alabaster-4025005.jpg",
+        "imageAlt" : "Alabaster 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/4/alabaster-4025007.jpg",
+        "imageAlt" : "Alabaster 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/4/alabaster-4025009.jpg",
+        "imageAlt" : "Alabaster 4 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/4/alabaster-4025011.jpg",
+        "imageAlt" : "Alabaster 4 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/4/alabaster-4025013.jpg",
+        "imageAlt" : "Alabaster 4 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/4/alabaster-4025015.jpg",
+        "imageAlt" : "Alabaster 4 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/4/alabaster-4025017.jpg",
+        "imageAlt" : "Alabaster 4 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/4/alabaster-4025019.jpg",
+        "imageAlt" : "Alabaster 4 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/alabaster/4/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 912,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/4/alabaster-4025021.jpg",
+        "imageAlt" : "Alabaster 4 - Page 39"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/alabaster/5",
+    "chapterTitle" : "Alabaster 5",
+    "chapterDescription" : "",
+    "chapterDate" : "04/02/2013",
+    "pageCount" : 91,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/5/alabaster-4025023.jpg",
+        "imageAlt" : "Alabaster 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/5/alabaster-4025025.jpg",
+        "imageAlt" : "Alabaster 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/5/alabaster-4025027.jpg",
+        "imageAlt" : "Alabaster 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/5/alabaster-4025029.jpg",
+        "imageAlt" : "Alabaster 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/5/alabaster-4025031.jpg",
+        "imageAlt" : "Alabaster 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/5/alabaster-4025033.jpg",
+        "imageAlt" : "Alabaster 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/5/alabaster-4025035.jpg",
+        "imageAlt" : "Alabaster 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/5/alabaster-4025037.jpg",
+        "imageAlt" : "Alabaster 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/5/alabaster-4025039.jpg",
+        "imageAlt" : "Alabaster 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/5/alabaster-4025041.jpg",
+        "imageAlt" : "Alabaster 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/5/alabaster-4025043.jpg",
+        "imageAlt" : "Alabaster 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/5/alabaster-4025045.jpg",
+        "imageAlt" : "Alabaster 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/5/alabaster-4025047.jpg",
+        "imageAlt" : "Alabaster 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/5/alabaster-4025049.jpg",
+        "imageAlt" : "Alabaster 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/5/alabaster-4025051.jpg",
+        "imageAlt" : "Alabaster 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/5/alabaster-4025053.jpg",
+        "imageAlt" : "Alabaster 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/5/alabaster-4025055.jpg",
+        "imageAlt" : "Alabaster 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/5/alabaster-4025057.jpg",
+        "imageAlt" : "Alabaster 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/5/alabaster-4025059.jpg",
+        "imageAlt" : "Alabaster 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/5/alabaster-4025061.jpg",
+        "imageAlt" : "Alabaster 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/5/alabaster-4025063.jpg",
+        "imageAlt" : "Alabaster 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/5/alabaster-4025065.jpg",
+        "imageAlt" : "Alabaster 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/5/alabaster-4025067.jpg",
+        "imageAlt" : "Alabaster 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/5/alabaster-4025069.jpg",
+        "imageAlt" : "Alabaster 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/5/alabaster-4025071.jpg",
+        "imageAlt" : "Alabaster 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/5/alabaster-4025073.jpg",
+        "imageAlt" : "Alabaster 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/5/alabaster-4025075.jpg",
+        "imageAlt" : "Alabaster 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/5/alabaster-4025077.jpg",
+        "imageAlt" : "Alabaster 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/5/alabaster-4025079.jpg",
+        "imageAlt" : "Alabaster 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/5/alabaster-4025081.jpg",
+        "imageAlt" : "Alabaster 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/5/alabaster-4025083.jpg",
+        "imageAlt" : "Alabaster 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/5/alabaster-4025085.jpg",
+        "imageAlt" : "Alabaster 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/5/alabaster-4025087.jpg",
+        "imageAlt" : "Alabaster 5 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/5/alabaster-4025089.jpg",
+        "imageAlt" : "Alabaster 5 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/5/alabaster-4025091.jpg",
+        "imageAlt" : "Alabaster 5 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/5/alabaster-4025093.jpg",
+        "imageAlt" : "Alabaster 5 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/5/alabaster-4025095.jpg",
+        "imageAlt" : "Alabaster 5 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/5/alabaster-4025097.jpg",
+        "imageAlt" : "Alabaster 5 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/5/alabaster-4025099.jpg",
+        "imageAlt" : "Alabaster 5 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/5/alabaster-4025101.jpg",
+        "imageAlt" : "Alabaster 5 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/5/alabaster-4025103.jpg",
+        "imageAlt" : "Alabaster 5 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/5/alabaster-4025105.jpg",
+        "imageAlt" : "Alabaster 5 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/5/alabaster-4025107.jpg",
+        "imageAlt" : "Alabaster 5 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/5/alabaster-4025109.jpg",
+        "imageAlt" : "Alabaster 5 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/5/alabaster-4025111.jpg",
+        "imageAlt" : "Alabaster 5 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/5/alabaster-4025113.jpg",
+        "imageAlt" : "Alabaster 5 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/5/alabaster-4025115.jpg",
+        "imageAlt" : "Alabaster 5 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/5/alabaster-4025117.jpg",
+        "imageAlt" : "Alabaster 5 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/5/alabaster-4025119.jpg",
+        "imageAlt" : "Alabaster 5 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/5/alabaster-4025121.jpg",
+        "imageAlt" : "Alabaster 5 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/5/alabaster-4025123.jpg",
+        "imageAlt" : "Alabaster 5 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/5/alabaster-4025125.jpg",
+        "imageAlt" : "Alabaster 5 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/5/alabaster-4025127.jpg",
+        "imageAlt" : "Alabaster 5 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/5/alabaster-4025129.jpg",
+        "imageAlt" : "Alabaster 5 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/5/alabaster-4025131.jpg",
+        "imageAlt" : "Alabaster 5 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/5/alabaster-4025133.jpg",
+        "imageAlt" : "Alabaster 5 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/5/alabaster-4025135.jpg",
+        "imageAlt" : "Alabaster 5 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/5/alabaster-4025137.jpg",
+        "imageAlt" : "Alabaster 5 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/5/alabaster-4025139.jpg",
+        "imageAlt" : "Alabaster 5 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/5/alabaster-4025141.jpg",
+        "imageAlt" : "Alabaster 5 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/5/alabaster-4025143.jpg",
+        "imageAlt" : "Alabaster 5 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/5/alabaster-4025145.jpg",
+        "imageAlt" : "Alabaster 5 - Page 62"
+      } ]
+    }, {
+      "pageNumber" : 63,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/63",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/5/alabaster-4025147.jpg",
+        "imageAlt" : "Alabaster 5 - Page 63"
+      } ]
+    }, {
+      "pageNumber" : 64,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/64",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/5/alabaster-4025149.jpg",
+        "imageAlt" : "Alabaster 5 - Page 64"
+      } ]
+    }, {
+      "pageNumber" : 65,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/65",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/5/alabaster-4025151.jpg",
+        "imageAlt" : "Alabaster 5 - Page 65"
+      } ]
+    }, {
+      "pageNumber" : 66,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/66",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/5/alabaster-4025153.jpg",
+        "imageAlt" : "Alabaster 5 - Page 66"
+      } ]
+    }, {
+      "pageNumber" : 67,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/67",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/5/alabaster-4025155.jpg",
+        "imageAlt" : "Alabaster 5 - Page 67"
+      } ]
+    }, {
+      "pageNumber" : 68,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/68",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/5/alabaster-4025157.jpg",
+        "imageAlt" : "Alabaster 5 - Page 68"
+      } ]
+    }, {
+      "pageNumber" : 69,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/69",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/5/alabaster-4025159.jpg",
+        "imageAlt" : "Alabaster 5 - Page 69"
+      } ]
+    }, {
+      "pageNumber" : 70,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/70",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/5/alabaster-4025161.jpg",
+        "imageAlt" : "Alabaster 5 - Page 70"
+      } ]
+    }, {
+      "pageNumber" : 71,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/71",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/5/alabaster-4025163.jpg",
+        "imageAlt" : "Alabaster 5 - Page 71"
+      } ]
+    }, {
+      "pageNumber" : 72,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/72",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/5/alabaster-4025165.jpg",
+        "imageAlt" : "Alabaster 5 - Page 72"
+      } ]
+    }, {
+      "pageNumber" : 73,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/73",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/5/alabaster-4025167.jpg",
+        "imageAlt" : "Alabaster 5 - Page 73"
+      } ]
+    }, {
+      "pageNumber" : 74,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/74",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/5/alabaster-4025169.jpg",
+        "imageAlt" : "Alabaster 5 - Page 74"
+      } ]
+    }, {
+      "pageNumber" : 75,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/75",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/5/alabaster-4025171.jpg",
+        "imageAlt" : "Alabaster 5 - Page 75"
+      } ]
+    }, {
+      "pageNumber" : 76,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/76",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/5/alabaster-4025173.jpg",
+        "imageAlt" : "Alabaster 5 - Page 76"
+      } ]
+    }, {
+      "pageNumber" : 77,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/77",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/5/alabaster-4025175.jpg",
+        "imageAlt" : "Alabaster 5 - Page 77"
+      } ]
+    }, {
+      "pageNumber" : 78,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/78",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/5/alabaster-4025177.jpg",
+        "imageAlt" : "Alabaster 5 - Page 78"
+      } ]
+    }, {
+      "pageNumber" : 79,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/79",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/5/alabaster-4025179.jpg",
+        "imageAlt" : "Alabaster 5 - Page 79"
+      } ]
+    }, {
+      "pageNumber" : 80,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/80",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/5/alabaster-4025181.jpg",
+        "imageAlt" : "Alabaster 5 - Page 80"
+      } ]
+    }, {
+      "pageNumber" : 81,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/81",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/5/alabaster-4025183.jpg",
+        "imageAlt" : "Alabaster 5 - Page 81"
+      } ]
+    }, {
+      "pageNumber" : 82,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/82",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/5/alabaster-4025185.jpg",
+        "imageAlt" : "Alabaster 5 - Page 82"
+      } ]
+    }, {
+      "pageNumber" : 83,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/83",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/5/alabaster-4025187.jpg",
+        "imageAlt" : "Alabaster 5 - Page 83"
+      } ]
+    }, {
+      "pageNumber" : 84,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/84",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/5/alabaster-4025189.jpg",
+        "imageAlt" : "Alabaster 5 - Page 84"
+      } ]
+    }, {
+      "pageNumber" : 85,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/85",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/5/alabaster-4025191.jpg",
+        "imageAlt" : "Alabaster 5 - Page 85"
+      } ]
+    }, {
+      "pageNumber" : 86,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/86",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/5/alabaster-4025193.jpg",
+        "imageAlt" : "Alabaster 5 - Page 86"
+      } ]
+    }, {
+      "pageNumber" : 87,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/87",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/5/alabaster-4025195.jpg",
+        "imageAlt" : "Alabaster 5 - Page 87"
+      } ]
+    }, {
+      "pageNumber" : 88,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/88",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/5/alabaster-4025197.jpg",
+        "imageAlt" : "Alabaster 5 - Page 88"
+      } ]
+    }, {
+      "pageNumber" : 89,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/89",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/5/alabaster-4025199.jpg",
+        "imageAlt" : "Alabaster 5 - Page 89"
+      } ]
+    }, {
+      "pageNumber" : 90,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/90",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/5/alabaster-4025201.jpg",
+        "imageAlt" : "Alabaster 5 - Page 90"
+      } ]
+    }, {
+      "pageNumber" : 91,
+      "pageUrl" : "http://www.mangareader.net/alabaster/5/91",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 912,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/5/alabaster-4025203.jpg",
+        "imageAlt" : "Alabaster 5 - Page 91"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/alabaster/6",
+    "chapterTitle" : "Alabaster 6",
+    "chapterDescription" : "",
+    "chapterDate" : "04/02/2013",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 574,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/6/alabaster-4025205.jpg",
+        "imageAlt" : "Alabaster 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/6/alabaster-4025207.jpg",
+        "imageAlt" : "Alabaster 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/6/alabaster-4025209.jpg",
+        "imageAlt" : "Alabaster 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/6/alabaster-4025211.jpg",
+        "imageAlt" : "Alabaster 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/6/alabaster-4025213.jpg",
+        "imageAlt" : "Alabaster 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/6/alabaster-4025215.jpg",
+        "imageAlt" : "Alabaster 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/6/alabaster-4025217.jpg",
+        "imageAlt" : "Alabaster 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/6/alabaster-4025219.jpg",
+        "imageAlt" : "Alabaster 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/6/alabaster-4025221.jpg",
+        "imageAlt" : "Alabaster 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/6/alabaster-4025223.jpg",
+        "imageAlt" : "Alabaster 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/6/alabaster-4025225.jpg",
+        "imageAlt" : "Alabaster 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/6/alabaster-4025227.jpg",
+        "imageAlt" : "Alabaster 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/6/alabaster-4025229.jpg",
+        "imageAlt" : "Alabaster 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/6/alabaster-4025231.jpg",
+        "imageAlt" : "Alabaster 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/6/alabaster-4025233.jpg",
+        "imageAlt" : "Alabaster 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/6/alabaster-4025235.jpg",
+        "imageAlt" : "Alabaster 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/6/alabaster-4025237.jpg",
+        "imageAlt" : "Alabaster 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/6/alabaster-4025239.jpg",
+        "imageAlt" : "Alabaster 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/6/alabaster-4025241.jpg",
+        "imageAlt" : "Alabaster 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/6/alabaster-4025243.jpg",
+        "imageAlt" : "Alabaster 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/6/alabaster-4025245.jpg",
+        "imageAlt" : "Alabaster 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/6/alabaster-4025247.jpg",
+        "imageAlt" : "Alabaster 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/6/alabaster-4025249.jpg",
+        "imageAlt" : "Alabaster 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/6/alabaster-4025251.jpg",
+        "imageAlt" : "Alabaster 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/6/alabaster-4025253.jpg",
+        "imageAlt" : "Alabaster 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/6/alabaster-4025255.jpg",
+        "imageAlt" : "Alabaster 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/6/alabaster-4025257.jpg",
+        "imageAlt" : "Alabaster 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/6/alabaster-4025259.jpg",
+        "imageAlt" : "Alabaster 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/6/alabaster-4025261.jpg",
+        "imageAlt" : "Alabaster 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/6/alabaster-4025263.jpg",
+        "imageAlt" : "Alabaster 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/6/alabaster-4025265.jpg",
+        "imageAlt" : "Alabaster 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/alabaster/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/6/alabaster-4025267.jpg",
+        "imageAlt" : "Alabaster 6 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/alabaster/7",
+    "chapterTitle" : "Alabaster 7",
+    "chapterDescription" : "",
+    "chapterDate" : "04/02/2013",
+    "pageCount" : 60,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/7/alabaster-4025269.jpg",
+        "imageAlt" : "Alabaster 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/7/alabaster-4025271.jpg",
+        "imageAlt" : "Alabaster 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/7/alabaster-4025273.jpg",
+        "imageAlt" : "Alabaster 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/7/alabaster-4025275.jpg",
+        "imageAlt" : "Alabaster 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/7/alabaster-4025277.jpg",
+        "imageAlt" : "Alabaster 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/7/alabaster-4025279.jpg",
+        "imageAlt" : "Alabaster 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/7/alabaster-4025281.jpg",
+        "imageAlt" : "Alabaster 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/7/alabaster-4025283.jpg",
+        "imageAlt" : "Alabaster 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/7/alabaster-4025285.jpg",
+        "imageAlt" : "Alabaster 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/7/alabaster-4025287.jpg",
+        "imageAlt" : "Alabaster 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/7/alabaster-4025289.jpg",
+        "imageAlt" : "Alabaster 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/7/alabaster-4025291.jpg",
+        "imageAlt" : "Alabaster 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/7/alabaster-4025293.jpg",
+        "imageAlt" : "Alabaster 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/7/alabaster-4025295.jpg",
+        "imageAlt" : "Alabaster 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/7/alabaster-4025297.jpg",
+        "imageAlt" : "Alabaster 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/7/alabaster-4025299.jpg",
+        "imageAlt" : "Alabaster 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/7/alabaster-4025301.jpg",
+        "imageAlt" : "Alabaster 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/7/alabaster-4025303.jpg",
+        "imageAlt" : "Alabaster 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/7/alabaster-4025305.jpg",
+        "imageAlt" : "Alabaster 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/7/alabaster-4025307.jpg",
+        "imageAlt" : "Alabaster 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/7/alabaster-4025309.jpg",
+        "imageAlt" : "Alabaster 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/7/alabaster-4025311.jpg",
+        "imageAlt" : "Alabaster 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/7/alabaster-4025313.jpg",
+        "imageAlt" : "Alabaster 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/7/alabaster-4025315.jpg",
+        "imageAlt" : "Alabaster 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/7/alabaster-4025317.jpg",
+        "imageAlt" : "Alabaster 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/7/alabaster-4025319.jpg",
+        "imageAlt" : "Alabaster 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/7/alabaster-4025321.jpg",
+        "imageAlt" : "Alabaster 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/7/alabaster-4025323.jpg",
+        "imageAlt" : "Alabaster 7 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/7/alabaster-4025325.jpg",
+        "imageAlt" : "Alabaster 7 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/7/alabaster-4025327.jpg",
+        "imageAlt" : "Alabaster 7 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/7/alabaster-4025329.jpg",
+        "imageAlt" : "Alabaster 7 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/7/alabaster-4025331.jpg",
+        "imageAlt" : "Alabaster 7 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/7/alabaster-4025333.jpg",
+        "imageAlt" : "Alabaster 7 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/7/alabaster-4025335.jpg",
+        "imageAlt" : "Alabaster 7 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/7/alabaster-4025337.jpg",
+        "imageAlt" : "Alabaster 7 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/7/alabaster-4025339.jpg",
+        "imageAlt" : "Alabaster 7 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/7/alabaster-4025341.jpg",
+        "imageAlt" : "Alabaster 7 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/7/alabaster-4025343.jpg",
+        "imageAlt" : "Alabaster 7 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/7/alabaster-4025345.jpg",
+        "imageAlt" : "Alabaster 7 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/7/alabaster-4025347.jpg",
+        "imageAlt" : "Alabaster 7 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/7/alabaster-4025349.jpg",
+        "imageAlt" : "Alabaster 7 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/7/alabaster-4025351.jpg",
+        "imageAlt" : "Alabaster 7 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/7/alabaster-4025353.jpg",
+        "imageAlt" : "Alabaster 7 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/7/alabaster-4025355.jpg",
+        "imageAlt" : "Alabaster 7 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/7/alabaster-4025357.jpg",
+        "imageAlt" : "Alabaster 7 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/7/alabaster-4025359.jpg",
+        "imageAlt" : "Alabaster 7 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/7/alabaster-4025361.jpg",
+        "imageAlt" : "Alabaster 7 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/7/alabaster-4025363.jpg",
+        "imageAlt" : "Alabaster 7 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/7/alabaster-4025365.jpg",
+        "imageAlt" : "Alabaster 7 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/7/alabaster-4025367.jpg",
+        "imageAlt" : "Alabaster 7 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/7/alabaster-4025369.jpg",
+        "imageAlt" : "Alabaster 7 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/7/alabaster-4025371.jpg",
+        "imageAlt" : "Alabaster 7 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/7/alabaster-4025373.jpg",
+        "imageAlt" : "Alabaster 7 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/7/alabaster-4025375.jpg",
+        "imageAlt" : "Alabaster 7 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/7/alabaster-4025377.jpg",
+        "imageAlt" : "Alabaster 7 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/7/alabaster-4025379.jpg",
+        "imageAlt" : "Alabaster 7 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/7/alabaster-4025381.jpg",
+        "imageAlt" : "Alabaster 7 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/7/alabaster-4025383.jpg",
+        "imageAlt" : "Alabaster 7 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/7/alabaster-4025385.jpg",
+        "imageAlt" : "Alabaster 7 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/alabaster/7/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/7/alabaster-4025387.jpg",
+        "imageAlt" : "Alabaster 7 - Page 60"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/alabaster/8",
+    "chapterTitle" : "Alabaster 8",
+    "chapterDescription" : "",
+    "chapterDate" : "04/02/2013",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/8/alabaster-4025389.jpg",
+        "imageAlt" : "Alabaster 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/8/alabaster-4025391.jpg",
+        "imageAlt" : "Alabaster 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/8/alabaster-4025393.jpg",
+        "imageAlt" : "Alabaster 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 583,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/8/alabaster-4025395.jpg",
+        "imageAlt" : "Alabaster 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/8/alabaster-4025397.jpg",
+        "imageAlt" : "Alabaster 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/8/alabaster-4025399.jpg",
+        "imageAlt" : "Alabaster 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/8/alabaster-4025401.jpg",
+        "imageAlt" : "Alabaster 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/8/alabaster-4025403.jpg",
+        "imageAlt" : "Alabaster 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/8/alabaster-4025405.jpg",
+        "imageAlt" : "Alabaster 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/8/alabaster-4025407.jpg",
+        "imageAlt" : "Alabaster 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/8/alabaster-4025409.jpg",
+        "imageAlt" : "Alabaster 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/8/alabaster-4025411.jpg",
+        "imageAlt" : "Alabaster 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/8/alabaster-4025413.jpg",
+        "imageAlt" : "Alabaster 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/8/alabaster-4025415.jpg",
+        "imageAlt" : "Alabaster 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/8/alabaster-4025417.jpg",
+        "imageAlt" : "Alabaster 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/8/alabaster-4025419.jpg",
+        "imageAlt" : "Alabaster 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/8/alabaster-4025421.jpg",
+        "imageAlt" : "Alabaster 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/8/alabaster-4025423.jpg",
+        "imageAlt" : "Alabaster 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/8/alabaster-4025425.jpg",
+        "imageAlt" : "Alabaster 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/8/alabaster-4025427.jpg",
+        "imageAlt" : "Alabaster 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/8/alabaster-4025429.jpg",
+        "imageAlt" : "Alabaster 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/8/alabaster-4025431.jpg",
+        "imageAlt" : "Alabaster 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/8/alabaster-4025433.jpg",
+        "imageAlt" : "Alabaster 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/8/alabaster-4025435.jpg",
+        "imageAlt" : "Alabaster 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/8/alabaster-4025437.jpg",
+        "imageAlt" : "Alabaster 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/8/alabaster-4025439.jpg",
+        "imageAlt" : "Alabaster 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/8/alabaster-4025441.jpg",
+        "imageAlt" : "Alabaster 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/8/alabaster-4025443.jpg",
+        "imageAlt" : "Alabaster 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/8/alabaster-4025445.jpg",
+        "imageAlt" : "Alabaster 8 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/8/alabaster-4025447.jpg",
+        "imageAlt" : "Alabaster 8 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/8/alabaster-4025449.jpg",
+        "imageAlt" : "Alabaster 8 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/8/alabaster-4025451.jpg",
+        "imageAlt" : "Alabaster 8 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/8/alabaster-4025453.jpg",
+        "imageAlt" : "Alabaster 8 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/8/alabaster-4025455.jpg",
+        "imageAlt" : "Alabaster 8 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/alabaster/8/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/8/alabaster-4025457.jpg",
+        "imageAlt" : "Alabaster 8 - Page 35"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/alabaster/9",
+    "chapterTitle" : "Alabaster 9",
+    "chapterDescription" : "",
+    "chapterDate" : "04/02/2013",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/9/alabaster-4025459.jpg",
+        "imageAlt" : "Alabaster 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/9/alabaster-4025461.jpg",
+        "imageAlt" : "Alabaster 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/9/alabaster-4025463.jpg",
+        "imageAlt" : "Alabaster 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/9/alabaster-4025465.jpg",
+        "imageAlt" : "Alabaster 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/9/alabaster-4025467.jpg",
+        "imageAlt" : "Alabaster 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/9/alabaster-4025469.jpg",
+        "imageAlt" : "Alabaster 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/9/alabaster-4025471.jpg",
+        "imageAlt" : "Alabaster 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/9/alabaster-4025473.jpg",
+        "imageAlt" : "Alabaster 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/9/alabaster-4025475.jpg",
+        "imageAlt" : "Alabaster 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/9/alabaster-4025477.jpg",
+        "imageAlt" : "Alabaster 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/9/alabaster-4025479.jpg",
+        "imageAlt" : "Alabaster 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/9/alabaster-4025481.jpg",
+        "imageAlt" : "Alabaster 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/9/alabaster-4025483.jpg",
+        "imageAlt" : "Alabaster 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/9/alabaster-4025485.jpg",
+        "imageAlt" : "Alabaster 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/9/alabaster-4025487.jpg",
+        "imageAlt" : "Alabaster 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/9/alabaster-4025489.jpg",
+        "imageAlt" : "Alabaster 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/9/alabaster-4025491.jpg",
+        "imageAlt" : "Alabaster 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/9/alabaster-4025493.jpg",
+        "imageAlt" : "Alabaster 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/9/alabaster-4025495.jpg",
+        "imageAlt" : "Alabaster 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/9/alabaster-4025497.jpg",
+        "imageAlt" : "Alabaster 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/9/alabaster-4025499.jpg",
+        "imageAlt" : "Alabaster 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/9/alabaster-4025501.jpg",
+        "imageAlt" : "Alabaster 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/9/alabaster-4025503.jpg",
+        "imageAlt" : "Alabaster 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/9/alabaster-4025505.jpg",
+        "imageAlt" : "Alabaster 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/9/alabaster-4025507.jpg",
+        "imageAlt" : "Alabaster 9 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/9/alabaster-4025509.jpg",
+        "imageAlt" : "Alabaster 9 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/9/alabaster-4025511.jpg",
+        "imageAlt" : "Alabaster 9 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/alabaster/9/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/9/alabaster-4025513.jpg",
+        "imageAlt" : "Alabaster 9 - Page 28"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/alabaster/10",
+    "chapterTitle" : "Alabaster 10",
+    "chapterDescription" : "",
+    "chapterDate" : "04/02/2013",
+    "pageCount" : 67,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/10/alabaster-4025515.jpg",
+        "imageAlt" : "Alabaster 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/10/alabaster-4025517.jpg",
+        "imageAlt" : "Alabaster 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/10/alabaster-4025519.jpg",
+        "imageAlt" : "Alabaster 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/10/alabaster-4025521.jpg",
+        "imageAlt" : "Alabaster 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/10/alabaster-4025523.jpg",
+        "imageAlt" : "Alabaster 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/10/alabaster-4025525.jpg",
+        "imageAlt" : "Alabaster 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/10/alabaster-4025527.jpg",
+        "imageAlt" : "Alabaster 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/10/alabaster-4025529.jpg",
+        "imageAlt" : "Alabaster 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/10/alabaster-4025531.jpg",
+        "imageAlt" : "Alabaster 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/10/alabaster-4025533.jpg",
+        "imageAlt" : "Alabaster 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/10/alabaster-4025535.jpg",
+        "imageAlt" : "Alabaster 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/10/alabaster-4025537.jpg",
+        "imageAlt" : "Alabaster 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/10/alabaster-4025539.jpg",
+        "imageAlt" : "Alabaster 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/10/alabaster-4025541.jpg",
+        "imageAlt" : "Alabaster 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/10/alabaster-4025543.jpg",
+        "imageAlt" : "Alabaster 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/10/alabaster-4025545.jpg",
+        "imageAlt" : "Alabaster 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/10/alabaster-4025547.jpg",
+        "imageAlt" : "Alabaster 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/10/alabaster-4025549.jpg",
+        "imageAlt" : "Alabaster 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/10/alabaster-4025551.jpg",
+        "imageAlt" : "Alabaster 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/10/alabaster-4025553.jpg",
+        "imageAlt" : "Alabaster 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/10/alabaster-4025555.jpg",
+        "imageAlt" : "Alabaster 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/10/alabaster-4025557.jpg",
+        "imageAlt" : "Alabaster 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/10/alabaster-4025559.jpg",
+        "imageAlt" : "Alabaster 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/10/alabaster-4025561.jpg",
+        "imageAlt" : "Alabaster 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/10/alabaster-4025563.jpg",
+        "imageAlt" : "Alabaster 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/10/alabaster-4025565.jpg",
+        "imageAlt" : "Alabaster 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/10/alabaster-4025567.jpg",
+        "imageAlt" : "Alabaster 10 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/10/alabaster-4025569.jpg",
+        "imageAlt" : "Alabaster 10 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/10/alabaster-4025571.jpg",
+        "imageAlt" : "Alabaster 10 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/10/alabaster-4025573.jpg",
+        "imageAlt" : "Alabaster 10 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/10/alabaster-4025575.jpg",
+        "imageAlt" : "Alabaster 10 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/10/alabaster-4025577.jpg",
+        "imageAlt" : "Alabaster 10 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/10/alabaster-4025579.jpg",
+        "imageAlt" : "Alabaster 10 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/10/alabaster-4025581.jpg",
+        "imageAlt" : "Alabaster 10 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/10/alabaster-4025583.jpg",
+        "imageAlt" : "Alabaster 10 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/10/alabaster-4025585.jpg",
+        "imageAlt" : "Alabaster 10 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/10/alabaster-4025587.jpg",
+        "imageAlt" : "Alabaster 10 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/10/alabaster-4025589.jpg",
+        "imageAlt" : "Alabaster 10 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/10/alabaster-4025591.jpg",
+        "imageAlt" : "Alabaster 10 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/10/alabaster-4025593.jpg",
+        "imageAlt" : "Alabaster 10 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/alabaster/10/alabaster-4025595.jpg",
+        "imageAlt" : "Alabaster 10 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/10/alabaster-4025597.jpg",
+        "imageAlt" : "Alabaster 10 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/10/alabaster-4025599.jpg",
+        "imageAlt" : "Alabaster 10 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/10/alabaster-4025601.jpg",
+        "imageAlt" : "Alabaster 10 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/alabaster/10/alabaster-4025603.jpg",
+        "imageAlt" : "Alabaster 10 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/10/alabaster-4025605.jpg",
+        "imageAlt" : "Alabaster 10 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/alabaster/10/alabaster-4025607.jpg",
+        "imageAlt" : "Alabaster 10 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/10/alabaster-4025609.jpg",
+        "imageAlt" : "Alabaster 10 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/10/alabaster-4025611.jpg",
+        "imageAlt" : "Alabaster 10 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/10/alabaster-4025613.jpg",
+        "imageAlt" : "Alabaster 10 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/10/alabaster-4025615.jpg",
+        "imageAlt" : "Alabaster 10 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/alabaster/10/alabaster-4025617.jpg",
+        "imageAlt" : "Alabaster 10 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/alabaster/10/alabaster-4025619.jpg",
+        "imageAlt" : "Alabaster 10 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/10/alabaster-4025621.jpg",
+        "imageAlt" : "Alabaster 10 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/10/alabaster-4025623.jpg",
+        "imageAlt" : "Alabaster 10 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/10/alabaster-4025625.jpg",
+        "imageAlt" : "Alabaster 10 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/10/alabaster-4025627.jpg",
+        "imageAlt" : "Alabaster 10 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/10/alabaster-4025629.jpg",
+        "imageAlt" : "Alabaster 10 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/10/alabaster-4025631.jpg",
+        "imageAlt" : "Alabaster 10 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/alabaster/10/alabaster-4025633.jpg",
+        "imageAlt" : "Alabaster 10 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/alabaster/10/alabaster-4025635.jpg",
+        "imageAlt" : "Alabaster 10 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/10/alabaster-4025637.jpg",
+        "imageAlt" : "Alabaster 10 - Page 62"
+      } ]
+    }, {
+      "pageNumber" : 63,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/63",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/10/alabaster-4025639.jpg",
+        "imageAlt" : "Alabaster 10 - Page 63"
+      } ]
+    }, {
+      "pageNumber" : 64,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/64",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/alabaster/10/alabaster-4025641.jpg",
+        "imageAlt" : "Alabaster 10 - Page 64"
+      } ]
+    }, {
+      "pageNumber" : 65,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/65",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/10/alabaster-4025643.jpg",
+        "imageAlt" : "Alabaster 10 - Page 65"
+      } ]
+    }, {
+      "pageNumber" : 66,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/66",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/alabaster/10/alabaster-4025645.jpg",
+        "imageAlt" : "Alabaster 10 - Page 66"
+      } ]
+    }, {
+      "pageNumber" : 67,
+      "pageUrl" : "http://www.mangareader.net/alabaster/10/67",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i9.mangareader.net/alabaster/10/alabaster-4025647.jpg",
+        "imageAlt" : "Alabaster 10 - Page 67"
+      } ]
+    } ]
+  } ]
+}

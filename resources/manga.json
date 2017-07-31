@@ -42,19 +42,24 @@
 	"name": "090 - Eko To Issho"
 }, {
 	"mangaId": "1-11",
-	"name": "1/11"
+	"original-name": "1/11",
+	"name": "1-11"
 }, {
 	"mangaId": "1-2-love-",
-	"name": "1/2 Love!"
+	"original-name": "1/2 Love!",
+	"name": "1-2-love"
 }, {
 	"mangaId": "1-2-prince",
-	"name": "1/2 Prince"
+	"original-name": "1/2 Prince",
+	"name": "1-2-prince"
 }, {
 	"mangaId": "1-3-no-kareshi",
-	"name": "1/3 No Kareshi"
+	"original-name": "1/3 No Kareshi",
+	"name": "1-3-no-kareshi"
 }, {
 	"mangaId": "1-3-romantica",
-	"name": "1/3 Romantica"
+	"original-name": "1/3 Romantica",
+	"name": "1-3-romantica"
 }, {
 	"mangaId": "10-dance",
 	"name": "10 Dance"
@@ -282,7 +287,8 @@
 	"name": "Accel World"
 }, {
 	"mangaId": "accel-world---dural---magisa-garden",
-	"name": "Accel World / Dural - Magisa Garden"
+	"original-name": "Accel World / Dural - Magisa Garden",
+	"name": "AccelWorld-DuralMagisaGarden"
 }, {
 	"mangaId": "acchi-kocchi",
 	"name": "Acchi Kocchi"
@@ -4950,7 +4956,8 @@
 	"name": "Himouto! Umaru-chan S"
 }, {
 	"mangaId": "himuro-no-tenchi-fate-school-life",
-	"name": "Himuro no Tenchi Fate/School Life"
+	"original-name": "Himuro no Tenchi Fate/School Life",
+	"name": "Himuro no Tenchi Fate-School Life"	
 }, {
 	"mangaId": "hinadori-girl",
 	"name": "Hinadori Girl"
@@ -5415,7 +5422,8 @@
 	"name": "Infinite Stratos"
 }, {
 	"mangaId": "infinite-stratos-black-bunny-white-bitter",
-	"name": "Infinite Stratos Black Bunny/White Bitter"
+	"original-name": "Infinite Stratos Black Bunny/White Bitter",
+	"name": "Infinite Stratos Black Bunny-White Bitter"
 }, {
 	"mangaId": "infinity-game",
 	"name": "Infinity Game"
@@ -5508,7 +5516,8 @@
 	"name": "Isekai Houtei: Rebuttal Barrister"
 }, {
 	"mangaId": "ism-i",
-	"name": "ism/i"
+	"original-name": "ism/i",
+	"name": "ismi"
 }, {
 	"mangaId": "issho-ni-neyou-yo",
 	"name": "Issho ni Neyou yo"
@@ -6002,8 +6011,9 @@
 	"mangaId": "kao-ga-suki",
 	"name": "Kao ga Suki"
 }, {
-	"mangaId": "kapon---------a-----span-class--mangacompleted---completed---span-------",
-	"name": "Kapon (>_<)!< a=\"\"><span class=\"mangacompleted\">[Completed]</span></)!<>"
+	"mangaId": "kapon",
+	"original-name": "Kapon (>_<)<>",
+	"name": "Kapon-Kapon"
 }, {
 	"mangaId": "kara-no-kyoukai--the-garden-of-sinners",
 	"name": "Kara no Kyoukai: The Garden of Sinners"
@@ -6966,7 +6976,8 @@
 	"name": "Li Ren Man"
 }, {
 	"mangaId": "lian-ai-1-2",
-	"name": "Lian Ai 1/2"
+	"original-name": "Lian Ai 1/2",
+	"name": "lian-ai-12"
 }, {
 	"mangaId": "liar-game",
 	"name": "Liar Game"
@@ -8523,7 +8534,8 @@
 	"name": "Nyan Koi!"
 }, {
 	"mangaId": "o-a",
-	"name": "O/A"
+	"original-name": "O/A",
+	"name": "o-a"
 }, {
 	"mangaId": "obaka-chan-koigatariki",
 	"name": "Obaka-chan Koigatariki"
@@ -9366,7 +9378,8 @@
 	"name": "Ran to Haiiro no Sekai"
 }, {
 	"mangaId": "ranma-1-2",
-	"name": "Ranma 1/2"
+	"original-name": "Ranma 1/2",
+	"name": "ranma-1-2"
 }, {
 	"mangaId": "ransetsuki",
 	"name": "Ransetsuki"

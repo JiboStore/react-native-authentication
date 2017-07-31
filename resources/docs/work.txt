@@ -20,6 +20,17 @@ sbt docker:stage
 cd target/docker/stage
 docker build .
 
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/dockerextension
+az group create --name mangafunResourceGroup --location westus
+FAILED: az group deployment create --resource-group mangafunResourceGroup --parameters '{"newStorageAccountName": {"value": "mangafunStorageAccount"}, "adminUsername": {"value": "mangafunuser"}, "adminPassword": {"value": "Hak1mhauston"}, "dnsNameForPublicIP": {"value": "mangafunpublicdns"}}' --template-uri https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/docker-simple-on-ubuntu/azuredeploy.json
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/docker-machine
+az account show --query "id" -o tsv
+docker-machine create -d azure --azure-subscription-id <output-from-last-command> --azure-ssh-user azureuser --azure-open-port 80 mangafunvm
+docker-machine create -d azure --azure-subscription-id dc4f750d-98f1-4cf6-b67b-6e9e5c505589 --azure-ssh-user azureuser --azure-open-port 80 mangafunvm
+
+https://docs.docker.com/get-started/
+
 List[Future[String]] => Future[List[String]]
 https://stackoverflow.com/a/20012490/474330
 

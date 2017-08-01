@@ -1,0 +1,3 @@
+[submodule "resources/manga"]
+	path = resources/manga
+	url = https://github.com/JiboStore/mangafun-pages.git

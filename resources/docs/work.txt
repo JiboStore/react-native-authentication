@@ -31,6 +31,22 @@ docker-machine create -d azure --azure-subscription-id dc4f750d-98f1-4cf6-b67b-6
 
 https://docs.docker.com/get-started/
 
+https://aws.amazon.com/ecs/
+Amazon EC2 Container Service (ECS) is a highly scalable, high performance container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances.
+
+https://console.aws.amazon.com/ecs/home?region=us-east-1#/firstRun
+aws ecr get-login --no-include-email --region us-east-1 
+docker build -t 217300804996.dkr.ecr.us-east-1.amazonaws.com/mangafunecs:latest .
+
+How to build and publish to aws:
+sbt docker:stage
+cd target/docker/stage
+edit DockerFile and add "EXPOSE 9000" to expose the port
+docker build -t 217300804996.dkr.ecr.us-east-1.amazonaws.com/mangafunecs:latest .
+docker push 217300804996.dkr.ecr.us-east-1.amazonaws.com/mangafunecs:latest
+
+http://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/
+
 List[Future[String]] => Future[List[String]]
 https://stackoverflow.com/a/20012490/474330
 

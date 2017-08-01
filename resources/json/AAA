@@ -1,0 +1,4243 @@
+{
+  "mangaTitle" : "AAA",
+  "mangaUrl" : "http://www.mangareader.net/aaa",
+  "mangaThumbUrl" : "http://s2.mangareader.net/cover/aaa/aaa-r0.jpg",
+  "mangaChaptersInfo" : "15 Chapters Published. (Completed)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Comedy, Romance, School Life, Shoujo",
+  "chapterCount" : 21,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/1",
+    "chapterTitle" : "Jagaaaaaan   1",
+    "chapterDescription" : "",
+    "chapterDate" : "02/13/2017",
+    "pageCount" : 60,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 565,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946295.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946301.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946307.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946313.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946319.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946325.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946331.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946337.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946343.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946349.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946355.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946361.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946367.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946373.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946379.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946385.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946391.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946397.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946403.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946409.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946415.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946421.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946427.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 577,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946433.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946439.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946445.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946451.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946457.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946463.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946469.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946475.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946481.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946487.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946493.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946499.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946505.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946511.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946517.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946523.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946529.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946535.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946541.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946547.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946553.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946559.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946565.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946571.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946577.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946583.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946589.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946595.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946601.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946607.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946613.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946619.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946625.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946631.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946637.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946643.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/1/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/1/jagaaaaaan-8946649.jpg",
+        "imageAlt" : "Jagaaaaaan   1 - Page 60"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/2",
+    "chapterTitle" : "Jagaaaaaan   2",
+    "chapterDescription" : "",
+    "chapterDate" : "04/08/2017",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178663.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178669.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178675.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178681.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178687.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178693.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178699.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178705.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178711.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178717.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178723.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178729.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178735.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178741.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178747.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178753.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178759.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178765.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178771.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178777.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178783.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178789.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178795.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178801.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178807.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178813.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178819.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178825.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178831.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 593,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178837.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/2/jagaaaaaan-9178843.jpg",
+        "imageAlt" : "Jagaaaaaan   2 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/3",
+    "chapterTitle" : "Jagaaaaaan   3",
+    "chapterDescription" : "",
+    "chapterDate" : "04/08/2017",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178849.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178855.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178861.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178867.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178873.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178879.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178885.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178891.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178897.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178903.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178909.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178915.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178921.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178927.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178933.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178939.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178945.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178951.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178957.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178963.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178969.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178975.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178981.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178987.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178993.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/3/jagaaaaaan-9178999.jpg",
+        "imageAlt" : "Jagaaaaaan   3 - Page 26"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/4",
+    "chapterTitle" : "Jagaaaaaan   4",
+    "chapterDescription" : "",
+    "chapterDate" : "04/08/2017",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179005.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179011.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179017.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179023.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179029.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179035.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179041.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179047.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179053.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179059.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179065.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179071.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179077.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179083.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179089.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179095.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179101.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179107.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/4/jagaaaaaan-9179113.jpg",
+        "imageAlt" : "Jagaaaaaan   4 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/5",
+    "chapterTitle" : "Jagaaaaaan   5",
+    "chapterDescription" : "",
+    "chapterDate" : "04/08/2017",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179119.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179125.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179131.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179137.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179143.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179149.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179155.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179161.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179167.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179173.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179179.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179185.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179191.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179197.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 584,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179203.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/5/jagaaaaaan-9179209.jpg",
+        "imageAlt" : "Jagaaaaaan   5 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/6",
+    "chapterTitle" : "Jagaaaaaan   6",
+    "chapterDescription" : "",
+    "chapterDate" : "04/08/2017",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179215.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179221.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179227.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179233.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179239.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179245.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179251.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179257.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179263.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179269.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179275.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179281.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 594,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179287.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179293.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179299.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179305.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179311.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/6/jagaaaaaan-9179317.jpg",
+        "imageAlt" : "Jagaaaaaan   6 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/7",
+    "chapterTitle" : "Jagaaaaaan   7",
+    "chapterDescription" : "",
+    "chapterDate" : "04/08/2017",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179323.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179329.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 584,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179335.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179341.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179347.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179353.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179359.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179365.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179371.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179377.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179383.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179389.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179395.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179401.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179407.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/7/jagaaaaaan-9179413.jpg",
+        "imageAlt" : "Jagaaaaaan   7 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/8",
+    "chapterTitle" : "Jagaaaaaan   8",
+    "chapterDescription" : "",
+    "chapterDate" : "04/08/2017",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179419.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179425.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179431.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179437.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179443.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179449.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179455.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179461.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179467.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179473.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179479.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179485.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179491.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179497.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179503.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179509.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179515.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179521.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179527.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/8/jagaaaaaan-9179533.jpg",
+        "imageAlt" : "Jagaaaaaan   8 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/9",
+    "chapterTitle" : "Jagaaaaaan   9",
+    "chapterDescription" : "",
+    "chapterDate" : "04/08/2017",
+    "pageCount" : 21,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179539.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179545.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179551.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179557.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179563.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179569.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179575.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179581.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179587.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179593.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179599.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179605.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179611.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179617.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179623.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179629.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179635.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179641.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179647.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179653.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/9/jagaaaaaan-9179659.jpg",
+        "imageAlt" : "Jagaaaaaan   9 - Page 21"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/10",
+    "chapterTitle" : "Jagaaaaaan   10",
+    "chapterDescription" : "",
+    "chapterDate" : "04/15/2017",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209683.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209689.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209695.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209701.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209707.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209713.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209719.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209725.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209731.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209737.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209743.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209749.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209755.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209761.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209767.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209773.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209779.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209785.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/10/jagaaaaaan-9209791.jpg",
+        "imageAlt" : "Jagaaaaaan   10 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/11",
+    "chapterTitle" : "Jagaaaaaan   11",
+    "chapterDescription" : "",
+    "chapterDate" : "04/20/2017",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223819.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223825.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223831.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223837.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223843.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223849.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223855.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223861.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1204,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223867.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223873.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223879.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223885.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223891.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223897.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223903.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223909.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223915.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/11/jagaaaaaan-9223921.jpg",
+        "imageAlt" : "Jagaaaaaan   11 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/12",
+    "chapterTitle" : "Jagaaaaaan   12",
+    "chapterDescription" : "",
+    "chapterDate" : "05/28/2017",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332821.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332827.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332833.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332839.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332845.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332851.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332857.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332863.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332869.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332875.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332881.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332887.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332893.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332899.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332905.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 601,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332911.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332917.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/12/jagaaaaaan-9332923.jpg",
+        "imageAlt" : "Jagaaaaaan   12 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/13",
+    "chapterTitle" : "Jagaaaaaan   13",
+    "chapterDescription" : "",
+    "chapterDate" : "05/28/2017",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333043.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333049.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333055.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333061.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333067.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333073.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333079.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333085.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333091.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333097.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333103.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333109.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333115.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333121.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333127.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333133.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333139.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/13/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/13/jagaaaaaan-9333145.jpg",
+        "imageAlt" : "Jagaaaaaan   13 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/14",
+    "chapterTitle" : "Jagaaaaaan   14",
+    "chapterDescription" : "",
+    "chapterDate" : "05/28/2017",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333151.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333157.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333163.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333169.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333175.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333181.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333187.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333193.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333199.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333205.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333211.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333217.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333223.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333229.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333235.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1210,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333241.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1210,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333247.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/14/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/14/jagaaaaaan-9333253.jpg",
+        "imageAlt" : "Jagaaaaaan   14 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/15",
+    "chapterTitle" : "Jagaaaaaan   15",
+    "chapterDescription" : "",
+    "chapterDate" : "05/28/2017",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333259.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333265.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333271.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333277.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333283.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333289.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333295.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333301.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333307.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333313.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333319.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333325.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333331.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333337.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333343.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 601,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333349.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/15/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/15/jagaaaaaan-9333355.jpg",
+        "imageAlt" : "Jagaaaaaan   15 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/16",
+    "chapterTitle" : "Jagaaaaaan   16",
+    "chapterDescription" : "",
+    "chapterDate" : "06/10/2017",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405379.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405385.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 565,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405391.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405397.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405403.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405409.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405415.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405421.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405427.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405433.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405439.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405445.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405451.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405457.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405463.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405469.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 574,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405475.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405481.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405487.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405493.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405499.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405505.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405511.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405517.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405523.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/16/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/16/jagaaaaaan-9405529.jpg",
+        "imageAlt" : "Jagaaaaaan   16 - Page 26"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/17",
+    "chapterTitle" : "Jagaaaaaan   17",
+    "chapterDescription" : "",
+    "chapterDate" : "06/14/2017",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424081.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424087.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424093.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424099.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424105.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424111.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424117.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424123.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424129.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424135.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424141.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424147.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424153.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424159.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424165.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424171.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424177.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424183.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 594,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424189.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/17/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/17/jagaaaaaan-9424195.jpg",
+        "imageAlt" : "Jagaaaaaan   17 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/18",
+    "chapterTitle" : "Jagaaaaaan   18",
+    "chapterDescription" : "",
+    "chapterDate" : "06/18/2017",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446155.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446161.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446167.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446173.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446179.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446185.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446191.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446197.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446203.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446209.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446215.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446221.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446227.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 598,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446233.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446239.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446245.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446251.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446257.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/18/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/18/jagaaaaaan-9446263.jpg",
+        "imageAlt" : "Jagaaaaaan   18 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/19",
+    "chapterTitle" : "Jagaaaaaan   19",
+    "chapterDescription" : "",
+    "chapterDate" : "07/10/2017",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516331.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516337.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516343.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516349.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516355.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516361.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516367.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516373.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516379.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516385.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516391.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516397.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516403.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516409.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516415.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516421.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516427.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/19/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/19/jagaaaaaan-9516433.jpg",
+        "imageAlt" : "Jagaaaaaan   19 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/20",
+    "chapterTitle" : "Jagaaaaaan   20",
+    "chapterDescription" : "",
+    "chapterDate" : "07/13/2017",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530647.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530653.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530659.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530665.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530671.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530677.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530683.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530689.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530695.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530701.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530707.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530713.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530719.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530725.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530731.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530737.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530743.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/20/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/20/jagaaaaaan-9530749.jpg",
+        "imageAlt" : "Jagaaaaaan   20 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/jagaaaaaan/21",
+    "chapterTitle" : "Jagaaaaaan   21",
+    "chapterDescription" : "",
+    "chapterDate" : "07/13/2017",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530755.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530761.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530767.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530773.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i4.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530779.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i10.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530785.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530791.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530797.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530803.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530809.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i2.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530815.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530821.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i1.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530827.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530833.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530839.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530845.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530851.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/jagaaaaaan/21/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i5.mangareader.net/jagaaaaaan/21/jagaaaaaan-9530857.jpg",
+        "imageAlt" : "Jagaaaaaan   21 - Page 18"
+      } ]
+    } ]
+  } ]
+}

@@ -164,6 +164,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
   }
   
   def downloadImageToDir(dirName: String, imageName: String, imageUrl: String) = {
+    Logger.debug("downloading image: " + imageUrl)
     val strFile = dirName + "/" + imageName
     val fileDest = FileUtils.getFile(strFile)
     val wsRequest = wsClient.url(imageUrl)

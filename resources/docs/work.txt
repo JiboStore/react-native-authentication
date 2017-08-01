@@ -18,7 +18,8 @@ docker image rm <image-id-from-running docker images>
 https://stackoverflow.com/a/24850114/474330
 sbt docker:stage
 cd target/docker/stage
-docker build .
+vi DockerFile # and add "EXPOSE 9000" to the last line, after CMD
+docker build -t mangafun:1.0.0 .
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/linux/dockerextension
 az group create --name mangafunResourceGroup --location westus

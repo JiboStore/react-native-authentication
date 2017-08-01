@@ -210,16 +210,23 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     var iCurrentIndex = iStartingIndex
     var iCount = 0
     for ( iCurrentIndex <- iStartingIndex to iEndingIndex ) { // iEndingIndex inclusive
-      val mangaSearchData = lMangaSearchData.get(iCurrentIndex)
-      val oManga = readMangaFromFile(mangaSearchData.name)
-      if ( !oManga.isDefined ) {
-        Logger.error("manga json not found: " + mangaSearchData.name)
-      } else {
-        val m = oManga.get
-        downloadMangaPages(m)
-      } // end if oManga.isDefined
-      iCount = iCount + 1
-      Logger.error("downloaded pages for manga: " + iCurrentIndex + " : " + mangaSearchData.name)
+      try {
+        val mangaSearchData = lMangaSearchData.get(iCurrentIndex)
+        val oManga = readMangaFromFile(mangaSearchData.name)
+        if ( !oManga.isDefined ) {
+          Logger.error("manga json not found: " + mangaSearchData.name)
+        } else {
+          val m = oManga.get
+          downloadMangaPages(m)
+        } // end if oManga.isDefined
+        iCount = iCount + 1
+        Logger.error("downloaded pages for manga: " + iCurrentIndex + " : " + mangaSearchData.name)
+      }       
+      catch {
+        case ex: Exception => {
+          Logger.error("Exception: " + iCurrentIndex)
+        }
+      }
     }
     
     Future {

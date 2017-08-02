@@ -1,0 +1,2204 @@
+{
+  "mangaTitle" : "Bad Company",
+  "mangaUrl" : "http://www.mangareader.net/bad-company",
+  "mangaThumbUrl" : "http://s3.mangareader.net/cover/bad-company/bad-company-r0.jpg",
+  "mangaChaptersInfo" : "10 Chapters Published. (Completed)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Action",
+  "chapterCount" : 10,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/bad-company/1",
+    "chapterTitle" : "Bad Company 1",
+    "chapterDescription" : "",
+    "chapterDate" : "03/12/2010",
+    "pageCount" : 42,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1276,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/1/bad-company-1233530.jpg",
+        "imageAlt" : "Bad Company 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/1/bad-company-1233531.jpg",
+        "imageAlt" : "Bad Company 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1301,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/1/bad-company-1233532.jpg",
+        "imageAlt" : "Bad Company 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1349,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/1/bad-company-1233533.jpg",
+        "imageAlt" : "Bad Company 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/1/bad-company-1233534.jpg",
+        "imageAlt" : "Bad Company 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1294,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/1/bad-company-1233535.jpg",
+        "imageAlt" : "Bad Company 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/1/bad-company-1233536.jpg",
+        "imageAlt" : "Bad Company 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1283,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/1/bad-company-1233537.jpg",
+        "imageAlt" : "Bad Company 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/1/bad-company-1233538.jpg",
+        "imageAlt" : "Bad Company 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/1/bad-company-1233539.jpg",
+        "imageAlt" : "Bad Company 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1275,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/1/bad-company-1233540.jpg",
+        "imageAlt" : "Bad Company 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/1/bad-company-1233541.jpg",
+        "imageAlt" : "Bad Company 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/1/bad-company-1233542.jpg",
+        "imageAlt" : "Bad Company 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1235,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/1/bad-company-1233543.jpg",
+        "imageAlt" : "Bad Company 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1317,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/1/bad-company-1233544.jpg",
+        "imageAlt" : "Bad Company 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/1/bad-company-1233545.jpg",
+        "imageAlt" : "Bad Company 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/1/bad-company-1233546.jpg",
+        "imageAlt" : "Bad Company 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/1/bad-company-1233547.jpg",
+        "imageAlt" : "Bad Company 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1234,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/1/bad-company-1233548.jpg",
+        "imageAlt" : "Bad Company 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1111,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/1/bad-company-1233549.jpg",
+        "imageAlt" : "Bad Company 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/1/bad-company-1233550.jpg",
+        "imageAlt" : "Bad Company 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1279,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/1/bad-company-1233551.jpg",
+        "imageAlt" : "Bad Company 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1293,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/1/bad-company-1233552.jpg",
+        "imageAlt" : "Bad Company 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1297,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/1/bad-company-1233553.jpg",
+        "imageAlt" : "Bad Company 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/1/bad-company-1233554.jpg",
+        "imageAlt" : "Bad Company 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1284,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/1/bad-company-1233555.jpg",
+        "imageAlt" : "Bad Company 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1298,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/1/bad-company-1233556.jpg",
+        "imageAlt" : "Bad Company 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/1/bad-company-1233557.jpg",
+        "imageAlt" : "Bad Company 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1248,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/1/bad-company-1233558.jpg",
+        "imageAlt" : "Bad Company 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1293,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/1/bad-company-1233559.jpg",
+        "imageAlt" : "Bad Company 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/1/bad-company-1233560.jpg",
+        "imageAlt" : "Bad Company 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/1/bad-company-1233561.jpg",
+        "imageAlt" : "Bad Company 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/1/bad-company-1233562.jpg",
+        "imageAlt" : "Bad Company 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1293,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/1/bad-company-1233563.jpg",
+        "imageAlt" : "Bad Company 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/1/bad-company-1233564.jpg",
+        "imageAlt" : "Bad Company 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/1/bad-company-1233565.jpg",
+        "imageAlt" : "Bad Company 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/1/bad-company-1233566.jpg",
+        "imageAlt" : "Bad Company 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/1/bad-company-1233567.jpg",
+        "imageAlt" : "Bad Company 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/1/bad-company-1233568.jpg",
+        "imageAlt" : "Bad Company 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/1/bad-company-1233569.jpg",
+        "imageAlt" : "Bad Company 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/1/bad-company-1233570.jpg",
+        "imageAlt" : "Bad Company 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/bad-company/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/1/bad-company-1233571.jpg",
+        "imageAlt" : "Bad Company 1 - Page 42"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/bad-company/2",
+    "chapterTitle" : "Bad Company 2",
+    "chapterDescription" : "",
+    "chapterDate" : "03/12/2010",
+    "pageCount" : 37,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1271,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/2/bad-company-1233572.jpg",
+        "imageAlt" : "Bad Company 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 629,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/2/bad-company-1233573.jpg",
+        "imageAlt" : "Bad Company 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/2/bad-company-1233574.jpg",
+        "imageAlt" : "Bad Company 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/2/bad-company-1233575.jpg",
+        "imageAlt" : "Bad Company 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/2/bad-company-1233576.jpg",
+        "imageAlt" : "Bad Company 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1298,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/2/bad-company-1233577.jpg",
+        "imageAlt" : "Bad Company 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/2/bad-company-1233578.jpg",
+        "imageAlt" : "Bad Company 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1297,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/2/bad-company-1233579.jpg",
+        "imageAlt" : "Bad Company 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 620,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/2/bad-company-1233580.jpg",
+        "imageAlt" : "Bad Company 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1283,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/2/bad-company-1233581.jpg",
+        "imageAlt" : "Bad Company 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/2/bad-company-1233582.jpg",
+        "imageAlt" : "Bad Company 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/2/bad-company-1233583.jpg",
+        "imageAlt" : "Bad Company 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/2/bad-company-1233584.jpg",
+        "imageAlt" : "Bad Company 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/2/bad-company-1233585.jpg",
+        "imageAlt" : "Bad Company 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1232,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/2/bad-company-1233586.jpg",
+        "imageAlt" : "Bad Company 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/2/bad-company-1233587.jpg",
+        "imageAlt" : "Bad Company 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/2/bad-company-1233588.jpg",
+        "imageAlt" : "Bad Company 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/2/bad-company-1233589.jpg",
+        "imageAlt" : "Bad Company 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/2/bad-company-1233590.jpg",
+        "imageAlt" : "Bad Company 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/2/bad-company-1233591.jpg",
+        "imageAlt" : "Bad Company 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/2/bad-company-1233592.jpg",
+        "imageAlt" : "Bad Company 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1271,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/2/bad-company-1233593.jpg",
+        "imageAlt" : "Bad Company 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1244,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/2/bad-company-1233594.jpg",
+        "imageAlt" : "Bad Company 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1285,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/2/bad-company-1233595.jpg",
+        "imageAlt" : "Bad Company 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/2/bad-company-1233596.jpg",
+        "imageAlt" : "Bad Company 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/2/bad-company-1233597.jpg",
+        "imageAlt" : "Bad Company 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/2/bad-company-1233598.jpg",
+        "imageAlt" : "Bad Company 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1341,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/2/bad-company-1233599.jpg",
+        "imageAlt" : "Bad Company 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/2/bad-company-1233600.jpg",
+        "imageAlt" : "Bad Company 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/2/bad-company-1233601.jpg",
+        "imageAlt" : "Bad Company 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1313,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/2/bad-company-1233602.jpg",
+        "imageAlt" : "Bad Company 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/2/bad-company-1233603.jpg",
+        "imageAlt" : "Bad Company 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1244,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/2/bad-company-1233604.jpg",
+        "imageAlt" : "Bad Company 2 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1333,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/2/bad-company-1233605.jpg",
+        "imageAlt" : "Bad Company 2 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/2/bad-company-1233606.jpg",
+        "imageAlt" : "Bad Company 2 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 631,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/2/bad-company-1233607.jpg",
+        "imageAlt" : "Bad Company 2 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/bad-company/2/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1310,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/2/bad-company-1233608.jpg",
+        "imageAlt" : "Bad Company 2 - Page 37"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/bad-company/3",
+    "chapterTitle" : "Bad Company 3",
+    "chapterDescription" : "",
+    "chapterDate" : "03/12/2010",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/3/bad-company-1233609.jpg",
+        "imageAlt" : "Bad Company 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 627,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/3/bad-company-1233610.jpg",
+        "imageAlt" : "Bad Company 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/3/bad-company-1233611.jpg",
+        "imageAlt" : "Bad Company 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/3/bad-company-1233612.jpg",
+        "imageAlt" : "Bad Company 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/3/bad-company-1233613.jpg",
+        "imageAlt" : "Bad Company 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1221,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/3/bad-company-1233614.jpg",
+        "imageAlt" : "Bad Company 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/3/bad-company-1233615.jpg",
+        "imageAlt" : "Bad Company 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/3/bad-company-1233616.jpg",
+        "imageAlt" : "Bad Company 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1243,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/3/bad-company-1233617.jpg",
+        "imageAlt" : "Bad Company 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/3/bad-company-1233618.jpg",
+        "imageAlt" : "Bad Company 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/3/bad-company-1233619.jpg",
+        "imageAlt" : "Bad Company 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/3/bad-company-1233620.jpg",
+        "imageAlt" : "Bad Company 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1284,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/3/bad-company-1233621.jpg",
+        "imageAlt" : "Bad Company 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1278,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/3/bad-company-1233622.jpg",
+        "imageAlt" : "Bad Company 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 625,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/3/bad-company-1233623.jpg",
+        "imageAlt" : "Bad Company 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/3/bad-company-1233624.jpg",
+        "imageAlt" : "Bad Company 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1276,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/3/bad-company-1233625.jpg",
+        "imageAlt" : "Bad Company 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/bad-company/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1310,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/3/bad-company-1233626.jpg",
+        "imageAlt" : "Bad Company 3 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/bad-company/4",
+    "chapterTitle" : "Bad Company 4",
+    "chapterDescription" : "",
+    "chapterDate" : "03/12/2010",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/4/bad-company-1233627.jpg",
+        "imageAlt" : "Bad Company 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1284,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/4/bad-company-1233628.jpg",
+        "imageAlt" : "Bad Company 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1302,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/4/bad-company-1233629.jpg",
+        "imageAlt" : "Bad Company 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/4/bad-company-1233630.jpg",
+        "imageAlt" : "Bad Company 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/4/bad-company-1233631.jpg",
+        "imageAlt" : "Bad Company 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 627,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/4/bad-company-1233632.jpg",
+        "imageAlt" : "Bad Company 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1303,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/4/bad-company-1233633.jpg",
+        "imageAlt" : "Bad Company 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/4/bad-company-1233634.jpg",
+        "imageAlt" : "Bad Company 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 638,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/4/bad-company-1233635.jpg",
+        "imageAlt" : "Bad Company 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 629,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/4/bad-company-1233636.jpg",
+        "imageAlt" : "Bad Company 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/4/bad-company-1233637.jpg",
+        "imageAlt" : "Bad Company 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/4/bad-company-1233638.jpg",
+        "imageAlt" : "Bad Company 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1366,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/4/bad-company-1233639.jpg",
+        "imageAlt" : "Bad Company 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/4/bad-company-1233640.jpg",
+        "imageAlt" : "Bad Company 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 601,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/4/bad-company-1233641.jpg",
+        "imageAlt" : "Bad Company 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/bad-company/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1310,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/4/bad-company-1233642.jpg",
+        "imageAlt" : "Bad Company 4 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/bad-company/5",
+    "chapterTitle" : "Bad Company 5",
+    "chapterDescription" : "",
+    "chapterDate" : "03/12/2010",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1239,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/5/bad-company-1233643.jpg",
+        "imageAlt" : "Bad Company 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/5/bad-company-1233644.jpg",
+        "imageAlt" : "Bad Company 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1226,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/5/bad-company-1233645.jpg",
+        "imageAlt" : "Bad Company 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/5/bad-company-1233646.jpg",
+        "imageAlt" : "Bad Company 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1338,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/5/bad-company-1233647.jpg",
+        "imageAlt" : "Bad Company 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/5/bad-company-1233648.jpg",
+        "imageAlt" : "Bad Company 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1321,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/5/bad-company-1233649.jpg",
+        "imageAlt" : "Bad Company 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1284,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/5/bad-company-1233650.jpg",
+        "imageAlt" : "Bad Company 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1298,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/5/bad-company-1233651.jpg",
+        "imageAlt" : "Bad Company 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1339,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/5/bad-company-1233652.jpg",
+        "imageAlt" : "Bad Company 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1398,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/5/bad-company-1233653.jpg",
+        "imageAlt" : "Bad Company 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/5/bad-company-1233654.jpg",
+        "imageAlt" : "Bad Company 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/5/bad-company-1233655.jpg",
+        "imageAlt" : "Bad Company 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/5/bad-company-1233656.jpg",
+        "imageAlt" : "Bad Company 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1308,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/5/bad-company-1233657.jpg",
+        "imageAlt" : "Bad Company 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/5/bad-company-1233658.jpg",
+        "imageAlt" : "Bad Company 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1332,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/5/bad-company-1233659.jpg",
+        "imageAlt" : "Bad Company 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/5/bad-company-1233660.jpg",
+        "imageAlt" : "Bad Company 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1325,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/5/bad-company-1233661.jpg",
+        "imageAlt" : "Bad Company 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1251,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/5/bad-company-1233662.jpg",
+        "imageAlt" : "Bad Company 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/5/bad-company-1233663.jpg",
+        "imageAlt" : "Bad Company 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/5/bad-company-1233664.jpg",
+        "imageAlt" : "Bad Company 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1317,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/5/bad-company-1233665.jpg",
+        "imageAlt" : "Bad Company 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1244,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/5/bad-company-1233666.jpg",
+        "imageAlt" : "Bad Company 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1314,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/5/bad-company-1233667.jpg",
+        "imageAlt" : "Bad Company 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/bad-company/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/5/bad-company-1233668.jpg",
+        "imageAlt" : "Bad Company 5 - Page 26"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/bad-company/6",
+    "chapterTitle" : "Bad Company 6",
+    "chapterDescription" : "",
+    "chapterDate" : "03/12/2010",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/6/bad-company-1233669.jpg",
+        "imageAlt" : "Bad Company 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/6/bad-company-1233670.jpg",
+        "imageAlt" : "Bad Company 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/6/bad-company-1233671.jpg",
+        "imageAlt" : "Bad Company 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1283,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/6/bad-company-1233672.jpg",
+        "imageAlt" : "Bad Company 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/6/bad-company-1233673.jpg",
+        "imageAlt" : "Bad Company 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/6/bad-company-1233674.jpg",
+        "imageAlt" : "Bad Company 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1231,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/6/bad-company-1233675.jpg",
+        "imageAlt" : "Bad Company 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/6/bad-company-1233676.jpg",
+        "imageAlt" : "Bad Company 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1218,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/6/bad-company-1233677.jpg",
+        "imageAlt" : "Bad Company 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/6/bad-company-1233678.jpg",
+        "imageAlt" : "Bad Company 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/6/bad-company-1233679.jpg",
+        "imageAlt" : "Bad Company 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/6/bad-company-1233680.jpg",
+        "imageAlt" : "Bad Company 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1279,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/6/bad-company-1233681.jpg",
+        "imageAlt" : "Bad Company 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/6/bad-company-1233682.jpg",
+        "imageAlt" : "Bad Company 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/6/bad-company-1233683.jpg",
+        "imageAlt" : "Bad Company 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/6/bad-company-1233684.jpg",
+        "imageAlt" : "Bad Company 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/6/bad-company-1233685.jpg",
+        "imageAlt" : "Bad Company 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/6/bad-company-1233686.jpg",
+        "imageAlt" : "Bad Company 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/6/bad-company-1233687.jpg",
+        "imageAlt" : "Bad Company 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/bad-company/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/6/bad-company-1233688.jpg",
+        "imageAlt" : "Bad Company 6 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/bad-company/7",
+    "chapterTitle" : "Bad Company 7",
+    "chapterDescription" : "",
+    "chapterDate" : "03/12/2010",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/7/bad-company-1233689.jpg",
+        "imageAlt" : "Bad Company 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/7/bad-company-1233690.jpg",
+        "imageAlt" : "Bad Company 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/7/bad-company-1233691.jpg",
+        "imageAlt" : "Bad Company 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 604,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/7/bad-company-1233692.jpg",
+        "imageAlt" : "Bad Company 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/7/bad-company-1233693.jpg",
+        "imageAlt" : "Bad Company 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1226,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/7/bad-company-1233694.jpg",
+        "imageAlt" : "Bad Company 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/7/bad-company-1233695.jpg",
+        "imageAlt" : "Bad Company 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/7/bad-company-1233696.jpg",
+        "imageAlt" : "Bad Company 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/7/bad-company-1233697.jpg",
+        "imageAlt" : "Bad Company 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/7/bad-company-1233698.jpg",
+        "imageAlt" : "Bad Company 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/7/bad-company-1233699.jpg",
+        "imageAlt" : "Bad Company 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/7/bad-company-1233700.jpg",
+        "imageAlt" : "Bad Company 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/7/bad-company-1233701.jpg",
+        "imageAlt" : "Bad Company 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/7/bad-company-1233702.jpg",
+        "imageAlt" : "Bad Company 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/7/bad-company-1233703.jpg",
+        "imageAlt" : "Bad Company 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/7/bad-company-1233704.jpg",
+        "imageAlt" : "Bad Company 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/7/bad-company-1233705.jpg",
+        "imageAlt" : "Bad Company 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/7/bad-company-1233706.jpg",
+        "imageAlt" : "Bad Company 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/bad-company/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i3.mangareader.net/bad-company/7/bad-company-1233707.jpg",
+        "imageAlt" : "Bad Company 7 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/bad-company/8",
+    "chapterTitle" : "Bad Company 8",
+    "chapterDescription" : "",
+    "chapterDate" : "03/12/2010",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1308,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/8/bad-company-1233708.jpg",
+        "imageAlt" : "Bad Company 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/8/bad-company-1233709.jpg",
+        "imageAlt" : "Bad Company 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1209,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/8/bad-company-1233710.jpg",
+        "imageAlt" : "Bad Company 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/8/bad-company-1233711.jpg",
+        "imageAlt" : "Bad Company 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/8/bad-company-1233712.jpg",
+        "imageAlt" : "Bad Company 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/8/bad-company-1233713.jpg",
+        "imageAlt" : "Bad Company 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1218,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/8/bad-company-1233714.jpg",
+        "imageAlt" : "Bad Company 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/8/bad-company-1233715.jpg",
+        "imageAlt" : "Bad Company 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/8/bad-company-1233716.jpg",
+        "imageAlt" : "Bad Company 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/8/bad-company-1233717.jpg",
+        "imageAlt" : "Bad Company 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/8/bad-company-1233718.jpg",
+        "imageAlt" : "Bad Company 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/8/bad-company-1233719.jpg",
+        "imageAlt" : "Bad Company 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/8/bad-company-1233720.jpg",
+        "imageAlt" : "Bad Company 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/8/bad-company-1233721.jpg",
+        "imageAlt" : "Bad Company 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i7.mangareader.net/bad-company/8/bad-company-1233722.jpg",
+        "imageAlt" : "Bad Company 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/8/bad-company-1233723.jpg",
+        "imageAlt" : "Bad Company 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/8/bad-company-1233724.jpg",
+        "imageAlt" : "Bad Company 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i5.mangareader.net/bad-company/8/bad-company-1233725.jpg",
+        "imageAlt" : "Bad Company 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/bad-company/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/8/bad-company-1233726.jpg",
+        "imageAlt" : "Bad Company 8 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/bad-company/9",
+    "chapterTitle" : "Bad Company 9",
+    "chapterDescription" : "",
+    "chapterDate" : "03/12/2010",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1231,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/9/bad-company-1233727.jpg",
+        "imageAlt" : "Bad Company 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/9/bad-company-1233728.jpg",
+        "imageAlt" : "Bad Company 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/9/bad-company-1233729.jpg",
+        "imageAlt" : "Bad Company 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/9/bad-company-1233730.jpg",
+        "imageAlt" : "Bad Company 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/9/bad-company-1233731.jpg",
+        "imageAlt" : "Bad Company 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/9/bad-company-1233732.jpg",
+        "imageAlt" : "Bad Company 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/9/bad-company-1233733.jpg",
+        "imageAlt" : "Bad Company 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1278,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/9/bad-company-1233734.jpg",
+        "imageAlt" : "Bad Company 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1245,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/9/bad-company-1233735.jpg",
+        "imageAlt" : "Bad Company 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1276,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/9/bad-company-1233736.jpg",
+        "imageAlt" : "Bad Company 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/9/bad-company-1233737.jpg",
+        "imageAlt" : "Bad Company 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/9/bad-company-1233738.jpg",
+        "imageAlt" : "Bad Company 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/9/bad-company-1233739.jpg",
+        "imageAlt" : "Bad Company 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/9/bad-company-1233740.jpg",
+        "imageAlt" : "Bad Company 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/9/bad-company-1233741.jpg",
+        "imageAlt" : "Bad Company 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 617,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/9/bad-company-1233742.jpg",
+        "imageAlt" : "Bad Company 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/9/bad-company-1233743.jpg",
+        "imageAlt" : "Bad Company 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/bad-company/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/9/bad-company-1233744.jpg",
+        "imageAlt" : "Bad Company 9 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/bad-company/10",
+    "chapterTitle" : "Bad Company 10",
+    "chapterDescription" : "",
+    "chapterDate" : "03/12/2010",
+    "pageCount" : 21,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1235,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/10/bad-company-1233745.jpg",
+        "imageAlt" : "Bad Company 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/10/bad-company-1233746.jpg",
+        "imageAlt" : "Bad Company 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/10/bad-company-1233747.jpg",
+        "imageAlt" : "Bad Company 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/10/bad-company-1233748.jpg",
+        "imageAlt" : "Bad Company 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/10/bad-company-1233749.jpg",
+        "imageAlt" : "Bad Company 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i8.mangareader.net/bad-company/10/bad-company-1233750.jpg",
+        "imageAlt" : "Bad Company 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/10/bad-company-1233751.jpg",
+        "imageAlt" : "Bad Company 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/10/bad-company-1233752.jpg",
+        "imageAlt" : "Bad Company 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/10/bad-company-1233753.jpg",
+        "imageAlt" : "Bad Company 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/10/bad-company-1233754.jpg",
+        "imageAlt" : "Bad Company 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i6.mangareader.net/bad-company/10/bad-company-1233755.jpg",
+        "imageAlt" : "Bad Company 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1342,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/10/bad-company-1233756.jpg",
+        "imageAlt" : "Bad Company 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1281,
+        "imageUrl" : "http://i2.mangareader.net/bad-company/10/bad-company-1233757.jpg",
+        "imageAlt" : "Bad Company 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i4.mangareader.net/bad-company/10/bad-company-1233758.jpg",
+        "imageAlt" : "Bad Company 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i10.mangareader.net/bad-company/10/bad-company-1233759.jpg",
+        "imageAlt" : "Bad Company 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/10/bad-company-1233760.jpg",
+        "imageAlt" : "Bad Company 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/10/bad-company-1233761.jpg",
+        "imageAlt" : "Bad Company 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1281,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/10/bad-company-1233762.jpg",
+        "imageAlt" : "Bad Company 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1243,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/10/bad-company-1233763.jpg",
+        "imageAlt" : "Bad Company 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i1.mangareader.net/bad-company/10/bad-company-1233764.jpg",
+        "imageAlt" : "Bad Company 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/bad-company/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i9.mangareader.net/bad-company/10/bad-company-1233765.jpg",
+        "imageAlt" : "Bad Company 10 - Page 21"
+      } ]
+    } ]
+  } ]
+}

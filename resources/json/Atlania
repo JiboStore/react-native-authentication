@@ -1,0 +1,245 @@
+{
+  "mangaTitle" : "Atlania",
+  "mangaUrl" : "http://www.mangareader.net/atlania",
+  "mangaThumbUrl" : "http://s5.mangareader.net/cover/atlania/atlania-r0.jpg",
+  "mangaChaptersInfo" : "4 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manhwa (Read Left to Right)",
+  "mangaGenre" : "Comedy, Supernatural",
+  "chapterCount" : 4,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/atlania/1",
+    "chapterTitle" : "Atlania 1",
+    "chapterDescription" : "",
+    "chapterDate" : "08/24/2013",
+    "pageCount" : 4,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/atlania/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3478,
+        "imageUrl" : "http://i10.mangareader.net/atlania/1/atlania-4401525.jpg",
+        "imageAlt" : "Atlania 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/atlania/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3478,
+        "imageUrl" : "http://i8.mangareader.net/atlania/1/atlania-4401527.jpg",
+        "imageAlt" : "Atlania 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/atlania/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3478,
+        "imageUrl" : "http://i10.mangareader.net/atlania/1/atlania-4401529.jpg",
+        "imageAlt" : "Atlania 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/atlania/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3478,
+        "imageUrl" : "http://i2.mangareader.net/atlania/1/atlania-4401531.jpg",
+        "imageAlt" : "Atlania 1 - Page 4"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/atlania/2",
+    "chapterTitle" : "Atlania 2",
+    "chapterDescription" : "",
+    "chapterDate" : "08/24/2013",
+    "pageCount" : 6,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/atlania/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 793,
+        "imageUrl" : "http://i1.mangareader.net/atlania/2/atlania-4401533.jpg",
+        "imageAlt" : "Atlania 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/atlania/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2319,
+        "imageUrl" : "http://i1.mangareader.net/atlania/2/atlania-4401535.jpg",
+        "imageAlt" : "Atlania 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/atlania/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2319,
+        "imageUrl" : "http://i9.mangareader.net/atlania/2/atlania-4401537.jpg",
+        "imageAlt" : "Atlania 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/atlania/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2319,
+        "imageUrl" : "http://i3.mangareader.net/atlania/2/atlania-4401539.jpg",
+        "imageAlt" : "Atlania 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/atlania/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2319,
+        "imageUrl" : "http://i5.mangareader.net/atlania/2/atlania-4401541.jpg",
+        "imageAlt" : "Atlania 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/atlania/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1419,
+        "imageUrl" : "http://i9.mangareader.net/atlania/2/atlania-4401543.jpg",
+        "imageAlt" : "Atlania 2 - Page 6"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/atlania/3",
+    "chapterTitle" : "Atlania 3",
+    "chapterDescription" : "",
+    "chapterDate" : "08/24/2013",
+    "pageCount" : 6,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/atlania/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 793,
+        "imageUrl" : "http://i8.mangareader.net/atlania/3/atlania-4401545.jpg",
+        "imageAlt" : "Atlania 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/atlania/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2319,
+        "imageUrl" : "http://i2.mangareader.net/atlania/3/atlania-4401547.jpg",
+        "imageAlt" : "Atlania 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/atlania/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2319,
+        "imageUrl" : "http://i8.mangareader.net/atlania/3/atlania-4401549.jpg",
+        "imageAlt" : "Atlania 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/atlania/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2319,
+        "imageUrl" : "http://i6.mangareader.net/atlania/3/atlania-4401551.jpg",
+        "imageAlt" : "Atlania 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/atlania/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2319,
+        "imageUrl" : "http://i8.mangareader.net/atlania/3/atlania-4401553.jpg",
+        "imageAlt" : "Atlania 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/atlania/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1987,
+        "imageUrl" : "http://i10.mangareader.net/atlania/3/atlania-4401555.jpg",
+        "imageAlt" : "Atlania 3 - Page 6"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/atlania/4",
+    "chapterTitle" : "Atlania 4",
+    "chapterDescription" : "",
+    "chapterDate" : "09/11/2013",
+    "pageCount" : 7,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/atlania/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 793,
+        "imageUrl" : "http://i1.mangareader.net/atlania/4/atlania-4449495.jpg",
+        "imageAlt" : "Atlania 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/atlania/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2899,
+        "imageUrl" : "http://i1.mangareader.net/atlania/4/atlania-4449497.jpg",
+        "imageAlt" : "Atlania 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/atlania/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2899,
+        "imageUrl" : "http://i5.mangareader.net/atlania/4/atlania-4449499.jpg",
+        "imageAlt" : "Atlania 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/atlania/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2899,
+        "imageUrl" : "http://i1.mangareader.net/atlania/4/atlania-4449501.jpg",
+        "imageAlt" : "Atlania 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/atlania/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2899,
+        "imageUrl" : "http://i7.mangareader.net/atlania/4/atlania-4449503.jpg",
+        "imageAlt" : "Atlania 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/atlania/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2899,
+        "imageUrl" : "http://i7.mangareader.net/atlania/4/atlania-4449505.jpg",
+        "imageAlt" : "Atlania 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/atlania/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3339,
+        "imageUrl" : "http://i3.mangareader.net/atlania/4/atlania-4449507.jpg",
+        "imageAlt" : "Atlania 4 - Page 7"
+      } ]
+    } ]
+  } ]
+}

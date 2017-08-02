@@ -1,0 +1,416 @@
+{
+  "mangaTitle" : "Area of Z",
+  "mangaUrl" : "http://www.mangareader.net/area-of-z",
+  "mangaThumbUrl" : "http://s3.mangareader.net/cover/area-of-z/area-of-z-r0.jpg",
+  "mangaChaptersInfo" : "4 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manhwa (Read Left to Right)",
+  "mangaGenre" : "Action, Fantasy",
+  "chapterCount" : 4,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/area-of-z/1",
+    "chapterTitle" : "Area of Z 1",
+    "chapterDescription" : "",
+    "chapterDate" : "08/27/2014",
+    "pageCount" : 15,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4415,
+        "imageUrl" : "http://i4.mangareader.net/area-of-z/1/area-of-z-5155055.jpg",
+        "imageAlt" : "Area of Z 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6001,
+        "imageUrl" : "http://i6.mangareader.net/area-of-z/1/area-of-z-5155057.jpg",
+        "imageAlt" : "Area of Z 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6158,
+        "imageUrl" : "http://i10.mangareader.net/area-of-z/1/area-of-z-5155059.jpg",
+        "imageAlt" : "Area of Z 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5870,
+        "imageUrl" : "http://i7.mangareader.net/area-of-z/1/area-of-z-5155061.jpg",
+        "imageAlt" : "Area of Z 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6386,
+        "imageUrl" : "http://i5.mangareader.net/area-of-z/1/area-of-z-5155063.jpg",
+        "imageAlt" : "Area of Z 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1627,
+        "imageUrl" : "http://i1.mangareader.net/area-of-z/1/area-of-z-5155065.jpg",
+        "imageAlt" : "Area of Z 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1627,
+        "imageUrl" : "http://i3.mangareader.net/area-of-z/1/area-of-z-5155067.jpg",
+        "imageAlt" : "Area of Z 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4684,
+        "imageUrl" : "http://i1.mangareader.net/area-of-z/1/area-of-z-5155069.jpg",
+        "imageAlt" : "Area of Z 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3523,
+        "imageUrl" : "http://i3.mangareader.net/area-of-z/1/area-of-z-5155071.jpg",
+        "imageAlt" : "Area of Z 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3214,
+        "imageUrl" : "http://i7.mangareader.net/area-of-z/1/area-of-z-5155073.jpg",
+        "imageAlt" : "Area of Z 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5728,
+        "imageUrl" : "http://i7.mangareader.net/area-of-z/1/area-of-z-5155075.jpg",
+        "imageAlt" : "Area of Z 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5361,
+        "imageUrl" : "http://i3.mangareader.net/area-of-z/1/area-of-z-5155077.jpg",
+        "imageAlt" : "Area of Z 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3979,
+        "imageUrl" : "http://i3.mangareader.net/area-of-z/1/area-of-z-5155079.jpg",
+        "imageAlt" : "Area of Z 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4020,
+        "imageUrl" : "http://i9.mangareader.net/area-of-z/1/area-of-z-5155081.jpg",
+        "imageAlt" : "Area of Z 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1005,
+        "imageUrl" : "http://i7.mangareader.net/area-of-z/1/area-of-z-5155083.jpg",
+        "imageAlt" : "Area of Z 1 - Page 15"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/area-of-z/2",
+    "chapterTitle" : "Area of Z 2",
+    "chapterDescription" : "",
+    "chapterDate" : "08/29/2014",
+    "pageCount" : 10,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1627,
+        "imageUrl" : "http://i10.mangareader.net/area-of-z/2/area-of-z-5162045.jpg",
+        "imageAlt" : "Area of Z 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5230,
+        "imageUrl" : "http://i8.mangareader.net/area-of-z/2/area-of-z-5162047.jpg",
+        "imageAlt" : "Area of Z 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5096,
+        "imageUrl" : "http://i2.mangareader.net/area-of-z/2/area-of-z-5162049.jpg",
+        "imageAlt" : "Area of Z 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5165,
+        "imageUrl" : "http://i6.mangareader.net/area-of-z/2/area-of-z-5162051.jpg",
+        "imageAlt" : "Area of Z 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3820,
+        "imageUrl" : "http://i4.mangareader.net/area-of-z/2/area-of-z-5162053.jpg",
+        "imageAlt" : "Area of Z 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4836,
+        "imageUrl" : "http://i4.mangareader.net/area-of-z/2/area-of-z-5162055.jpg",
+        "imageAlt" : "Area of Z 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3191,
+        "imageUrl" : "http://i2.mangareader.net/area-of-z/2/area-of-z-5162057.jpg",
+        "imageAlt" : "Area of Z 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4737,
+        "imageUrl" : "http://i4.mangareader.net/area-of-z/2/area-of-z-5162059.jpg",
+        "imageAlt" : "Area of Z 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6604,
+        "imageUrl" : "http://i7.mangareader.net/area-of-z/2/area-of-z-5162061.jpg",
+        "imageAlt" : "Area of Z 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1005,
+        "imageUrl" : "http://i5.mangareader.net/area-of-z/2/area-of-z-5162063.jpg",
+        "imageAlt" : "Area of Z 2 - Page 10"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/area-of-z/3",
+    "chapterTitle" : "Area of Z 3",
+    "chapterDescription" : "",
+    "chapterDate" : "09/14/2014",
+    "pageCount" : 10,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1005,
+        "imageUrl" : "http://i10.mangareader.net/area-of-z/3/area-of-z-5192337.jpg",
+        "imageAlt" : "Area of Z 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 679,
+        "imageUrl" : "http://i4.mangareader.net/area-of-z/3/area-of-z-5192339.jpg",
+        "imageAlt" : "Area of Z 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1627,
+        "imageUrl" : "http://i8.mangareader.net/area-of-z/3/area-of-z-5192341.jpg",
+        "imageAlt" : "Area of Z 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4012,
+        "imageUrl" : "http://i2.mangareader.net/area-of-z/3/area-of-z-5192343.jpg",
+        "imageAlt" : "Area of Z 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4415,
+        "imageUrl" : "http://i8.mangareader.net/area-of-z/3/area-of-z-5192345.jpg",
+        "imageAlt" : "Area of Z 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4369,
+        "imageUrl" : "http://i4.mangareader.net/area-of-z/3/area-of-z-5192347.jpg",
+        "imageAlt" : "Area of Z 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4217,
+        "imageUrl" : "http://i10.mangareader.net/area-of-z/3/area-of-z-5192349.jpg",
+        "imageAlt" : "Area of Z 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4217,
+        "imageUrl" : "http://i10.mangareader.net/area-of-z/3/area-of-z-5192351.jpg",
+        "imageAlt" : "Area of Z 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3948,
+        "imageUrl" : "http://i8.mangareader.net/area-of-z/3/area-of-z-5192353.jpg",
+        "imageAlt" : "Area of Z 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3503,
+        "imageUrl" : "http://i10.mangareader.net/area-of-z/3/area-of-z-5192355.jpg",
+        "imageAlt" : "Area of Z 3 - Page 10"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/area-of-z/4",
+    "chapterTitle" : "Area of Z 4",
+    "chapterDescription" : "",
+    "chapterDate" : "09/15/2014",
+    "pageCount" : 7,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1005,
+        "imageUrl" : "http://i7.mangareader.net/area-of-z/4/area-of-z-5194081.jpg",
+        "imageAlt" : "Area of Z 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2355,
+        "imageUrl" : "http://i7.mangareader.net/area-of-z/4/area-of-z-5194083.jpg",
+        "imageAlt" : "Area of Z 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1627,
+        "imageUrl" : "http://i3.mangareader.net/area-of-z/4/area-of-z-5194085.jpg",
+        "imageAlt" : "Area of Z 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5054,
+        "imageUrl" : "http://i1.mangareader.net/area-of-z/4/area-of-z-5194087.jpg",
+        "imageAlt" : "Area of Z 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4715,
+        "imageUrl" : "http://i5.mangareader.net/area-of-z/4/area-of-z-5194089.jpg",
+        "imageAlt" : "Area of Z 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5136,
+        "imageUrl" : "http://i3.mangareader.net/area-of-z/4/area-of-z-5194091.jpg",
+        "imageAlt" : "Area of Z 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/area-of-z/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3246,
+        "imageUrl" : "http://i1.mangareader.net/area-of-z/4/area-of-z-5194093.jpg",
+        "imageAlt" : "Area of Z 4 - Page 7"
+      } ]
+    } ]
+  } ]
+}

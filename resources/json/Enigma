@@ -1,0 +1,5250 @@
+{
+  "mangaTitle" : "Enigma",
+  "mangaUrl" : "http://www.mangareader.net/enigma",
+  "mangaThumbUrl" : "http://s3.mangareader.net/cover/enigma/enigma-r0.jpg",
+  "mangaChaptersInfo" : "56 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Mystery, Shounen, Supernatural",
+  "chapterCount" : 44,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/blackout/1",
+    "chapterTitle" : "Blackout 1",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/1/blackout-6520903.jpg",
+        "imageAlt" : "Blackout 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/1/blackout-6520909.jpg",
+        "imageAlt" : "Blackout 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/1/blackout-6520915.jpg",
+        "imageAlt" : "Blackout 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/1/blackout-6520921.jpg",
+        "imageAlt" : "Blackout 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/1/blackout-6520927.jpg",
+        "imageAlt" : "Blackout 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/1/blackout-6520933.jpg",
+        "imageAlt" : "Blackout 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/1/blackout-6520939.jpg",
+        "imageAlt" : "Blackout 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/1/blackout-6520945.jpg",
+        "imageAlt" : "Blackout 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/1/blackout-6520951.jpg",
+        "imageAlt" : "Blackout 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/1/blackout-6520957.jpg",
+        "imageAlt" : "Blackout 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/1/blackout-6520963.jpg",
+        "imageAlt" : "Blackout 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/1/blackout-6520969.jpg",
+        "imageAlt" : "Blackout 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/1/blackout-6520975.jpg",
+        "imageAlt" : "Blackout 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/blackout/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/1/blackout-6520981.jpg",
+        "imageAlt" : "Blackout 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/blackout/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/1/blackout-6520987.jpg",
+        "imageAlt" : "Blackout 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/blackout/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/1/blackout-6520993.jpg",
+        "imageAlt" : "Blackout 1 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/2",
+    "chapterTitle" : "Blackout 2",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/2/blackout-6520999.jpg",
+        "imageAlt" : "Blackout 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/2/blackout-6521005.jpg",
+        "imageAlt" : "Blackout 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/2/blackout-6521011.jpg",
+        "imageAlt" : "Blackout 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/2/blackout-6521017.jpg",
+        "imageAlt" : "Blackout 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/2/blackout-6521023.jpg",
+        "imageAlt" : "Blackout 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/2/blackout-6521029.jpg",
+        "imageAlt" : "Blackout 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/2/blackout-6521035.jpg",
+        "imageAlt" : "Blackout 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/2/blackout-6521041.jpg",
+        "imageAlt" : "Blackout 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/2/blackout-6521047.jpg",
+        "imageAlt" : "Blackout 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/2/blackout-6521053.jpg",
+        "imageAlt" : "Blackout 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/2/blackout-6521059.jpg",
+        "imageAlt" : "Blackout 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/2/blackout-6521065.jpg",
+        "imageAlt" : "Blackout 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/2/blackout-6521071.jpg",
+        "imageAlt" : "Blackout 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/2/blackout-6521077.jpg",
+        "imageAlt" : "Blackout 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/2/blackout-6521083.jpg",
+        "imageAlt" : "Blackout 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/2/blackout-6521089.jpg",
+        "imageAlt" : "Blackout 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/2/blackout-6521095.jpg",
+        "imageAlt" : "Blackout 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/blackout/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/2/blackout-6521101.jpg",
+        "imageAlt" : "Blackout 2 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/3",
+    "chapterTitle" : "Blackout 3",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/3/blackout-6521107.jpg",
+        "imageAlt" : "Blackout 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/3/blackout-6521113.jpg",
+        "imageAlt" : "Blackout 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/3/blackout-6521119.jpg",
+        "imageAlt" : "Blackout 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/3/blackout-6521125.jpg",
+        "imageAlt" : "Blackout 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/3/blackout-6521131.jpg",
+        "imageAlt" : "Blackout 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/3/blackout-6521137.jpg",
+        "imageAlt" : "Blackout 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/3/blackout-6521143.jpg",
+        "imageAlt" : "Blackout 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/3/blackout-6521149.jpg",
+        "imageAlt" : "Blackout 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/3/blackout-6521155.jpg",
+        "imageAlt" : "Blackout 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/3/blackout-6521161.jpg",
+        "imageAlt" : "Blackout 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/3/blackout-6521167.jpg",
+        "imageAlt" : "Blackout 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/3/blackout-6521173.jpg",
+        "imageAlt" : "Blackout 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/3/blackout-6521179.jpg",
+        "imageAlt" : "Blackout 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/blackout/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/3/blackout-6521185.jpg",
+        "imageAlt" : "Blackout 3 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/4",
+    "chapterTitle" : "Blackout 4",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/4/blackout-6521191.jpg",
+        "imageAlt" : "Blackout 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/4/blackout-6521197.jpg",
+        "imageAlt" : "Blackout 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/4/blackout-6521203.jpg",
+        "imageAlt" : "Blackout 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/4/blackout-6521209.jpg",
+        "imageAlt" : "Blackout 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/4/blackout-6521215.jpg",
+        "imageAlt" : "Blackout 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/4/blackout-6521221.jpg",
+        "imageAlt" : "Blackout 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/4/blackout-6521227.jpg",
+        "imageAlt" : "Blackout 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/4/blackout-6521233.jpg",
+        "imageAlt" : "Blackout 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/4/blackout-6521239.jpg",
+        "imageAlt" : "Blackout 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/4/blackout-6521245.jpg",
+        "imageAlt" : "Blackout 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/4/blackout-6521251.jpg",
+        "imageAlt" : "Blackout 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/4/blackout-6521257.jpg",
+        "imageAlt" : "Blackout 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/4/blackout-6521263.jpg",
+        "imageAlt" : "Blackout 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/blackout/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/4/blackout-6521269.jpg",
+        "imageAlt" : "Blackout 4 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/5",
+    "chapterTitle" : "Blackout 5",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/5/blackout-6521275.jpg",
+        "imageAlt" : "Blackout 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/5/blackout-6521281.jpg",
+        "imageAlt" : "Blackout 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/5/blackout-6521287.jpg",
+        "imageAlt" : "Blackout 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/5/blackout-6521293.jpg",
+        "imageAlt" : "Blackout 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/5/blackout-6521299.jpg",
+        "imageAlt" : "Blackout 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/5/blackout-6521305.jpg",
+        "imageAlt" : "Blackout 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/5/blackout-6521311.jpg",
+        "imageAlt" : "Blackout 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/5/blackout-6521317.jpg",
+        "imageAlt" : "Blackout 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/5/blackout-6521323.jpg",
+        "imageAlt" : "Blackout 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/5/blackout-6521329.jpg",
+        "imageAlt" : "Blackout 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/5/blackout-6521335.jpg",
+        "imageAlt" : "Blackout 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/5/blackout-6521341.jpg",
+        "imageAlt" : "Blackout 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/5/blackout-6521347.jpg",
+        "imageAlt" : "Blackout 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/blackout/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/5/blackout-6521353.jpg",
+        "imageAlt" : "Blackout 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/blackout/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/5/blackout-6521359.jpg",
+        "imageAlt" : "Blackout 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/blackout/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/5/blackout-6521365.jpg",
+        "imageAlt" : "Blackout 5 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/6",
+    "chapterTitle" : "Blackout 6",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/6/blackout-6521371.jpg",
+        "imageAlt" : "Blackout 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/6/blackout-6521377.jpg",
+        "imageAlt" : "Blackout 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/6/blackout-6521383.jpg",
+        "imageAlt" : "Blackout 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/6/blackout-6521389.jpg",
+        "imageAlt" : "Blackout 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/6/blackout-6521395.jpg",
+        "imageAlt" : "Blackout 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/6/blackout-6521401.jpg",
+        "imageAlt" : "Blackout 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/6/blackout-6521407.jpg",
+        "imageAlt" : "Blackout 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/6/blackout-6521413.jpg",
+        "imageAlt" : "Blackout 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/6/blackout-6521419.jpg",
+        "imageAlt" : "Blackout 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/6/blackout-6521425.jpg",
+        "imageAlt" : "Blackout 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/6/blackout-6521431.jpg",
+        "imageAlt" : "Blackout 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/6/blackout-6521437.jpg",
+        "imageAlt" : "Blackout 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/6/blackout-6521443.jpg",
+        "imageAlt" : "Blackout 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/blackout/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/6/blackout-6521449.jpg",
+        "imageAlt" : "Blackout 6 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/7",
+    "chapterTitle" : "Blackout 7",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/7/blackout-6521455.jpg",
+        "imageAlt" : "Blackout 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/7/blackout-6521461.jpg",
+        "imageAlt" : "Blackout 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/7/blackout-6521467.jpg",
+        "imageAlt" : "Blackout 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/7/blackout-6521473.jpg",
+        "imageAlt" : "Blackout 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/7/blackout-6521479.jpg",
+        "imageAlt" : "Blackout 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/7/blackout-6521485.jpg",
+        "imageAlt" : "Blackout 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/7/blackout-6521491.jpg",
+        "imageAlt" : "Blackout 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/7/blackout-6521497.jpg",
+        "imageAlt" : "Blackout 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/7/blackout-6521503.jpg",
+        "imageAlt" : "Blackout 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/7/blackout-6521509.jpg",
+        "imageAlt" : "Blackout 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/7/blackout-6521515.jpg",
+        "imageAlt" : "Blackout 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/7/blackout-6521521.jpg",
+        "imageAlt" : "Blackout 7 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/8",
+    "chapterTitle" : "Blackout 8",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/8/blackout-6521527.jpg",
+        "imageAlt" : "Blackout 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/8/blackout-6521533.jpg",
+        "imageAlt" : "Blackout 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/8/blackout-6521539.jpg",
+        "imageAlt" : "Blackout 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/8/blackout-6521545.jpg",
+        "imageAlt" : "Blackout 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/8/blackout-6521551.jpg",
+        "imageAlt" : "Blackout 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/8/blackout-6521557.jpg",
+        "imageAlt" : "Blackout 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/8/blackout-6521563.jpg",
+        "imageAlt" : "Blackout 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/8/blackout-6521569.jpg",
+        "imageAlt" : "Blackout 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/8/blackout-6521575.jpg",
+        "imageAlt" : "Blackout 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/8/blackout-6521581.jpg",
+        "imageAlt" : "Blackout 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/8/blackout-6521587.jpg",
+        "imageAlt" : "Blackout 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/8/blackout-6521593.jpg",
+        "imageAlt" : "Blackout 8 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/9",
+    "chapterTitle" : "Blackout 9",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/9/blackout-6521599.jpg",
+        "imageAlt" : "Blackout 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/9/blackout-6521605.jpg",
+        "imageAlt" : "Blackout 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/9/blackout-6521611.jpg",
+        "imageAlt" : "Blackout 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/9/blackout-6521617.jpg",
+        "imageAlt" : "Blackout 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/9/blackout-6521623.jpg",
+        "imageAlt" : "Blackout 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/9/blackout-6521629.jpg",
+        "imageAlt" : "Blackout 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/9/blackout-6521635.jpg",
+        "imageAlt" : "Blackout 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/9/blackout-6521641.jpg",
+        "imageAlt" : "Blackout 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/9/blackout-6521647.jpg",
+        "imageAlt" : "Blackout 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/9/blackout-6521653.jpg",
+        "imageAlt" : "Blackout 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/9/blackout-6521659.jpg",
+        "imageAlt" : "Blackout 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/9/blackout-6521665.jpg",
+        "imageAlt" : "Blackout 9 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/10",
+    "chapterTitle" : "Blackout 10",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/10/blackout-6521671.jpg",
+        "imageAlt" : "Blackout 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/10/blackout-6521677.jpg",
+        "imageAlt" : "Blackout 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/10/blackout-6521683.jpg",
+        "imageAlt" : "Blackout 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/10/blackout-6521689.jpg",
+        "imageAlt" : "Blackout 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/10/blackout-6521695.jpg",
+        "imageAlt" : "Blackout 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/10/blackout-6521701.jpg",
+        "imageAlt" : "Blackout 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/10/blackout-6521707.jpg",
+        "imageAlt" : "Blackout 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/10/blackout-6521713.jpg",
+        "imageAlt" : "Blackout 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/10/blackout-6521719.jpg",
+        "imageAlt" : "Blackout 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/10/blackout-6521725.jpg",
+        "imageAlt" : "Blackout 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/10/blackout-6521731.jpg",
+        "imageAlt" : "Blackout 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/10/blackout-6521737.jpg",
+        "imageAlt" : "Blackout 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/10/blackout-6521743.jpg",
+        "imageAlt" : "Blackout 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/blackout/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/10/blackout-6521749.jpg",
+        "imageAlt" : "Blackout 10 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/11",
+    "chapterTitle" : "Blackout 11",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/11/blackout-6521755.jpg",
+        "imageAlt" : "Blackout 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/11/blackout-6521761.jpg",
+        "imageAlt" : "Blackout 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/11/blackout-6521767.jpg",
+        "imageAlt" : "Blackout 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/11/blackout-6521773.jpg",
+        "imageAlt" : "Blackout 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/11/blackout-6521779.jpg",
+        "imageAlt" : "Blackout 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/11/blackout-6521785.jpg",
+        "imageAlt" : "Blackout 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/11/blackout-6521791.jpg",
+        "imageAlt" : "Blackout 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/11/blackout-6521797.jpg",
+        "imageAlt" : "Blackout 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/11/blackout-6521803.jpg",
+        "imageAlt" : "Blackout 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/11/blackout-6521809.jpg",
+        "imageAlt" : "Blackout 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/11/blackout-6521815.jpg",
+        "imageAlt" : "Blackout 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/11/blackout-6521821.jpg",
+        "imageAlt" : "Blackout 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/11/blackout-6521827.jpg",
+        "imageAlt" : "Blackout 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/blackout/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/11/blackout-6521833.jpg",
+        "imageAlt" : "Blackout 11 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/12",
+    "chapterTitle" : "Blackout 12",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 11,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/12/blackout-6521839.jpg",
+        "imageAlt" : "Blackout 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/12/blackout-6521845.jpg",
+        "imageAlt" : "Blackout 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/12/blackout-6521851.jpg",
+        "imageAlt" : "Blackout 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/12/blackout-6521857.jpg",
+        "imageAlt" : "Blackout 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/12/blackout-6521863.jpg",
+        "imageAlt" : "Blackout 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/12/blackout-6521869.jpg",
+        "imageAlt" : "Blackout 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/12/blackout-6521875.jpg",
+        "imageAlt" : "Blackout 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/12/blackout-6521881.jpg",
+        "imageAlt" : "Blackout 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/12/blackout-6521887.jpg",
+        "imageAlt" : "Blackout 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/12/blackout-6521893.jpg",
+        "imageAlt" : "Blackout 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/12/blackout-6521899.jpg",
+        "imageAlt" : "Blackout 12 - Page 11"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/13",
+    "chapterTitle" : "Blackout 13",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/13/blackout-6521905.jpg",
+        "imageAlt" : "Blackout 13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/13/blackout-6521911.jpg",
+        "imageAlt" : "Blackout 13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/13/blackout-6521917.jpg",
+        "imageAlt" : "Blackout 13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/13/blackout-6521923.jpg",
+        "imageAlt" : "Blackout 13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/13/blackout-6521929.jpg",
+        "imageAlt" : "Blackout 13 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/13/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/13/blackout-6521935.jpg",
+        "imageAlt" : "Blackout 13 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/13/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/13/blackout-6521941.jpg",
+        "imageAlt" : "Blackout 13 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/13/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/13/blackout-6521947.jpg",
+        "imageAlt" : "Blackout 13 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/13/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/13/blackout-6521953.jpg",
+        "imageAlt" : "Blackout 13 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/13/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/13/blackout-6521959.jpg",
+        "imageAlt" : "Blackout 13 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/13/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/13/blackout-6521965.jpg",
+        "imageAlt" : "Blackout 13 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/13/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/13/blackout-6521971.jpg",
+        "imageAlt" : "Blackout 13 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/14",
+    "chapterTitle" : "Blackout 14",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/14/blackout-6521977.jpg",
+        "imageAlt" : "Blackout 14 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/14/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/14/blackout-6521983.jpg",
+        "imageAlt" : "Blackout 14 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/14/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/14/blackout-6521989.jpg",
+        "imageAlt" : "Blackout 14 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/14/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/14/blackout-6521995.jpg",
+        "imageAlt" : "Blackout 14 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/14/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/14/blackout-6522001.jpg",
+        "imageAlt" : "Blackout 14 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/14/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/14/blackout-6522007.jpg",
+        "imageAlt" : "Blackout 14 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/14/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/14/blackout-6522013.jpg",
+        "imageAlt" : "Blackout 14 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/14/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/14/blackout-6522019.jpg",
+        "imageAlt" : "Blackout 14 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/14/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/14/blackout-6522025.jpg",
+        "imageAlt" : "Blackout 14 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/14/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/14/blackout-6522031.jpg",
+        "imageAlt" : "Blackout 14 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/14/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/14/blackout-6522037.jpg",
+        "imageAlt" : "Blackout 14 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/14/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/14/blackout-6522043.jpg",
+        "imageAlt" : "Blackout 14 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/14/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/14/blackout-6522049.jpg",
+        "imageAlt" : "Blackout 14 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/blackout/14/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/14/blackout-6522055.jpg",
+        "imageAlt" : "Blackout 14 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/15",
+    "chapterTitle" : "Blackout 15",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/15/blackout-6522061.jpg",
+        "imageAlt" : "Blackout 15 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/15/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/15/blackout-6522067.jpg",
+        "imageAlt" : "Blackout 15 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/15/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/15/blackout-6522073.jpg",
+        "imageAlt" : "Blackout 15 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/15/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/15/blackout-6522079.jpg",
+        "imageAlt" : "Blackout 15 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/15/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/15/blackout-6522085.jpg",
+        "imageAlt" : "Blackout 15 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/15/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/15/blackout-6522091.jpg",
+        "imageAlt" : "Blackout 15 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/15/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/15/blackout-6522097.jpg",
+        "imageAlt" : "Blackout 15 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/15/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/15/blackout-6522103.jpg",
+        "imageAlt" : "Blackout 15 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/15/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/15/blackout-6522109.jpg",
+        "imageAlt" : "Blackout 15 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/15/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/15/blackout-6522115.jpg",
+        "imageAlt" : "Blackout 15 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/15/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/15/blackout-6522121.jpg",
+        "imageAlt" : "Blackout 15 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/15/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/15/blackout-6522127.jpg",
+        "imageAlt" : "Blackout 15 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/16",
+    "chapterTitle" : "Blackout 16",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/16/blackout-6522133.jpg",
+        "imageAlt" : "Blackout 16 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/16/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/16/blackout-6522139.jpg",
+        "imageAlt" : "Blackout 16 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/16/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/16/blackout-6522145.jpg",
+        "imageAlt" : "Blackout 16 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/16/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/16/blackout-6522151.jpg",
+        "imageAlt" : "Blackout 16 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/16/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/16/blackout-6522157.jpg",
+        "imageAlt" : "Blackout 16 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/16/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/16/blackout-6522163.jpg",
+        "imageAlt" : "Blackout 16 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/16/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/16/blackout-6522169.jpg",
+        "imageAlt" : "Blackout 16 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/16/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/16/blackout-6522175.jpg",
+        "imageAlt" : "Blackout 16 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/16/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/16/blackout-6522181.jpg",
+        "imageAlt" : "Blackout 16 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/16/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/16/blackout-6522187.jpg",
+        "imageAlt" : "Blackout 16 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/16/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/16/blackout-6522193.jpg",
+        "imageAlt" : "Blackout 16 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/16/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/16/blackout-6522199.jpg",
+        "imageAlt" : "Blackout 16 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/17",
+    "chapterTitle" : "Blackout 17",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/17/blackout-6522205.jpg",
+        "imageAlt" : "Blackout 17 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/17/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/17/blackout-6522211.jpg",
+        "imageAlt" : "Blackout 17 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/17/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/17/blackout-6522217.jpg",
+        "imageAlt" : "Blackout 17 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/17/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/17/blackout-6522223.jpg",
+        "imageAlt" : "Blackout 17 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/17/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/17/blackout-6522229.jpg",
+        "imageAlt" : "Blackout 17 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/17/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/17/blackout-6522235.jpg",
+        "imageAlt" : "Blackout 17 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/17/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/17/blackout-6522241.jpg",
+        "imageAlt" : "Blackout 17 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/17/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/17/blackout-6522247.jpg",
+        "imageAlt" : "Blackout 17 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/17/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/17/blackout-6522253.jpg",
+        "imageAlt" : "Blackout 17 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/17/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/17/blackout-6522259.jpg",
+        "imageAlt" : "Blackout 17 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/17/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/17/blackout-6522265.jpg",
+        "imageAlt" : "Blackout 17 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/17/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/17/blackout-6522271.jpg",
+        "imageAlt" : "Blackout 17 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/18",
+    "chapterTitle" : "Blackout 18",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/18/blackout-6522277.jpg",
+        "imageAlt" : "Blackout 18 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/18/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/18/blackout-6522283.jpg",
+        "imageAlt" : "Blackout 18 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/18/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/18/blackout-6522289.jpg",
+        "imageAlt" : "Blackout 18 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/18/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/18/blackout-6522295.jpg",
+        "imageAlt" : "Blackout 18 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/18/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/18/blackout-6522301.jpg",
+        "imageAlt" : "Blackout 18 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/18/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/18/blackout-6522307.jpg",
+        "imageAlt" : "Blackout 18 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/18/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/18/blackout-6522313.jpg",
+        "imageAlt" : "Blackout 18 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/18/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/18/blackout-6522319.jpg",
+        "imageAlt" : "Blackout 18 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/18/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/18/blackout-6522325.jpg",
+        "imageAlt" : "Blackout 18 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/18/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/18/blackout-6522331.jpg",
+        "imageAlt" : "Blackout 18 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/18/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/18/blackout-6522337.jpg",
+        "imageAlt" : "Blackout 18 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/18/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/18/blackout-6522343.jpg",
+        "imageAlt" : "Blackout 18 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/19",
+    "chapterTitle" : "Blackout 19",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 13,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/19/blackout-6522349.jpg",
+        "imageAlt" : "Blackout 19 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/19/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/19/blackout-6522355.jpg",
+        "imageAlt" : "Blackout 19 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/19/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/19/blackout-6522361.jpg",
+        "imageAlt" : "Blackout 19 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/19/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/19/blackout-6522367.jpg",
+        "imageAlt" : "Blackout 19 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/19/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/19/blackout-6522373.jpg",
+        "imageAlt" : "Blackout 19 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/19/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/19/blackout-6522379.jpg",
+        "imageAlt" : "Blackout 19 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/19/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/19/blackout-6522385.jpg",
+        "imageAlt" : "Blackout 19 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/19/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/19/blackout-6522391.jpg",
+        "imageAlt" : "Blackout 19 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/19/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/19/blackout-6522397.jpg",
+        "imageAlt" : "Blackout 19 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/19/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/19/blackout-6522403.jpg",
+        "imageAlt" : "Blackout 19 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/19/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/19/blackout-6522409.jpg",
+        "imageAlt" : "Blackout 19 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/19/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/19/blackout-6522415.jpg",
+        "imageAlt" : "Blackout 19 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/19/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/19/blackout-6522421.jpg",
+        "imageAlt" : "Blackout 19 - Page 13"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/20",
+    "chapterTitle" : "Blackout 20",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/20/blackout-6522427.jpg",
+        "imageAlt" : "Blackout 20 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/20/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/20/blackout-6522433.jpg",
+        "imageAlt" : "Blackout 20 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/20/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/20/blackout-6522439.jpg",
+        "imageAlt" : "Blackout 20 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/20/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/20/blackout-6522445.jpg",
+        "imageAlt" : "Blackout 20 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/20/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/20/blackout-6522451.jpg",
+        "imageAlt" : "Blackout 20 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/20/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/20/blackout-6522457.jpg",
+        "imageAlt" : "Blackout 20 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/20/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/20/blackout-6522463.jpg",
+        "imageAlt" : "Blackout 20 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/20/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/20/blackout-6522469.jpg",
+        "imageAlt" : "Blackout 20 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/20/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/20/blackout-6522475.jpg",
+        "imageAlt" : "Blackout 20 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/20/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/20/blackout-6522481.jpg",
+        "imageAlt" : "Blackout 20 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/20/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/20/blackout-6522487.jpg",
+        "imageAlt" : "Blackout 20 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/20/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/20/blackout-6522493.jpg",
+        "imageAlt" : "Blackout 20 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/21",
+    "chapterTitle" : "Blackout 21",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/21/blackout-6522499.jpg",
+        "imageAlt" : "Blackout 21 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/21/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/21/blackout-6522505.jpg",
+        "imageAlt" : "Blackout 21 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/21/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/21/blackout-6522511.jpg",
+        "imageAlt" : "Blackout 21 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/21/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/21/blackout-6522517.jpg",
+        "imageAlt" : "Blackout 21 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/21/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/21/blackout-6522523.jpg",
+        "imageAlt" : "Blackout 21 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/21/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/21/blackout-6522529.jpg",
+        "imageAlt" : "Blackout 21 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/21/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/21/blackout-6522535.jpg",
+        "imageAlt" : "Blackout 21 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/21/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/21/blackout-6522541.jpg",
+        "imageAlt" : "Blackout 21 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/21/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/21/blackout-6522547.jpg",
+        "imageAlt" : "Blackout 21 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/21/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/21/blackout-6522553.jpg",
+        "imageAlt" : "Blackout 21 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/21/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/21/blackout-6522559.jpg",
+        "imageAlt" : "Blackout 21 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/21/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/21/blackout-6522565.jpg",
+        "imageAlt" : "Blackout 21 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/22",
+    "chapterTitle" : "Blackout 22",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/22/blackout-6522571.jpg",
+        "imageAlt" : "Blackout 22 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/22/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/22/blackout-6522577.jpg",
+        "imageAlt" : "Blackout 22 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/22/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/22/blackout-6522583.jpg",
+        "imageAlt" : "Blackout 22 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/22/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/22/blackout-6522589.jpg",
+        "imageAlt" : "Blackout 22 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/22/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/22/blackout-6522595.jpg",
+        "imageAlt" : "Blackout 22 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/22/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/22/blackout-6522601.jpg",
+        "imageAlt" : "Blackout 22 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/22/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/22/blackout-6522607.jpg",
+        "imageAlt" : "Blackout 22 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/22/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/22/blackout-6522613.jpg",
+        "imageAlt" : "Blackout 22 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/22/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/22/blackout-6522619.jpg",
+        "imageAlt" : "Blackout 22 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/22/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/22/blackout-6522625.jpg",
+        "imageAlt" : "Blackout 22 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/22/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/22/blackout-6522631.jpg",
+        "imageAlt" : "Blackout 22 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/22/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/22/blackout-6522637.jpg",
+        "imageAlt" : "Blackout 22 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/23",
+    "chapterTitle" : "Blackout 23",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/23/blackout-6522643.jpg",
+        "imageAlt" : "Blackout 23 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/23/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/23/blackout-6522649.jpg",
+        "imageAlt" : "Blackout 23 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/23/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/23/blackout-6522655.jpg",
+        "imageAlt" : "Blackout 23 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/23/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/23/blackout-6522661.jpg",
+        "imageAlt" : "Blackout 23 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/23/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/23/blackout-6522667.jpg",
+        "imageAlt" : "Blackout 23 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/23/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/23/blackout-6522673.jpg",
+        "imageAlt" : "Blackout 23 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/23/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/23/blackout-6522679.jpg",
+        "imageAlt" : "Blackout 23 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/23/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/23/blackout-6522685.jpg",
+        "imageAlt" : "Blackout 23 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/23/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/23/blackout-6522691.jpg",
+        "imageAlt" : "Blackout 23 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/23/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/23/blackout-6522697.jpg",
+        "imageAlt" : "Blackout 23 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/23/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/23/blackout-6522703.jpg",
+        "imageAlt" : "Blackout 23 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/23/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/23/blackout-6522709.jpg",
+        "imageAlt" : "Blackout 23 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/24",
+    "chapterTitle" : "Blackout 24",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/24/blackout-6522715.jpg",
+        "imageAlt" : "Blackout 24 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/24/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/24/blackout-6522721.jpg",
+        "imageAlt" : "Blackout 24 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/24/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/24/blackout-6522727.jpg",
+        "imageAlt" : "Blackout 24 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/24/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/24/blackout-6522733.jpg",
+        "imageAlt" : "Blackout 24 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/24/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/24/blackout-6522739.jpg",
+        "imageAlt" : "Blackout 24 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/24/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/24/blackout-6522745.jpg",
+        "imageAlt" : "Blackout 24 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/24/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/24/blackout-6522751.jpg",
+        "imageAlt" : "Blackout 24 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/24/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/24/blackout-6522757.jpg",
+        "imageAlt" : "Blackout 24 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/24/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/24/blackout-6522763.jpg",
+        "imageAlt" : "Blackout 24 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/24/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/24/blackout-6522769.jpg",
+        "imageAlt" : "Blackout 24 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/24/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/24/blackout-6522775.jpg",
+        "imageAlt" : "Blackout 24 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/24/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/24/blackout-6522781.jpg",
+        "imageAlt" : "Blackout 24 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/25",
+    "chapterTitle" : "Blackout 25",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/25/blackout-6522787.jpg",
+        "imageAlt" : "Blackout 25 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/25/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/25/blackout-6522793.jpg",
+        "imageAlt" : "Blackout 25 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/25/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/25/blackout-6522799.jpg",
+        "imageAlt" : "Blackout 25 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/25/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/25/blackout-6522805.jpg",
+        "imageAlt" : "Blackout 25 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/25/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/25/blackout-6522811.jpg",
+        "imageAlt" : "Blackout 25 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/25/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/25/blackout-6522817.jpg",
+        "imageAlt" : "Blackout 25 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/25/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/25/blackout-6522823.jpg",
+        "imageAlt" : "Blackout 25 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/25/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/25/blackout-6522829.jpg",
+        "imageAlt" : "Blackout 25 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/25/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/25/blackout-6522835.jpg",
+        "imageAlt" : "Blackout 25 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/25/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/25/blackout-6522841.jpg",
+        "imageAlt" : "Blackout 25 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/25/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/25/blackout-6522847.jpg",
+        "imageAlt" : "Blackout 25 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/25/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/25/blackout-6522853.jpg",
+        "imageAlt" : "Blackout 25 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/25/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/25/blackout-6522859.jpg",
+        "imageAlt" : "Blackout 25 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/blackout/25/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/25/blackout-6522865.jpg",
+        "imageAlt" : "Blackout 25 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/26",
+    "chapterTitle" : "Blackout 26",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/26/blackout-6522871.jpg",
+        "imageAlt" : "Blackout 26 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/26/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/26/blackout-6522877.jpg",
+        "imageAlt" : "Blackout 26 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/26/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/26/blackout-6522883.jpg",
+        "imageAlt" : "Blackout 26 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/26/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/26/blackout-6522889.jpg",
+        "imageAlt" : "Blackout 26 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/26/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/26/blackout-6522895.jpg",
+        "imageAlt" : "Blackout 26 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/26/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/26/blackout-6522901.jpg",
+        "imageAlt" : "Blackout 26 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/26/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/26/blackout-6522907.jpg",
+        "imageAlt" : "Blackout 26 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/26/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/26/blackout-6522913.jpg",
+        "imageAlt" : "Blackout 26 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/26/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/26/blackout-6522919.jpg",
+        "imageAlt" : "Blackout 26 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/26/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/26/blackout-6522925.jpg",
+        "imageAlt" : "Blackout 26 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/26/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/26/blackout-6522931.jpg",
+        "imageAlt" : "Blackout 26 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/26/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/26/blackout-6522937.jpg",
+        "imageAlt" : "Blackout 26 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/26/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/26/blackout-6522943.jpg",
+        "imageAlt" : "Blackout 26 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/blackout/26/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/26/blackout-6522949.jpg",
+        "imageAlt" : "Blackout 26 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/27",
+    "chapterTitle" : "Blackout 27",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/27/blackout-6522955.jpg",
+        "imageAlt" : "Blackout 27 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/27/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/27/blackout-6522961.jpg",
+        "imageAlt" : "Blackout 27 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/27/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/27/blackout-6522967.jpg",
+        "imageAlt" : "Blackout 27 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/27/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/27/blackout-6522973.jpg",
+        "imageAlt" : "Blackout 27 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/27/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/27/blackout-6522979.jpg",
+        "imageAlt" : "Blackout 27 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/27/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/27/blackout-6522985.jpg",
+        "imageAlt" : "Blackout 27 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/27/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/27/blackout-6522991.jpg",
+        "imageAlt" : "Blackout 27 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/27/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/27/blackout-6522997.jpg",
+        "imageAlt" : "Blackout 27 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/27/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/27/blackout-6523003.jpg",
+        "imageAlt" : "Blackout 27 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/27/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/27/blackout-6523009.jpg",
+        "imageAlt" : "Blackout 27 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/27/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/27/blackout-6523015.jpg",
+        "imageAlt" : "Blackout 27 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/27/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/27/blackout-6523021.jpg",
+        "imageAlt" : "Blackout 27 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/27/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/27/blackout-6523027.jpg",
+        "imageAlt" : "Blackout 27 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/blackout/27/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/27/blackout-6523033.jpg",
+        "imageAlt" : "Blackout 27 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/28",
+    "chapterTitle" : "Blackout 28",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/28/blackout-6523039.jpg",
+        "imageAlt" : "Blackout 28 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/28/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/28/blackout-6523045.jpg",
+        "imageAlt" : "Blackout 28 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/28/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/28/blackout-6523051.jpg",
+        "imageAlt" : "Blackout 28 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/28/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/28/blackout-6523057.jpg",
+        "imageAlt" : "Blackout 28 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/28/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/28/blackout-6523063.jpg",
+        "imageAlt" : "Blackout 28 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/28/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/28/blackout-6523069.jpg",
+        "imageAlt" : "Blackout 28 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/28/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/28/blackout-6523075.jpg",
+        "imageAlt" : "Blackout 28 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/28/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/28/blackout-6523081.jpg",
+        "imageAlt" : "Blackout 28 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/28/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/28/blackout-6523087.jpg",
+        "imageAlt" : "Blackout 28 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/28/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/28/blackout-6523093.jpg",
+        "imageAlt" : "Blackout 28 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/28/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/28/blackout-6523099.jpg",
+        "imageAlt" : "Blackout 28 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/28/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/28/blackout-6523105.jpg",
+        "imageAlt" : "Blackout 28 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/29",
+    "chapterTitle" : "Blackout 29",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/29/blackout-6523111.jpg",
+        "imageAlt" : "Blackout 29 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/29/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/29/blackout-6523117.jpg",
+        "imageAlt" : "Blackout 29 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/29/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/29/blackout-6523123.jpg",
+        "imageAlt" : "Blackout 29 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/29/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/29/blackout-6523129.jpg",
+        "imageAlt" : "Blackout 29 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/29/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/29/blackout-6523135.jpg",
+        "imageAlt" : "Blackout 29 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/29/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/29/blackout-6523141.jpg",
+        "imageAlt" : "Blackout 29 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/29/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/29/blackout-6523147.jpg",
+        "imageAlt" : "Blackout 29 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/29/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/29/blackout-6523153.jpg",
+        "imageAlt" : "Blackout 29 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/29/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/29/blackout-6523159.jpg",
+        "imageAlt" : "Blackout 29 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/29/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/29/blackout-6523165.jpg",
+        "imageAlt" : "Blackout 29 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/29/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/29/blackout-6523171.jpg",
+        "imageAlt" : "Blackout 29 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/29/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/29/blackout-6523177.jpg",
+        "imageAlt" : "Blackout 29 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/30",
+    "chapterTitle" : "Blackout 30",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/30/blackout-6523183.jpg",
+        "imageAlt" : "Blackout 30 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/30/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/30/blackout-6523189.jpg",
+        "imageAlt" : "Blackout 30 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/30/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/30/blackout-6523195.jpg",
+        "imageAlt" : "Blackout 30 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/30/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/30/blackout-6523201.jpg",
+        "imageAlt" : "Blackout 30 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/30/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/30/blackout-6523207.jpg",
+        "imageAlt" : "Blackout 30 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/30/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/30/blackout-6523213.jpg",
+        "imageAlt" : "Blackout 30 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/30/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/30/blackout-6523219.jpg",
+        "imageAlt" : "Blackout 30 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/30/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/30/blackout-6523225.jpg",
+        "imageAlt" : "Blackout 30 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/30/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/30/blackout-6523231.jpg",
+        "imageAlt" : "Blackout 30 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/30/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/30/blackout-6523237.jpg",
+        "imageAlt" : "Blackout 30 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/30/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/30/blackout-6523243.jpg",
+        "imageAlt" : "Blackout 30 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/30/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/30/blackout-6523249.jpg",
+        "imageAlt" : "Blackout 30 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/31",
+    "chapterTitle" : "Blackout 31",
+    "chapterDescription" : "",
+    "chapterDate" : "12/01/2015",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/31/blackout-6598387.jpg",
+        "imageAlt" : "Blackout 31 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/31/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/31/blackout-6598393.jpg",
+        "imageAlt" : "Blackout 31 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/31/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/31/blackout-6598399.jpg",
+        "imageAlt" : "Blackout 31 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/31/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/31/blackout-6598405.jpg",
+        "imageAlt" : "Blackout 31 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/31/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/31/blackout-6598411.jpg",
+        "imageAlt" : "Blackout 31 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/31/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/31/blackout-6598417.jpg",
+        "imageAlt" : "Blackout 31 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/31/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/31/blackout-6598423.jpg",
+        "imageAlt" : "Blackout 31 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/31/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/31/blackout-6598429.jpg",
+        "imageAlt" : "Blackout 31 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/31/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/31/blackout-6598435.jpg",
+        "imageAlt" : "Blackout 31 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/31/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/31/blackout-6598441.jpg",
+        "imageAlt" : "Blackout 31 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/31/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/31/blackout-6598447.jpg",
+        "imageAlt" : "Blackout 31 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/31/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/31/blackout-6598453.jpg",
+        "imageAlt" : "Blackout 31 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/32",
+    "chapterTitle" : "Blackout 32",
+    "chapterDescription" : "",
+    "chapterDate" : "12/21/2015",
+    "pageCount" : 7,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 455,
+        "imageUrl" : "http://i9.mangareader.net/blackout/32/blackout-6704623.jpg",
+        "imageAlt" : "Blackout 32 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/32/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 451,
+        "imageUrl" : "http://i1.mangareader.net/blackout/32/blackout-6704629.jpg",
+        "imageAlt" : "Blackout 32 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/32/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 451,
+        "imageUrl" : "http://i5.mangareader.net/blackout/32/blackout-6704635.jpg",
+        "imageAlt" : "Blackout 32 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/32/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 454,
+        "imageUrl" : "http://i1.mangareader.net/blackout/32/blackout-6704641.jpg",
+        "imageAlt" : "Blackout 32 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/32/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 455,
+        "imageUrl" : "http://i9.mangareader.net/blackout/32/blackout-6704647.jpg",
+        "imageAlt" : "Blackout 32 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/32/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 451,
+        "imageUrl" : "http://i3.mangareader.net/blackout/32/blackout-6704653.jpg",
+        "imageAlt" : "Blackout 32 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/32/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 452,
+        "imageUrl" : "http://i9.mangareader.net/blackout/32/blackout-6704659.jpg",
+        "imageAlt" : "Blackout 32 - Page 7"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/33",
+    "chapterTitle" : "Blackout 33",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2016",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i3.mangareader.net/blackout/33/blackout-6936325.jpg",
+        "imageAlt" : "Blackout 33 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/33/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i7.mangareader.net/blackout/33/blackout-6936331.jpg",
+        "imageAlt" : "Blackout 33 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/33/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i1.mangareader.net/blackout/33/blackout-6936337.jpg",
+        "imageAlt" : "Blackout 33 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/33/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/33/blackout-6936343.jpg",
+        "imageAlt" : "Blackout 33 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/33/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/33/blackout-6936349.jpg",
+        "imageAlt" : "Blackout 33 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/33/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/33/blackout-6936355.jpg",
+        "imageAlt" : "Blackout 33 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/33/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/33/blackout-6936361.jpg",
+        "imageAlt" : "Blackout 33 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/33/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/33/blackout-6936367.jpg",
+        "imageAlt" : "Blackout 33 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/33/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/33/blackout-6936373.jpg",
+        "imageAlt" : "Blackout 33 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/33/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/33/blackout-6936379.jpg",
+        "imageAlt" : "Blackout 33 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/33/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/33/blackout-6936385.jpg",
+        "imageAlt" : "Blackout 33 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/33/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/33/blackout-6936391.jpg",
+        "imageAlt" : "Blackout 33 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/34",
+    "chapterTitle" : "Blackout 34",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2016",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/blackout/34/blackout-6936397.jpg",
+        "imageAlt" : "Blackout 34 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/34/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/blackout/34/blackout-6936403.jpg",
+        "imageAlt" : "Blackout 34 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/34/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/blackout/34/blackout-6936409.jpg",
+        "imageAlt" : "Blackout 34 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/34/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/34/blackout-6936415.jpg",
+        "imageAlt" : "Blackout 34 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/34/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/34/blackout-6936421.jpg",
+        "imageAlt" : "Blackout 34 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/34/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/34/blackout-6936427.jpg",
+        "imageAlt" : "Blackout 34 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/34/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/34/blackout-6936433.jpg",
+        "imageAlt" : "Blackout 34 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/34/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/34/blackout-6936439.jpg",
+        "imageAlt" : "Blackout 34 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/34/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/34/blackout-6936445.jpg",
+        "imageAlt" : "Blackout 34 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/34/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/34/blackout-6936451.jpg",
+        "imageAlt" : "Blackout 34 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/34/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/34/blackout-6936457.jpg",
+        "imageAlt" : "Blackout 34 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/34/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/34/blackout-6936463.jpg",
+        "imageAlt" : "Blackout 34 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/35",
+    "chapterTitle" : "Blackout 35",
+    "chapterDescription" : "",
+    "chapterDate" : "02/06/2016",
+    "pageCount" : 13,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/35/blackout-7027987.jpg",
+        "imageAlt" : "Blackout 35 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/35/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/35/blackout-7027993.jpg",
+        "imageAlt" : "Blackout 35 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/35/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/35/blackout-7027999.jpg",
+        "imageAlt" : "Blackout 35 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/35/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/35/blackout-7028005.jpg",
+        "imageAlt" : "Blackout 35 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/35/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/35/blackout-7028011.jpg",
+        "imageAlt" : "Blackout 35 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/35/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/35/blackout-7028017.jpg",
+        "imageAlt" : "Blackout 35 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/35/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/35/blackout-7028023.jpg",
+        "imageAlt" : "Blackout 35 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/35/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/35/blackout-7028029.jpg",
+        "imageAlt" : "Blackout 35 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/35/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/35/blackout-7028035.jpg",
+        "imageAlt" : "Blackout 35 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/35/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/35/blackout-7028041.jpg",
+        "imageAlt" : "Blackout 35 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/35/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/35/blackout-7028047.jpg",
+        "imageAlt" : "Blackout 35 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/35/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/35/blackout-7028053.jpg",
+        "imageAlt" : "Blackout 35 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/35/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 409,
+        "imageUrl" : "http://i8.mangareader.net/blackout/35/blackout-7028059.jpg",
+        "imageAlt" : "Blackout 35 - Page 13"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/36",
+    "chapterTitle" : "Blackout 36",
+    "chapterDescription" : "",
+    "chapterDate" : "02/18/2016",
+    "pageCount" : 13,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i9.mangareader.net/blackout/36/blackout-7086319.jpg",
+        "imageAlt" : "Blackout 36 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/36/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i4.mangareader.net/blackout/36/blackout-7086325.jpg",
+        "imageAlt" : "Blackout 36 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/36/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i10.mangareader.net/blackout/36/blackout-7086331.jpg",
+        "imageAlt" : "Blackout 36 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/36/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i4.mangareader.net/blackout/36/blackout-7086337.jpg",
+        "imageAlt" : "Blackout 36 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/36/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i10.mangareader.net/blackout/36/blackout-7086343.jpg",
+        "imageAlt" : "Blackout 36 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/36/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i8.mangareader.net/blackout/36/blackout-7086349.jpg",
+        "imageAlt" : "Blackout 36 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/36/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i8.mangareader.net/blackout/36/blackout-7086355.jpg",
+        "imageAlt" : "Blackout 36 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/36/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i9.mangareader.net/blackout/36/blackout-7086361.jpg",
+        "imageAlt" : "Blackout 36 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/36/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i3.mangareader.net/blackout/36/blackout-7086367.jpg",
+        "imageAlt" : "Blackout 36 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/36/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i7.mangareader.net/blackout/36/blackout-7086373.jpg",
+        "imageAlt" : "Blackout 36 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/36/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i1.mangareader.net/blackout/36/blackout-7086379.jpg",
+        "imageAlt" : "Blackout 36 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/36/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i7.mangareader.net/blackout/36/blackout-7086385.jpg",
+        "imageAlt" : "Blackout 36 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/36/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i3.mangareader.net/blackout/36/blackout-7086391.jpg",
+        "imageAlt" : "Blackout 36 - Page 13"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/37",
+    "chapterTitle" : "Blackout 37",
+    "chapterDescription" : "",
+    "chapterDate" : "03/03/2016",
+    "pageCount" : 13,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/37/blackout-7167409.jpg",
+        "imageAlt" : "Blackout 37 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/37/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/37/blackout-7167415.jpg",
+        "imageAlt" : "Blackout 37 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/37/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/37/blackout-7167421.jpg",
+        "imageAlt" : "Blackout 37 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/37/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/37/blackout-7167427.jpg",
+        "imageAlt" : "Blackout 37 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/37/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/37/blackout-7167433.jpg",
+        "imageAlt" : "Blackout 37 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/37/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/37/blackout-7167439.jpg",
+        "imageAlt" : "Blackout 37 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/37/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/37/blackout-7167445.jpg",
+        "imageAlt" : "Blackout 37 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/37/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/37/blackout-7167451.jpg",
+        "imageAlt" : "Blackout 37 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/37/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/37/blackout-7167457.jpg",
+        "imageAlt" : "Blackout 37 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/37/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/37/blackout-7167463.jpg",
+        "imageAlt" : "Blackout 37 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/37/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/37/blackout-7167469.jpg",
+        "imageAlt" : "Blackout 37 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/37/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/blackout/37/blackout-7167475.jpg",
+        "imageAlt" : "Blackout 37 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/blackout/37/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 563,
+        "imageUrl" : "http://i1.mangareader.net/blackout/37/blackout-7167481.jpg",
+        "imageAlt" : "Blackout 37 - Page 13"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/38",
+    "chapterTitle" : "Blackout 38",
+    "chapterDescription" : "",
+    "chapterDate" : "04/05/2016",
+    "pageCount" : 7,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i7.mangareader.net/blackout/38/blackout-7332853.jpg",
+        "imageAlt" : "Blackout 38 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/38/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i3.mangareader.net/blackout/38/blackout-7332859.jpg",
+        "imageAlt" : "Blackout 38 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/38/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i4.mangareader.net/blackout/38/blackout-7332865.jpg",
+        "imageAlt" : "Blackout 38 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/38/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i10.mangareader.net/blackout/38/blackout-7332871.jpg",
+        "imageAlt" : "Blackout 38 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/38/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i4.mangareader.net/blackout/38/blackout-7332877.jpg",
+        "imageAlt" : "Blackout 38 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/38/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i10.mangareader.net/blackout/38/blackout-7332883.jpg",
+        "imageAlt" : "Blackout 38 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/38/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i10.mangareader.net/blackout/38/blackout-7332889.jpg",
+        "imageAlt" : "Blackout 38 - Page 7"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/39",
+    "chapterTitle" : "Blackout 39",
+    "chapterDescription" : "",
+    "chapterDate" : "04/05/2016",
+    "pageCount" : 7,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i8.mangareader.net/blackout/39/blackout-7332895.jpg",
+        "imageAlt" : "Blackout 39 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/39/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i10.mangareader.net/blackout/39/blackout-7332901.jpg",
+        "imageAlt" : "Blackout 39 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/39/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i8.mangareader.net/blackout/39/blackout-7332907.jpg",
+        "imageAlt" : "Blackout 39 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/39/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i10.mangareader.net/blackout/39/blackout-7332913.jpg",
+        "imageAlt" : "Blackout 39 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/39/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i8.mangareader.net/blackout/39/blackout-7332919.jpg",
+        "imageAlt" : "Blackout 39 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/39/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i3.mangareader.net/blackout/39/blackout-7332925.jpg",
+        "imageAlt" : "Blackout 39 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/39/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i5.mangareader.net/blackout/39/blackout-7332931.jpg",
+        "imageAlt" : "Blackout 39 - Page 7"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/41",
+    "chapterTitle" : "Blackout 41",
+    "chapterDescription" : "",
+    "chapterDate" : "06/24/2016",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/41/blackout-7733863.jpg",
+        "imageAlt" : "Blackout 41 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/41/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/41/blackout-7733869.jpg",
+        "imageAlt" : "Blackout 41 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/41/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/41/blackout-7733875.jpg",
+        "imageAlt" : "Blackout 41 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/41/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/41/blackout-7733881.jpg",
+        "imageAlt" : "Blackout 41 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/41/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/41/blackout-7733887.jpg",
+        "imageAlt" : "Blackout 41 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/41/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/41/blackout-7733893.jpg",
+        "imageAlt" : "Blackout 41 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/41/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/41/blackout-7733899.jpg",
+        "imageAlt" : "Blackout 41 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/41/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/41/blackout-7733905.jpg",
+        "imageAlt" : "Blackout 41 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/41/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/41/blackout-7733911.jpg",
+        "imageAlt" : "Blackout 41 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/41/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/41/blackout-7733917.jpg",
+        "imageAlt" : "Blackout 41 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/41/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/41/blackout-7733923.jpg",
+        "imageAlt" : "Blackout 41 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/41/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/41/blackout-7733929.jpg",
+        "imageAlt" : "Blackout 41 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/42",
+    "chapterTitle" : "Blackout 42",
+    "chapterDescription" : "",
+    "chapterDate" : "06/24/2016",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/42/blackout-7733935.jpg",
+        "imageAlt" : "Blackout 42 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/42/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/42/blackout-7733941.jpg",
+        "imageAlt" : "Blackout 42 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/42/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/42/blackout-7733947.jpg",
+        "imageAlt" : "Blackout 42 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/42/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/42/blackout-7733953.jpg",
+        "imageAlt" : "Blackout 42 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/42/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/42/blackout-7733959.jpg",
+        "imageAlt" : "Blackout 42 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/42/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/42/blackout-7733965.jpg",
+        "imageAlt" : "Blackout 42 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/42/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/42/blackout-7733971.jpg",
+        "imageAlt" : "Blackout 42 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/42/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/42/blackout-7733977.jpg",
+        "imageAlt" : "Blackout 42 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/42/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/42/blackout-7733983.jpg",
+        "imageAlt" : "Blackout 42 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/42/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/42/blackout-7733989.jpg",
+        "imageAlt" : "Blackout 42 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/42/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/42/blackout-7733995.jpg",
+        "imageAlt" : "Blackout 42 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/42/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/42/blackout-7734001.jpg",
+        "imageAlt" : "Blackout 42 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/43",
+    "chapterTitle" : "Blackout 43",
+    "chapterDescription" : "",
+    "chapterDate" : "06/24/2016",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/43/blackout-7734007.jpg",
+        "imageAlt" : "Blackout 43 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/43/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/43/blackout-7734013.jpg",
+        "imageAlt" : "Blackout 43 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/43/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/43/blackout-7734019.jpg",
+        "imageAlt" : "Blackout 43 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/43/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/43/blackout-7734025.jpg",
+        "imageAlt" : "Blackout 43 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/43/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/43/blackout-7734031.jpg",
+        "imageAlt" : "Blackout 43 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/43/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/blackout/43/blackout-7734037.jpg",
+        "imageAlt" : "Blackout 43 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/43/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/43/blackout-7734043.jpg",
+        "imageAlt" : "Blackout 43 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/43/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/43/blackout-7734049.jpg",
+        "imageAlt" : "Blackout 43 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/43/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/43/blackout-7734055.jpg",
+        "imageAlt" : "Blackout 43 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/43/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/43/blackout-7734061.jpg",
+        "imageAlt" : "Blackout 43 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/43/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/43/blackout-7734067.jpg",
+        "imageAlt" : "Blackout 43 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/43/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/43/blackout-7734073.jpg",
+        "imageAlt" : "Blackout 43 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/44",
+    "chapterTitle" : "Blackout 44",
+    "chapterDescription" : "",
+    "chapterDate" : "06/24/2016",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/blackout/44/blackout-7734079.jpg",
+        "imageAlt" : "Blackout 44 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/44/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/44/blackout-7734085.jpg",
+        "imageAlt" : "Blackout 44 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/44/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/44/blackout-7734091.jpg",
+        "imageAlt" : "Blackout 44 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/44/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/44/blackout-7734097.jpg",
+        "imageAlt" : "Blackout 44 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/44/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/44/blackout-7734103.jpg",
+        "imageAlt" : "Blackout 44 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/44/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/44/blackout-7734109.jpg",
+        "imageAlt" : "Blackout 44 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/44/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/blackout/44/blackout-7734115.jpg",
+        "imageAlt" : "Blackout 44 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/44/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/44/blackout-7734121.jpg",
+        "imageAlt" : "Blackout 44 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/44/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/44/blackout-7734127.jpg",
+        "imageAlt" : "Blackout 44 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/44/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/44/blackout-7734133.jpg",
+        "imageAlt" : "Blackout 44 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/44/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/44/blackout-7734139.jpg",
+        "imageAlt" : "Blackout 44 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/44/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/44/blackout-7734145.jpg",
+        "imageAlt" : "Blackout 44 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/blackout/45",
+    "chapterTitle" : "Blackout 45",
+    "chapterDescription" : "",
+    "chapterDate" : "07/13/2016",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/blackout/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/45/blackout-7851721.jpg",
+        "imageAlt" : "Blackout 45 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/blackout/45/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/45/blackout-7851727.jpg",
+        "imageAlt" : "Blackout 45 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/blackout/45/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/45/blackout-7851733.jpg",
+        "imageAlt" : "Blackout 45 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/blackout/45/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/45/blackout-7851739.jpg",
+        "imageAlt" : "Blackout 45 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/blackout/45/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/blackout/45/blackout-7851745.jpg",
+        "imageAlt" : "Blackout 45 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/blackout/45/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/blackout/45/blackout-7851751.jpg",
+        "imageAlt" : "Blackout 45 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/blackout/45/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/blackout/45/blackout-7851757.jpg",
+        "imageAlt" : "Blackout 45 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/blackout/45/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/45/blackout-7851763.jpg",
+        "imageAlt" : "Blackout 45 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/blackout/45/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/blackout/45/blackout-7851769.jpg",
+        "imageAlt" : "Blackout 45 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/blackout/45/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/45/blackout-7851775.jpg",
+        "imageAlt" : "Blackout 45 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/blackout/45/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/blackout/45/blackout-7851781.jpg",
+        "imageAlt" : "Blackout 45 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/blackout/45/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/blackout/45/blackout-7851787.jpg",
+        "imageAlt" : "Blackout 45 - Page 12"
+      } ]
+    } ]
+  } ]
+}

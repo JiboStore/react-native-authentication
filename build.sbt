@@ -22,5 +22,6 @@ libraryDependencies ++= Seq(
 
 routesGenerator := InjectedRoutesGenerator
 
+PlayKeys.devSettings := Seq("play.server.http.port" -> "3005")
 
 fork in run := true

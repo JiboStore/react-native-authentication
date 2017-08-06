@@ -225,7 +225,8 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       }       
       catch {
         case ex: Exception => {
-          Logger.error("Exception: " + iCurrentIndex)
+          Logger.error("Exception: " + iCurrentIndex + ex.getMessage())
+          Logger.error("Stack trace: " + ex.getStackTrace.toString())
         }
       }
     }

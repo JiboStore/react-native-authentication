@@ -1,0 +1,1847 @@
+{
+  "mangaTitle" : "Chibi Maruko-chan",
+  "mangaUrl" : "http://www.mangareader.net/chibi-maruko-chan",
+  "mangaThumbUrl" : "http://s4.mangareader.net/cover/chibi-maruko-chan/chibi-maruko-chan-r0.jpg",
+  "mangaChaptersInfo" : "13 Chapters Published. (Completed)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Comedy, School Life, Shoujo, Slice of Life",
+  "chapterCount" : 13,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/chibi-maruko-chan/1",
+    "chapterTitle" : "Chibi Maruko-chan 1",
+    "chapterDescription" : "",
+    "chapterDate" : "12/18/2013",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 458,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/1/chibi-maruko-chan-4643481.jpg",
+        "imageAlt" : "Chibi Maruko-chan 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/1/chibi-maruko-chan-4643483.jpg",
+        "imageAlt" : "Chibi Maruko-chan 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/1/chibi-maruko-chan-4643485.jpg",
+        "imageAlt" : "Chibi Maruko-chan 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/1/chibi-maruko-chan-4643487.jpg",
+        "imageAlt" : "Chibi Maruko-chan 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1243,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/1/chibi-maruko-chan-4643489.jpg",
+        "imageAlt" : "Chibi Maruko-chan 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/1/chibi-maruko-chan-4643491.jpg",
+        "imageAlt" : "Chibi Maruko-chan 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/1/chibi-maruko-chan-4643493.jpg",
+        "imageAlt" : "Chibi Maruko-chan 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/1/chibi-maruko-chan-4643495.jpg",
+        "imageAlt" : "Chibi Maruko-chan 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1251,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/1/chibi-maruko-chan-4643497.jpg",
+        "imageAlt" : "Chibi Maruko-chan 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/1/chibi-maruko-chan-4643499.jpg",
+        "imageAlt" : "Chibi Maruko-chan 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/1/chibi-maruko-chan-4643501.jpg",
+        "imageAlt" : "Chibi Maruko-chan 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/1/chibi-maruko-chan-4643503.jpg",
+        "imageAlt" : "Chibi Maruko-chan 1 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/chibi-maruko-chan/2",
+    "chapterTitle" : "Chibi Maruko-chan 2",
+    "chapterDescription" : "",
+    "chapterDate" : "12/18/2013",
+    "pageCount" : 13,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 680,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/2/chibi-maruko-chan-4643505.jpg",
+        "imageAlt" : "Chibi Maruko-chan 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/2/chibi-maruko-chan-4643507.jpg",
+        "imageAlt" : "Chibi Maruko-chan 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/2/chibi-maruko-chan-4643509.jpg",
+        "imageAlt" : "Chibi Maruko-chan 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/2/chibi-maruko-chan-4643511.jpg",
+        "imageAlt" : "Chibi Maruko-chan 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/2/chibi-maruko-chan-4643513.jpg",
+        "imageAlt" : "Chibi Maruko-chan 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/2/chibi-maruko-chan-4643515.jpg",
+        "imageAlt" : "Chibi Maruko-chan 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/2/chibi-maruko-chan-4643517.jpg",
+        "imageAlt" : "Chibi Maruko-chan 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/2/chibi-maruko-chan-4643519.jpg",
+        "imageAlt" : "Chibi Maruko-chan 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/2/chibi-maruko-chan-4643521.jpg",
+        "imageAlt" : "Chibi Maruko-chan 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/2/chibi-maruko-chan-4643523.jpg",
+        "imageAlt" : "Chibi Maruko-chan 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/2/chibi-maruko-chan-4643525.jpg",
+        "imageAlt" : "Chibi Maruko-chan 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/2/chibi-maruko-chan-4643527.jpg",
+        "imageAlt" : "Chibi Maruko-chan 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/2/chibi-maruko-chan-4643529.jpg",
+        "imageAlt" : "Chibi Maruko-chan 2 - Page 13"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/chibi-maruko-chan/3",
+    "chapterTitle" : "Chibi Maruko-chan 3",
+    "chapterDescription" : "",
+    "chapterDate" : "12/18/2013",
+    "pageCount" : 13,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 680,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/3/chibi-maruko-chan-4643531.jpg",
+        "imageAlt" : "Chibi Maruko-chan 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 537,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/3/chibi-maruko-chan-4643533.jpg",
+        "imageAlt" : "Chibi Maruko-chan 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/3/chibi-maruko-chan-4643535.jpg",
+        "imageAlt" : "Chibi Maruko-chan 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/3/chibi-maruko-chan-4643537.jpg",
+        "imageAlt" : "Chibi Maruko-chan 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/3/chibi-maruko-chan-4643539.jpg",
+        "imageAlt" : "Chibi Maruko-chan 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/3/chibi-maruko-chan-4643541.jpg",
+        "imageAlt" : "Chibi Maruko-chan 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/3/chibi-maruko-chan-4643543.jpg",
+        "imageAlt" : "Chibi Maruko-chan 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1334,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/3/chibi-maruko-chan-4643545.jpg",
+        "imageAlt" : "Chibi Maruko-chan 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1334,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/3/chibi-maruko-chan-4643547.jpg",
+        "imageAlt" : "Chibi Maruko-chan 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1312,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/3/chibi-maruko-chan-4643549.jpg",
+        "imageAlt" : "Chibi Maruko-chan 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1312,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/3/chibi-maruko-chan-4643551.jpg",
+        "imageAlt" : "Chibi Maruko-chan 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1363,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/3/chibi-maruko-chan-4643553.jpg",
+        "imageAlt" : "Chibi Maruko-chan 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 537,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/3/chibi-maruko-chan-4643555.jpg",
+        "imageAlt" : "Chibi Maruko-chan 3 - Page 13"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/chibi-maruko-chan/4",
+    "chapterTitle" : "Chibi Maruko-chan 4",
+    "chapterDescription" : "",
+    "chapterDate" : "12/18/2013",
+    "pageCount" : 13,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 629,
+        "imageUrl" : "http://i6.mangareader.net/chibi-maruko-chan/4/chibi-maruko-chan-4643557.jpg",
+        "imageAlt" : "Chibi Maruko-chan 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/4/chibi-maruko-chan-4643559.jpg",
+        "imageAlt" : "Chibi Maruko-chan 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1118,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/4/chibi-maruko-chan-4643561.jpg",
+        "imageAlt" : "Chibi Maruko-chan 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1124,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/4/chibi-maruko-chan-4643563.jpg",
+        "imageAlt" : "Chibi Maruko-chan 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/4/chibi-maruko-chan-4643565.jpg",
+        "imageAlt" : "Chibi Maruko-chan 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/4/chibi-maruko-chan-4643567.jpg",
+        "imageAlt" : "Chibi Maruko-chan 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/4/chibi-maruko-chan-4643569.jpg",
+        "imageAlt" : "Chibi Maruko-chan 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/4/chibi-maruko-chan-4643571.jpg",
+        "imageAlt" : "Chibi Maruko-chan 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/4/chibi-maruko-chan-4643573.jpg",
+        "imageAlt" : "Chibi Maruko-chan 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/4/chibi-maruko-chan-4643575.jpg",
+        "imageAlt" : "Chibi Maruko-chan 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1121,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/4/chibi-maruko-chan-4643577.jpg",
+        "imageAlt" : "Chibi Maruko-chan 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/4/chibi-maruko-chan-4643579.jpg",
+        "imageAlt" : "Chibi Maruko-chan 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/4/chibi-maruko-chan-4643581.jpg",
+        "imageAlt" : "Chibi Maruko-chan 4 - Page 13"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/chibi-maruko-chan/5",
+    "chapterTitle" : "Chibi Maruko-chan 5",
+    "chapterDescription" : "",
+    "chapterDate" : "12/23/2013",
+    "pageCount" : 13,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 629,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/5/chibi-maruko-chan-4651585.jpg",
+        "imageAlt" : "Chibi Maruko-chan 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1234,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/5/chibi-maruko-chan-4651587.jpg",
+        "imageAlt" : "Chibi Maruko-chan 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/5/chibi-maruko-chan-4651589.jpg",
+        "imageAlt" : "Chibi Maruko-chan 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/5/chibi-maruko-chan-4651591.jpg",
+        "imageAlt" : "Chibi Maruko-chan 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/5/chibi-maruko-chan-4651593.jpg",
+        "imageAlt" : "Chibi Maruko-chan 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/5/chibi-maruko-chan-4651595.jpg",
+        "imageAlt" : "Chibi Maruko-chan 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1271,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/5/chibi-maruko-chan-4651597.jpg",
+        "imageAlt" : "Chibi Maruko-chan 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i6.mangareader.net/chibi-maruko-chan/5/chibi-maruko-chan-4651599.jpg",
+        "imageAlt" : "Chibi Maruko-chan 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/5/chibi-maruko-chan-4651601.jpg",
+        "imageAlt" : "Chibi Maruko-chan 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/5/chibi-maruko-chan-4651603.jpg",
+        "imageAlt" : "Chibi Maruko-chan 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/5/chibi-maruko-chan-4651605.jpg",
+        "imageAlt" : "Chibi Maruko-chan 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/5/chibi-maruko-chan-4651607.jpg",
+        "imageAlt" : "Chibi Maruko-chan 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/5/chibi-maruko-chan-4651609.jpg",
+        "imageAlt" : "Chibi Maruko-chan 5 - Page 13"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/chibi-maruko-chan/6",
+    "chapterTitle" : "Chibi Maruko-chan 6",
+    "chapterDescription" : "",
+    "chapterDate" : "12/24/2013",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 629,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/6/chibi-maruko-chan-4657963.jpg",
+        "imageAlt" : "Chibi Maruko-chan 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/6/chibi-maruko-chan-4657965.jpg",
+        "imageAlt" : "Chibi Maruko-chan 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/6/chibi-maruko-chan-4657967.jpg",
+        "imageAlt" : "Chibi Maruko-chan 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1234,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/6/chibi-maruko-chan-4657969.jpg",
+        "imageAlt" : "Chibi Maruko-chan 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i6.mangareader.net/chibi-maruko-chan/6/chibi-maruko-chan-4657971.jpg",
+        "imageAlt" : "Chibi Maruko-chan 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/6/chibi-maruko-chan-4657973.jpg",
+        "imageAlt" : "Chibi Maruko-chan 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/6/chibi-maruko-chan-4657975.jpg",
+        "imageAlt" : "Chibi Maruko-chan 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/6/chibi-maruko-chan-4657977.jpg",
+        "imageAlt" : "Chibi Maruko-chan 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/6/chibi-maruko-chan-4657979.jpg",
+        "imageAlt" : "Chibi Maruko-chan 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1232,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/6/chibi-maruko-chan-4657981.jpg",
+        "imageAlt" : "Chibi Maruko-chan 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1271,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/6/chibi-maruko-chan-4657983.jpg",
+        "imageAlt" : "Chibi Maruko-chan 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/6/chibi-maruko-chan-4657985.jpg",
+        "imageAlt" : "Chibi Maruko-chan 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/6/chibi-maruko-chan-4657987.jpg",
+        "imageAlt" : "Chibi Maruko-chan 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1303,
+        "imageUrl" : "http://i6.mangareader.net/chibi-maruko-chan/6/chibi-maruko-chan-4657989.jpg",
+        "imageAlt" : "Chibi Maruko-chan 6 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/chibi-maruko-chan/7",
+    "chapterTitle" : "Chibi Maruko-chan 7",
+    "chapterDescription" : "",
+    "chapterDate" : "01/01/2014",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 629,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/7/chibi-maruko-chan-4681199.jpg",
+        "imageAlt" : "Chibi Maruko-chan 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/7/chibi-maruko-chan-4681201.jpg",
+        "imageAlt" : "Chibi Maruko-chan 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/7/chibi-maruko-chan-4681203.jpg",
+        "imageAlt" : "Chibi Maruko-chan 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1222,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/7/chibi-maruko-chan-4681205.jpg",
+        "imageAlt" : "Chibi Maruko-chan 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/7/chibi-maruko-chan-4681207.jpg",
+        "imageAlt" : "Chibi Maruko-chan 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/7/chibi-maruko-chan-4681209.jpg",
+        "imageAlt" : "Chibi Maruko-chan 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1198,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/7/chibi-maruko-chan-4681211.jpg",
+        "imageAlt" : "Chibi Maruko-chan 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1245,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/7/chibi-maruko-chan-4681213.jpg",
+        "imageAlt" : "Chibi Maruko-chan 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/7/chibi-maruko-chan-4681215.jpg",
+        "imageAlt" : "Chibi Maruko-chan 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/7/chibi-maruko-chan-4681217.jpg",
+        "imageAlt" : "Chibi Maruko-chan 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/7/chibi-maruko-chan-4681219.jpg",
+        "imageAlt" : "Chibi Maruko-chan 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/7/chibi-maruko-chan-4681221.jpg",
+        "imageAlt" : "Chibi Maruko-chan 7 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/chibi-maruko-chan/8",
+    "chapterTitle" : "Chibi Maruko-chan 8",
+    "chapterDescription" : "",
+    "chapterDate" : "01/01/2014",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 680,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/8/chibi-maruko-chan-4681351.jpg",
+        "imageAlt" : "Chibi Maruko-chan 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/8/chibi-maruko-chan-4681353.jpg",
+        "imageAlt" : "Chibi Maruko-chan 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1221,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/8/chibi-maruko-chan-4681355.jpg",
+        "imageAlt" : "Chibi Maruko-chan 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/8/chibi-maruko-chan-4681357.jpg",
+        "imageAlt" : "Chibi Maruko-chan 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/8/chibi-maruko-chan-4681359.jpg",
+        "imageAlt" : "Chibi Maruko-chan 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/8/chibi-maruko-chan-4681361.jpg",
+        "imageAlt" : "Chibi Maruko-chan 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/8/chibi-maruko-chan-4681363.jpg",
+        "imageAlt" : "Chibi Maruko-chan 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1283,
+        "imageUrl" : "http://i6.mangareader.net/chibi-maruko-chan/8/chibi-maruko-chan-4681365.jpg",
+        "imageAlt" : "Chibi Maruko-chan 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/8/chibi-maruko-chan-4681367.jpg",
+        "imageAlt" : "Chibi Maruko-chan 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i6.mangareader.net/chibi-maruko-chan/8/chibi-maruko-chan-4681369.jpg",
+        "imageAlt" : "Chibi Maruko-chan 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1342,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/8/chibi-maruko-chan-4681371.jpg",
+        "imageAlt" : "Chibi Maruko-chan 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/8/chibi-maruko-chan-4681373.jpg",
+        "imageAlt" : "Chibi Maruko-chan 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1328,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/8/chibi-maruko-chan-4681375.jpg",
+        "imageAlt" : "Chibi Maruko-chan 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/8/chibi-maruko-chan-4681377.jpg",
+        "imageAlt" : "Chibi Maruko-chan 8 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/chibi-maruko-chan/9",
+    "chapterTitle" : "Chibi Maruko-chan 9",
+    "chapterDescription" : "",
+    "chapterDate" : "02/04/2014",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1071,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/9/chibi-maruko-chan-4778901.jpg",
+        "imageAlt" : "Chibi Maruko-chan 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/9/chibi-maruko-chan-4778903.jpg",
+        "imageAlt" : "Chibi Maruko-chan 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/9/chibi-maruko-chan-4778905.jpg",
+        "imageAlt" : "Chibi Maruko-chan 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/9/chibi-maruko-chan-4778907.jpg",
+        "imageAlt" : "Chibi Maruko-chan 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/9/chibi-maruko-chan-4778909.jpg",
+        "imageAlt" : "Chibi Maruko-chan 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/9/chibi-maruko-chan-4778911.jpg",
+        "imageAlt" : "Chibi Maruko-chan 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/9/chibi-maruko-chan-4778913.jpg",
+        "imageAlt" : "Chibi Maruko-chan 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/9/chibi-maruko-chan-4778915.jpg",
+        "imageAlt" : "Chibi Maruko-chan 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/9/chibi-maruko-chan-4778917.jpg",
+        "imageAlt" : "Chibi Maruko-chan 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/9/chibi-maruko-chan-4778919.jpg",
+        "imageAlt" : "Chibi Maruko-chan 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/9/chibi-maruko-chan-4778921.jpg",
+        "imageAlt" : "Chibi Maruko-chan 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/9/chibi-maruko-chan-4778923.jpg",
+        "imageAlt" : "Chibi Maruko-chan 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/9/chibi-maruko-chan-4778925.jpg",
+        "imageAlt" : "Chibi Maruko-chan 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/9/chibi-maruko-chan-4778927.jpg",
+        "imageAlt" : "Chibi Maruko-chan 9 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/chibi-maruko-chan/10",
+    "chapterTitle" : "Chibi Maruko-chan 10",
+    "chapterDescription" : "",
+    "chapterDate" : "02/13/2015",
+    "pageCount" : 15,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 687,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/10/chibi-maruko-chan-5486949.jpg",
+        "imageAlt" : "Chibi Maruko-chan 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 721,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/10/chibi-maruko-chan-5486951.jpg",
+        "imageAlt" : "Chibi Maruko-chan 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/10/chibi-maruko-chan-5486953.jpg",
+        "imageAlt" : "Chibi Maruko-chan 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/10/chibi-maruko-chan-5486955.jpg",
+        "imageAlt" : "Chibi Maruko-chan 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/10/chibi-maruko-chan-5486957.jpg",
+        "imageAlt" : "Chibi Maruko-chan 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/10/chibi-maruko-chan-5486959.jpg",
+        "imageAlt" : "Chibi Maruko-chan 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/10/chibi-maruko-chan-5486961.jpg",
+        "imageAlt" : "Chibi Maruko-chan 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/10/chibi-maruko-chan-5486963.jpg",
+        "imageAlt" : "Chibi Maruko-chan 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/10/chibi-maruko-chan-5486965.jpg",
+        "imageAlt" : "Chibi Maruko-chan 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/10/chibi-maruko-chan-5486967.jpg",
+        "imageAlt" : "Chibi Maruko-chan 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/10/chibi-maruko-chan-5486969.jpg",
+        "imageAlt" : "Chibi Maruko-chan 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/10/chibi-maruko-chan-5486971.jpg",
+        "imageAlt" : "Chibi Maruko-chan 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/10/chibi-maruko-chan-5486973.jpg",
+        "imageAlt" : "Chibi Maruko-chan 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/10/chibi-maruko-chan-5486975.jpg",
+        "imageAlt" : "Chibi Maruko-chan 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/10/chibi-maruko-chan-5486977.jpg",
+        "imageAlt" : "Chibi Maruko-chan 10 - Page 15"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/chibi-maruko-chan/11",
+    "chapterTitle" : "Chibi Maruko-chan 11",
+    "chapterDescription" : "",
+    "chapterDate" : "03/07/2015",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 687,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535419.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1244,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535421.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535423.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535425.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535427.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535429.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535431.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535433.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535435.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535437.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535439.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535441.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1243,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535443.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535445.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535447.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535449.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/11/chibi-maruko-chan-5535451.jpg",
+        "imageAlt" : "Chibi Maruko-chan 11 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/chibi-maruko-chan/12",
+    "chapterTitle" : "Chibi Maruko-chan 12",
+    "chapterDescription" : "",
+    "chapterDate" : "08/01/2015",
+    "pageCount" : 15,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/12/chibi-maruko-chan-5854813.jpg",
+        "imageAlt" : "Chibi Maruko-chan 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/12/chibi-maruko-chan-5854819.jpg",
+        "imageAlt" : "Chibi Maruko-chan 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/12/chibi-maruko-chan-5854825.jpg",
+        "imageAlt" : "Chibi Maruko-chan 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/12/chibi-maruko-chan-5854831.jpg",
+        "imageAlt" : "Chibi Maruko-chan 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i6.mangareader.net/chibi-maruko-chan/12/chibi-maruko-chan-5854837.jpg",
+        "imageAlt" : "Chibi Maruko-chan 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/12/chibi-maruko-chan-5854843.jpg",
+        "imageAlt" : "Chibi Maruko-chan 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/12/chibi-maruko-chan-5854849.jpg",
+        "imageAlt" : "Chibi Maruko-chan 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/12/chibi-maruko-chan-5854855.jpg",
+        "imageAlt" : "Chibi Maruko-chan 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/12/chibi-maruko-chan-5854861.jpg",
+        "imageAlt" : "Chibi Maruko-chan 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/12/chibi-maruko-chan-5854867.jpg",
+        "imageAlt" : "Chibi Maruko-chan 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/12/chibi-maruko-chan-5854873.jpg",
+        "imageAlt" : "Chibi Maruko-chan 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/12/chibi-maruko-chan-5854879.jpg",
+        "imageAlt" : "Chibi Maruko-chan 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/12/chibi-maruko-chan-5854885.jpg",
+        "imageAlt" : "Chibi Maruko-chan 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/12/chibi-maruko-chan-5854891.jpg",
+        "imageAlt" : "Chibi Maruko-chan 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 687,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/12/chibi-maruko-chan-5854897.jpg",
+        "imageAlt" : "Chibi Maruko-chan 12 - Page 15"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/chibi-maruko-chan/13",
+    "chapterTitle" : "Chibi Maruko-chan 13",
+    "chapterDescription" : "",
+    "chapterDate" : "08/22/2015",
+    "pageCount" : 29,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5987917.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1243,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5987923.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i1.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5987929.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5987935.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5987941.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1243,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5987947.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5987953.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5987959.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5987965.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5987971.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i4.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5987977.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i6.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5987983.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5987989.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5987995.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5988001.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5988007.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5988013.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i5.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5988019.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5988025.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i6.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5988031.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5988037.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i2.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5988043.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i10.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5988049.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i8.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5988055.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i9.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5988061.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5988067.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i3.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5988073.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5988079.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/chibi-maruko-chan/13/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 687,
+        "imageUrl" : "http://i7.mangareader.net/chibi-maruko-chan/13/chibi-maruko-chan-5988085.jpg",
+        "imageAlt" : "Chibi Maruko-chan 13 - Page 29"
+      } ]
+    } ]
+  } ]
+}

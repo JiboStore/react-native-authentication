@@ -1,0 +1,1082 @@
+{
+  "mangaTitle" : "Dispatch",
+  "mangaUrl" : "http://www.mangareader.net/dispatch",
+  "mangaThumbUrl" : "http://s3.mangareader.net/cover/dispatch/dispatch-r0.jpg",
+  "mangaChaptersInfo" : "4 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Action, Ecchi, Seinen",
+  "chapterCount" : 4,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/dispatch/1",
+    "chapterTitle" : "Dispatch 1",
+    "chapterDescription" : "",
+    "chapterDate" : "06/15/2010",
+    "pageCount" : 37,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 576,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/1/dispatch-1393403.jpg",
+        "imageAlt" : "Dispatch 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/1/dispatch-1393404.jpg",
+        "imageAlt" : "Dispatch 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 341,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/1/dispatch-1393405.jpg",
+        "imageAlt" : "Dispatch 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/1/dispatch-1393406.jpg",
+        "imageAlt" : "Dispatch 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/1/dispatch-1393407.jpg",
+        "imageAlt" : "Dispatch 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/1/dispatch-1393408.jpg",
+        "imageAlt" : "Dispatch 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 580,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/1/dispatch-1393409.jpg",
+        "imageAlt" : "Dispatch 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/1/dispatch-1393410.jpg",
+        "imageAlt" : "Dispatch 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/1/dispatch-1393411.jpg",
+        "imageAlt" : "Dispatch 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/1/dispatch-1393412.jpg",
+        "imageAlt" : "Dispatch 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/1/dispatch-1393413.jpg",
+        "imageAlt" : "Dispatch 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/1/dispatch-1393414.jpg",
+        "imageAlt" : "Dispatch 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/1/dispatch-1393415.jpg",
+        "imageAlt" : "Dispatch 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/1/dispatch-1393416.jpg",
+        "imageAlt" : "Dispatch 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i8.mangareader.net/dispatch/1/dispatch-1393417.jpg",
+        "imageAlt" : "Dispatch 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/1/dispatch-1393418.jpg",
+        "imageAlt" : "Dispatch 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/1/dispatch-1393419.jpg",
+        "imageAlt" : "Dispatch 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/dispatch/1/dispatch-1393420.jpg",
+        "imageAlt" : "Dispatch 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/dispatch/1/dispatch-1393421.jpg",
+        "imageAlt" : "Dispatch 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i7.mangareader.net/dispatch/1/dispatch-1393422.jpg",
+        "imageAlt" : "Dispatch 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/dispatch/1/dispatch-1393423.jpg",
+        "imageAlt" : "Dispatch 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/dispatch/1/dispatch-1393424.jpg",
+        "imageAlt" : "Dispatch 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i7.mangareader.net/dispatch/1/dispatch-1393425.jpg",
+        "imageAlt" : "Dispatch 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/dispatch/1/dispatch-1393426.jpg",
+        "imageAlt" : "Dispatch 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/dispatch/1/dispatch-1393427.jpg",
+        "imageAlt" : "Dispatch 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i7.mangareader.net/dispatch/1/dispatch-1393428.jpg",
+        "imageAlt" : "Dispatch 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/dispatch/1/dispatch-1393429.jpg",
+        "imageAlt" : "Dispatch 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i7.mangareader.net/dispatch/1/dispatch-1393430.jpg",
+        "imageAlt" : "Dispatch 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/dispatch/1/dispatch-1393431.jpg",
+        "imageAlt" : "Dispatch 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i7.mangareader.net/dispatch/1/dispatch-1393432.jpg",
+        "imageAlt" : "Dispatch 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/dispatch/1/dispatch-1393433.jpg",
+        "imageAlt" : "Dispatch 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/dispatch/1/dispatch-1393434.jpg",
+        "imageAlt" : "Dispatch 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/dispatch/1/dispatch-1393435.jpg",
+        "imageAlt" : "Dispatch 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i7.mangareader.net/dispatch/1/dispatch-1393436.jpg",
+        "imageAlt" : "Dispatch 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/dispatch/1/dispatch-1393437.jpg",
+        "imageAlt" : "Dispatch 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/dispatch/1/dispatch-1393438.jpg",
+        "imageAlt" : "Dispatch 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/dispatch/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/dispatch/1/dispatch-1393439.jpg",
+        "imageAlt" : "Dispatch 1 - Page 37"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/dispatch/2",
+    "chapterTitle" : "Dispatch 2",
+    "chapterDescription" : "",
+    "chapterDate" : "06/15/2010",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/dispatch/2/dispatch-1393440.jpg",
+        "imageAlt" : "Dispatch 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/dispatch/2/dispatch-1393441.jpg",
+        "imageAlt" : "Dispatch 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/dispatch/2/dispatch-1393442.jpg",
+        "imageAlt" : "Dispatch 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i7.mangareader.net/dispatch/2/dispatch-1393443.jpg",
+        "imageAlt" : "Dispatch 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/dispatch/2/dispatch-1393444.jpg",
+        "imageAlt" : "Dispatch 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/dispatch/2/dispatch-1393445.jpg",
+        "imageAlt" : "Dispatch 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/dispatch/2/dispatch-1393446.jpg",
+        "imageAlt" : "Dispatch 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/dispatch/2/dispatch-1393447.jpg",
+        "imageAlt" : "Dispatch 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/dispatch/2/dispatch-1393448.jpg",
+        "imageAlt" : "Dispatch 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/dispatch/2/dispatch-1393449.jpg",
+        "imageAlt" : "Dispatch 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i7.mangareader.net/dispatch/2/dispatch-1393450.jpg",
+        "imageAlt" : "Dispatch 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/dispatch/2/dispatch-1393451.jpg",
+        "imageAlt" : "Dispatch 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/dispatch/2/dispatch-1393452.jpg",
+        "imageAlt" : "Dispatch 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i7.mangareader.net/dispatch/2/dispatch-1393453.jpg",
+        "imageAlt" : "Dispatch 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/dispatch/2/dispatch-1393454.jpg",
+        "imageAlt" : "Dispatch 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/dispatch/2/dispatch-1393455.jpg",
+        "imageAlt" : "Dispatch 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i7.mangareader.net/dispatch/2/dispatch-1393456.jpg",
+        "imageAlt" : "Dispatch 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/dispatch/2/dispatch-1393457.jpg",
+        "imageAlt" : "Dispatch 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/dispatch/2/dispatch-1393458.jpg",
+        "imageAlt" : "Dispatch 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/dispatch/2/dispatch-1393459.jpg",
+        "imageAlt" : "Dispatch 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/2/dispatch-1393460.jpg",
+        "imageAlt" : "Dispatch 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/2/dispatch-1393461.jpg",
+        "imageAlt" : "Dispatch 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/2/dispatch-1393462.jpg",
+        "imageAlt" : "Dispatch 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/2/dispatch-1393463.jpg",
+        "imageAlt" : "Dispatch 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/dispatch/2/dispatch-1393464.jpg",
+        "imageAlt" : "Dispatch 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/dispatch/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i8.mangareader.net/dispatch/2/dispatch-1393465.jpg",
+        "imageAlt" : "Dispatch 2 - Page 26"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/dispatch/3",
+    "chapterTitle" : "Dispatch 3",
+    "chapterDescription" : "",
+    "chapterDate" : "06/15/2010",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/3/dispatch-1393467.jpg",
+        "imageAlt" : "Dispatch 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/3/dispatch-1393468.jpg",
+        "imageAlt" : "Dispatch 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/3/dispatch-1393469.jpg",
+        "imageAlt" : "Dispatch 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/dispatch/3/dispatch-1393470.jpg",
+        "imageAlt" : "Dispatch 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/3/dispatch-1393471.jpg",
+        "imageAlt" : "Dispatch 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i8.mangareader.net/dispatch/3/dispatch-1393472.jpg",
+        "imageAlt" : "Dispatch 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/3/dispatch-1393473.jpg",
+        "imageAlt" : "Dispatch 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/dispatch/3/dispatch-1393474.jpg",
+        "imageAlt" : "Dispatch 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/3/dispatch-1393475.jpg",
+        "imageAlt" : "Dispatch 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/dispatch/3/dispatch-1393476.jpg",
+        "imageAlt" : "Dispatch 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/3/dispatch-1393477.jpg",
+        "imageAlt" : "Dispatch 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/dispatch/3/dispatch-1393478.jpg",
+        "imageAlt" : "Dispatch 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/dispatch/3/dispatch-1393479.jpg",
+        "imageAlt" : "Dispatch 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/3/dispatch-1393480.jpg",
+        "imageAlt" : "Dispatch 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/3/dispatch-1393481.jpg",
+        "imageAlt" : "Dispatch 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/3/dispatch-1393482.jpg",
+        "imageAlt" : "Dispatch 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/3/dispatch-1393483.jpg",
+        "imageAlt" : "Dispatch 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/3/dispatch-1393484.jpg",
+        "imageAlt" : "Dispatch 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/3/dispatch-1393485.jpg",
+        "imageAlt" : "Dispatch 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/dispatch/3/dispatch-1393486.jpg",
+        "imageAlt" : "Dispatch 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/dispatch/3/dispatch-1393487.jpg",
+        "imageAlt" : "Dispatch 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/3/dispatch-1393488.jpg",
+        "imageAlt" : "Dispatch 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/3/dispatch-1393489.jpg",
+        "imageAlt" : "Dispatch 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/3/dispatch-1393490.jpg",
+        "imageAlt" : "Dispatch 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/dispatch/3/dispatch-1393491.jpg",
+        "imageAlt" : "Dispatch 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/3/dispatch-1393492.jpg",
+        "imageAlt" : "Dispatch 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/dispatch/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/3/dispatch-1393493.jpg",
+        "imageAlt" : "Dispatch 3 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/dispatch/4",
+    "chapterTitle" : "Dispatch 4",
+    "chapterDescription" : "",
+    "chapterDate" : "08/04/2010",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/4/dispatch-1457925.jpg",
+        "imageAlt" : "Dispatch 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/4/dispatch-1457926.jpg",
+        "imageAlt" : "Dispatch 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/4/dispatch-1457927.jpg",
+        "imageAlt" : "Dispatch 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/dispatch/4/dispatch-1457928.jpg",
+        "imageAlt" : "Dispatch 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/4/dispatch-1457929.jpg",
+        "imageAlt" : "Dispatch 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/4/dispatch-1457930.jpg",
+        "imageAlt" : "Dispatch 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/dispatch/4/dispatch-1457931.jpg",
+        "imageAlt" : "Dispatch 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/4/dispatch-1457932.jpg",
+        "imageAlt" : "Dispatch 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/4/dispatch-1457933.jpg",
+        "imageAlt" : "Dispatch 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/4/dispatch-1457934.jpg",
+        "imageAlt" : "Dispatch 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/dispatch/4/dispatch-1457935.jpg",
+        "imageAlt" : "Dispatch 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/4/dispatch-1457936.jpg",
+        "imageAlt" : "Dispatch 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/4/dispatch-1457937.jpg",
+        "imageAlt" : "Dispatch 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/dispatch/4/dispatch-1457938.jpg",
+        "imageAlt" : "Dispatch 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/4/dispatch-1457939.jpg",
+        "imageAlt" : "Dispatch 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/4/dispatch-1457940.jpg",
+        "imageAlt" : "Dispatch 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/4/dispatch-1457941.jpg",
+        "imageAlt" : "Dispatch 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/dispatch/4/dispatch-1457942.jpg",
+        "imageAlt" : "Dispatch 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/4/dispatch-1457943.jpg",
+        "imageAlt" : "Dispatch 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/4/dispatch-1457944.jpg",
+        "imageAlt" : "Dispatch 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/dispatch/4/dispatch-1457945.jpg",
+        "imageAlt" : "Dispatch 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/4/dispatch-1457946.jpg",
+        "imageAlt" : "Dispatch 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/dispatch/4/dispatch-1457947.jpg",
+        "imageAlt" : "Dispatch 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/4/dispatch-1457948.jpg",
+        "imageAlt" : "Dispatch 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/dispatch/4/dispatch-1457949.jpg",
+        "imageAlt" : "Dispatch 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/dispatch/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i6.mangareader.net/dispatch/4/dispatch-1457950.jpg",
+        "imageAlt" : "Dispatch 4 - Page 26"
+      } ]
+    } ]
+  } ]
+}

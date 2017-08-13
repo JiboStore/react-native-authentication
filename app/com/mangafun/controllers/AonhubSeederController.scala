@@ -39,14 +39,21 @@ class AonhubSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCl
   
   val urlHost = "http://mr.aonhub.com/apiv1/1/"
   
+  val resourcesRoot = "resources/sources/aonhub/"
+  
   def reactiveMongoApi() : ReactiveMongoApi = {
     return reactiveMongoApi;
   }
   
   def mangaRepo = new AonhubMangaRepoImpl(reactiveMongoApi)
   
+  def readMangaList(): String = {
+    var f = FileUtils.getFile( resourcesRoot + "manga.json")
+    FileUtils.readFileToString(f, "UTF-8")
+  }
+  
   def writeMangaToString(manga: AonhubManga) = {
-    val strPath = "resources/sources/aonhub/json/"
+    val strPath = resourcesRoot + "json/" // "resources/sources/aonhub/json/"
     val jsv = Json.toJson(manga)
     val strContent = Json.prettyPrint(jsv)
     val fileSave = FileUtils.getFile(strPath + manga.id)
@@ -60,7 +67,7 @@ class AonhubSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCl
     val fResponse = wsRequest.get()
     val fResult = fResponse.map( wsres => {
       val strResult = Json.prettyPrint(wsres.json)
-      val strPath = "resources/sources/aonhub/manga.json"
+      val strPath = resourcesRoot + "manga.json" //"resources/sources/aonhub/manga.json"
       val fileSave = FileUtils.getFile(strPath)
       FileUtils.writeStringToFile(fileSave, strResult)
       strResult
@@ -87,6 +94,51 @@ class AonhubSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCl
     
     Future {
       Ok(strAll)
+    }
+  }
+  
+  def getfromto(startingIndex: Int, endingIndex: Int): Action[AnyContent] = Action.async {
+    val strManga = readMangaList()
+    val jsv = Json.parse(strManga)
+    val lMangaSearchData = jsv.as[List[AonhubSearchData]]
+    val iStartingIndex = if (startingIndex < 0 || startingIndex >= lMangaSearchData.length) 0 else startingIndex
+    var iEndingIndex = if ( endingIndex < 0 || endingIndex >= lMangaSearchData.length ) lMangaSearchData.length-1 else endingIndex
+    if ( iEndingIndex < iStartingIndex ) {
+      iEndingIndex = iStartingIndex+1
+    }
+    var iCurrentIndex = iStartingIndex
+    var iCount = 0
+    for ( iCurrentIndex <- iStartingIndex to iEndingIndex ) {
+      try {
+        val oData = lMangaSearchData.find( e => {
+          e.id == iCurrentIndex // todo: change rank to id
+        })
+        if ( oData.isDefined ) {
+          val data = oData.get
+          val mangaId = data.id // todo: change rank to id
+          val fEntry = requestMangaAndChapterInfo(mangaId)
+          val mangaEntry = Await.result(fEntry, Duration.Inf)
+          val aonhubManga = mangaRepo.constructMangaFromApiResponse(mangaId.toString(), mangaEntry)
+          val lChapterEntries = for ( chapterInfo <- aonhubManga.chapters ) yield {
+            val flString = requestPageInfo( chapterInfo.id )
+            val lString = Await.result(flString, Duration.Inf)
+            mangaRepo.constructMangaPagesFromApiResponse(chapterInfo, lString)
+          }
+          aonhubManga.chapters = lChapterEntries
+          writeMangaToString(aonhubManga)
+        } else {
+          Logger.error("Unable to find: " + iCurrentIndex)
+        }
+        iCount = iCount+1
+      } catch {
+        case ex: Exception => {
+          Logger.error("Exception: " + iCurrentIndex + ex.getMessage())
+          Logger.error("Stack trace: " + ex.getStackTrace.toString())
+        }
+      }
+    }
+    Future {
+      Ok("done")
     }
   }
   

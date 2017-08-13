@@ -2,6 +2,17 @@ package com.mangafun.repos
 
 import play.api.libs.json._
 
+case class AonhubSearchData(
+    var id: Int,
+    var rank: String,
+    var name: String,
+    var categories: String,
+    var author: String,
+    var image: String,      // image [image-url]
+    var status: String
+) {
+}
+
 case class AonhubMangaEntry(
     var rank: String,        // rank
     var name: String,        // name
@@ -51,6 +62,11 @@ case class AonhubChapterEntry(
     var name: String,         // name
     var id: String            // id [chapter-url]
 ) {
+}
+
+object AonhubSearchData {
+  import play.api.libs.json.Json
+  implicit val aonhubSearchDataJson = Json.format[AonhubSearchData]
 }
 
 object AonhubChapterEntry {

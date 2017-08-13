@@ -4,3 +4,4 @@
 [submodule "resources/sources/aonhub"]
 	path = resources/sources/aonhub
 	url = https://gitlab.com/kimentertainment/mangafun_sources_aonhub.git
+	branch = master

@@ -29,7 +29,8 @@ GET		/manga/seeder/getfromto		@com.mangafun.controllers.MangaSeederController.ge
 GET		/manga/seeder/image			@com.mangafun.controllers.MangaSeederController.image(mangaIndex: Int ?= 0)
 GET		/manga/seeder/imagefromto	@com.mangafun.controllers.MangaSeederController.imagefromto(startingIndex: Int, endingIndex: Int)
 
-GET		/aonhub/seeder/getmangainfo	@com.mangafun.controllers.AonhubSeederController.getmangainfo(mangaId: Int ?= 2940)
+GET		/aonhub/seeder/updatemangajson		@com.mangafun.controllers.AonhubSeederController.updatemangajson()
+GET		/aonhub/seeder/getmangainfo			@com.mangafun.controllers.AonhubSeederController.getmangainfo(mangaId: Int ?= 2940)
 
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               @controllers.Assets.at(path="/public", file)

@@ -45,24 +45,30 @@ class AonhubSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCl
   
   def mangaRepo = new AonhubMangaRepoImpl(reactiveMongoApi)
   
-//  // @dirtyUrl : http:\/\/mr.aonhub.com\/apiv1\/1\/2940?cid=1
-//  def cleanUrl(dirtyUrl:String): String = {
-//    val cleaned = dirtyUrl.filter(!"\\".contains(_))
-//    Logger.error("cleaned url: " + cleaned)
-//    cleaned
-//  }
+  def writeMangaToString(manga: AonhubManga) = {
+    val strPath = "resources/sources/aonhub/json/"
+    val jsv = Json.toJson(manga)
+    val strContent = Json.prettyPrint(jsv)
+    val fileSave = FileUtils.getFile(strPath + manga.id)
+    FileUtils.writeStringToFile(fileSave, strContent)
+    
+  }
   
-
-  
-//  object ResultComicInfo {
-//  import play.api.libs.json.Json
-//  implicit val resultComicInfo = Json.format[ResultComicInfo]
-//}
-//
-//object ResultComicResponse {
-//  import play.api.libs.json.Json
-//  implicit val resultComicResponse = Json.format[ResultComicResponse]
-//}
+  def updatemangajson(): Action[AnyContent] = Action.async {
+    val wsRequest = wsClient.url(urlHost)
+    .withHeaders(("Accept" -> "application/json"))
+    val fResponse = wsRequest.get()
+    val fResult = fResponse.map( wsres => {
+      val strResult = Json.prettyPrint(wsres.json)
+      val strPath = "resources/sources/aonhub/manga.json"
+      val fileSave = FileUtils.getFile(strPath)
+      FileUtils.writeStringToFile(fileSave, strResult)
+      strResult
+    })
+    fResult.map( res => {
+      Ok(res)
+    })
+  }
   
   def getmangainfo(mangaId: Int): Action[AnyContent] = Action.async {
     val fManga = requestMangaAndChapterInfo(mangaId)
@@ -74,20 +80,10 @@ class AonhubSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCl
       mangaRepo.constructMangaPagesFromApiResponse(chapterInfo, lString)
     }
     aonhubManga.chapters = lChapterEntries
+    writeMangaToString(aonhubManga)
     val jsValue = Json.toJson(aonhubManga)
     val strAll = Json.prettyPrint(jsValue)
     Logger.debug(strAll)
-//    val lChapterEntries = for ( chapterInfo <- mangaEntry.chapters ) yield {
-//      val chUrl = cleanUrl( chapterInfo.id )
-//      val fPages = requestPageInfo(chUrl)
-//      val lPages = Await.result(fPages, Duration.Inf)
-//      chapterInfo.pages = lPages
-//      chapterInfo
-//    }
-//    mangaEntry.chapters = lChapterEntries
-//    val jsv = Json.toJson(mangaEntry)
-//    val strAll = Json.prettyPrint(jsv)
-//    Logger.debug(strAll)
     
     Future {
       Ok(strAll)
@@ -114,21 +110,6 @@ class AonhubSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCl
     })
     fResult
   }
-  
-//      def requestComicInfo(resultSearchResponse: ResultSearchResponse): Future[List[ResultComicResponse]] = {
-//      val urlReq = getUrlHost() + "/comic"
-//      val wsRequest: WSRequest = wsClient.url(urlReq)
-//      .withHeaders(("Accept" -> "application/json"))
-//      val lfResultComicResponse = for ( info <- resultSearchResponse.results ) yield {
-//        Logger.debug("requestComicInfo: " + urlReq + "?c=" + info.resultFullUrl)
-//        val fResponse = wsRequest.withQueryString(("c" -> info.resultFullUrl)).get()
-//        val fResultComicResponse = fResponse.map( wsres => {
-////          Logger.debug("wsres: " + wsres.body)
-//          wsres.json.as[ResultComicResponse]
-//        })
-//        fResultComicResponse
-//      }
-//      Future.sequence(lfResultComicResponse)
-//    }
+
   
 }

@@ -1,0 +1,4829 @@
+{
+  "mangaTitle" : "Izayakaku",
+  "mangaUrl" : "http://www.mangareader.net/izayakaku",
+  "mangaThumbUrl" : "http://s5.mangareader.net/cover/izayakaku/izayakaku-r0.jpg",
+  "mangaChaptersInfo" : "16 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Adventure, Fantasy, Shoujo",
+  "chapterCount" : 16,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/1",
+    "chapterTitle" : "Izayakaku 1",
+    "chapterDescription" : "",
+    "chapterDate" : "10/06/2009",
+    "pageCount" : 47,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 535,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/1/izayakaku-1928433.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/1/izayakaku-1928435.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1232,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/1/izayakaku-1928437.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/1/izayakaku-1928439.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/1/izayakaku-1928441.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/1/izayakaku-1928443.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/1/izayakaku-1928445.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/1/izayakaku-1928447.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/1/izayakaku-1928449.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/1/izayakaku-1928451.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/1/izayakaku-1928453.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/1/izayakaku-1928455.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/1/izayakaku-1928457.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/1/izayakaku-1928459.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/1/izayakaku-1928461.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/1/izayakaku-1928463.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/1/izayakaku-1928465.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/1/izayakaku-1928467.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/1/izayakaku-1928469.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/1/izayakaku-1928471.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/1/izayakaku-1928473.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/1/izayakaku-1928475.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/1/izayakaku-1928477.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/1/izayakaku-1928479.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/1/izayakaku-1928481.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/1/izayakaku-1928483.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/1/izayakaku-1928485.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/1/izayakaku-1928487.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/1/izayakaku-1928489.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/1/izayakaku-1928491.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/1/izayakaku-1928493.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/1/izayakaku-1928495.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/1/izayakaku-1928497.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/1/izayakaku-1928499.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/1/izayakaku-1928501.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/1/izayakaku-1928503.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/1/izayakaku-1928505.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/1/izayakaku-1928507.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/1/izayakaku-1928509.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/1/izayakaku-1928511.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/1/izayakaku-1928513.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/1/izayakaku-1928515.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/1/izayakaku-1928517.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/1/izayakaku-1928519.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/1/izayakaku-1928521.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 465,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/1/izayakaku-1928523.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/1/izayakaku-1928525.jpg",
+        "imageAlt" : "Izayakaku 1 - Page 47"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/2",
+    "chapterTitle" : "Izayakaku 2",
+    "chapterDescription" : "",
+    "chapterDate" : "10/06/2009",
+    "pageCount" : 44,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 466,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/2/izayakaku-1928527.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/2/izayakaku-1928529.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/2/izayakaku-1928531.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/2/izayakaku-1928533.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/2/izayakaku-1928535.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/2/izayakaku-1928537.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/2/izayakaku-1928539.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/2/izayakaku-1928541.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/2/izayakaku-1928543.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/2/izayakaku-1928545.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/2/izayakaku-1928547.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/2/izayakaku-1928549.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/2/izayakaku-1928551.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/2/izayakaku-1928553.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/2/izayakaku-1928555.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/2/izayakaku-1928557.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/2/izayakaku-1928559.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/2/izayakaku-1928561.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/2/izayakaku-1928563.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/2/izayakaku-1928565.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/2/izayakaku-1928567.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/2/izayakaku-1928569.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/2/izayakaku-1928571.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/2/izayakaku-1928573.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/2/izayakaku-1928575.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/2/izayakaku-1928577.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/2/izayakaku-1928579.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/2/izayakaku-1928581.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/2/izayakaku-1928583.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/2/izayakaku-1928585.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/2/izayakaku-1928587.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/2/izayakaku-1928589.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/2/izayakaku-1928591.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/2/izayakaku-1928593.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/2/izayakaku-1928595.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/2/izayakaku-1928597.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/2/izayakaku-1928599.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/2/izayakaku-1928601.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/2/izayakaku-1928603.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/2/izayakaku-1928605.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/2/izayakaku-1928607.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/2/izayakaku-1928609.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/2/izayakaku-1928611.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/2/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/2/izayakaku-1928613.jpg",
+        "imageAlt" : "Izayakaku 2 - Page 44"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/3",
+    "chapterTitle" : "Izayakaku 3",
+    "chapterDescription" : "",
+    "chapterDate" : "01/25/2012",
+    "pageCount" : 38,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/3/izayakaku-3009429.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/3/izayakaku-3009431.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/3/izayakaku-3009433.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/3/izayakaku-3009435.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/3/izayakaku-3009437.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/3/izayakaku-3009439.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/3/izayakaku-3009441.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/3/izayakaku-3009443.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/3/izayakaku-3009445.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/3/izayakaku-3009447.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/3/izayakaku-3009449.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/3/izayakaku-3009451.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/3/izayakaku-3009453.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/3/izayakaku-3009455.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/3/izayakaku-3009457.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/3/izayakaku-3009459.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/3/izayakaku-3009461.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/3/izayakaku-3009463.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/3/izayakaku-3009465.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/3/izayakaku-3009467.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/3/izayakaku-3009469.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/3/izayakaku-3009471.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/3/izayakaku-3009473.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/3/izayakaku-3009475.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/3/izayakaku-3009477.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/3/izayakaku-3009479.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/3/izayakaku-3009481.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/3/izayakaku-3009483.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/3/izayakaku-3009485.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/3/izayakaku-3009487.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/3/izayakaku-3009489.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/3/izayakaku-3009491.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/3/izayakaku-3009493.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/3/izayakaku-3009495.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/3/izayakaku-3009497.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/3/izayakaku-3009499.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 466,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/3/izayakaku-3009501.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/3/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/3/izayakaku-3009503.jpg",
+        "imageAlt" : "Izayakaku 3 - Page 38"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/4",
+    "chapterTitle" : "Izayakaku 4",
+    "chapterDescription" : "",
+    "chapterDate" : "01/25/2012",
+    "pageCount" : 37,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/4/izayakaku-3009505.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/4/izayakaku-3009507.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/4/izayakaku-3009509.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/4/izayakaku-3009511.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/4/izayakaku-3009513.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/4/izayakaku-3009515.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/4/izayakaku-3009517.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/4/izayakaku-3009519.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/4/izayakaku-3009521.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/4/izayakaku-3009523.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/4/izayakaku-3009525.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/4/izayakaku-3009527.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/4/izayakaku-3009529.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/4/izayakaku-3009531.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/4/izayakaku-3009533.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/4/izayakaku-3009535.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/4/izayakaku-3009537.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/4/izayakaku-3009539.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/4/izayakaku-3009541.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/4/izayakaku-3009543.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/4/izayakaku-3009545.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/4/izayakaku-3009547.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/4/izayakaku-3009549.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/4/izayakaku-3009551.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/4/izayakaku-3009553.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/4/izayakaku-3009555.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/4/izayakaku-3009557.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/4/izayakaku-3009559.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/4/izayakaku-3009561.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 610,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/4/izayakaku-3009563.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/4/izayakaku-3009565.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/4/izayakaku-3009567.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/4/izayakaku-3009569.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/4/izayakaku-3009571.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 583,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/4/izayakaku-3009573.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/4/izayakaku-3009575.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/4/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/4/izayakaku-3009577.jpg",
+        "imageAlt" : "Izayakaku 4 - Page 37"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/5",
+    "chapterTitle" : "Izayakaku 5",
+    "chapterDescription" : "",
+    "chapterDate" : "01/25/2012",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/5/izayakaku-3009579.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/5/izayakaku-3009581.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/5/izayakaku-3009583.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/5/izayakaku-3009585.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/5/izayakaku-3009587.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/5/izayakaku-3009589.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/5/izayakaku-3009591.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/5/izayakaku-3009593.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/5/izayakaku-3009595.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/5/izayakaku-3009597.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/5/izayakaku-3009599.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/5/izayakaku-3009601.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/5/izayakaku-3009603.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/5/izayakaku-3009605.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/5/izayakaku-3009607.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/5/izayakaku-3009609.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/5/izayakaku-3009611.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/5/izayakaku-3009613.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/5/izayakaku-3009615.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/5/izayakaku-3009617.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/5/izayakaku-3009619.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/5/izayakaku-3009621.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/5/izayakaku-3009623.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/5/izayakaku-3009625.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/5/izayakaku-3009627.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/5/izayakaku-3009629.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/5/izayakaku-3009631.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/5/izayakaku-3009633.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/5/izayakaku-3009635.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/5/izayakaku-3009637.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/5/izayakaku-3009639.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/5/izayakaku-3009641.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/5/izayakaku-3009643.jpg",
+        "imageAlt" : "Izayakaku 5 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/6",
+    "chapterTitle" : "Izayakaku 6",
+    "chapterDescription" : "",
+    "chapterDate" : "01/25/2012",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 712,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/6/izayakaku-3009645.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1025,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/6/izayakaku-3009647.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 570,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/6/izayakaku-3009649.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/6/izayakaku-3009651.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/6/izayakaku-3009653.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/6/izayakaku-3009655.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/6/izayakaku-3009657.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/6/izayakaku-3009659.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/6/izayakaku-3009661.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/6/izayakaku-3009663.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/6/izayakaku-3009665.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/6/izayakaku-3009667.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/6/izayakaku-3009669.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/6/izayakaku-3009671.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/6/izayakaku-3009673.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/6/izayakaku-3009675.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/6/izayakaku-3009677.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/6/izayakaku-3009679.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/6/izayakaku-3009681.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/6/izayakaku-3009683.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/6/izayakaku-3009685.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/6/izayakaku-3009687.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/6/izayakaku-3009689.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/6/izayakaku-3009691.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/6/izayakaku-3009693.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/6/izayakaku-3009695.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/6/izayakaku-3009697.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/6/izayakaku-3009699.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/6/izayakaku-3009701.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/6/izayakaku-3009703.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/6/izayakaku-3009705.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/6/izayakaku-3009707.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/6/izayakaku-3009709.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/6/izayakaku-3009711.jpg",
+        "imageAlt" : "Izayakaku 6 - Page 34"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/7",
+    "chapterTitle" : "Izayakaku 7",
+    "chapterDescription" : "",
+    "chapterDate" : "01/25/2012",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/7/izayakaku-3009713.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/7/izayakaku-3009715.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/7/izayakaku-3009717.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/7/izayakaku-3009719.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/7/izayakaku-3009721.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/7/izayakaku-3009723.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/7/izayakaku-3009725.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/7/izayakaku-3009727.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/7/izayakaku-3009729.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/7/izayakaku-3009731.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/7/izayakaku-3009733.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/7/izayakaku-3009735.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/7/izayakaku-3009737.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/7/izayakaku-3009739.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/7/izayakaku-3009741.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/7/izayakaku-3009743.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/7/izayakaku-3009745.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/7/izayakaku-3009747.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/7/izayakaku-3009749.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/7/izayakaku-3009751.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/7/izayakaku-3009753.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/7/izayakaku-3009755.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/7/izayakaku-3009757.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/7/izayakaku-3009759.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/7/izayakaku-3009761.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/7/izayakaku-3009763.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/7/izayakaku-3009765.jpg",
+        "imageAlt" : "Izayakaku 7 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/8",
+    "chapterTitle" : "Izayakaku 8",
+    "chapterDescription" : "",
+    "chapterDate" : "01/25/2012",
+    "pageCount" : 30,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 533,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/8/izayakaku-3009767.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/8/izayakaku-3009769.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/8/izayakaku-3009771.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/8/izayakaku-3009773.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/8/izayakaku-3009775.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/8/izayakaku-3009777.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/8/izayakaku-3009779.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/8/izayakaku-3009781.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/8/izayakaku-3009783.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/8/izayakaku-3009785.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/8/izayakaku-3009787.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/8/izayakaku-3009789.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/8/izayakaku-3009791.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/8/izayakaku-3009793.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/8/izayakaku-3009795.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/8/izayakaku-3009797.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/8/izayakaku-3009799.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/8/izayakaku-3009801.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/8/izayakaku-3009803.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 559,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/8/izayakaku-3009805.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/8/izayakaku-3009807.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/8/izayakaku-3009809.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/8/izayakaku-3009811.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/8/izayakaku-3009813.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/8/izayakaku-3009815.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/8/izayakaku-3009817.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/8/izayakaku-3009819.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/8/izayakaku-3009821.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/8/izayakaku-3009823.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/8/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/8/izayakaku-3009825.jpg",
+        "imageAlt" : "Izayakaku 8 - Page 30"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/9",
+    "chapterTitle" : "Izayakaku 9",
+    "chapterDescription" : "",
+    "chapterDate" : "01/25/2012",
+    "pageCount" : 25,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 533,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/9/izayakaku-3009827.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/9/izayakaku-3009829.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/9/izayakaku-3009831.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/9/izayakaku-3009833.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/9/izayakaku-3009835.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/9/izayakaku-3009837.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/9/izayakaku-3009839.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/9/izayakaku-3009841.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/9/izayakaku-3009843.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/9/izayakaku-3009845.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/9/izayakaku-3009847.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/9/izayakaku-3009849.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/9/izayakaku-3009851.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/9/izayakaku-3009853.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/9/izayakaku-3009855.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/9/izayakaku-3009857.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/9/izayakaku-3009859.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/9/izayakaku-3009861.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/9/izayakaku-3009863.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/9/izayakaku-3009865.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/9/izayakaku-3009867.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/9/izayakaku-3009869.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/9/izayakaku-3009871.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/9/izayakaku-3009873.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/9/izayakaku-3009875.jpg",
+        "imageAlt" : "Izayakaku 9 - Page 25"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/10",
+    "chapterTitle" : "Izayakaku 10",
+    "chapterDescription" : "",
+    "chapterDate" : "01/25/2012",
+    "pageCount" : 30,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 533,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/10/izayakaku-3009877.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/10/izayakaku-3009879.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/10/izayakaku-3009881.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/10/izayakaku-3009883.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 585,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/10/izayakaku-3009885.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/10/izayakaku-3009887.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/10/izayakaku-3009889.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/10/izayakaku-3009891.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/10/izayakaku-3009893.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/10/izayakaku-3009895.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/10/izayakaku-3009897.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/10/izayakaku-3009899.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/10/izayakaku-3009901.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/10/izayakaku-3009903.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/10/izayakaku-3009905.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/10/izayakaku-3009907.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/10/izayakaku-3009909.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/10/izayakaku-3009911.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/10/izayakaku-3009913.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/10/izayakaku-3009915.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/10/izayakaku-3009917.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/10/izayakaku-3009919.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/10/izayakaku-3009921.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/10/izayakaku-3009923.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/10/izayakaku-3009925.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/10/izayakaku-3009927.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/10/izayakaku-3009929.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 591,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/10/izayakaku-3009931.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/10/izayakaku-3009933.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/10/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/10/izayakaku-3009935.jpg",
+        "imageAlt" : "Izayakaku 10 - Page 30"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/11",
+    "chapterTitle" : "Izayakaku 11",
+    "chapterDescription" : "",
+    "chapterDate" : "01/25/2012",
+    "pageCount" : 37,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/11/izayakaku-3009937.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/11/izayakaku-3009939.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/11/izayakaku-3009941.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/11/izayakaku-3009943.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/11/izayakaku-3009945.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/11/izayakaku-3009947.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/11/izayakaku-3009949.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/11/izayakaku-3009951.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/11/izayakaku-3009953.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/11/izayakaku-3009955.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/11/izayakaku-3009957.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/11/izayakaku-3009959.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/11/izayakaku-3009961.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/11/izayakaku-3009963.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/11/izayakaku-3009965.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/11/izayakaku-3009967.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/11/izayakaku-3009969.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/11/izayakaku-3009971.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/11/izayakaku-3009973.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/11/izayakaku-3009975.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/11/izayakaku-3009977.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/11/izayakaku-3009979.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/11/izayakaku-3009981.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/11/izayakaku-3009983.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/11/izayakaku-3009985.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/11/izayakaku-3009987.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/11/izayakaku-3009989.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/11/izayakaku-3009991.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/11/izayakaku-3009993.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/11/izayakaku-3009995.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/11/izayakaku-3009997.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/11/izayakaku-3009999.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/11/izayakaku-3010001.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/11/izayakaku-3010003.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/11/izayakaku-3010005.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/11/izayakaku-3010007.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/11/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/11/izayakaku-3010009.jpg",
+        "imageAlt" : "Izayakaku 11 - Page 37"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/12",
+    "chapterTitle" : "Izayakaku 12",
+    "chapterDescription" : "",
+    "chapterDate" : "01/25/2012",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/12/izayakaku-3010011.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/12/izayakaku-3010013.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/12/izayakaku-3010015.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/12/izayakaku-3010017.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/12/izayakaku-3010019.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/12/izayakaku-3010021.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/12/izayakaku-3010023.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/12/izayakaku-3010025.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/12/izayakaku-3010027.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/12/izayakaku-3010029.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/12/izayakaku-3010031.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/12/izayakaku-3010033.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/12/izayakaku-3010035.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/12/izayakaku-3010037.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/12/izayakaku-3010039.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/12/izayakaku-3010041.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/12/izayakaku-3010043.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/12/izayakaku-3010045.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/12/izayakaku-3010047.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/12/izayakaku-3010049.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/12/izayakaku-3010051.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/12/izayakaku-3010053.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/12/izayakaku-3010055.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/12/izayakaku-3010057.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/12/izayakaku-3010059.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/12/izayakaku-3010061.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/12/izayakaku-3010063.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/12/izayakaku-3010065.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/12/izayakaku-3010067.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/12/izayakaku-3010069.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/12/izayakaku-3010071.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/12/izayakaku-3010073.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/12/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/12/izayakaku-3010075.jpg",
+        "imageAlt" : "Izayakaku 12 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/13",
+    "chapterTitle" : "Izayakaku 13",
+    "chapterDescription" : "",
+    "chapterDate" : "06/12/2012",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/13/izayakaku-3370025.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/13/izayakaku-3370027.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/13/izayakaku-3370029.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/13/izayakaku-3370031.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/13/izayakaku-3370033.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/13/izayakaku-3370035.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/13/izayakaku-3370037.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/13/izayakaku-3370039.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/13/izayakaku-3370041.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/13/izayakaku-3370043.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/13/izayakaku-3370045.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/13/izayakaku-3370047.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/13/izayakaku-3370049.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/13/izayakaku-3370051.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/13/izayakaku-3370053.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/13/izayakaku-3370055.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/13/izayakaku-3370057.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/13/izayakaku-3370059.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/13/izayakaku-3370061.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/13/izayakaku-3370063.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/13/izayakaku-3370065.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/13/izayakaku-3370067.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/13/izayakaku-3370069.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/13/izayakaku-3370071.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/13/izayakaku-3370073.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/13/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/13/izayakaku-3370075.jpg",
+        "imageAlt" : "Izayakaku 13 - Page 26"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/14",
+    "chapterTitle" : "Izayakaku 14",
+    "chapterDescription" : "",
+    "chapterDate" : "02/08/2013",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/14/izayakaku-3903663.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/14/izayakaku-3903665.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 589,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/14/izayakaku-3903667.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/14/izayakaku-3903669.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/14/izayakaku-3903671.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/14/izayakaku-3903673.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/14/izayakaku-3903675.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/14/izayakaku-3903677.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/14/izayakaku-3903679.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/14/izayakaku-3903681.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/14/izayakaku-3903683.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/14/izayakaku-3903685.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/14/izayakaku-3903687.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/14/izayakaku-3903689.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/14/izayakaku-3903691.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/14/izayakaku-3903693.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/14/izayakaku-3903695.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/14/izayakaku-3903697.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/14/izayakaku-3903699.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/14/izayakaku-3903701.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/14/izayakaku-3903703.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/14/izayakaku-3903705.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/14/izayakaku-3903707.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/14/izayakaku-3903709.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/14/izayakaku-3903711.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/14/izayakaku-3903713.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/14/izayakaku-3903715.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/14/izayakaku-3903717.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/14/izayakaku-3903719.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/14/izayakaku-3903721.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/14/izayakaku-3903723.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/14/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/14/izayakaku-3903725.jpg",
+        "imageAlt" : "Izayakaku 14 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/15",
+    "chapterTitle" : "Izayakaku 15",
+    "chapterDescription" : "",
+    "chapterDate" : "02/08/2013",
+    "pageCount" : 23,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/15/izayakaku-3903727.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/15/izayakaku-3903729.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/15/izayakaku-3903731.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 583,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/15/izayakaku-3903733.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/15/izayakaku-3903735.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/15/izayakaku-3903737.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/15/izayakaku-3903739.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/15/izayakaku-3903741.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/15/izayakaku-3903743.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/15/izayakaku-3903745.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/15/izayakaku-3903747.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/15/izayakaku-3903749.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/15/izayakaku-3903751.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/15/izayakaku-3903753.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/15/izayakaku-3903755.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/15/izayakaku-3903757.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/15/izayakaku-3903759.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/15/izayakaku-3903761.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/15/izayakaku-3903763.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/15/izayakaku-3903765.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/15/izayakaku-3903767.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i10.mangareader.net/izayakaku/15/izayakaku-3903769.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/15/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/15/izayakaku-3903771.jpg",
+        "imageAlt" : "Izayakaku 15 - Page 23"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/izayakaku/16",
+    "chapterTitle" : "Izayakaku 16",
+    "chapterDescription" : "",
+    "chapterDate" : "04/18/2015",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i6.mangareader.net/izayakaku/16/izayakaku-5619615.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/16/izayakaku-5619617.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/16/izayakaku-5619619.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/16/izayakaku-5619621.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/16/izayakaku-5619623.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/16/izayakaku-5619625.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/16/izayakaku-5619627.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/16/izayakaku-5619629.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/16/izayakaku-5619631.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/16/izayakaku-5619633.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/16/izayakaku-5619635.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/16/izayakaku-5619637.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/16/izayakaku-5619639.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/16/izayakaku-5619641.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/16/izayakaku-5619643.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/16/izayakaku-5619645.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i9.mangareader.net/izayakaku/16/izayakaku-5619647.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/izayakaku/16/izayakaku-5619649.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/16/izayakaku-5619651.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/16/izayakaku-5619653.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i7.mangareader.net/izayakaku/16/izayakaku-5619655.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i5.mangareader.net/izayakaku/16/izayakaku-5619657.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i1.mangareader.net/izayakaku/16/izayakaku-5619659.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i8.mangareader.net/izayakaku/16/izayakaku-5619661.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i4.mangareader.net/izayakaku/16/izayakaku-5619663.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/16/izayakaku-5619665.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/izayakaku/16/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/izayakaku/16/izayakaku-5619667.jpg",
+        "imageAlt" : "Izayakaku 16 - Page 27"
+      } ]
+    } ]
+  } ]
+}

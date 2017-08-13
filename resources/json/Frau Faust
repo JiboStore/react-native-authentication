@@ -1,0 +1,789 @@
+{
+  "mangaTitle" : "Frau Faust",
+  "mangaUrl" : "http://www.mangareader.net/frau-faust",
+  "mangaThumbUrl" : "http://s5.mangareader.net/cover/frau-faust/frau-faust-r0.jpg",
+  "mangaChaptersInfo" : "2 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Adventure, Drama, Josei, Romance, Supernatural",
+  "chapterCount" : 2,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/frau-faust/1",
+    "chapterTitle" : "Frau Faust 1",
+    "chapterDescription" : "",
+    "chapterDate" : "06/14/2016",
+    "pageCount" : 46,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/frau-faust/1/frau-faust-7688719.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/frau-faust/1/frau-faust-7688725.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i4.mangareader.net/frau-faust/1/frau-faust-7688731.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/frau-faust/1/frau-faust-7688737.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i10.mangareader.net/frau-faust/1/frau-faust-7688743.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 567,
+        "imageUrl" : "http://i6.mangareader.net/frau-faust/1/frau-faust-7688749.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i8.mangareader.net/frau-faust/1/frau-faust-7688755.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i5.mangareader.net/frau-faust/1/frau-faust-7688761.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i3.mangareader.net/frau-faust/1/frau-faust-7688767.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/frau-faust/1/frau-faust-7688773.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/frau-faust/1/frau-faust-7688779.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i9.mangareader.net/frau-faust/1/frau-faust-7688785.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/frau-faust/1/frau-faust-7688791.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i1.mangareader.net/frau-faust/1/frau-faust-7688797.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i7.mangareader.net/frau-faust/1/frau-faust-7688803.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i9.mangareader.net/frau-faust/1/frau-faust-7688809.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i1.mangareader.net/frau-faust/1/frau-faust-7688815.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i10.mangareader.net/frau-faust/1/frau-faust-7688821.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/frau-faust/1/frau-faust-7688827.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i10.mangareader.net/frau-faust/1/frau-faust-7688833.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i6.mangareader.net/frau-faust/1/frau-faust-7688839.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i4.mangareader.net/frau-faust/1/frau-faust-7688845.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i4.mangareader.net/frau-faust/1/frau-faust-7688851.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/frau-faust/1/frau-faust-7688857.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i7.mangareader.net/frau-faust/1/frau-faust-7688863.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/frau-faust/1/frau-faust-7688869.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/frau-faust/1/frau-faust-7688875.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/frau-faust/1/frau-faust-7688881.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i7.mangareader.net/frau-faust/1/frau-faust-7688887.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i9.mangareader.net/frau-faust/1/frau-faust-7688893.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i1.mangareader.net/frau-faust/1/frau-faust-7688899.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/frau-faust/1/frau-faust-7688905.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/frau-faust/1/frau-faust-7688911.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/frau-faust/1/frau-faust-7688917.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i10.mangareader.net/frau-faust/1/frau-faust-7688923.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i2.mangareader.net/frau-faust/1/frau-faust-7688929.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i8.mangareader.net/frau-faust/1/frau-faust-7688935.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i8.mangareader.net/frau-faust/1/frau-faust-7688941.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i2.mangareader.net/frau-faust/1/frau-faust-7688947.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/frau-faust/1/frau-faust-7688953.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i8.mangareader.net/frau-faust/1/frau-faust-7688959.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/frau-faust/1/frau-faust-7688965.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/frau-faust/1/frau-faust-7688971.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i1.mangareader.net/frau-faust/1/frau-faust-7688977.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/frau-faust/1/frau-faust-7688983.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i3.mangareader.net/frau-faust/1/frau-faust-7688989.jpg",
+        "imageAlt" : "Frau Faust 1 - Page 46"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/frau-faust/2",
+    "chapterTitle" : "Frau Faust 2",
+    "chapterDescription" : "",
+    "chapterDate" : "07/31/2016",
+    "pageCount" : 39,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 499,
+        "imageUrl" : "http://i7.mangareader.net/frau-faust/2/frau-faust-7973437.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/frau-faust/2/frau-faust-7973443.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i1.mangareader.net/frau-faust/2/frau-faust-7973449.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/frau-faust/2/frau-faust-7973455.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i10.mangareader.net/frau-faust/2/frau-faust-7973461.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i2.mangareader.net/frau-faust/2/frau-faust-7973467.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i6.mangareader.net/frau-faust/2/frau-faust-7973473.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i2.mangareader.net/frau-faust/2/frau-faust-7973479.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i4.mangareader.net/frau-faust/2/frau-faust-7973485.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i4.mangareader.net/frau-faust/2/frau-faust-7973491.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i6.mangareader.net/frau-faust/2/frau-faust-7973497.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i6.mangareader.net/frau-faust/2/frau-faust-7973503.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i10.mangareader.net/frau-faust/2/frau-faust-7973509.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/frau-faust/2/frau-faust-7973515.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/frau-faust/2/frau-faust-7973521.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i3.mangareader.net/frau-faust/2/frau-faust-7973527.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i1.mangareader.net/frau-faust/2/frau-faust-7973533.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i9.mangareader.net/frau-faust/2/frau-faust-7973539.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i3.mangareader.net/frau-faust/2/frau-faust-7973545.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i5.mangareader.net/frau-faust/2/frau-faust-7973551.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i5.mangareader.net/frau-faust/2/frau-faust-7973557.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i4.mangareader.net/frau-faust/2/frau-faust-7973563.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/frau-faust/2/frau-faust-7973569.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i4.mangareader.net/frau-faust/2/frau-faust-7973575.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i2.mangareader.net/frau-faust/2/frau-faust-7973581.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i6.mangareader.net/frau-faust/2/frau-faust-7973587.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i4.mangareader.net/frau-faust/2/frau-faust-7973593.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/frau-faust/2/frau-faust-7973599.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i10.mangareader.net/frau-faust/2/frau-faust-7973605.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i8.mangareader.net/frau-faust/2/frau-faust-7973611.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/frau-faust/2/frau-faust-7973617.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i3.mangareader.net/frau-faust/2/frau-faust-7973623.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i9.mangareader.net/frau-faust/2/frau-faust-7973629.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i9.mangareader.net/frau-faust/2/frau-faust-7973635.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i5.mangareader.net/frau-faust/2/frau-faust-7973641.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i9.mangareader.net/frau-faust/2/frau-faust-7973647.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i3.mangareader.net/frau-faust/2/frau-faust-7973653.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/frau-faust/2/frau-faust-7973659.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/frau-faust/2/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/frau-faust/2/frau-faust-7973665.jpg",
+        "imageAlt" : "Frau Faust 2 - Page 39"
+      } ]
+    } ]
+  } ]
+}

@@ -89,8 +89,8 @@ class MangaRepoImpl @Inject() (reactiveMongoApi: ReactiveMongoApi) extends Manga
   
   import play.api.libs.concurrent.Execution.Implicits.defaultContext
  
-  def jsonCollection: JSONCollection = reactiveMongoApi.db.collection[JSONCollection]("manga");
-  def bsonCollection: BSONCollection = reactiveMongoApi.db.collection[BSONCollection]("manga");
+  def jsonCollection: JSONCollection = reactiveMongoApi.db.collection[JSONCollection]("mangareader");
+  def bsonCollection: BSONCollection = reactiveMongoApi.db.collection[BSONCollection]("mangareader");
   
   def constructMangaFromApiResponse(searchResponse: ResultSearchResponse): Manga = {
     var manga = new Manga(

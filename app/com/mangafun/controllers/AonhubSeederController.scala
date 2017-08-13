@@ -126,6 +126,7 @@ class AonhubSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCl
           }
           aonhubManga.chapters = lChapterEntries
           writeMangaToString(aonhubManga)
+          Logger.error("Downloaded json: " + mangaId)
         } else {
           Logger.error("Unable to find: " + iCurrentIndex)
         }
@@ -135,6 +136,43 @@ class AonhubSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCl
           Logger.error("Exception: " + iCurrentIndex + ex.getMessage())
           Logger.error("Stack trace: " + ex.getStackTrace.toString())
         }
+      }
+    }
+    Future {
+      Ok("downloaded: " + iCount + " of " + (iEndingIndex - iStartingIndex))
+    }
+  }
+  
+  def downloadAllPages(manga: AonhubManga) = {
+    // todo: download each of the pages
+  }
+  
+  def image(mangaId: Int): Action[AnyContent] = Action.async {
+    // todo: downloadAllPages(manga)
+    Future {
+      Ok("done")
+    }
+  }
+  
+  def imagefromto(startingIndex: Int, endingIndex: Int): Action[AnyContent] = Action.async {
+    val strManga = readMangaList()
+    val jsv = Json.parse(strManga)
+    val lMangaSearchData = jsv.as[List[AonhubSearchData]]
+    val iStartingIndex = if (startingIndex < 0 || startingIndex >= lMangaSearchData.length) 0 else startingIndex
+    var iEndingIndex = if ( endingIndex < 0 || endingIndex >= lMangaSearchData.length ) lMangaSearchData.length-1 else endingIndex
+    if ( iEndingIndex < iStartingIndex ) {
+      iEndingIndex = iStartingIndex+1
+    }
+    var iCurrentIndex = iStartingIndex
+    var iCount = 0
+    for ( iCurrentIndex <- iStartingIndex to iEndingIndex ) {
+      try {
+        // todo: downloadAllPages(manga)
+      } catch {
+          case ex: Exception => {
+            Logger.error("Exception: " + iCurrentIndex + ex.getMessage())
+            Logger.error("Stack trace: " + ex.getStackTrace.toString())
+          }
       }
     }
     Future {

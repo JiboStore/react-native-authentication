@@ -148,6 +148,7 @@ class AonhubSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCl
     val mangaEntry = Await.result(fManga, Duration.Inf)
     val aonhubManga = mangaRepo.constructMangaFromApiResponse(mangaId.toString(), mangaEntry)
     val lChapterEntries = for ( chapterInfo <- aonhubManga.chapters ) yield {
+      Logger.debug("request page info for chapter: " + chapterInfo.id)
       val flString = requestPageInfo( chapterInfo.id )
       val lString = Await.result(flString, Duration.Inf)
       mangaRepo.constructMangaPagesFromApiResponse(chapterInfo, lString)

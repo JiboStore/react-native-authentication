@@ -149,9 +149,18 @@ class AonhubSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCl
     val aonhubManga = mangaRepo.constructMangaFromApiResponse(mangaId.toString(), mangaEntry)
     val lChapterEntries = for ( chapterInfo <- aonhubManga.chapters ) yield {
       Logger.debug("request page info for chapter: " + chapterInfo.id)
-      val flString = requestPageInfo( chapterInfo.id )
-      val lString = Await.result(flString, Duration.Inf)
-      mangaRepo.constructMangaPagesFromApiResponse(chapterInfo, lString)
+      var aonhubChapter = chapterInfo
+      try {
+        val flString = requestPageInfo( chapterInfo.id )
+        val lString = Await.result(flString, Duration.Inf)
+        aonhubChapter = mangaRepo.constructMangaPagesFromApiResponse(chapterInfo, lString)
+      } catch {
+        case ex: Exception => {
+          Logger.error("Exception parsing page for chapter: " + chapterInfo.id + " => " + ex.getMessage())
+          Logger.error("Stack trace: " + ex.getStackTrace.toString())
+        }
+      }
+      aonhubChapter
     }
     aonhubManga.chapters = lChapterEntries
     writeMangaToString(aonhubManga)
@@ -284,6 +293,7 @@ class AonhubSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCl
   }
   
   def requestPageInfo(chapterUrl: String): Future[List[String]] = {
+    Logger.debug("request page info for chapter: " + chapterUrl)
     val wsRequest = wsClient.url(chapterUrl)
     .withHeaders(("Accept" -> "application/json"))
     val fResponse = wsRequest.get()

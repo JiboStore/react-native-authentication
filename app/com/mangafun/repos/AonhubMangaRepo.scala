@@ -92,7 +92,7 @@ class AonhubMangaRepoImpl @Inject() (reactiveMongoApi: ReactiveMongoApi) extends
     chapter
   }
   
-  def constructMangaPagesFromApiResponse(chapter: AonhubChapter, lPages: List[String]) = {
+  def constructMangaPagesFromApiResponse(chapter: AonhubChapter, lPages: List[String]): AonhubChapter = {
     val lCleanedPages = for ( strUrl <- lPages ) yield {
       cleanUrl(strUrl)
     }

@@ -93,11 +93,11 @@ class AonhubSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCl
     val fImageBytes = fwsResponse.map( wsres => {
       wsres.bodyAsBytes
     })
-    fImageBytes.map( bytes => {
-      FileUtils.writeByteArrayToFile(fileDest, bytes.toArray[Byte])
-    })
-//    val bytes = Await.result(fImageBytes, Duration.Inf)
-//    FileUtils.writeByteArrayToFile(fileDest, bytes.toArray[Byte])
+//    fImageBytes.map( bytes => {
+//      FileUtils.writeByteArrayToFile(fileDest, bytes.toArray[Byte])
+//    })
+    val bytes = Await.result(fImageBytes, Duration.Inf)
+    FileUtils.writeByteArrayToFile(fileDest, bytes.toArray[Byte])
   }
   
   def downloadAllPages(manga: AonhubManga): Boolean = {

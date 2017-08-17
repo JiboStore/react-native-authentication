@@ -18,6 +18,13 @@ If you don't have React-Native installed on your computer, run the following:
 npm install -g react-native-cli
 ```
 
+#### If there is any error regarding `whatwg-fetch`, do:
+```
+npm install whatwg-fetch@^1.0.0 --save
+```
+
+https://stackoverflow.com/a/40671716/474330
+
 Go in the `client/MobileApp` directory, and run the following:
 
 ```

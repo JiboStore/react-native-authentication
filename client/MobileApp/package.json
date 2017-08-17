@@ -18,7 +18,8 @@
     "redux-persist": "3.4.0",
     "redux-persist-transform-filter": "0.0.4",
     "redux-thunk": "2.1.0",
-    "remote-redux-devtools": "0.5.2"
+    "remote-redux-devtools": "0.5.2",
+    "whatwg-fetch": "^1.1.1"
   },
   "jest": {
     "preset": "jest-react-native"

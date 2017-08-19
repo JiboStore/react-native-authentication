@@ -9,6 +9,12 @@ https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-
 
 This project has been tested with Node v6.0.0 and NPM 3.8.6.
 
+# WORKING VERSION:
+
+node -v: v6.11.2
+npm -v: 3.10.10
+sails -v: 0.12.13
+
 ## Client
 
 ### Installation

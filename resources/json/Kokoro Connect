@@ -1,0 +1,2055 @@
+{
+  "mangaTitle" : "Kokoro Connect",
+  "mangaUrl" : "http://www.mangareader.net/kokoro-connect",
+  "mangaThumbUrl" : "http://s5.mangareader.net/cover/kokoro-connect/kokoro-connect-r0.jpg",
+  "mangaChaptersInfo" : "8 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Gender Bender, Romance, School Life, Shounen",
+  "chapterCount" : 8,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/kokoro-connect/1",
+    "chapterTitle" : "Kokoro Connect 1",
+    "chapterDescription" : "",
+    "chapterDate" : "11/29/2011",
+    "pageCount" : 24,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/1/kokoro-connect-2842957.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/kokoro-connect/1/kokoro-connect-2842959.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 569,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/1/kokoro-connect-2842961.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/1/kokoro-connect-2842963.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/1/kokoro-connect-2842965.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/1/kokoro-connect-2842967.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/1/kokoro-connect-2842969.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/1/kokoro-connect-2842971.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/1/kokoro-connect-2842973.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/1/kokoro-connect-2842975.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/1/kokoro-connect-2842977.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/1/kokoro-connect-2842979.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/1/kokoro-connect-2842981.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/1/kokoro-connect-2842983.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/1/kokoro-connect-2842985.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/1/kokoro-connect-2842987.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/1/kokoro-connect-2842989.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/1/kokoro-connect-2842991.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/1/kokoro-connect-2842993.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/1/kokoro-connect-2842995.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/1/kokoro-connect-2842997.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/1/kokoro-connect-2842999.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/1/kokoro-connect-2843001.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/1/kokoro-connect-2843003.jpg",
+        "imageAlt" : "Kokoro Connect 1 - Page 24"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kokoro-connect/2",
+    "chapterTitle" : "Kokoro Connect 2",
+    "chapterDescription" : "",
+    "chapterDate" : "12/05/2011",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/2/kokoro-connect-2855649.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/kokoro-connect/2/kokoro-connect-2855651.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/2/kokoro-connect-2855653.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/2/kokoro-connect-2855655.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/2/kokoro-connect-2855657.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/kokoro-connect/2/kokoro-connect-2855659.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/2/kokoro-connect-2855661.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/2/kokoro-connect-2855663.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/2/kokoro-connect-2855665.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/2/kokoro-connect-2855667.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/2/kokoro-connect-2855669.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/2/kokoro-connect-2855671.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/2/kokoro-connect-2855673.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/2/kokoro-connect-2855675.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/2/kokoro-connect-2855677.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/2/kokoro-connect-2855679.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/2/kokoro-connect-2855681.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/2/kokoro-connect-2855683.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/2/kokoro-connect-2855685.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/2/kokoro-connect-2855687.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/2/kokoro-connect-2855689.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/2/kokoro-connect-2855691.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/2/kokoro-connect-2855693.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/2/kokoro-connect-2855695.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/2/kokoro-connect-2855697.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/2/kokoro-connect-2855699.jpg",
+        "imageAlt" : "Kokoro Connect 2 - Page 26"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kokoro-connect/3",
+    "chapterTitle" : "Kokoro Connect 3",
+    "chapterDescription" : "",
+    "chapterDate" : "07/08/2012",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/3/kokoro-connect-3437943.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/3/kokoro-connect-3437945.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 446,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/3/kokoro-connect-3437947.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/3/kokoro-connect-3437949.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/3/kokoro-connect-3437951.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/kokoro-connect/3/kokoro-connect-3437953.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/3/kokoro-connect-3437955.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/3/kokoro-connect-3437957.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/3/kokoro-connect-3437959.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/3/kokoro-connect-3437961.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/3/kokoro-connect-3437963.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/3/kokoro-connect-3437965.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/3/kokoro-connect-3437967.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/3/kokoro-connect-3437969.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/3/kokoro-connect-3437971.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/3/kokoro-connect-3437973.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/3/kokoro-connect-3437975.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/3/kokoro-connect-3437977.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/3/kokoro-connect-3437979.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/3/kokoro-connect-3437981.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/3/kokoro-connect-3437983.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/3/kokoro-connect-3437985.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/3/kokoro-connect-3437987.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/3/kokoro-connect-3437989.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/3/kokoro-connect-3437991.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/3/kokoro-connect-3437993.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/3/kokoro-connect-3437995.jpg",
+        "imageAlt" : "Kokoro Connect 3 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kokoro-connect/4",
+    "chapterTitle" : "Kokoro Connect 4",
+    "chapterDescription" : "",
+    "chapterDate" : "07/08/2012",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/4/kokoro-connect-3437997.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 446,
+        "imageUrl" : "http://i2.mangareader.net/kokoro-connect/4/kokoro-connect-3437999.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/4/kokoro-connect-3438001.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/4/kokoro-connect-3438003.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/4/kokoro-connect-3438005.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/4/kokoro-connect-3438007.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/4/kokoro-connect-3438009.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/4/kokoro-connect-3438011.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/4/kokoro-connect-3438013.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/4/kokoro-connect-3438015.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/4/kokoro-connect-3438017.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/4/kokoro-connect-3438019.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/4/kokoro-connect-3438021.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/4/kokoro-connect-3438023.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/4/kokoro-connect-3438025.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/4/kokoro-connect-3438027.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/4/kokoro-connect-3438029.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/kokoro-connect/4/kokoro-connect-3438031.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/kokoro-connect/4/kokoro-connect-3438033.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/kokoro-connect/4/kokoro-connect-3438035.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/kokoro-connect/4/kokoro-connect-3438037.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/kokoro-connect/4/kokoro-connect-3438039.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/4/kokoro-connect-3438041.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/4/kokoro-connect-3438043.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/4/kokoro-connect-3438045.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/4/kokoro-connect-3438047.jpg",
+        "imageAlt" : "Kokoro Connect 4 - Page 26"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kokoro-connect/5",
+    "chapterTitle" : "Kokoro Connect 5",
+    "chapterDescription" : "",
+    "chapterDate" : "04/28/2013",
+    "pageCount" : 24,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 501,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/5/kokoro-connect-4105883.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/5/kokoro-connect-4105885.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/5/kokoro-connect-4105887.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/5/kokoro-connect-4105889.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/5/kokoro-connect-4105891.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/5/kokoro-connect-4105893.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/5/kokoro-connect-4105895.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/5/kokoro-connect-4105897.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/5/kokoro-connect-4105899.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/5/kokoro-connect-4105901.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/5/kokoro-connect-4105903.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/5/kokoro-connect-4105905.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/5/kokoro-connect-4105907.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/5/kokoro-connect-4105909.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/5/kokoro-connect-4105911.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/5/kokoro-connect-4105913.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/5/kokoro-connect-4105915.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/5/kokoro-connect-4105917.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/5/kokoro-connect-4105919.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/5/kokoro-connect-4105921.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i8.mangareader.net/kokoro-connect/5/kokoro-connect-4105923.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/5/kokoro-connect-4105925.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/5/kokoro-connect-4105927.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/5/kokoro-connect-4105929.jpg",
+        "imageAlt" : "Kokoro Connect 5 - Page 24"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kokoro-connect/6",
+    "chapterTitle" : "Kokoro Connect 6",
+    "chapterDescription" : "",
+    "chapterDate" : "08/19/2013",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/6/kokoro-connect-4388167.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/6/kokoro-connect-4388169.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/6/kokoro-connect-4388171.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/6/kokoro-connect-4388173.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/6/kokoro-connect-4388175.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/6/kokoro-connect-4388177.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/6/kokoro-connect-4388179.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/6/kokoro-connect-4388181.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/6/kokoro-connect-4388183.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/6/kokoro-connect-4388185.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/6/kokoro-connect-4388187.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/6/kokoro-connect-4388189.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/6/kokoro-connect-4388191.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/6/kokoro-connect-4388193.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/6/kokoro-connect-4388195.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/6/kokoro-connect-4388197.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/6/kokoro-connect-4388199.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/6/kokoro-connect-4388201.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/6/kokoro-connect-4388203.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/6/kokoro-connect-4388205.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/6/kokoro-connect-4388207.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/6/kokoro-connect-4388209.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/6/kokoro-connect-4388211.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/6/kokoro-connect-4388213.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/6/kokoro-connect-4388215.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/6/kokoro-connect-4388217.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/6/kokoro-connect-4388219.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/6/kokoro-connect-4388221.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/6/kokoro-connect-4388223.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/6/kokoro-connect-4388225.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/kokoro-connect/6/kokoro-connect-4388227.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/6/kokoro-connect-4388229.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/kokoro-connect/6/kokoro-connect-4388231.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/6/kokoro-connect-4388233.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/6/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 576,
+        "imageUrl" : "http://i8.mangareader.net/kokoro-connect/6/kokoro-connect-4388235.jpg",
+        "imageAlt" : "Kokoro Connect 6 - Page 35"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kokoro-connect/7",
+    "chapterTitle" : "Kokoro Connect 7",
+    "chapterDescription" : "",
+    "chapterDate" : "11/08/2013",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 533,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/7/kokoro-connect-4559473.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 339,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/7/kokoro-connect-4559475.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 544,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/7/kokoro-connect-4559477.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/7/kokoro-connect-4559479.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/7/kokoro-connect-4559481.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/7/kokoro-connect-4559483.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/7/kokoro-connect-4559485.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/7/kokoro-connect-4559487.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/7/kokoro-connect-4559489.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/7/kokoro-connect-4559491.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/7/kokoro-connect-4559493.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/7/kokoro-connect-4559495.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/7/kokoro-connect-4559497.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/7/kokoro-connect-4559499.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/7/kokoro-connect-4559501.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/7/kokoro-connect-4559503.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/7/kokoro-connect-4559505.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/7/kokoro-connect-4559507.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/7/kokoro-connect-4559509.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/7/kokoro-connect-4559511.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/7/kokoro-connect-4559513.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/7/kokoro-connect-4559515.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/7/kokoro-connect-4559517.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/7/kokoro-connect-4559519.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i2.mangareader.net/kokoro-connect/7/kokoro-connect-4559521.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/7/kokoro-connect-4559523.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/7/kokoro-connect-4559525.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/kokoro-connect/7/kokoro-connect-4559527.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/7/kokoro-connect-4559529.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/7/kokoro-connect-4559531.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/7/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i2.mangareader.net/kokoro-connect/7/kokoro-connect-4559533.jpg",
+        "imageAlt" : "Kokoro Connect 7 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kokoro-connect/8",
+    "chapterTitle" : "Kokoro Connect 8",
+    "chapterDescription" : "",
+    "chapterDate" : "01/22/2014",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/8/kokoro-connect-4739505.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/8/kokoro-connect-4739507.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/kokoro-connect/8/kokoro-connect-4739509.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i7.mangareader.net/kokoro-connect/8/kokoro-connect-4739511.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/8/kokoro-connect-4739513.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/kokoro-connect/8/kokoro-connect-4739515.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/kokoro-connect/8/kokoro-connect-4739517.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i1.mangareader.net/kokoro-connect/8/kokoro-connect-4739519.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/kokoro-connect/8/kokoro-connect-4739521.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/8/kokoro-connect-4739523.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/8/kokoro-connect-4739525.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/8/kokoro-connect-4739527.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/8/kokoro-connect-4739529.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i8.mangareader.net/kokoro-connect/8/kokoro-connect-4739531.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/8/kokoro-connect-4739533.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/8/kokoro-connect-4739535.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/kokoro-connect/8/kokoro-connect-4739537.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/8/kokoro-connect-4739539.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/8/kokoro-connect-4739541.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/8/kokoro-connect-4739543.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/8/kokoro-connect-4739545.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i2.mangareader.net/kokoro-connect/8/kokoro-connect-4739547.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/8/kokoro-connect-4739549.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i8.mangareader.net/kokoro-connect/8/kokoro-connect-4739551.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i4.mangareader.net/kokoro-connect/8/kokoro-connect-4739553.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/kokoro-connect/8/kokoro-connect-4739555.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/8/kokoro-connect-4739557.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kokoro-connect/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i6.mangareader.net/kokoro-connect/8/kokoro-connect-4739559.jpg",
+        "imageAlt" : "Kokoro Connect 8 - Page 28"
+      } ]
+    } ]
+  } ]
+}

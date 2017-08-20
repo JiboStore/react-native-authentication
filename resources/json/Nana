@@ -1,0 +1,107 @@
+{
+  "mangaTitle" : "Nana",
+  "mangaUrl" : "http://www.mangareader.net/nana",
+  "mangaThumbUrl" : "http://s5.mangareader.net/cover/nana/nana-r0.jpg",
+  "mangaChaptersInfo" : "31 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Comedy, Drama, Josei, Romance, Slice of Life, Tragedy",
+  "chapterCount" : 1,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/the-seven-deadly-sins-special/1",
+    "chapterTitle" : "The Seven Deadly Sins Special 1",
+    "chapterDescription" : "",
+    "chapterDate" : "07/20/2016",
+    "pageCount" : 10,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-seven-deadly-sins-special/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i2.mangareader.net/the-seven-deadly-sins-special/1/the-seven-deadly-sins-special-7891327.jpg",
+        "imageAlt" : "The Seven Deadly Sins Special 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-seven-deadly-sins-special/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i10.mangareader.net/the-seven-deadly-sins-special/1/the-seven-deadly-sins-special-7891333.jpg",
+        "imageAlt" : "The Seven Deadly Sins Special 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-seven-deadly-sins-special/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i6.mangareader.net/the-seven-deadly-sins-special/1/the-seven-deadly-sins-special-7891339.jpg",
+        "imageAlt" : "The Seven Deadly Sins Special 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-seven-deadly-sins-special/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i2.mangareader.net/the-seven-deadly-sins-special/1/the-seven-deadly-sins-special-7891345.jpg",
+        "imageAlt" : "The Seven Deadly Sins Special 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-seven-deadly-sins-special/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/the-seven-deadly-sins-special/1/the-seven-deadly-sins-special-7891351.jpg",
+        "imageAlt" : "The Seven Deadly Sins Special 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-seven-deadly-sins-special/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i2.mangareader.net/the-seven-deadly-sins-special/1/the-seven-deadly-sins-special-7891357.jpg",
+        "imageAlt" : "The Seven Deadly Sins Special 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-seven-deadly-sins-special/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i3.mangareader.net/the-seven-deadly-sins-special/1/the-seven-deadly-sins-special-7891363.jpg",
+        "imageAlt" : "The Seven Deadly Sins Special 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-seven-deadly-sins-special/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/the-seven-deadly-sins-special/1/the-seven-deadly-sins-special-7891369.jpg",
+        "imageAlt" : "The Seven Deadly Sins Special 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-seven-deadly-sins-special/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i7.mangareader.net/the-seven-deadly-sins-special/1/the-seven-deadly-sins-special-7891375.jpg",
+        "imageAlt" : "The Seven Deadly Sins Special 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-seven-deadly-sins-special/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i5.mangareader.net/the-seven-deadly-sins-special/1/the-seven-deadly-sins-special-7891381.jpg",
+        "imageAlt" : "The Seven Deadly Sins Special 1 - Page 10"
+      } ]
+    } ]
+  } ]
+}

@@ -1,0 +1,2955 @@
+{
+  "mangaTitle" : "QQ Sweeper",
+  "mangaUrl" : "http://www.mangareader.net/qq-sweeper",
+  "mangaThumbUrl" : "http://s4.mangareader.net/cover/qq-sweeper/qq-sweeper-r0.jpg",
+  "mangaChaptersInfo" : "8 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Romance, School Life, Shoujo, Supernatural",
+  "chapterCount" : 8,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/qq-sweeper/1",
+    "chapterTitle" : "QQ Sweeper 1",
+    "chapterDescription" : "",
+    "chapterDate" : "03/24/2014",
+    "pageCount" : 55,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 487,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/1/qq-sweeper-4859869.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/1/qq-sweeper-4859871.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/1/qq-sweeper-4859873.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/1/qq-sweeper-4859875.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/1/qq-sweeper-4859877.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/1/qq-sweeper-4859879.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/1/qq-sweeper-4859881.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/1/qq-sweeper-4859883.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/1/qq-sweeper-4859885.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/1/qq-sweeper-4859887.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/1/qq-sweeper-4859889.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/1/qq-sweeper-4859891.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/1/qq-sweeper-4859893.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/1/qq-sweeper-4859895.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/1/qq-sweeper-4859897.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/1/qq-sweeper-4859899.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/1/qq-sweeper-4859901.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/1/qq-sweeper-4859903.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/1/qq-sweeper-4859905.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/1/qq-sweeper-4859907.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/1/qq-sweeper-4859909.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/1/qq-sweeper-4859911.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/1/qq-sweeper-4859913.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/1/qq-sweeper-4859915.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/1/qq-sweeper-4859917.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/1/qq-sweeper-4859919.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/1/qq-sweeper-4859921.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/1/qq-sweeper-4859923.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/1/qq-sweeper-4859925.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/1/qq-sweeper-4859927.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/1/qq-sweeper-4859929.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/1/qq-sweeper-4859931.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/1/qq-sweeper-4859933.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/1/qq-sweeper-4859935.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/1/qq-sweeper-4859937.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/1/qq-sweeper-4859939.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/1/qq-sweeper-4859941.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/1/qq-sweeper-4859943.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/1/qq-sweeper-4859945.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/1/qq-sweeper-4859947.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/1/qq-sweeper-4859949.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/1/qq-sweeper-4859951.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/1/qq-sweeper-4859953.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/1/qq-sweeper-4859955.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/1/qq-sweeper-4859957.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/1/qq-sweeper-4859959.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/1/qq-sweeper-4859961.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/1/qq-sweeper-4859963.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/1/qq-sweeper-4859965.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/1/qq-sweeper-4859967.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/1/qq-sweeper-4859969.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/1/qq-sweeper-4859971.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/1/qq-sweeper-4859973.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/1/qq-sweeper-4859975.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/1/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/1/qq-sweeper-4859977.jpg",
+        "imageAlt" : "QQ Sweeper 1 - Page 55"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/qq-sweeper/2",
+    "chapterTitle" : "QQ Sweeper 2",
+    "chapterDescription" : "",
+    "chapterDate" : "06/28/2014",
+    "pageCount" : 39,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/2/qq-sweeper-5026129.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/2/qq-sweeper-5026131.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/2/qq-sweeper-5026133.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/2/qq-sweeper-5026135.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/2/qq-sweeper-5026137.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/2/qq-sweeper-5026139.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/2/qq-sweeper-5026141.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/2/qq-sweeper-5026143.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/2/qq-sweeper-5026145.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/2/qq-sweeper-5026147.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/2/qq-sweeper-5026149.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/2/qq-sweeper-5026151.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/2/qq-sweeper-5026153.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/2/qq-sweeper-5026155.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/2/qq-sweeper-5026157.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/2/qq-sweeper-5026159.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/2/qq-sweeper-5026161.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/2/qq-sweeper-5026163.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/2/qq-sweeper-5026165.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/2/qq-sweeper-5026167.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/2/qq-sweeper-5026169.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/2/qq-sweeper-5026171.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/2/qq-sweeper-5026173.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/2/qq-sweeper-5026175.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/2/qq-sweeper-5026177.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/2/qq-sweeper-5026179.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/2/qq-sweeper-5026181.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/2/qq-sweeper-5026183.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/2/qq-sweeper-5026185.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/2/qq-sweeper-5026187.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/2/qq-sweeper-5026189.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/2/qq-sweeper-5026191.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/2/qq-sweeper-5026193.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/2/qq-sweeper-5026195.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/2/qq-sweeper-5026197.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/2/qq-sweeper-5026199.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1347,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/2/qq-sweeper-5026201.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1068,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/2/qq-sweeper-5026203.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/2/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 488,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/2/qq-sweeper-5026205.jpg",
+        "imageAlt" : "QQ Sweeper 2 - Page 39"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/qq-sweeper/3",
+    "chapterTitle" : "QQ Sweeper 3",
+    "chapterDescription" : "",
+    "chapterDate" : "09/27/2014",
+    "pageCount" : 37,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 487,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/3/qq-sweeper-5216113.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1085,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/3/qq-sweeper-5216115.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1276,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/3/qq-sweeper-5216117.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/3/qq-sweeper-5216119.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/3/qq-sweeper-5216121.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/3/qq-sweeper-5216123.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/3/qq-sweeper-5216125.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/3/qq-sweeper-5216127.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/3/qq-sweeper-5216129.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/3/qq-sweeper-5216131.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/3/qq-sweeper-5216133.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/3/qq-sweeper-5216135.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/3/qq-sweeper-5216137.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/3/qq-sweeper-5216139.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/3/qq-sweeper-5216141.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/3/qq-sweeper-5216143.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/3/qq-sweeper-5216145.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/3/qq-sweeper-5216147.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/3/qq-sweeper-5216149.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/3/qq-sweeper-5216151.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/3/qq-sweeper-5216153.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/3/qq-sweeper-5216155.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/3/qq-sweeper-5216157.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/3/qq-sweeper-5216159.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/3/qq-sweeper-5216161.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/3/qq-sweeper-5216163.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/3/qq-sweeper-5216165.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/3/qq-sweeper-5216167.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/3/qq-sweeper-5216169.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/3/qq-sweeper-5216171.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/3/qq-sweeper-5216173.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/3/qq-sweeper-5216175.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/3/qq-sweeper-5216177.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/3/qq-sweeper-5216179.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/3/qq-sweeper-5216181.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/3/qq-sweeper-5216183.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/3/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/3/qq-sweeper-5216185.jpg",
+        "imageAlt" : "QQ Sweeper 3 - Page 37"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/qq-sweeper/4",
+    "chapterTitle" : "QQ Sweeper 4",
+    "chapterDescription" : "",
+    "chapterDate" : "12/01/2014",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/4/qq-sweeper-5338463.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/4/qq-sweeper-5338465.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/4/qq-sweeper-5338467.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/4/qq-sweeper-5338469.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/4/qq-sweeper-5338471.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/4/qq-sweeper-5338473.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/4/qq-sweeper-5338475.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/4/qq-sweeper-5338477.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/4/qq-sweeper-5338479.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/4/qq-sweeper-5338481.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/4/qq-sweeper-5338483.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/4/qq-sweeper-5338485.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/4/qq-sweeper-5338487.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/4/qq-sweeper-5338489.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/4/qq-sweeper-5338491.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/4/qq-sweeper-5338493.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/4/qq-sweeper-5338495.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/4/qq-sweeper-5338497.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/4/qq-sweeper-5338499.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/4/qq-sweeper-5338501.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/4/qq-sweeper-5338503.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/4/qq-sweeper-5338505.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/4/qq-sweeper-5338507.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/4/qq-sweeper-5338509.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/4/qq-sweeper-5338511.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/4/qq-sweeper-5338513.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/4/qq-sweeper-5338515.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/4/qq-sweeper-5338517.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/4/qq-sweeper-5338519.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/4/qq-sweeper-5338521.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/4/qq-sweeper-5338523.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/4/qq-sweeper-5338525.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/4/qq-sweeper-5338527.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 488,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/4/qq-sweeper-5338529.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/4/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1087,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/4/qq-sweeper-5338531.jpg",
+        "imageAlt" : "QQ Sweeper 4 - Page 35"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/qq-sweeper/5",
+    "chapterTitle" : "QQ Sweeper 5",
+    "chapterDescription" : "",
+    "chapterDate" : "12/19/2015",
+    "pageCount" : 40,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/5/qq-sweeper-6688249.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/5/qq-sweeper-6688255.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/5/qq-sweeper-6688261.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/5/qq-sweeper-6688267.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/5/qq-sweeper-6688273.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/5/qq-sweeper-6688279.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/5/qq-sweeper-6688285.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/5/qq-sweeper-6688291.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/5/qq-sweeper-6688297.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/5/qq-sweeper-6688303.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/5/qq-sweeper-6688309.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/5/qq-sweeper-6688315.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/5/qq-sweeper-6688321.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/5/qq-sweeper-6688327.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/5/qq-sweeper-6688333.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/5/qq-sweeper-6688339.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/5/qq-sweeper-6688345.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/5/qq-sweeper-6688351.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/5/qq-sweeper-6688357.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/5/qq-sweeper-6688363.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/5/qq-sweeper-6688369.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/5/qq-sweeper-6688375.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/5/qq-sweeper-6688381.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/5/qq-sweeper-6688387.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/5/qq-sweeper-6688393.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/5/qq-sweeper-6688399.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/5/qq-sweeper-6688405.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/5/qq-sweeper-6688411.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/5/qq-sweeper-6688417.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/5/qq-sweeper-6688423.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/5/qq-sweeper-6688429.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/5/qq-sweeper-6688435.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/5/qq-sweeper-6688441.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/5/qq-sweeper-6688447.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/5/qq-sweeper-6688453.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1347,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/5/qq-sweeper-6688459.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1068,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/5/qq-sweeper-6688465.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1087,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/5/qq-sweeper-6688471.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 488,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/5/qq-sweeper-6688477.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/5/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/5/qq-sweeper-6688483.jpg",
+        "imageAlt" : "QQ Sweeper 5 - Page 40"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/qq-sweeper/6",
+    "chapterTitle" : "QQ Sweeper 6",
+    "chapterDescription" : "",
+    "chapterDate" : "07/05/2016",
+    "pageCount" : 40,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1064,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/6/qq-sweeper-7806673.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/6/qq-sweeper-7806679.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/6/qq-sweeper-7806685.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/6/qq-sweeper-7806691.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/6/qq-sweeper-7806697.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/6/qq-sweeper-7806703.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/6/qq-sweeper-7806709.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/6/qq-sweeper-7806715.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/6/qq-sweeper-7806721.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/6/qq-sweeper-7806727.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/6/qq-sweeper-7806733.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/6/qq-sweeper-7806739.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/6/qq-sweeper-7806745.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/6/qq-sweeper-7806751.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/6/qq-sweeper-7806757.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/6/qq-sweeper-7806763.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/6/qq-sweeper-7806769.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/6/qq-sweeper-7806775.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/6/qq-sweeper-7806781.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/6/qq-sweeper-7806787.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/6/qq-sweeper-7806793.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/6/qq-sweeper-7806799.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/6/qq-sweeper-7806805.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/6/qq-sweeper-7806811.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/6/qq-sweeper-7806817.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/6/qq-sweeper-7806823.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/6/qq-sweeper-7806829.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/6/qq-sweeper-7806835.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/6/qq-sweeper-7806841.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/6/qq-sweeper-7806847.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/6/qq-sweeper-7806853.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/6/qq-sweeper-7806859.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/6/qq-sweeper-7806865.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/6/qq-sweeper-7806871.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/6/qq-sweeper-7806877.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/6/qq-sweeper-7806883.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/6/qq-sweeper-7806889.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/6/qq-sweeper-7806895.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/6/qq-sweeper-7806901.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/6/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/6/qq-sweeper-7806907.jpg",
+        "imageAlt" : "QQ Sweeper 6 - Page 40"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/qq-sweeper/7",
+    "chapterTitle" : "QQ Sweeper 7",
+    "chapterDescription" : "",
+    "chapterDate" : "07/05/2016",
+    "pageCount" : 39,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1063,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/7/qq-sweeper-7806913.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/7/qq-sweeper-7806919.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/7/qq-sweeper-7806925.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/7/qq-sweeper-7806931.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/7/qq-sweeper-7806937.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/7/qq-sweeper-7806943.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/7/qq-sweeper-7806949.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/7/qq-sweeper-7806955.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/7/qq-sweeper-7806961.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/7/qq-sweeper-7806967.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/7/qq-sweeper-7806973.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/7/qq-sweeper-7806979.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/7/qq-sweeper-7806985.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/7/qq-sweeper-7806991.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/7/qq-sweeper-7806997.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/7/qq-sweeper-7807003.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/7/qq-sweeper-7807009.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/7/qq-sweeper-7807015.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/7/qq-sweeper-7807021.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/7/qq-sweeper-7807027.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/7/qq-sweeper-7807033.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/7/qq-sweeper-7807039.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/7/qq-sweeper-7807045.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/7/qq-sweeper-7807051.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/7/qq-sweeper-7807057.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/7/qq-sweeper-7807063.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/7/qq-sweeper-7807069.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/7/qq-sweeper-7807075.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/7/qq-sweeper-7807081.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/7/qq-sweeper-7807087.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/7/qq-sweeper-7807093.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/7/qq-sweeper-7807099.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/7/qq-sweeper-7807105.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/7/qq-sweeper-7807111.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/7/qq-sweeper-7807117.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/7/qq-sweeper-7807123.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/7/qq-sweeper-7807129.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/7/qq-sweeper-7807135.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/7/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/7/qq-sweeper-7807141.jpg",
+        "imageAlt" : "QQ Sweeper 7 - Page 39"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/qq-sweeper/8",
+    "chapterTitle" : "QQ Sweeper 8",
+    "chapterDescription" : "",
+    "chapterDate" : "07/06/2016",
+    "pageCount" : 36,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/8/qq-sweeper-7807633.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/8/qq-sweeper-7807639.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/8/qq-sweeper-7807645.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/8/qq-sweeper-7807651.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/8/qq-sweeper-7807657.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/8/qq-sweeper-7807663.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/8/qq-sweeper-7807669.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/8/qq-sweeper-7807675.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/8/qq-sweeper-7807681.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/8/qq-sweeper-7807687.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/8/qq-sweeper-7807693.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/8/qq-sweeper-7807699.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/8/qq-sweeper-7807705.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/8/qq-sweeper-7807711.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/8/qq-sweeper-7807717.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/8/qq-sweeper-7807723.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/8/qq-sweeper-7807729.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i7.mangareader.net/qq-sweeper/8/qq-sweeper-7807735.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/8/qq-sweeper-7807741.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i1.mangareader.net/qq-sweeper/8/qq-sweeper-7807747.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/8/qq-sweeper-7807753.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i5.mangareader.net/qq-sweeper/8/qq-sweeper-7807759.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/8/qq-sweeper-7807765.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/8/qq-sweeper-7807771.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/8/qq-sweeper-7807777.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/8/qq-sweeper-7807783.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/qq-sweeper/8/qq-sweeper-7807789.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/8/qq-sweeper-7807795.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i4.mangareader.net/qq-sweeper/8/qq-sweeper-7807801.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i6.mangareader.net/qq-sweeper/8/qq-sweeper-7807807.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i10.mangareader.net/qq-sweeper/8/qq-sweeper-7807813.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i8.mangareader.net/qq-sweeper/8/qq-sweeper-7807819.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/8/qq-sweeper-7807825.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i9.mangareader.net/qq-sweeper/8/qq-sweeper-7807831.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/8/qq-sweeper-7807837.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/qq-sweeper/8/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i3.mangareader.net/qq-sweeper/8/qq-sweeper-7807843.jpg",
+        "imageAlt" : "QQ Sweeper 8 - Page 36"
+      } ]
+    } ]
+  } ]
+}

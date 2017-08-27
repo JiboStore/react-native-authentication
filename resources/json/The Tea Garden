@@ -1,0 +1,98 @@
+{
+  "mangaTitle" : "The Tea Garden",
+  "mangaUrl" : "http://www.mangareader.net/the-tea-garden",
+  "mangaThumbUrl" : "http://s4.mangareader.net/cover/the-tea-garden/the-tea-garden-r0.jpg",
+  "mangaChaptersInfo" : "1 Chapters Published. (Completed)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Historical, Mystery, One Shot, Supernatural",
+  "chapterCount" : 1,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/the-tea-garden/1",
+    "chapterTitle" : "The Tea Garden 1",
+    "chapterDescription" : "",
+    "chapterDate" : "04/09/2011",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-tea-garden/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 923,
+        "imageUrl" : "http://i9.mangareader.net/the-tea-garden/1/the-tea-garden-2141635.jpg",
+        "imageAlt" : "The Tea Garden 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-tea-garden/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i1.mangareader.net/the-tea-garden/1/the-tea-garden-2141637.jpg",
+        "imageAlt" : "The Tea Garden 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-tea-garden/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1217,
+        "imageUrl" : "http://i9.mangareader.net/the-tea-garden/1/the-tea-garden-2141639.jpg",
+        "imageAlt" : "The Tea Garden 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-tea-garden/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i9.mangareader.net/the-tea-garden/1/the-tea-garden-2141641.jpg",
+        "imageAlt" : "The Tea Garden 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-tea-garden/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1217,
+        "imageUrl" : "http://i1.mangareader.net/the-tea-garden/1/the-tea-garden-2141643.jpg",
+        "imageAlt" : "The Tea Garden 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-tea-garden/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1217,
+        "imageUrl" : "http://i7.mangareader.net/the-tea-garden/1/the-tea-garden-2141645.jpg",
+        "imageAlt" : "The Tea Garden 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-tea-garden/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1217,
+        "imageUrl" : "http://i7.mangareader.net/the-tea-garden/1/the-tea-garden-2141647.jpg",
+        "imageAlt" : "The Tea Garden 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-tea-garden/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i7.mangareader.net/the-tea-garden/1/the-tea-garden-2141649.jpg",
+        "imageAlt" : "The Tea Garden 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-tea-garden/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i1.mangareader.net/the-tea-garden/1/the-tea-garden-2141651.jpg",
+        "imageAlt" : "The Tea Garden 1 - Page 9"
+      } ]
+    } ]
+  } ]
+}

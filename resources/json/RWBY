@@ -1,0 +1,1581 @@
+{
+  "mangaTitle" : "RWBY",
+  "mangaUrl" : "http://www.mangareader.net/rwby",
+  "mangaThumbUrl" : "http://s5.mangareader.net/cover/rwby/rwby-r0.jpg",
+  "mangaChaptersInfo" : "11 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Action, Adventure, Drama, Fantasy, Sci-Fi, Seinen",
+  "chapterCount" : 11,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/rwby/1",
+    "chapterTitle" : "RWBY 1",
+    "chapterDescription" : "",
+    "chapterDate" : "11/23/2015",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/rwby/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/rwby/1/rwby-6554407.jpg",
+        "imageAlt" : "RWBY 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/rwby/1/rwby-6554413.jpg",
+        "imageAlt" : "RWBY 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i9.mangareader.net/rwby/1/rwby-6554419.jpg",
+        "imageAlt" : "RWBY 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/rwby/1/rwby-6554425.jpg",
+        "imageAlt" : "RWBY 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i2.mangareader.net/rwby/1/rwby-6554431.jpg",
+        "imageAlt" : "RWBY 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i6.mangareader.net/rwby/1/rwby-6554437.jpg",
+        "imageAlt" : "RWBY 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i2.mangareader.net/rwby/1/rwby-6554443.jpg",
+        "imageAlt" : "RWBY 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i4.mangareader.net/rwby/1/rwby-6554449.jpg",
+        "imageAlt" : "RWBY 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i6.mangareader.net/rwby/1/rwby-6554455.jpg",
+        "imageAlt" : "RWBY 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i5.mangareader.net/rwby/1/rwby-6554461.jpg",
+        "imageAlt" : "RWBY 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i7.mangareader.net/rwby/1/rwby-6554467.jpg",
+        "imageAlt" : "RWBY 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i9.mangareader.net/rwby/1/rwby-6554473.jpg",
+        "imageAlt" : "RWBY 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i7.mangareader.net/rwby/1/rwby-6554479.jpg",
+        "imageAlt" : "RWBY 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i7.mangareader.net/rwby/1/rwby-6554485.jpg",
+        "imageAlt" : "RWBY 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i3.mangareader.net/rwby/1/rwby-6554491.jpg",
+        "imageAlt" : "RWBY 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/rwby/1/rwby-6554497.jpg",
+        "imageAlt" : "RWBY 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i3.mangareader.net/rwby/1/rwby-6554503.jpg",
+        "imageAlt" : "RWBY 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i1.mangareader.net/rwby/1/rwby-6554509.jpg",
+        "imageAlt" : "RWBY 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/rwby/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/rwby/1/rwby-6554515.jpg",
+        "imageAlt" : "RWBY 1 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/rwby/2",
+    "chapterTitle" : "RWBY 2",
+    "chapterDescription" : "",
+    "chapterDate" : "01/01/2016",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/rwby/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i5.mangareader.net/rwby/2/rwby-6787921.jpg",
+        "imageAlt" : "RWBY 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i9.mangareader.net/rwby/2/rwby-6787927.jpg",
+        "imageAlt" : "RWBY 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i9.mangareader.net/rwby/2/rwby-6787933.jpg",
+        "imageAlt" : "RWBY 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i9.mangareader.net/rwby/2/rwby-6787939.jpg",
+        "imageAlt" : "RWBY 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i7.mangareader.net/rwby/2/rwby-6787945.jpg",
+        "imageAlt" : "RWBY 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i3.mangareader.net/rwby/2/rwby-6787951.jpg",
+        "imageAlt" : "RWBY 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 521,
+        "imageUrl" : "http://i5.mangareader.net/rwby/2/rwby-6787957.jpg",
+        "imageAlt" : "RWBY 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i2.mangareader.net/rwby/2/rwby-6787963.jpg",
+        "imageAlt" : "RWBY 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i8.mangareader.net/rwby/2/rwby-6787969.jpg",
+        "imageAlt" : "RWBY 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i10.mangareader.net/rwby/2/rwby-6787975.jpg",
+        "imageAlt" : "RWBY 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i6.mangareader.net/rwby/2/rwby-6787981.jpg",
+        "imageAlt" : "RWBY 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i8.mangareader.net/rwby/2/rwby-6787987.jpg",
+        "imageAlt" : "RWBY 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i10.mangareader.net/rwby/2/rwby-6787993.jpg",
+        "imageAlt" : "RWBY 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 521,
+        "imageUrl" : "http://i6.mangareader.net/rwby/2/rwby-6787999.jpg",
+        "imageAlt" : "RWBY 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i1.mangareader.net/rwby/2/rwby-6788005.jpg",
+        "imageAlt" : "RWBY 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i1.mangareader.net/rwby/2/rwby-6788011.jpg",
+        "imageAlt" : "RWBY 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i9.mangareader.net/rwby/2/rwby-6788017.jpg",
+        "imageAlt" : "RWBY 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i6.mangareader.net/rwby/2/rwby-6788023.jpg",
+        "imageAlt" : "RWBY 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/rwby/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1041,
+        "imageUrl" : "http://i6.mangareader.net/rwby/2/rwby-6788029.jpg",
+        "imageAlt" : "RWBY 2 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/rwby/3",
+    "chapterTitle" : "RWBY 3",
+    "chapterDescription" : "",
+    "chapterDate" : "03/04/2016",
+    "pageCount" : 15,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/rwby/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1060,
+        "imageUrl" : "http://i8.mangareader.net/rwby/3/rwby-7171699.jpg",
+        "imageAlt" : "RWBY 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/rwby/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i8.mangareader.net/rwby/3/rwby-7171705.jpg",
+        "imageAlt" : "RWBY 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/rwby/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1063,
+        "imageUrl" : "http://i6.mangareader.net/rwby/3/rwby-7171711.jpg",
+        "imageAlt" : "RWBY 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/rwby/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 531,
+        "imageUrl" : "http://i4.mangareader.net/rwby/3/rwby-7171717.jpg",
+        "imageAlt" : "RWBY 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/rwby/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1060,
+        "imageUrl" : "http://i3.mangareader.net/rwby/3/rwby-7171723.jpg",
+        "imageAlt" : "RWBY 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/rwby/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1063,
+        "imageUrl" : "http://i3.mangareader.net/rwby/3/rwby-7171729.jpg",
+        "imageAlt" : "RWBY 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/rwby/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1063,
+        "imageUrl" : "http://i1.mangareader.net/rwby/3/rwby-7171735.jpg",
+        "imageAlt" : "RWBY 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/rwby/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i5.mangareader.net/rwby/3/rwby-7171741.jpg",
+        "imageAlt" : "RWBY 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/rwby/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 531,
+        "imageUrl" : "http://i9.mangareader.net/rwby/3/rwby-7171747.jpg",
+        "imageAlt" : "RWBY 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/rwby/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 531,
+        "imageUrl" : "http://i9.mangareader.net/rwby/3/rwby-7171753.jpg",
+        "imageAlt" : "RWBY 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/rwby/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1060,
+        "imageUrl" : "http://i1.mangareader.net/rwby/3/rwby-7171759.jpg",
+        "imageAlt" : "RWBY 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/rwby/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1060,
+        "imageUrl" : "http://i4.mangareader.net/rwby/3/rwby-7171765.jpg",
+        "imageAlt" : "RWBY 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/rwby/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1060,
+        "imageUrl" : "http://i6.mangareader.net/rwby/3/rwby-7171771.jpg",
+        "imageAlt" : "RWBY 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/rwby/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i6.mangareader.net/rwby/3/rwby-7171777.jpg",
+        "imageAlt" : "RWBY 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/rwby/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i2.mangareader.net/rwby/3/rwby-7171783.jpg",
+        "imageAlt" : "RWBY 3 - Page 15"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/rwby/4",
+    "chapterTitle" : "RWBY 4",
+    "chapterDescription" : "",
+    "chapterDate" : "03/04/2016",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/rwby/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1039,
+        "imageUrl" : "http://i4.mangareader.net/rwby/4/rwby-7171789.jpg",
+        "imageAlt" : "RWBY 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1061,
+        "imageUrl" : "http://i10.mangareader.net/rwby/4/rwby-7171795.jpg",
+        "imageAlt" : "RWBY 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i10.mangareader.net/rwby/4/rwby-7171801.jpg",
+        "imageAlt" : "RWBY 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1063,
+        "imageUrl" : "http://i6.mangareader.net/rwby/4/rwby-7171807.jpg",
+        "imageAlt" : "RWBY 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i10.mangareader.net/rwby/4/rwby-7171813.jpg",
+        "imageAlt" : "RWBY 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i4.mangareader.net/rwby/4/rwby-7171819.jpg",
+        "imageAlt" : "RWBY 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1063,
+        "imageUrl" : "http://i1.mangareader.net/rwby/4/rwby-7171825.jpg",
+        "imageAlt" : "RWBY 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i9.mangareader.net/rwby/4/rwby-7171831.jpg",
+        "imageAlt" : "RWBY 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1061,
+        "imageUrl" : "http://i1.mangareader.net/rwby/4/rwby-7171837.jpg",
+        "imageAlt" : "RWBY 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1063,
+        "imageUrl" : "http://i5.mangareader.net/rwby/4/rwby-7171843.jpg",
+        "imageAlt" : "RWBY 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i1.mangareader.net/rwby/4/rwby-7171849.jpg",
+        "imageAlt" : "RWBY 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i3.mangareader.net/rwby/4/rwby-7171855.jpg",
+        "imageAlt" : "RWBY 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1063,
+        "imageUrl" : "http://i10.mangareader.net/rwby/4/rwby-7171861.jpg",
+        "imageAlt" : "RWBY 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1061,
+        "imageUrl" : "http://i2.mangareader.net/rwby/4/rwby-7171867.jpg",
+        "imageAlt" : "RWBY 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i8.mangareader.net/rwby/4/rwby-7171873.jpg",
+        "imageAlt" : "RWBY 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i4.mangareader.net/rwby/4/rwby-7171879.jpg",
+        "imageAlt" : "RWBY 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1061,
+        "imageUrl" : "http://i8.mangareader.net/rwby/4/rwby-7171885.jpg",
+        "imageAlt" : "RWBY 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i2.mangareader.net/rwby/4/rwby-7171891.jpg",
+        "imageAlt" : "RWBY 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1063,
+        "imageUrl" : "http://i4.mangareader.net/rwby/4/rwby-7171897.jpg",
+        "imageAlt" : "RWBY 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/rwby/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i8.mangareader.net/rwby/4/rwby-7171903.jpg",
+        "imageAlt" : "RWBY 4 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/rwby/5",
+    "chapterTitle" : "RWBY 5",
+    "chapterDescription" : "",
+    "chapterDate" : "05/03/2016",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/rwby/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i2.mangareader.net/rwby/5/rwby-7491085.jpg",
+        "imageAlt" : "RWBY 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i8.mangareader.net/rwby/5/rwby-7491091.jpg",
+        "imageAlt" : "RWBY 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i10.mangareader.net/rwby/5/rwby-7491097.jpg",
+        "imageAlt" : "RWBY 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i6.mangareader.net/rwby/5/rwby-7491103.jpg",
+        "imageAlt" : "RWBY 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i8.mangareader.net/rwby/5/rwby-7491109.jpg",
+        "imageAlt" : "RWBY 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i4.mangareader.net/rwby/5/rwby-7491115.jpg",
+        "imageAlt" : "RWBY 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i5.mangareader.net/rwby/5/rwby-7491121.jpg",
+        "imageAlt" : "RWBY 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i5.mangareader.net/rwby/5/rwby-7491127.jpg",
+        "imageAlt" : "RWBY 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i3.mangareader.net/rwby/5/rwby-7491133.jpg",
+        "imageAlt" : "RWBY 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i3.mangareader.net/rwby/5/rwby-7491139.jpg",
+        "imageAlt" : "RWBY 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i5.mangareader.net/rwby/5/rwby-7491145.jpg",
+        "imageAlt" : "RWBY 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i5.mangareader.net/rwby/5/rwby-7491151.jpg",
+        "imageAlt" : "RWBY 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i7.mangareader.net/rwby/5/rwby-7491157.jpg",
+        "imageAlt" : "RWBY 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i6.mangareader.net/rwby/5/rwby-7491163.jpg",
+        "imageAlt" : "RWBY 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i4.mangareader.net/rwby/5/rwby-7491169.jpg",
+        "imageAlt" : "RWBY 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i8.mangareader.net/rwby/5/rwby-7491175.jpg",
+        "imageAlt" : "RWBY 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/rwby/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/rwby/5/rwby-7491181.jpg",
+        "imageAlt" : "RWBY 5 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/rwby/6",
+    "chapterTitle" : "RWBY 6",
+    "chapterDescription" : "",
+    "chapterDate" : "06/02/2016",
+    "pageCount" : 15,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/rwby/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i5.mangareader.net/rwby/6/rwby-7640557.jpg",
+        "imageAlt" : "RWBY 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/rwby/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i8.mangareader.net/rwby/6/rwby-7640563.jpg",
+        "imageAlt" : "RWBY 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/rwby/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i6.mangareader.net/rwby/6/rwby-7640569.jpg",
+        "imageAlt" : "RWBY 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/rwby/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i2.mangareader.net/rwby/6/rwby-7640575.jpg",
+        "imageAlt" : "RWBY 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/rwby/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i10.mangareader.net/rwby/6/rwby-7640581.jpg",
+        "imageAlt" : "RWBY 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/rwby/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i10.mangareader.net/rwby/6/rwby-7640587.jpg",
+        "imageAlt" : "RWBY 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/rwby/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i6.mangareader.net/rwby/6/rwby-7640593.jpg",
+        "imageAlt" : "RWBY 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/rwby/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i6.mangareader.net/rwby/6/rwby-7640599.jpg",
+        "imageAlt" : "RWBY 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/rwby/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i8.mangareader.net/rwby/6/rwby-7640605.jpg",
+        "imageAlt" : "RWBY 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/rwby/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i8.mangareader.net/rwby/6/rwby-7640611.jpg",
+        "imageAlt" : "RWBY 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/rwby/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i8.mangareader.net/rwby/6/rwby-7640617.jpg",
+        "imageAlt" : "RWBY 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/rwby/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i7.mangareader.net/rwby/6/rwby-7640623.jpg",
+        "imageAlt" : "RWBY 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/rwby/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i7.mangareader.net/rwby/6/rwby-7640629.jpg",
+        "imageAlt" : "RWBY 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/rwby/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i7.mangareader.net/rwby/6/rwby-7640635.jpg",
+        "imageAlt" : "RWBY 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/rwby/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i3.mangareader.net/rwby/6/rwby-7640641.jpg",
+        "imageAlt" : "RWBY 6 - Page 15"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/rwby/7",
+    "chapterTitle" : "RWBY 7",
+    "chapterDescription" : "",
+    "chapterDate" : "07/20/2016",
+    "pageCount" : 11,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/rwby/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i2.mangareader.net/rwby/7/rwby-7892335.jpg",
+        "imageAlt" : "RWBY 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/rwby/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i2.mangareader.net/rwby/7/rwby-7892341.jpg",
+        "imageAlt" : "RWBY 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/rwby/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 574,
+        "imageUrl" : "http://i8.mangareader.net/rwby/7/rwby-7892347.jpg",
+        "imageAlt" : "RWBY 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/rwby/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 574,
+        "imageUrl" : "http://i2.mangareader.net/rwby/7/rwby-7892353.jpg",
+        "imageAlt" : "RWBY 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/rwby/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i4.mangareader.net/rwby/7/rwby-7892359.jpg",
+        "imageAlt" : "RWBY 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/rwby/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/rwby/7/rwby-7892365.jpg",
+        "imageAlt" : "RWBY 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/rwby/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i1.mangareader.net/rwby/7/rwby-7892371.jpg",
+        "imageAlt" : "RWBY 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/rwby/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/rwby/7/rwby-7892377.jpg",
+        "imageAlt" : "RWBY 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/rwby/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/rwby/7/rwby-7892383.jpg",
+        "imageAlt" : "RWBY 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/rwby/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/rwby/7/rwby-7892389.jpg",
+        "imageAlt" : "RWBY 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/rwby/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i1.mangareader.net/rwby/7/rwby-7892395.jpg",
+        "imageAlt" : "RWBY 7 - Page 11"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/rwby/8",
+    "chapterTitle" : "RWBY 8",
+    "chapterDescription" : "",
+    "chapterDate" : "07/20/2016",
+    "pageCount" : 13,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/rwby/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i6.mangareader.net/rwby/8/rwby-7892401.jpg",
+        "imageAlt" : "RWBY 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/rwby/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i8.mangareader.net/rwby/8/rwby-7892407.jpg",
+        "imageAlt" : "RWBY 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/rwby/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i2.mangareader.net/rwby/8/rwby-7892413.jpg",
+        "imageAlt" : "RWBY 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/rwby/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i2.mangareader.net/rwby/8/rwby-7892419.jpg",
+        "imageAlt" : "RWBY 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/rwby/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/rwby/8/rwby-7892425.jpg",
+        "imageAlt" : "RWBY 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/rwby/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i7.mangareader.net/rwby/8/rwby-7892431.jpg",
+        "imageAlt" : "RWBY 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/rwby/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i3.mangareader.net/rwby/8/rwby-7892437.jpg",
+        "imageAlt" : "RWBY 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/rwby/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i7.mangareader.net/rwby/8/rwby-7892443.jpg",
+        "imageAlt" : "RWBY 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/rwby/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i7.mangareader.net/rwby/8/rwby-7892449.jpg",
+        "imageAlt" : "RWBY 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/rwby/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i1.mangareader.net/rwby/8/rwby-7892455.jpg",
+        "imageAlt" : "RWBY 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/rwby/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i2.mangareader.net/rwby/8/rwby-7892461.jpg",
+        "imageAlt" : "RWBY 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/rwby/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i10.mangareader.net/rwby/8/rwby-7892467.jpg",
+        "imageAlt" : "RWBY 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/rwby/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i10.mangareader.net/rwby/8/rwby-7892473.jpg",
+        "imageAlt" : "RWBY 8 - Page 13"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/rwby/9",
+    "chapterTitle" : "RWBY 9",
+    "chapterDescription" : "",
+    "chapterDate" : "08/22/2016",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/rwby/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i6.mangareader.net/rwby/9/rwby-8099047.jpg",
+        "imageAlt" : "RWBY 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/rwby/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i4.mangareader.net/rwby/9/rwby-8099053.jpg",
+        "imageAlt" : "RWBY 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/rwby/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i6.mangareader.net/rwby/9/rwby-8099059.jpg",
+        "imageAlt" : "RWBY 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/rwby/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i1.mangareader.net/rwby/9/rwby-8099065.jpg",
+        "imageAlt" : "RWBY 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/rwby/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i9.mangareader.net/rwby/9/rwby-8099071.jpg",
+        "imageAlt" : "RWBY 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/rwby/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i3.mangareader.net/rwby/9/rwby-8099077.jpg",
+        "imageAlt" : "RWBY 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/rwby/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i5.mangareader.net/rwby/9/rwby-8099083.jpg",
+        "imageAlt" : "RWBY 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/rwby/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i5.mangareader.net/rwby/9/rwby-8099089.jpg",
+        "imageAlt" : "RWBY 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/rwby/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i9.mangareader.net/rwby/9/rwby-8099095.jpg",
+        "imageAlt" : "RWBY 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/rwby/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i9.mangareader.net/rwby/9/rwby-8099101.jpg",
+        "imageAlt" : "RWBY 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/rwby/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i7.mangareader.net/rwby/9/rwby-8099107.jpg",
+        "imageAlt" : "RWBY 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/rwby/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i1.mangareader.net/rwby/9/rwby-8099113.jpg",
+        "imageAlt" : "RWBY 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/rwby/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i3.mangareader.net/rwby/9/rwby-8099119.jpg",
+        "imageAlt" : "RWBY 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/rwby/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i4.mangareader.net/rwby/9/rwby-8099125.jpg",
+        "imageAlt" : "RWBY 9 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/rwby/10",
+    "chapterTitle" : "RWBY 10",
+    "chapterDescription" : "",
+    "chapterDate" : "10/21/2016",
+    "pageCount" : 11,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/rwby/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/rwby/10/rwby-8435887.jpg",
+        "imageAlt" : "RWBY 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/rwby/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i8.mangareader.net/rwby/10/rwby-8435893.jpg",
+        "imageAlt" : "RWBY 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/rwby/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i2.mangareader.net/rwby/10/rwby-8435899.jpg",
+        "imageAlt" : "RWBY 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/rwby/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i6.mangareader.net/rwby/10/rwby-8435905.jpg",
+        "imageAlt" : "RWBY 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/rwby/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i4.mangareader.net/rwby/10/rwby-8435911.jpg",
+        "imageAlt" : "RWBY 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/rwby/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i2.mangareader.net/rwby/10/rwby-8435917.jpg",
+        "imageAlt" : "RWBY 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/rwby/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i1.mangareader.net/rwby/10/rwby-8435923.jpg",
+        "imageAlt" : "RWBY 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/rwby/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i1.mangareader.net/rwby/10/rwby-8435929.jpg",
+        "imageAlt" : "RWBY 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/rwby/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i7.mangareader.net/rwby/10/rwby-8435935.jpg",
+        "imageAlt" : "RWBY 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/rwby/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i1.mangareader.net/rwby/10/rwby-8435941.jpg",
+        "imageAlt" : "RWBY 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/rwby/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i3.mangareader.net/rwby/10/rwby-8435947.jpg",
+        "imageAlt" : "RWBY 10 - Page 11"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/rwby/11",
+    "chapterTitle" : "RWBY 11",
+    "chapterDescription" : "",
+    "chapterDate" : "10/21/2016",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/rwby/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/rwby/11/rwby-8435953.jpg",
+        "imageAlt" : "RWBY 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/rwby/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i9.mangareader.net/rwby/11/rwby-8435959.jpg",
+        "imageAlt" : "RWBY 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/rwby/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i2.mangareader.net/rwby/11/rwby-8435965.jpg",
+        "imageAlt" : "RWBY 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/rwby/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/rwby/11/rwby-8435971.jpg",
+        "imageAlt" : "RWBY 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/rwby/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i2.mangareader.net/rwby/11/rwby-8435977.jpg",
+        "imageAlt" : "RWBY 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/rwby/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i8.mangareader.net/rwby/11/rwby-8435983.jpg",
+        "imageAlt" : "RWBY 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/rwby/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i4.mangareader.net/rwby/11/rwby-8435989.jpg",
+        "imageAlt" : "RWBY 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/rwby/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i4.mangareader.net/rwby/11/rwby-8435995.jpg",
+        "imageAlt" : "RWBY 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/rwby/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i2.mangareader.net/rwby/11/rwby-8436001.jpg",
+        "imageAlt" : "RWBY 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/rwby/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i8.mangareader.net/rwby/11/rwby-8436007.jpg",
+        "imageAlt" : "RWBY 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/rwby/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i2.mangareader.net/rwby/11/rwby-8436013.jpg",
+        "imageAlt" : "RWBY 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/rwby/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i8.mangareader.net/rwby/11/rwby-8436019.jpg",
+        "imageAlt" : "RWBY 11 - Page 12"
+      } ]
+    } ]
+  } ]
+}

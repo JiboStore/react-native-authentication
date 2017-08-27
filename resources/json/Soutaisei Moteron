@@ -1,0 +1,3525 @@
+{
+  "mangaTitle" : "Soutaisei Moteron",
+  "mangaUrl" : "http://www.mangareader.net/soutaisei-moteron",
+  "mangaThumbUrl" : "http://s1.mangareader.net/cover/soutaisei-moteron/soutaisei-moteron-r0.jpg",
+  "mangaChaptersInfo" : "11 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Comedy, Romance, School Life, Shounen",
+  "chapterCount" : 11,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/soutaisei-moteron/1",
+    "chapterTitle" : "Soutaisei Moteron 1",
+    "chapterDescription" : "",
+    "chapterDate" : "01/16/2013",
+    "pageCount" : 50,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1000,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846249.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846251.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 774,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846253.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846255.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 577,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846257.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846259.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846261.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846263.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846265.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846267.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846269.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846271.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846273.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846275.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846277.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846279.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846281.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846283.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846285.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846287.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846289.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846291.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846293.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846295.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846297.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846299.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846301.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846303.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846305.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846307.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846309.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846311.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846313.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846315.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846317.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846319.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846321.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846323.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846325.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846327.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846329.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846331.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846333.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846335.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846337.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846339.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846341.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846343.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846345.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/1/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/1/soutaisei-moteron-3846347.jpg",
+        "imageAlt" : "Soutaisei Moteron 1 - Page 50"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/soutaisei-moteron/2",
+    "chapterTitle" : "Soutaisei Moteron 2",
+    "chapterDescription" : "",
+    "chapterDate" : "03/17/2013",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986011.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986013.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986015.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986017.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986019.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986021.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986023.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986025.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986027.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986029.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986031.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986033.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986035.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986037.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986039.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986041.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986043.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986045.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986047.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986049.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986051.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986053.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986055.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986057.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986059.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986061.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986063.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986065.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986067.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986069.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986071.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986073.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986075.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/2/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/2/soutaisei-moteron-3986077.jpg",
+        "imageAlt" : "Soutaisei Moteron 2 - Page 34"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/soutaisei-moteron/3",
+    "chapterTitle" : "Soutaisei Moteron 3",
+    "chapterDescription" : "",
+    "chapterDate" : "11/04/2013",
+    "pageCount" : 39,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1001,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550563.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 801,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550565.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 744,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550567.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550569.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550571.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550573.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550575.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550577.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550579.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550581.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550583.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550585.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550587.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550589.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550591.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550593.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550595.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550597.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550599.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550601.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550603.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550605.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550607.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550609.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550611.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550613.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550615.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550617.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550619.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550621.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550623.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550625.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550627.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550629.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550631.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550633.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550635.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550637.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/3/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/3/soutaisei-moteron-4550639.jpg",
+        "imageAlt" : "Soutaisei Moteron 3 - Page 39"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/soutaisei-moteron/4",
+    "chapterTitle" : "Soutaisei Moteron 4",
+    "chapterDescription" : "",
+    "chapterDate" : "11/04/2013",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1001,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550641.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550643.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550645.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550647.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550649.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550651.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550653.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550655.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550657.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550659.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550661.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550663.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550665.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550667.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550669.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550671.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550673.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550675.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550677.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550679.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550681.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550683.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550685.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550687.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550689.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550691.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550693.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550695.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550697.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550699.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550701.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/4/soutaisei-moteron-4550703.jpg",
+        "imageAlt" : "Soutaisei Moteron 4 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/soutaisei-moteron/5",
+    "chapterTitle" : "Soutaisei Moteron 5",
+    "chapterDescription" : "",
+    "chapterDate" : "11/13/2013",
+    "pageCount" : 36,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1000,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4568991.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4568993.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4568995.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4568997.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4568999.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569001.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569003.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569005.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569007.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569009.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569011.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569013.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569015.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569017.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569019.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569021.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569023.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569025.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569027.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569029.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569031.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569033.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569035.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569037.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569039.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569041.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569043.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569045.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569047.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569049.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569051.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569053.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569055.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569057.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569059.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/5/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/5/soutaisei-moteron-4569061.jpg",
+        "imageAlt" : "Soutaisei Moteron 5 - Page 36"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/soutaisei-moteron/6",
+    "chapterTitle" : "Soutaisei Moteron 6",
+    "chapterDescription" : "",
+    "chapterDate" : "01/17/2014",
+    "pageCount" : 36,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 938,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727005.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727007.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727009.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727011.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727013.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727015.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727017.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727019.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727021.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727023.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727025.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727027.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727029.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727031.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727033.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727035.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727037.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727039.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727041.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727043.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727045.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727047.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727049.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727051.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727053.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727055.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727057.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727059.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727061.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727063.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727065.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727067.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727069.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727071.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727073.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/6/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/6/soutaisei-moteron-4727075.jpg",
+        "imageAlt" : "Soutaisei Moteron 6 - Page 36"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/soutaisei-moteron/7",
+    "chapterTitle" : "Soutaisei Moteron 7",
+    "chapterDescription" : "",
+    "chapterDate" : "01/17/2014",
+    "pageCount" : 30,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 938,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727077.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727079.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727081.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727083.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727085.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727087.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727089.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727091.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727093.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727095.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727097.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727099.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727101.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727103.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727105.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727107.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727109.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727111.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727113.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727115.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727117.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727119.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727121.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727123.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727125.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727127.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727129.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727131.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727133.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/7/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/7/soutaisei-moteron-4727135.jpg",
+        "imageAlt" : "Soutaisei Moteron 7 - Page 30"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/soutaisei-moteron/8",
+    "chapterTitle" : "Soutaisei Moteron 8",
+    "chapterDescription" : "",
+    "chapterDate" : "01/26/2014",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 938,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4746989.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4746991.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4746993.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4746995.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4746997.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4746999.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747001.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747003.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747005.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747007.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747009.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747011.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747013.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747015.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747017.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747019.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747021.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747023.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747025.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747027.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747029.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747031.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747033.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747035.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747037.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747039.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 569,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747041.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747043.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747045.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747047.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747049.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747051.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/8/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/8/soutaisei-moteron-4747053.jpg",
+        "imageAlt" : "Soutaisei Moteron 8 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/soutaisei-moteron/9",
+    "chapterTitle" : "Soutaisei Moteron 9",
+    "chapterDescription" : "",
+    "chapterDate" : "01/26/2014",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 938,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747055.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747057.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747059.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747061.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747063.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747065.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747067.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747069.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747071.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747073.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747075.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747077.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747079.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747081.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747083.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747085.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747087.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747089.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747091.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747093.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747095.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747097.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747099.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747101.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747103.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747105.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747107.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747109.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747111.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747113.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747115.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747117.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/9/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/9/soutaisei-moteron-4747119.jpg",
+        "imageAlt" : "Soutaisei Moteron 9 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/soutaisei-moteron/10",
+    "chapterTitle" : "Soutaisei Moteron 10",
+    "chapterDescription" : "",
+    "chapterDate" : "02/05/2014",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 938,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780347.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780349.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780351.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780353.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780355.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780357.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780359.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780361.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780363.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780365.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780367.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780369.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780371.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780373.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780375.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780377.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780379.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780381.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780383.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780385.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780387.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780389.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780391.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780393.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780395.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780397.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/10/soutaisei-moteron-4780399.jpg",
+        "imageAlt" : "Soutaisei Moteron 10 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/soutaisei-moteron/11",
+    "chapterTitle" : "Soutaisei Moteron 11",
+    "chapterDescription" : "",
+    "chapterDate" : "02/07/2014",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 938,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785795.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i6.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785797.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785799.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785801.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785803.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785805.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785807.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i2.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785809.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785811.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785813.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785815.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i8.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785817.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785819.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785821.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785823.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785825.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785827.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785829.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 565,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785831.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785833.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785835.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785837.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785839.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785841.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785843.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785845.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785847.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785849.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i5.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785851.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i3.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785853.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785855.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/soutaisei-moteron/11/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 669,
+        "imageUrl" : "http://i9.mangareader.net/soutaisei-moteron/11/soutaisei-moteron-4785857.jpg",
+        "imageAlt" : "Soutaisei Moteron 11 - Page 32"
+      } ]
+    } ]
+  } ]
+}

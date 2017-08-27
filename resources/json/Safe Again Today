@@ -5,977 +5,3550 @@
   "mangaChaptersInfo" : "14 Chapters Published. (Completed)",
   "mangaReadType" : "Manhwa (Read Left to Right)",
   "mangaGenre" : "Comedy, Sci-Fi, Shoujo, Slice of Life, Supernatural",
-  "chapterCount" : 9,
+  "chapterCount" : 14,
   "chapters" : [ {
-    "chapterUrl" : "http://www.mangareader.net/ni-ming-shi/1",
-    "chapterTitle" : "Ni Ming Shi 1",
+    "chapterUrl" : "http://www.mangareader.net/safe-again-today/1",
+    "chapterTitle" : "Safe Again Today 1",
     "chapterDescription" : "",
-    "chapterDate" : "08/27/2016",
-    "pageCount" : 15,
+    "chapterDate" : "01/17/2011",
+    "pageCount" : 36,
     "pages" : [ {
       "pageNumber" : 1,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/1",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 596,
-        "imageUrl" : "http://i7.mangareader.net/ni-ming-shi/1/ni-ming-shi-8125477.jpg",
-        "imageAlt" : "Ni Ming Shi 1 - Page 1"
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/1/safe-again-today-1764891.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 1"
       } ]
     }, {
       "pageNumber" : 2,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/1/2",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/2",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1131,
-        "imageUrl" : "http://i1.mangareader.net/ni-ming-shi/1/ni-ming-shi-8125483.jpg",
-        "imageAlt" : "Ni Ming Shi 1 - Page 2"
+        "imageHeight" : 1121,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/1/safe-again-today-1764892.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 2"
       } ]
     }, {
       "pageNumber" : 3,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/1/3",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/3",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1131,
-        "imageUrl" : "http://i9.mangareader.net/ni-ming-shi/1/ni-ming-shi-8125489.jpg",
-        "imageAlt" : "Ni Ming Shi 1 - Page 3"
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/1/safe-again-today-1764893.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 3"
       } ]
     }, {
       "pageNumber" : 4,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/1/4",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/4",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1136,
-        "imageUrl" : "http://i7.mangareader.net/ni-ming-shi/1/ni-ming-shi-8125495.jpg",
-        "imageAlt" : "Ni Ming Shi 1 - Page 4"
+        "imageHeight" : 558,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/1/safe-again-today-1764894.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 4"
       } ]
     }, {
       "pageNumber" : 5,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/1/5",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/5",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1136,
-        "imageUrl" : "http://i7.mangareader.net/ni-ming-shi/1/ni-ming-shi-8125501.jpg",
-        "imageAlt" : "Ni Ming Shi 1 - Page 5"
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/1/safe-again-today-1764895.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 5"
       } ]
     }, {
       "pageNumber" : 6,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/1/6",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/6",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i3.mangareader.net/ni-ming-shi/1/ni-ming-shi-8125507.jpg",
-        "imageAlt" : "Ni Ming Shi 1 - Page 6"
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/1/safe-again-today-1764896.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 6"
       } ]
     }, {
       "pageNumber" : 7,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/1/7",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/7",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1131,
-        "imageUrl" : "http://i7.mangareader.net/ni-ming-shi/1/ni-ming-shi-8125513.jpg",
-        "imageAlt" : "Ni Ming Shi 1 - Page 7"
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/1/safe-again-today-1764897.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 7"
       } ]
     }, {
       "pageNumber" : 8,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/1/8",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/8",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i1.mangareader.net/ni-ming-shi/1/ni-ming-shi-8125519.jpg",
-        "imageAlt" : "Ni Ming Shi 1 - Page 8"
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/1/safe-again-today-1764898.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 8"
       } ]
     }, {
       "pageNumber" : 9,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/1/9",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/9",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i2.mangareader.net/ni-ming-shi/1/ni-ming-shi-8125525.jpg",
-        "imageAlt" : "Ni Ming Shi 1 - Page 9"
+        "imageHeight" : 1123,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/1/safe-again-today-1764899.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 9"
       } ]
     }, {
       "pageNumber" : 10,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/1/10",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1137,
-        "imageUrl" : "http://i8.mangareader.net/ni-ming-shi/1/ni-ming-shi-8125531.jpg",
-        "imageAlt" : "Ni Ming Shi 1 - Page 10"
-      } ]
-    }, {
-      "pageNumber" : 11,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/1/11",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i8.mangareader.net/ni-ming-shi/1/ni-ming-shi-8125537.jpg",
-        "imageAlt" : "Ni Ming Shi 1 - Page 11"
-      } ]
-    }, {
-      "pageNumber" : 12,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/1/12",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1155,
-        "imageUrl" : "http://i8.mangareader.net/ni-ming-shi/1/ni-ming-shi-8125543.jpg",
-        "imageAlt" : "Ni Ming Shi 1 - Page 12"
-      } ]
-    }, {
-      "pageNumber" : 13,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/1/13",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i2.mangareader.net/ni-ming-shi/1/ni-ming-shi-8125549.jpg",
-        "imageAlt" : "Ni Ming Shi 1 - Page 13"
-      } ]
-    }, {
-      "pageNumber" : 14,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/1/14",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1133,
-        "imageUrl" : "http://i2.mangareader.net/ni-ming-shi/1/ni-ming-shi-8125555.jpg",
-        "imageAlt" : "Ni Ming Shi 1 - Page 14"
-      } ]
-    }, {
-      "pageNumber" : 15,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/1/15",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 581,
-        "imageUrl" : "http://i3.mangareader.net/ni-ming-shi/1/ni-ming-shi-8125561.jpg",
-        "imageAlt" : "Ni Ming Shi 1 - Page 15"
-      } ]
-    } ]
-  }, {
-    "chapterUrl" : "http://www.mangareader.net/ni-ming-shi/2",
-    "chapterTitle" : "Ni Ming Shi 2",
-    "chapterDescription" : "",
-    "chapterDate" : "08/27/2016",
-    "pageCount" : 9,
-    "pages" : [ {
-      "pageNumber" : 1,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/2",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 596,
-        "imageUrl" : "http://i6.mangareader.net/ni-ming-shi/2/ni-ming-shi-8125567.jpg",
-        "imageAlt" : "Ni Ming Shi 2 - Page 1"
-      } ]
-    }, {
-      "pageNumber" : 2,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/2/2",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1346,
-        "imageUrl" : "http://i8.mangareader.net/ni-ming-shi/2/ni-ming-shi-8125573.jpg",
-        "imageAlt" : "Ni Ming Shi 2 - Page 2"
-      } ]
-    }, {
-      "pageNumber" : 3,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/2/3",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1132,
-        "imageUrl" : "http://i8.mangareader.net/ni-ming-shi/2/ni-ming-shi-8125579.jpg",
-        "imageAlt" : "Ni Ming Shi 2 - Page 3"
-      } ]
-    }, {
-      "pageNumber" : 4,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/2/4",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1137,
-        "imageUrl" : "http://i6.mangareader.net/ni-ming-shi/2/ni-ming-shi-8125585.jpg",
-        "imageAlt" : "Ni Ming Shi 2 - Page 4"
-      } ]
-    }, {
-      "pageNumber" : 5,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/2/5",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i4.mangareader.net/ni-ming-shi/2/ni-ming-shi-8125591.jpg",
-        "imageAlt" : "Ni Ming Shi 2 - Page 5"
-      } ]
-    }, {
-      "pageNumber" : 6,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/2/6",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1131,
-        "imageUrl" : "http://i6.mangareader.net/ni-ming-shi/2/ni-ming-shi-8125597.jpg",
-        "imageAlt" : "Ni Ming Shi 2 - Page 6"
-      } ]
-    }, {
-      "pageNumber" : 7,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/2/7",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1132,
-        "imageUrl" : "http://i8.mangareader.net/ni-ming-shi/2/ni-ming-shi-8125603.jpg",
-        "imageAlt" : "Ni Ming Shi 2 - Page 7"
-      } ]
-    }, {
-      "pageNumber" : 8,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/2/8",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1135,
-        "imageUrl" : "http://i2.mangareader.net/ni-ming-shi/2/ni-ming-shi-8125609.jpg",
-        "imageAlt" : "Ni Ming Shi 2 - Page 8"
-      } ]
-    }, {
-      "pageNumber" : 9,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/2/9",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/10",
       "images" : [ {
         "imageWidth" : 800,
         "imageHeight" : 1128,
-        "imageUrl" : "http://i2.mangareader.net/ni-ming-shi/2/ni-ming-shi-8125615.jpg",
-        "imageAlt" : "Ni Ming Shi 2 - Page 9"
-      } ]
-    } ]
-  }, {
-    "chapterUrl" : "http://www.mangareader.net/ni-ming-shi/3",
-    "chapterTitle" : "Ni Ming Shi 3",
-    "chapterDescription" : "",
-    "chapterDate" : "08/27/2016",
-    "pageCount" : 10,
-    "pages" : [ {
-      "pageNumber" : 1,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/3",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 596,
-        "imageUrl" : "http://i4.mangareader.net/ni-ming-shi/3/ni-ming-shi-8125621.jpg",
-        "imageAlt" : "Ni Ming Shi 3 - Page 1"
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/1/safe-again-today-1764900.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 10"
       } ]
     }, {
-      "pageNumber" : 2,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/3/2",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i10.mangareader.net/ni-ming-shi/3/ni-ming-shi-8125627.jpg",
-        "imageAlt" : "Ni Ming Shi 3 - Page 2"
-      } ]
-    }, {
-      "pageNumber" : 3,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/3/3",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1133,
-        "imageUrl" : "http://i4.mangareader.net/ni-ming-shi/3/ni-ming-shi-8125633.jpg",
-        "imageAlt" : "Ni Ming Shi 3 - Page 3"
-      } ]
-    }, {
-      "pageNumber" : 4,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/3/4",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1133,
-        "imageUrl" : "http://i4.mangareader.net/ni-ming-shi/3/ni-ming-shi-8125639.jpg",
-        "imageAlt" : "Ni Ming Shi 3 - Page 4"
-      } ]
-    }, {
-      "pageNumber" : 5,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/3/5",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1132,
-        "imageUrl" : "http://i4.mangareader.net/ni-ming-shi/3/ni-ming-shi-8125645.jpg",
-        "imageAlt" : "Ni Ming Shi 3 - Page 5"
-      } ]
-    }, {
-      "pageNumber" : 6,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/3/6",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1133,
-        "imageUrl" : "http://i2.mangareader.net/ni-ming-shi/3/ni-ming-shi-8125651.jpg",
-        "imageAlt" : "Ni Ming Shi 3 - Page 6"
-      } ]
-    }, {
-      "pageNumber" : 7,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/3/7",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1131,
-        "imageUrl" : "http://i2.mangareader.net/ni-ming-shi/3/ni-ming-shi-8125657.jpg",
-        "imageAlt" : "Ni Ming Shi 3 - Page 7"
-      } ]
-    }, {
-      "pageNumber" : 8,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/3/8",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1133,
-        "imageUrl" : "http://i1.mangareader.net/ni-ming-shi/3/ni-ming-shi-8125663.jpg",
-        "imageAlt" : "Ni Ming Shi 3 - Page 8"
-      } ]
-    }, {
-      "pageNumber" : 9,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/3/9",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 587,
-        "imageUrl" : "http://i1.mangareader.net/ni-ming-shi/3/ni-ming-shi-8125669.jpg",
-        "imageAlt" : "Ni Ming Shi 3 - Page 9"
-      } ]
-    }, {
-      "pageNumber" : 10,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/3/10",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1113,
-        "imageUrl" : "http://i5.mangareader.net/ni-ming-shi/3/ni-ming-shi-8125675.jpg",
-        "imageAlt" : "Ni Ming Shi 3 - Page 10"
-      } ]
-    } ]
-  }, {
-    "chapterUrl" : "http://www.mangareader.net/ni-ming-shi/4",
-    "chapterTitle" : "Ni Ming Shi 4",
-    "chapterDescription" : "",
-    "chapterDate" : "08/27/2016",
-    "pageCount" : 10,
-    "pages" : [ {
-      "pageNumber" : 1,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/4",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 596,
-        "imageUrl" : "http://i1.mangareader.net/ni-ming-shi/4/ni-ming-shi-8125681.jpg",
-        "imageAlt" : "Ni Ming Shi 4 - Page 1"
-      } ]
-    }, {
-      "pageNumber" : 2,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/4/2",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i1.mangareader.net/ni-ming-shi/4/ni-ming-shi-8125687.jpg",
-        "imageAlt" : "Ni Ming Shi 4 - Page 2"
-      } ]
-    }, {
-      "pageNumber" : 3,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/4/3",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i7.mangareader.net/ni-ming-shi/4/ni-ming-shi-8125693.jpg",
-        "imageAlt" : "Ni Ming Shi 4 - Page 3"
-      } ]
-    }, {
-      "pageNumber" : 4,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/4/4",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i5.mangareader.net/ni-ming-shi/4/ni-ming-shi-8125699.jpg",
-        "imageAlt" : "Ni Ming Shi 4 - Page 4"
-      } ]
-    }, {
-      "pageNumber" : 5,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/4/5",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i1.mangareader.net/ni-ming-shi/4/ni-ming-shi-8125705.jpg",
-        "imageAlt" : "Ni Ming Shi 4 - Page 5"
-      } ]
-    }, {
-      "pageNumber" : 6,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/4/6",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i3.mangareader.net/ni-ming-shi/4/ni-ming-shi-8125711.jpg",
-        "imageAlt" : "Ni Ming Shi 4 - Page 6"
-      } ]
-    }, {
-      "pageNumber" : 7,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/4/7",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1133,
-        "imageUrl" : "http://i7.mangareader.net/ni-ming-shi/4/ni-ming-shi-8125717.jpg",
-        "imageAlt" : "Ni Ming Shi 4 - Page 7"
-      } ]
-    }, {
-      "pageNumber" : 8,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/4/8",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i6.mangareader.net/ni-ming-shi/4/ni-ming-shi-8125723.jpg",
-        "imageAlt" : "Ni Ming Shi 4 - Page 8"
-      } ]
-    }, {
-      "pageNumber" : 9,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/4/9",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i8.mangareader.net/ni-ming-shi/4/ni-ming-shi-8125729.jpg",
-        "imageAlt" : "Ni Ming Shi 4 - Page 9"
-      } ]
-    }, {
-      "pageNumber" : 10,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/4/10",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i10.mangareader.net/ni-ming-shi/4/ni-ming-shi-8125735.jpg",
-        "imageAlt" : "Ni Ming Shi 4 - Page 10"
-      } ]
-    } ]
-  }, {
-    "chapterUrl" : "http://www.mangareader.net/ni-ming-shi/5",
-    "chapterTitle" : "Ni Ming Shi 5",
-    "chapterDescription" : "",
-    "chapterDate" : "08/27/2016",
-    "pageCount" : 12,
-    "pages" : [ {
-      "pageNumber" : 1,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/5",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 596,
-        "imageUrl" : "http://i1.mangareader.net/ni-ming-shi/5/ni-ming-shi-8125741.jpg",
-        "imageAlt" : "Ni Ming Shi 5 - Page 1"
-      } ]
-    }, {
-      "pageNumber" : 2,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/5/2",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i9.mangareader.net/ni-ming-shi/5/ni-ming-shi-8125747.jpg",
-        "imageAlt" : "Ni Ming Shi 5 - Page 2"
-      } ]
-    }, {
-      "pageNumber" : 3,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/5/3",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i7.mangareader.net/ni-ming-shi/5/ni-ming-shi-8125753.jpg",
-        "imageAlt" : "Ni Ming Shi 5 - Page 3"
-      } ]
-    }, {
-      "pageNumber" : 4,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/5/4",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i7.mangareader.net/ni-ming-shi/5/ni-ming-shi-8125759.jpg",
-        "imageAlt" : "Ni Ming Shi 5 - Page 4"
-      } ]
-    }, {
-      "pageNumber" : 5,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/5/5",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1137,
-        "imageUrl" : "http://i6.mangareader.net/ni-ming-shi/5/ni-ming-shi-8125765.jpg",
-        "imageAlt" : "Ni Ming Shi 5 - Page 5"
-      } ]
-    }, {
-      "pageNumber" : 6,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/5/6",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1139,
-        "imageUrl" : "http://i2.mangareader.net/ni-ming-shi/5/ni-ming-shi-8125771.jpg",
-        "imageAlt" : "Ni Ming Shi 5 - Page 6"
-      } ]
-    }, {
-      "pageNumber" : 7,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/5/7",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1132,
-        "imageUrl" : "http://i10.mangareader.net/ni-ming-shi/5/ni-ming-shi-8125777.jpg",
-        "imageAlt" : "Ni Ming Shi 5 - Page 7"
-      } ]
-    }, {
-      "pageNumber" : 8,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/5/8",
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/11",
       "images" : [ {
         "imageWidth" : 800,
         "imageHeight" : 1142,
-        "imageUrl" : "http://i6.mangareader.net/ni-ming-shi/5/ni-ming-shi-8125783.jpg",
-        "imageAlt" : "Ni Ming Shi 5 - Page 8"
-      } ]
-    }, {
-      "pageNumber" : 9,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/5/9",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i10.mangareader.net/ni-ming-shi/5/ni-ming-shi-8125789.jpg",
-        "imageAlt" : "Ni Ming Shi 5 - Page 9"
-      } ]
-    }, {
-      "pageNumber" : 10,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/5/10",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i2.mangareader.net/ni-ming-shi/5/ni-ming-shi-8125795.jpg",
-        "imageAlt" : "Ni Ming Shi 5 - Page 10"
-      } ]
-    }, {
-      "pageNumber" : 11,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/5/11",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1133,
-        "imageUrl" : "http://i2.mangareader.net/ni-ming-shi/5/ni-ming-shi-8125801.jpg",
-        "imageAlt" : "Ni Ming Shi 5 - Page 11"
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/1/safe-again-today-1764901.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 11"
       } ]
     }, {
       "pageNumber" : 12,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/5/12",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/12",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i6.mangareader.net/ni-ming-shi/5/ni-ming-shi-8125807.jpg",
-        "imageAlt" : "Ni Ming Shi 5 - Page 12"
-      } ]
-    } ]
-  }, {
-    "chapterUrl" : "http://www.mangareader.net/ni-ming-shi/6",
-    "chapterTitle" : "Ni Ming Shi 6",
-    "chapterDescription" : "",
-    "chapterDate" : "08/27/2016",
-    "pageCount" : 13,
-    "pages" : [ {
-      "pageNumber" : 1,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/6",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 596,
-        "imageUrl" : "http://i1.mangareader.net/ni-ming-shi/6/ni-ming-shi-8125813.jpg",
-        "imageAlt" : "Ni Ming Shi 6 - Page 1"
-      } ]
-    }, {
-      "pageNumber" : 2,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/6/2",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1137,
-        "imageUrl" : "http://i7.mangareader.net/ni-ming-shi/6/ni-ming-shi-8125819.jpg",
-        "imageAlt" : "Ni Ming Shi 6 - Page 2"
-      } ]
-    }, {
-      "pageNumber" : 3,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/6/3",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1133,
-        "imageUrl" : "http://i2.mangareader.net/ni-ming-shi/6/ni-ming-shi-8125825.jpg",
-        "imageAlt" : "Ni Ming Shi 6 - Page 3"
-      } ]
-    }, {
-      "pageNumber" : 4,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/6/4",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1133,
-        "imageUrl" : "http://i4.mangareader.net/ni-ming-shi/6/ni-ming-shi-8125831.jpg",
-        "imageAlt" : "Ni Ming Shi 6 - Page 4"
-      } ]
-    }, {
-      "pageNumber" : 5,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/6/5",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1137,
-        "imageUrl" : "http://i2.mangareader.net/ni-ming-shi/6/ni-ming-shi-8125837.jpg",
-        "imageAlt" : "Ni Ming Shi 6 - Page 5"
-      } ]
-    }, {
-      "pageNumber" : 6,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/6/6",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1126,
-        "imageUrl" : "http://i6.mangareader.net/ni-ming-shi/6/ni-ming-shi-8125843.jpg",
-        "imageAlt" : "Ni Ming Shi 6 - Page 6"
-      } ]
-    }, {
-      "pageNumber" : 7,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/6/7",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1134,
-        "imageUrl" : "http://i4.mangareader.net/ni-ming-shi/6/ni-ming-shi-8125849.jpg",
-        "imageAlt" : "Ni Ming Shi 6 - Page 7"
-      } ]
-    }, {
-      "pageNumber" : 8,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/6/8",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1126,
-        "imageUrl" : "http://i4.mangareader.net/ni-ming-shi/6/ni-ming-shi-8125855.jpg",
-        "imageAlt" : "Ni Ming Shi 6 - Page 8"
-      } ]
-    }, {
-      "pageNumber" : 9,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/6/9",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i5.mangareader.net/ni-ming-shi/6/ni-ming-shi-8125861.jpg",
-        "imageAlt" : "Ni Ming Shi 6 - Page 9"
-      } ]
-    }, {
-      "pageNumber" : 10,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/6/10",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1126,
-        "imageUrl" : "http://i7.mangareader.net/ni-ming-shi/6/ni-ming-shi-8125867.jpg",
-        "imageAlt" : "Ni Ming Shi 6 - Page 10"
-      } ]
-    }, {
-      "pageNumber" : 11,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/6/11",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1130,
-        "imageUrl" : "http://i7.mangareader.net/ni-ming-shi/6/ni-ming-shi-8125873.jpg",
-        "imageAlt" : "Ni Ming Shi 6 - Page 11"
-      } ]
-    }, {
-      "pageNumber" : 12,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/6/12",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 513,
-        "imageUrl" : "http://i1.mangareader.net/ni-ming-shi/6/ni-ming-shi-8125879.jpg",
-        "imageAlt" : "Ni Ming Shi 6 - Page 12"
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/1/safe-again-today-1764903.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 12"
       } ]
     }, {
       "pageNumber" : 13,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/6/13",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/1/safe-again-today-1764906.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/14",
       "images" : [ {
         "imageWidth" : 800,
         "imageHeight" : 1136,
-        "imageUrl" : "http://i5.mangareader.net/ni-ming-shi/6/ni-ming-shi-8125885.jpg",
-        "imageAlt" : "Ni Ming Shi 6 - Page 13"
-      } ]
-    } ]
-  }, {
-    "chapterUrl" : "http://www.mangareader.net/ni-ming-shi/7",
-    "chapterTitle" : "Ni Ming Shi 7",
-    "chapterDescription" : "",
-    "chapterDate" : "08/27/2016",
-    "pageCount" : 9,
-    "pages" : [ {
-      "pageNumber" : 1,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/7",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 596,
-        "imageUrl" : "http://i6.mangareader.net/ni-ming-shi/7/ni-ming-shi-8125891.jpg",
-        "imageAlt" : "Ni Ming Shi 7 - Page 1"
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/1/safe-again-today-1764908.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 14"
       } ]
     }, {
-      "pageNumber" : 2,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/7/2",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1126,
-        "imageUrl" : "http://i10.mangareader.net/ni-ming-shi/7/ni-ming-shi-8125897.jpg",
-        "imageAlt" : "Ni Ming Shi 7 - Page 2"
-      } ]
-    }, {
-      "pageNumber" : 3,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/7/3",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1126,
-        "imageUrl" : "http://i8.mangareader.net/ni-ming-shi/7/ni-ming-shi-8125903.jpg",
-        "imageAlt" : "Ni Ming Shi 7 - Page 3"
-      } ]
-    }, {
-      "pageNumber" : 4,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/7/4",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1126,
-        "imageUrl" : "http://i8.mangareader.net/ni-ming-shi/7/ni-ming-shi-8125909.jpg",
-        "imageAlt" : "Ni Ming Shi 7 - Page 4"
-      } ]
-    }, {
-      "pageNumber" : 5,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/7/5",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1126,
-        "imageUrl" : "http://i8.mangareader.net/ni-ming-shi/7/ni-ming-shi-8125915.jpg",
-        "imageAlt" : "Ni Ming Shi 7 - Page 5"
-      } ]
-    }, {
-      "pageNumber" : 6,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/7/6",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1126,
-        "imageUrl" : "http://i3.mangareader.net/ni-ming-shi/7/ni-ming-shi-8125921.jpg",
-        "imageAlt" : "Ni Ming Shi 7 - Page 6"
-      } ]
-    }, {
-      "pageNumber" : 7,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/7/7",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1126,
-        "imageUrl" : "http://i9.mangareader.net/ni-ming-shi/7/ni-ming-shi-8125927.jpg",
-        "imageAlt" : "Ni Ming Shi 7 - Page 7"
-      } ]
-    }, {
-      "pageNumber" : 8,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/7/8",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1126,
-        "imageUrl" : "http://i5.mangareader.net/ni-ming-shi/7/ni-ming-shi-8125933.jpg",
-        "imageAlt" : "Ni Ming Shi 7 - Page 8"
-      } ]
-    }, {
-      "pageNumber" : 9,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/7/9",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1126,
-        "imageUrl" : "http://i1.mangareader.net/ni-ming-shi/7/ni-ming-shi-8125939.jpg",
-        "imageAlt" : "Ni Ming Shi 7 - Page 9"
-      } ]
-    } ]
-  }, {
-    "chapterUrl" : "http://www.mangareader.net/ni-ming-shi/8",
-    "chapterTitle" : "Ni Ming Shi 8",
-    "chapterDescription" : "",
-    "chapterDate" : "08/27/2016",
-    "pageCount" : 11,
-    "pages" : [ {
-      "pageNumber" : 1,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/8",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 596,
-        "imageUrl" : "http://i2.mangareader.net/ni-ming-shi/8/ni-ming-shi-8125945.jpg",
-        "imageAlt" : "Ni Ming Shi 8 - Page 1"
-      } ]
-    }, {
-      "pageNumber" : 2,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/8/2",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1121,
-        "imageUrl" : "http://i6.mangareader.net/ni-ming-shi/8/ni-ming-shi-8125951.jpg",
-        "imageAlt" : "Ni Ming Shi 8 - Page 2"
-      } ]
-    }, {
-      "pageNumber" : 3,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/8/3",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1121,
-        "imageUrl" : "http://i6.mangareader.net/ni-ming-shi/8/ni-ming-shi-8125957.jpg",
-        "imageAlt" : "Ni Ming Shi 8 - Page 3"
-      } ]
-    }, {
-      "pageNumber" : 4,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/8/4",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1121,
-        "imageUrl" : "http://i7.mangareader.net/ni-ming-shi/8/ni-ming-shi-8125963.jpg",
-        "imageAlt" : "Ni Ming Shi 8 - Page 4"
-      } ]
-    }, {
-      "pageNumber" : 5,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/8/5",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1121,
-        "imageUrl" : "http://i5.mangareader.net/ni-ming-shi/8/ni-ming-shi-8125969.jpg",
-        "imageAlt" : "Ni Ming Shi 8 - Page 5"
-      } ]
-    }, {
-      "pageNumber" : 6,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/8/6",
-      "images" : [ {
-        "imageWidth" : 800,
-        "imageHeight" : 1131,
-        "imageUrl" : "http://i7.mangareader.net/ni-ming-shi/8/ni-ming-shi-8125975.jpg",
-        "imageAlt" : "Ni Ming Shi 8 - Page 6"
-      } ]
-    }, {
-      "pageNumber" : 7,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/8/7",
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/15",
       "images" : [ {
         "imageWidth" : 800,
         "imageHeight" : 1139,
-        "imageUrl" : "http://i5.mangareader.net/ni-ming-shi/8/ni-ming-shi-8125981.jpg",
-        "imageAlt" : "Ni Ming Shi 8 - Page 7"
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/1/safe-again-today-1764910.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 15"
       } ]
     }, {
-      "pageNumber" : 8,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/8/8",
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/16",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1121,
-        "imageUrl" : "http://i3.mangareader.net/ni-ming-shi/8/ni-ming-shi-8125987.jpg",
-        "imageAlt" : "Ni Ming Shi 8 - Page 8"
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/1/safe-again-today-1764912.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 16"
       } ]
     }, {
-      "pageNumber" : 9,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/8/9",
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/1/safe-again-today-1764914.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/1/safe-again-today-1764916.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/1/safe-again-today-1764918.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/20",
       "images" : [ {
         "imageWidth" : 800,
         "imageHeight" : 1128,
-        "imageUrl" : "http://i9.mangareader.net/ni-ming-shi/8/ni-ming-shi-8125993.jpg",
-        "imageAlt" : "Ni Ming Shi 8 - Page 9"
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/1/safe-again-today-1764920.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 20"
       } ]
     }, {
-      "pageNumber" : 10,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/8/10",
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/21",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1121,
-        "imageUrl" : "http://i7.mangareader.net/ni-ming-shi/8/ni-ming-shi-8125999.jpg",
-        "imageAlt" : "Ni Ming Shi 8 - Page 10"
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/1/safe-again-today-1764922.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 21"
       } ]
     }, {
-      "pageNumber" : 11,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/8/11",
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/22",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1121,
-        "imageUrl" : "http://i1.mangareader.net/ni-ming-shi/8/ni-ming-shi-8126005.jpg",
-        "imageAlt" : "Ni Ming Shi 8 - Page 11"
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/1/safe-again-today-1764925.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/1/safe-again-today-1764927.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/1/safe-again-today-1764929.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/1/safe-again-today-1764931.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/1/safe-again-today-1764933.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/1/safe-again-today-1764935.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/1/safe-again-today-1764938.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/1/safe-again-today-1764940.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/1/safe-again-today-1764942.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/1/safe-again-today-1764945.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/1/safe-again-today-1764948.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/1/safe-again-today-1764952.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1100,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/1/safe-again-today-1764954.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/1/safe-again-today-1764958.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/1/safe-again-today-1764967.jpg",
+        "imageAlt" : "Safe Again Today 1 - Page 36"
       } ]
     } ]
   }, {
-    "chapterUrl" : "http://www.mangareader.net/ni-ming-shi/9",
-    "chapterTitle" : "Ni Ming Shi 9",
+    "chapterUrl" : "http://www.mangareader.net/safe-again-today/2",
+    "chapterTitle" : "Safe Again Today 2",
     "chapterDescription" : "",
-    "chapterDate" : "08/28/2016",
-    "pageCount" : 12,
+    "chapterDate" : "01/17/2011",
+    "pageCount" : 29,
     "pages" : [ {
       "pageNumber" : 1,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/9",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 604,
-        "imageUrl" : "http://i8.mangareader.net/ni-ming-shi/9/ni-ming-shi-8129203.jpg",
-        "imageAlt" : "Ni Ming Shi 9 - Page 1"
+        "imageHeight" : 1547,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/2/safe-again-today-1764902.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 1"
       } ]
     }, {
       "pageNumber" : 2,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/9/2",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/2",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1122,
-        "imageUrl" : "http://i2.mangareader.net/ni-ming-shi/9/ni-ming-shi-8129209.jpg",
-        "imageAlt" : "Ni Ming Shi 9 - Page 2"
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/2/safe-again-today-1764904.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 2"
       } ]
     }, {
       "pageNumber" : 3,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/9/3",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/3",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1121,
-        "imageUrl" : "http://i4.mangareader.net/ni-ming-shi/9/ni-ming-shi-8129215.jpg",
-        "imageAlt" : "Ni Ming Shi 9 - Page 3"
+        "imageHeight" : 564,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/2/safe-again-today-1764905.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 3"
       } ]
     }, {
       "pageNumber" : 4,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/9/4",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/4",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1120,
-        "imageUrl" : "http://i9.mangareader.net/ni-ming-shi/9/ni-ming-shi-8129221.jpg",
-        "imageAlt" : "Ni Ming Shi 9 - Page 4"
+        "imageHeight" : 1119,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/2/safe-again-today-1764907.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 4"
       } ]
     }, {
       "pageNumber" : 5,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/9/5",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/5",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1119,
-        "imageUrl" : "http://i5.mangareader.net/ni-ming-shi/9/ni-ming-shi-8129227.jpg",
-        "imageAlt" : "Ni Ming Shi 9 - Page 5"
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/2/safe-again-today-1764909.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 5"
       } ]
     }, {
       "pageNumber" : 6,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/9/6",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/6",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1124,
-        "imageUrl" : "http://i5.mangareader.net/ni-ming-shi/9/ni-ming-shi-8129233.jpg",
-        "imageAlt" : "Ni Ming Shi 9 - Page 6"
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/2/safe-again-today-1764911.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 6"
       } ]
     }, {
       "pageNumber" : 7,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/9/7",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/7",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1125,
-        "imageUrl" : "http://i7.mangareader.net/ni-ming-shi/9/ni-ming-shi-8129239.jpg",
-        "imageAlt" : "Ni Ming Shi 9 - Page 7"
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/2/safe-again-today-1764913.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 7"
       } ]
     }, {
       "pageNumber" : 8,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/9/8",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/8",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1119,
-        "imageUrl" : "http://i9.mangareader.net/ni-ming-shi/9/ni-ming-shi-8129245.jpg",
-        "imageAlt" : "Ni Ming Shi 9 - Page 8"
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/2/safe-again-today-1764915.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 8"
       } ]
     }, {
       "pageNumber" : 9,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/9/9",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/9",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1124,
-        "imageUrl" : "http://i9.mangareader.net/ni-ming-shi/9/ni-ming-shi-8129251.jpg",
-        "imageAlt" : "Ni Ming Shi 9 - Page 9"
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/2/safe-again-today-1764917.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 9"
       } ]
     }, {
       "pageNumber" : 10,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/9/10",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/10",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1119,
-        "imageUrl" : "http://i9.mangareader.net/ni-ming-shi/9/ni-ming-shi-8129257.jpg",
-        "imageAlt" : "Ni Ming Shi 9 - Page 10"
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/2/safe-again-today-1764919.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 10"
       } ]
     }, {
       "pageNumber" : 11,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/9/11",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/11",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1118,
-        "imageUrl" : "http://i6.mangareader.net/ni-ming-shi/9/ni-ming-shi-8129263.jpg",
-        "imageAlt" : "Ni Ming Shi 9 - Page 11"
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/2/safe-again-today-1764921.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 11"
       } ]
     }, {
       "pageNumber" : 12,
-      "pageUrl" : "http://www.mangareader.net/ni-ming-shi/9/12",
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/12",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1121,
-        "imageUrl" : "http://i2.mangareader.net/ni-ming-shi/9/ni-ming-shi-8129269.jpg",
-        "imageAlt" : "Ni Ming Shi 9 - Page 12"
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/2/safe-again-today-1764923.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/2/safe-again-today-1764924.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/2/safe-again-today-1764926.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/2/safe-again-today-1764928.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/2/safe-again-today-1764930.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/2/safe-again-today-1764932.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/2/safe-again-today-1764934.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/2/safe-again-today-1764936.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/2/safe-again-today-1764937.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/2/safe-again-today-1764939.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/2/safe-again-today-1764941.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/2/safe-again-today-1764943.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/2/safe-again-today-1764946.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/2/safe-again-today-1764949.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/2/safe-again-today-1764951.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/2/safe-again-today-1764953.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/2/safe-again-today-1764957.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/2/safe-again-today-1764960.jpg",
+        "imageAlt" : "Safe Again Today 2 - Page 29"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/safe-again-today/3",
+    "chapterTitle" : "Safe Again Today 3",
+    "chapterDescription" : "",
+    "chapterDate" : "01/17/2011",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/3/safe-again-today-1764944.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/3/safe-again-today-1764947.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1276,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/3/safe-again-today-1764950.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/3/safe-again-today-1764955.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/3/safe-again-today-1764956.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/3/safe-again-today-1764959.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/3/safe-again-today-1764961.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/3/safe-again-today-1764963.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/3/safe-again-today-1764966.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/3/safe-again-today-1764971.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/3/safe-again-today-1764974.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/3/safe-again-today-1764976.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/3/safe-again-today-1764980.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/3/safe-again-today-1764984.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/3/safe-again-today-1764989.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1218,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/3/safe-again-today-1764993.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/3/safe-again-today-1764996.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/3/safe-again-today-1764998.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/3/safe-again-today-1765000.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/3/safe-again-today-1765003.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/3/safe-again-today-1765006.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/3/safe-again-today-1765009.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/3/safe-again-today-1765012.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/3/safe-again-today-1765014.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/3/safe-again-today-1765017.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/3/safe-again-today-1765020.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/3/safe-again-today-1765023.jpg",
+        "imageAlt" : "Safe Again Today 3 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/safe-again-today/4",
+    "chapterTitle" : "Safe Again Today 4",
+    "chapterDescription" : "",
+    "chapterDate" : "01/17/2011",
+    "pageCount" : 23,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/4/safe-again-today-1764962.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/4/safe-again-today-1764964.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1123,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/4/safe-again-today-1764965.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1117,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/4/safe-again-today-1764968.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/4/safe-again-today-1764970.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1124,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/4/safe-again-today-1764972.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/4/safe-again-today-1764975.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/4/safe-again-today-1764978.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/4/safe-again-today-1764981.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/4/safe-again-today-1764983.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/4/safe-again-today-1764986.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/4/safe-again-today-1764988.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/4/safe-again-today-1764991.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/4/safe-again-today-1764994.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/4/safe-again-today-1764997.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/4/safe-again-today-1765001.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/4/safe-again-today-1765004.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/4/safe-again-today-1765007.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/4/safe-again-today-1765010.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1124,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/4/safe-again-today-1765013.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/4/safe-again-today-1765016.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/4/safe-again-today-1765019.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/4/safe-again-today-1765022.jpg",
+        "imageAlt" : "Safe Again Today 4 - Page 23"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/safe-again-today/5",
+    "chapterTitle" : "Safe Again Today 5",
+    "chapterDescription" : "",
+    "chapterDate" : "01/17/2011",
+    "pageCount" : 23,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/5/safe-again-today-1764969.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/5/safe-again-today-1764973.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/5/safe-again-today-1764977.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/5/safe-again-today-1764979.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/5/safe-again-today-1764982.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/5/safe-again-today-1764985.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/5/safe-again-today-1764987.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/5/safe-again-today-1764990.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/5/safe-again-today-1764992.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/5/safe-again-today-1764995.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/5/safe-again-today-1764999.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/5/safe-again-today-1765002.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/5/safe-again-today-1765005.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/5/safe-again-today-1765008.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/5/safe-again-today-1765011.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/5/safe-again-today-1765015.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/5/safe-again-today-1765018.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/5/safe-again-today-1765021.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/5/safe-again-today-1765024.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/5/safe-again-today-1765026.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/5/safe-again-today-1765028.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/5/safe-again-today-1765030.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/5/safe-again-today-1765033.jpg",
+        "imageAlt" : "Safe Again Today 5 - Page 23"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/safe-again-today/6",
+    "chapterTitle" : "Safe Again Today 6",
+    "chapterDescription" : "",
+    "chapterDate" : "01/17/2011",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 710,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/6/safe-again-today-1765025.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/6/safe-again-today-1765027.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/6/safe-again-today-1765029.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/6/safe-again-today-1765031.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/6/safe-again-today-1765032.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/6/safe-again-today-1765034.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/6/safe-again-today-1765035.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/6/safe-again-today-1765036.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/6/safe-again-today-1765037.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/6/safe-again-today-1765038.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1122,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/6/safe-again-today-1765039.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/6/safe-again-today-1765040.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/6/safe-again-today-1765041.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/6/safe-again-today-1765042.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/6/safe-again-today-1765043.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/6/safe-again-today-1765044.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/6/safe-again-today-1765045.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/6/safe-again-today-1765046.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/6/safe-again-today-1765047.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/6/safe-again-today-1765048.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/6/safe-again-today-1765049.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/6/safe-again-today-1765050.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/6/safe-again-today-1765051.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/6/safe-again-today-1765052.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/6/safe-again-today-1765054.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/6/safe-again-today-1765056.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/6/safe-again-today-1765057.jpg",
+        "imageAlt" : "Safe Again Today 6 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/safe-again-today/7",
+    "chapterTitle" : "Safe Again Today 7",
+    "chapterDescription" : "",
+    "chapterDate" : "01/17/2011",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/7/safe-again-today-1765053.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/7/safe-again-today-1765055.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/7/safe-again-today-1765058.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/7/safe-again-today-1765060.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/7/safe-again-today-1765061.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/7/safe-again-today-1765064.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/7/safe-again-today-1765066.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/7/safe-again-today-1765068.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/7/safe-again-today-1765070.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/7/safe-again-today-1765072.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/7/safe-again-today-1765075.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/7/safe-again-today-1765077.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/7/safe-again-today-1765081.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/7/safe-again-today-1765083.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/7/safe-again-today-1765086.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/7/safe-again-today-1765090.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/7/safe-again-today-1765093.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/7/safe-again-today-1765095.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/7/safe-again-today-1765098.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/7/safe-again-today-1765102.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/7/safe-again-today-1765106.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/7/safe-again-today-1765110.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/7/safe-again-today-1765114.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/7/safe-again-today-1765120.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/7/safe-again-today-1765124.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/7/safe-again-today-1765127.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/7/safe-again-today-1765130.jpg",
+        "imageAlt" : "Safe Again Today 7 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/safe-again-today/8",
+    "chapterTitle" : "Safe Again Today 8",
+    "chapterDescription" : "",
+    "chapterDate" : "01/17/2011",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/8/safe-again-today-1765059.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/8/safe-again-today-1765062.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/8/safe-again-today-1765063.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/8/safe-again-today-1765065.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/8/safe-again-today-1765067.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/8/safe-again-today-1765069.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/8/safe-again-today-1765071.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/8/safe-again-today-1765073.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/8/safe-again-today-1765078.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/8/safe-again-today-1765080.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/8/safe-again-today-1765085.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/8/safe-again-today-1765087.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/8/safe-again-today-1765089.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/8/safe-again-today-1765092.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/8/safe-again-today-1765096.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/8/safe-again-today-1765100.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/8/safe-again-today-1765103.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/8/safe-again-today-1765107.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/8/safe-again-today-1765111.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/8/safe-again-today-1765115.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/8/safe-again-today-1765121.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/8/safe-again-today-1765126.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/8/safe-again-today-1765129.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/8/safe-again-today-1765133.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/8/safe-again-today-1765137.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/8/safe-again-today-1765141.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/8/safe-again-today-1765147.jpg",
+        "imageAlt" : "Safe Again Today 8 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/safe-again-today/9",
+    "chapterTitle" : "Safe Again Today 9",
+    "chapterDescription" : "",
+    "chapterDate" : "01/17/2011",
+    "pageCount" : 30,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/9/safe-again-today-1765074.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1207,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/9/safe-again-today-1765076.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/9/safe-again-today-1765079.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/9/safe-again-today-1765082.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/9/safe-again-today-1765084.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/9/safe-again-today-1765088.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/9/safe-again-today-1765091.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/9/safe-again-today-1765094.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/9/safe-again-today-1765097.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/9/safe-again-today-1765101.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/9/safe-again-today-1765105.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/9/safe-again-today-1765109.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/9/safe-again-today-1765113.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/9/safe-again-today-1765117.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/9/safe-again-today-1765119.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/9/safe-again-today-1765123.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/9/safe-again-today-1765128.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/9/safe-again-today-1765132.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/9/safe-again-today-1765135.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/9/safe-again-today-1765139.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/9/safe-again-today-1765143.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/9/safe-again-today-1765146.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/9/safe-again-today-1765151.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/9/safe-again-today-1765155.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/9/safe-again-today-1765160.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/9/safe-again-today-1765164.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/9/safe-again-today-1765168.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/9/safe-again-today-1765171.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/9/safe-again-today-1765177.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/9/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/9/safe-again-today-1765179.jpg",
+        "imageAlt" : "Safe Again Today 9 - Page 30"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/safe-again-today/10",
+    "chapterTitle" : "Safe Again Today 10",
+    "chapterDescription" : "",
+    "chapterDate" : "01/17/2011",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/10/safe-again-today-1765099.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/10/safe-again-today-1765104.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/10/safe-again-today-1765108.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/10/safe-again-today-1765112.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/10/safe-again-today-1765116.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/10/safe-again-today-1765118.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/10/safe-again-today-1765122.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/10/safe-again-today-1765125.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/10/safe-again-today-1765131.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/10/safe-again-today-1765134.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/10/safe-again-today-1765140.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/10/safe-again-today-1765145.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/10/safe-again-today-1765150.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/10/safe-again-today-1765154.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/10/safe-again-today-1765158.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/10/safe-again-today-1765163.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/10/safe-again-today-1765167.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/10/safe-again-today-1765170.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/10/safe-again-today-1765178.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/10/safe-again-today-1765182.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/10/safe-again-today-1765185.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/10/safe-again-today-1765189.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/10/safe-again-today-1765193.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/10/safe-again-today-1765196.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/10/safe-again-today-1765202.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/10/safe-again-today-1765206.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/10/safe-again-today-1765213.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/10/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/10/safe-again-today-1765218.jpg",
+        "imageAlt" : "Safe Again Today 10 - Page 28"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/safe-again-today/11",
+    "chapterTitle" : "Safe Again Today 11",
+    "chapterDescription" : "",
+    "chapterDate" : "01/17/2011",
+    "pageCount" : 23,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/11/safe-again-today-1765136.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1118,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/11/safe-again-today-1765142.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/11/safe-again-today-1765148.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/11/safe-again-today-1765152.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/11/safe-again-today-1765157.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/11/safe-again-today-1765162.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/11/safe-again-today-1765173.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/11/safe-again-today-1765176.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/11/safe-again-today-1765183.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/11/safe-again-today-1765187.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/11/safe-again-today-1765191.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/11/safe-again-today-1765195.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/11/safe-again-today-1765200.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/11/safe-again-today-1765205.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/11/safe-again-today-1765209.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/11/safe-again-today-1765215.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/11/safe-again-today-1765220.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/11/safe-again-today-1765226.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/11/safe-again-today-1765230.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/11/safe-again-today-1765232.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/11/safe-again-today-1765238.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/11/safe-again-today-1765242.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/11/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/11/safe-again-today-1765244.jpg",
+        "imageAlt" : "Safe Again Today 11 - Page 23"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/safe-again-today/12",
+    "chapterTitle" : "Safe Again Today 12",
+    "chapterDescription" : "",
+    "chapterDate" : "01/17/2011",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/12/safe-again-today-1765138.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/12/safe-again-today-1765144.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/12/safe-again-today-1765149.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/12/safe-again-today-1765153.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/12/safe-again-today-1765159.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/12/safe-again-today-1765166.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/12/safe-again-today-1765172.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/12/safe-again-today-1765175.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/12/safe-again-today-1765180.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/12/safe-again-today-1765188.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/12/safe-again-today-1765194.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/12/safe-again-today-1765199.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/12/safe-again-today-1765207.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/12/safe-again-today-1765211.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/12/safe-again-today-1765217.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/12/safe-again-today-1765222.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/12/safe-again-today-1765225.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/12/safe-again-today-1765229.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/12/safe-again-today-1765234.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/12/safe-again-today-1765239.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/12/safe-again-today-1765243.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/12/safe-again-today-1765247.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/12/safe-again-today-1765249.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/12/safe-again-today-1765252.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/12/safe-again-today-1765255.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/12/safe-again-today-1765260.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/12/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/12/safe-again-today-1765263.jpg",
+        "imageAlt" : "Safe Again Today 12 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/safe-again-today/13",
+    "chapterTitle" : "Safe Again Today 13",
+    "chapterDescription" : "",
+    "chapterDate" : "01/17/2011",
+    "pageCount" : 25,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/13/safe-again-today-1765156.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/13/safe-again-today-1765161.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/13/safe-again-today-1765165.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/13/safe-again-today-1765169.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/13/safe-again-today-1765174.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/13/safe-again-today-1765181.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/13/safe-again-today-1765186.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/13/safe-again-today-1765192.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/13/safe-again-today-1765198.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/13/safe-again-today-1765201.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/13/safe-again-today-1765204.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/13/safe-again-today-1765212.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/13/safe-again-today-1765216.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/13/safe-again-today-1765219.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/13/safe-again-today-1765223.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/13/safe-again-today-1765228.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/13/safe-again-today-1765233.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/13/safe-again-today-1765236.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/13/safe-again-today-1765240.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/13/safe-again-today-1765246.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/13/safe-again-today-1765250.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/13/safe-again-today-1765253.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i7.mangareader.net/safe-again-today/13/safe-again-today-1765256.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/13/safe-again-today-1765258.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/13/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/13/safe-again-today-1765261.jpg",
+        "imageAlt" : "Safe Again Today 13 - Page 25"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/safe-again-today/14",
+    "chapterTitle" : "Safe Again Today 14",
+    "chapterDescription" : "",
+    "chapterDate" : "01/17/2011",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/14/safe-again-today-1765184.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/14/safe-again-today-1765190.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 586,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/14/safe-again-today-1765197.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/14/safe-again-today-1765203.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i8.mangareader.net/safe-again-today/14/safe-again-today-1765208.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/14/safe-again-today-1765210.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/14/safe-again-today-1765214.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/14/safe-again-today-1765221.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/14/safe-again-today-1765224.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/safe-again-today/14/safe-again-today-1765227.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/14/safe-again-today-1765231.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/14/safe-again-today-1765235.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/14/safe-again-today-1765237.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/14/safe-again-today-1765241.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/14/safe-again-today-1765245.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i9.mangareader.net/safe-again-today/14/safe-again-today-1765248.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/14/safe-again-today-1765251.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i5.mangareader.net/safe-again-today/14/safe-again-today-1765254.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/14/safe-again-today-1765257.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i3.mangareader.net/safe-again-today/14/safe-again-today-1765259.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/14/safe-again-today-1765262.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/14/safe-again-today-1765264.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/14/safe-again-today-1765265.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/14/safe-again-today-1765266.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/14/safe-again-today-1765267.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 567,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/14/safe-again-today-1765268.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i10.mangareader.net/safe-again-today/14/safe-again-today-1765269.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i4.mangareader.net/safe-again-today/14/safe-again-today-1765270.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i6.mangareader.net/safe-again-today/14/safe-again-today-1765271.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/14/safe-again-today-1765272.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/safe-again-today/14/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/safe-again-today/14/safe-again-today-1765273.jpg",
+        "imageAlt" : "Safe Again Today 14 - Page 31"
       } ]
     } ]
   } ]

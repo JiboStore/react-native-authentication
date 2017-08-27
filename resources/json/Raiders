@@ -1,0 +1,4959 @@
+{
+  "mangaTitle" : "Raiders",
+  "mangaUrl" : "http://www.mangareader.net/raiders",
+  "mangaThumbUrl" : "http://s5.mangareader.net/cover/raiders/raiders-r0.jpg",
+  "mangaChaptersInfo" : "14 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manhwa (Read Left to Right)",
+  "mangaGenre" : "Action, Fantasy, Mystery, Shounen, Supernatural, Tragedy",
+  "chapterCount" : 14,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/raiders/1",
+    "chapterTitle" : "Raiders 1",
+    "chapterDescription" : "",
+    "chapterDate" : "01/26/2010",
+    "pageCount" : 22,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/raiders/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i3.mangareader.net/raiders/1/raiders-1995335.jpg",
+        "imageAlt" : "Raiders 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i3.mangareader.net/raiders/1/raiders-1995337.jpg",
+        "imageAlt" : "Raiders 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i7.mangareader.net/raiders/1/raiders-1995339.jpg",
+        "imageAlt" : "Raiders 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i7.mangareader.net/raiders/1/raiders-1995341.jpg",
+        "imageAlt" : "Raiders 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i5.mangareader.net/raiders/1/raiders-1995343.jpg",
+        "imageAlt" : "Raiders 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i7.mangareader.net/raiders/1/raiders-1995345.jpg",
+        "imageAlt" : "Raiders 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i3.mangareader.net/raiders/1/raiders-1995347.jpg",
+        "imageAlt" : "Raiders 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i1.mangareader.net/raiders/1/raiders-1995349.jpg",
+        "imageAlt" : "Raiders 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i1.mangareader.net/raiders/1/raiders-1995351.jpg",
+        "imageAlt" : "Raiders 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i1.mangareader.net/raiders/1/raiders-1995353.jpg",
+        "imageAlt" : "Raiders 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i7.mangareader.net/raiders/1/raiders-1995355.jpg",
+        "imageAlt" : "Raiders 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i3.mangareader.net/raiders/1/raiders-1995357.jpg",
+        "imageAlt" : "Raiders 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i9.mangareader.net/raiders/1/raiders-1995359.jpg",
+        "imageAlt" : "Raiders 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i2.mangareader.net/raiders/1/raiders-1995361.jpg",
+        "imageAlt" : "Raiders 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i10.mangareader.net/raiders/1/raiders-1995363.jpg",
+        "imageAlt" : "Raiders 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i6.mangareader.net/raiders/1/raiders-1995365.jpg",
+        "imageAlt" : "Raiders 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i8.mangareader.net/raiders/1/raiders-1995367.jpg",
+        "imageAlt" : "Raiders 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i6.mangareader.net/raiders/1/raiders-1995369.jpg",
+        "imageAlt" : "Raiders 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i6.mangareader.net/raiders/1/raiders-1995375.jpg",
+        "imageAlt" : "Raiders 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/raiders/1/raiders-1995377.jpg",
+        "imageAlt" : "Raiders 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i8.mangareader.net/raiders/1/raiders-1995381.jpg",
+        "imageAlt" : "Raiders 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/raiders/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/raiders/1/raiders-1995385.jpg",
+        "imageAlt" : "Raiders 1 - Page 22"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/raiders/2",
+    "chapterTitle" : "Raiders 2",
+    "chapterDescription" : "",
+    "chapterDate" : "01/26/2010",
+    "pageCount" : 25,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/raiders/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/raiders/2/raiders-1995371.jpg",
+        "imageAlt" : "Raiders 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i5.mangareader.net/raiders/2/raiders-1995373.jpg",
+        "imageAlt" : "Raiders 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i7.mangareader.net/raiders/2/raiders-1995379.jpg",
+        "imageAlt" : "Raiders 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i1.mangareader.net/raiders/2/raiders-1995383.jpg",
+        "imageAlt" : "Raiders 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i5.mangareader.net/raiders/2/raiders-1995387.jpg",
+        "imageAlt" : "Raiders 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i9.mangareader.net/raiders/2/raiders-1995389.jpg",
+        "imageAlt" : "Raiders 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i5.mangareader.net/raiders/2/raiders-1995391.jpg",
+        "imageAlt" : "Raiders 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i5.mangareader.net/raiders/2/raiders-1995393.jpg",
+        "imageAlt" : "Raiders 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i9.mangareader.net/raiders/2/raiders-1995395.jpg",
+        "imageAlt" : "Raiders 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i3.mangareader.net/raiders/2/raiders-1995397.jpg",
+        "imageAlt" : "Raiders 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i5.mangareader.net/raiders/2/raiders-1995399.jpg",
+        "imageAlt" : "Raiders 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i6.mangareader.net/raiders/2/raiders-1995401.jpg",
+        "imageAlt" : "Raiders 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i10.mangareader.net/raiders/2/raiders-1995403.jpg",
+        "imageAlt" : "Raiders 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i4.mangareader.net/raiders/2/raiders-1995405.jpg",
+        "imageAlt" : "Raiders 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i6.mangareader.net/raiders/2/raiders-1995407.jpg",
+        "imageAlt" : "Raiders 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i8.mangareader.net/raiders/2/raiders-1995409.jpg",
+        "imageAlt" : "Raiders 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i6.mangareader.net/raiders/2/raiders-1995411.jpg",
+        "imageAlt" : "Raiders 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i6.mangareader.net/raiders/2/raiders-1995413.jpg",
+        "imageAlt" : "Raiders 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i4.mangareader.net/raiders/2/raiders-1995415.jpg",
+        "imageAlt" : "Raiders 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i8.mangareader.net/raiders/2/raiders-1995417.jpg",
+        "imageAlt" : "Raiders 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i10.mangareader.net/raiders/2/raiders-1995419.jpg",
+        "imageAlt" : "Raiders 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i1.mangareader.net/raiders/2/raiders-1995421.jpg",
+        "imageAlt" : "Raiders 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i5.mangareader.net/raiders/2/raiders-1995423.jpg",
+        "imageAlt" : "Raiders 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i9.mangareader.net/raiders/2/raiders-1995425.jpg",
+        "imageAlt" : "Raiders 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/raiders/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/raiders/2/raiders-1995427.jpg",
+        "imageAlt" : "Raiders 2 - Page 25"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/raiders/3",
+    "chapterTitle" : "Raiders 3",
+    "chapterDescription" : "",
+    "chapterDate" : "01/26/2010",
+    "pageCount" : 23,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/raiders/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/raiders/3/raiders-1995429.jpg",
+        "imageAlt" : "Raiders 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i6.mangareader.net/raiders/3/raiders-1995431.jpg",
+        "imageAlt" : "Raiders 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i8.mangareader.net/raiders/3/raiders-1995433.jpg",
+        "imageAlt" : "Raiders 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i2.mangareader.net/raiders/3/raiders-1995435.jpg",
+        "imageAlt" : "Raiders 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i10.mangareader.net/raiders/3/raiders-1995437.jpg",
+        "imageAlt" : "Raiders 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i10.mangareader.net/raiders/3/raiders-1995439.jpg",
+        "imageAlt" : "Raiders 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i6.mangareader.net/raiders/3/raiders-1995441.jpg",
+        "imageAlt" : "Raiders 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i6.mangareader.net/raiders/3/raiders-1995443.jpg",
+        "imageAlt" : "Raiders 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i10.mangareader.net/raiders/3/raiders-1995445.jpg",
+        "imageAlt" : "Raiders 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i8.mangareader.net/raiders/3/raiders-1995447.jpg",
+        "imageAlt" : "Raiders 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i6.mangareader.net/raiders/3/raiders-1995449.jpg",
+        "imageAlt" : "Raiders 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i10.mangareader.net/raiders/3/raiders-1995451.jpg",
+        "imageAlt" : "Raiders 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i4.mangareader.net/raiders/3/raiders-1995453.jpg",
+        "imageAlt" : "Raiders 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i4.mangareader.net/raiders/3/raiders-1995455.jpg",
+        "imageAlt" : "Raiders 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i2.mangareader.net/raiders/3/raiders-1995457.jpg",
+        "imageAlt" : "Raiders 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i6.mangareader.net/raiders/3/raiders-1995459.jpg",
+        "imageAlt" : "Raiders 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i5.mangareader.net/raiders/3/raiders-1995461.jpg",
+        "imageAlt" : "Raiders 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i5.mangareader.net/raiders/3/raiders-1995463.jpg",
+        "imageAlt" : "Raiders 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i1.mangareader.net/raiders/3/raiders-1995465.jpg",
+        "imageAlt" : "Raiders 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i5.mangareader.net/raiders/3/raiders-1995467.jpg",
+        "imageAlt" : "Raiders 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i5.mangareader.net/raiders/3/raiders-1995469.jpg",
+        "imageAlt" : "Raiders 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/raiders/3/raiders-1995471.jpg",
+        "imageAlt" : "Raiders 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/raiders/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i1.mangareader.net/raiders/3/raiders-1995473.jpg",
+        "imageAlt" : "Raiders 3 - Page 23"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/raiders/4",
+    "chapterTitle" : "Raiders 4",
+    "chapterDescription" : "",
+    "chapterDate" : "01/26/2010",
+    "pageCount" : 44,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/raiders/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/raiders/4/raiders-1177534.jpg",
+        "imageAlt" : "Raiders 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/raiders/4/raiders-1177535.jpg",
+        "imageAlt" : "Raiders 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/raiders/4/raiders-1177536.jpg",
+        "imageAlt" : "Raiders 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i7.mangareader.net/raiders/4/raiders-1177537.jpg",
+        "imageAlt" : "Raiders 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/raiders/4/raiders-1177538.jpg",
+        "imageAlt" : "Raiders 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/raiders/4/raiders-1177539.jpg",
+        "imageAlt" : "Raiders 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/raiders/4/raiders-1177540.jpg",
+        "imageAlt" : "Raiders 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/4/raiders-1177541.jpg",
+        "imageAlt" : "Raiders 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/raiders/4/raiders-1177542.jpg",
+        "imageAlt" : "Raiders 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/raiders/4/raiders-1177543.jpg",
+        "imageAlt" : "Raiders 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/raiders/4/raiders-1177544.jpg",
+        "imageAlt" : "Raiders 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/raiders/4/raiders-1177545.jpg",
+        "imageAlt" : "Raiders 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/raiders/4/raiders-1177546.jpg",
+        "imageAlt" : "Raiders 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/raiders/4/raiders-1177547.jpg",
+        "imageAlt" : "Raiders 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/raiders/4/raiders-1177548.jpg",
+        "imageAlt" : "Raiders 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/4/raiders-1177549.jpg",
+        "imageAlt" : "Raiders 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/raiders/4/raiders-1177550.jpg",
+        "imageAlt" : "Raiders 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/raiders/4/raiders-1177551.jpg",
+        "imageAlt" : "Raiders 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/raiders/4/raiders-1177552.jpg",
+        "imageAlt" : "Raiders 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/4/raiders-1177553.jpg",
+        "imageAlt" : "Raiders 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/raiders/4/raiders-1177554.jpg",
+        "imageAlt" : "Raiders 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/4/raiders-1177555.jpg",
+        "imageAlt" : "Raiders 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/raiders/4/raiders-1177556.jpg",
+        "imageAlt" : "Raiders 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/4/raiders-1177557.jpg",
+        "imageAlt" : "Raiders 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/raiders/4/raiders-1177558.jpg",
+        "imageAlt" : "Raiders 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/raiders/4/raiders-1177559.jpg",
+        "imageAlt" : "Raiders 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/raiders/4/raiders-1177560.jpg",
+        "imageAlt" : "Raiders 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/raiders/4/raiders-1177561.jpg",
+        "imageAlt" : "Raiders 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/raiders/4/raiders-1177562.jpg",
+        "imageAlt" : "Raiders 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i2.mangareader.net/raiders/4/raiders-1177563.jpg",
+        "imageAlt" : "Raiders 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/raiders/4/raiders-1177564.jpg",
+        "imageAlt" : "Raiders 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i6.mangareader.net/raiders/4/raiders-1177565.jpg",
+        "imageAlt" : "Raiders 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/raiders/4/raiders-1177566.jpg",
+        "imageAlt" : "Raiders 4 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/raiders/4/raiders-1177567.jpg",
+        "imageAlt" : "Raiders 4 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i8.mangareader.net/raiders/4/raiders-1177568.jpg",
+        "imageAlt" : "Raiders 4 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/raiders/4/raiders-1177569.jpg",
+        "imageAlt" : "Raiders 4 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i10.mangareader.net/raiders/4/raiders-1177570.jpg",
+        "imageAlt" : "Raiders 4 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/raiders/4/raiders-1177571.jpg",
+        "imageAlt" : "Raiders 4 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i4.mangareader.net/raiders/4/raiders-1177572.jpg",
+        "imageAlt" : "Raiders 4 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/raiders/4/raiders-1177573.jpg",
+        "imageAlt" : "Raiders 4 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/raiders/4/raiders-1177574.jpg",
+        "imageAlt" : "Raiders 4 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/raiders/4/raiders-1177575.jpg",
+        "imageAlt" : "Raiders 4 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i2.mangareader.net/raiders/4/raiders-1177576.jpg",
+        "imageAlt" : "Raiders 4 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/raiders/4/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i10.mangareader.net/raiders/4/raiders-1177577.jpg",
+        "imageAlt" : "Raiders 4 - Page 44"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/raiders/5",
+    "chapterTitle" : "Raiders 5",
+    "chapterDescription" : "",
+    "chapterDate" : "01/26/2010",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/raiders/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/raiders/5/raiders-1995685.jpg",
+        "imageAlt" : "Raiders 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i4.mangareader.net/raiders/5/raiders-1995687.jpg",
+        "imageAlt" : "Raiders 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i8.mangareader.net/raiders/5/raiders-1995689.jpg",
+        "imageAlt" : "Raiders 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/raiders/5/raiders-1995691.jpg",
+        "imageAlt" : "Raiders 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i6.mangareader.net/raiders/5/raiders-1995693.jpg",
+        "imageAlt" : "Raiders 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/raiders/5/raiders-1995695.jpg",
+        "imageAlt" : "Raiders 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i6.mangareader.net/raiders/5/raiders-1995697.jpg",
+        "imageAlt" : "Raiders 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/raiders/5/raiders-1995699.jpg",
+        "imageAlt" : "Raiders 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i2.mangareader.net/raiders/5/raiders-1995701.jpg",
+        "imageAlt" : "Raiders 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/raiders/5/raiders-1995703.jpg",
+        "imageAlt" : "Raiders 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/raiders/5/raiders-1995705.jpg",
+        "imageAlt" : "Raiders 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i10.mangareader.net/raiders/5/raiders-1995707.jpg",
+        "imageAlt" : "Raiders 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/raiders/5/raiders-1995709.jpg",
+        "imageAlt" : "Raiders 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i10.mangareader.net/raiders/5/raiders-1995711.jpg",
+        "imageAlt" : "Raiders 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/raiders/5/raiders-1995713.jpg",
+        "imageAlt" : "Raiders 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/raiders/5/raiders-1995715.jpg",
+        "imageAlt" : "Raiders 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i2.mangareader.net/raiders/5/raiders-1995717.jpg",
+        "imageAlt" : "Raiders 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/raiders/5/raiders-1995719.jpg",
+        "imageAlt" : "Raiders 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/raiders/5/raiders-1995721.jpg",
+        "imageAlt" : "Raiders 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/raiders/5/raiders-1995723.jpg",
+        "imageAlt" : "Raiders 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/5/raiders-1995725.jpg",
+        "imageAlt" : "Raiders 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/raiders/5/raiders-1995727.jpg",
+        "imageAlt" : "Raiders 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/5/raiders-1995729.jpg",
+        "imageAlt" : "Raiders 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/raiders/5/raiders-1995731.jpg",
+        "imageAlt" : "Raiders 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/raiders/5/raiders-1995733.jpg",
+        "imageAlt" : "Raiders 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/raiders/5/raiders-1995735.jpg",
+        "imageAlt" : "Raiders 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/5/raiders-1995737.jpg",
+        "imageAlt" : "Raiders 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/raiders/5/raiders-1995739.jpg",
+        "imageAlt" : "Raiders 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/raiders/5/raiders-1995741.jpg",
+        "imageAlt" : "Raiders 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/raiders/5/raiders-1995743.jpg",
+        "imageAlt" : "Raiders 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/5/raiders-1995745.jpg",
+        "imageAlt" : "Raiders 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/raiders/5/raiders-1995747.jpg",
+        "imageAlt" : "Raiders 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/raiders/5/raiders-1995749.jpg",
+        "imageAlt" : "Raiders 5 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/raiders/5/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i7.mangareader.net/raiders/5/raiders-1995751.jpg",
+        "imageAlt" : "Raiders 5 - Page 34"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/raiders/6",
+    "chapterTitle" : "Raiders 6",
+    "chapterDescription" : "",
+    "chapterDate" : "01/26/2010",
+    "pageCount" : 50,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/raiders/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i10.mangareader.net/raiders/6/raiders-1177612.jpg",
+        "imageAlt" : "Raiders 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/raiders/6/raiders-1177613.jpg",
+        "imageAlt" : "Raiders 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i4.mangareader.net/raiders/6/raiders-1177614.jpg",
+        "imageAlt" : "Raiders 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/raiders/6/raiders-1177615.jpg",
+        "imageAlt" : "Raiders 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/raiders/6/raiders-1177616.jpg",
+        "imageAlt" : "Raiders 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/raiders/6/raiders-1177617.jpg",
+        "imageAlt" : "Raiders 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/raiders/6/raiders-1177618.jpg",
+        "imageAlt" : "Raiders 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i4.mangareader.net/raiders/6/raiders-1177619.jpg",
+        "imageAlt" : "Raiders 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/raiders/6/raiders-1177620.jpg",
+        "imageAlt" : "Raiders 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/raiders/6/raiders-1177621.jpg",
+        "imageAlt" : "Raiders 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/raiders/6/raiders-1177622.jpg",
+        "imageAlt" : "Raiders 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/raiders/6/raiders-1177623.jpg",
+        "imageAlt" : "Raiders 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/raiders/6/raiders-1177624.jpg",
+        "imageAlt" : "Raiders 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/raiders/6/raiders-1177625.jpg",
+        "imageAlt" : "Raiders 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/raiders/6/raiders-1177626.jpg",
+        "imageAlt" : "Raiders 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/raiders/6/raiders-1177627.jpg",
+        "imageAlt" : "Raiders 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/raiders/6/raiders-1177628.jpg",
+        "imageAlt" : "Raiders 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/6/raiders-1177629.jpg",
+        "imageAlt" : "Raiders 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i9.mangareader.net/raiders/6/raiders-1177630.jpg",
+        "imageAlt" : "Raiders 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/raiders/6/raiders-1177631.jpg",
+        "imageAlt" : "Raiders 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/raiders/6/raiders-1177632.jpg",
+        "imageAlt" : "Raiders 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/raiders/6/raiders-1177633.jpg",
+        "imageAlt" : "Raiders 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/raiders/6/raiders-1177634.jpg",
+        "imageAlt" : "Raiders 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/raiders/6/raiders-1177635.jpg",
+        "imageAlt" : "Raiders 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/6/raiders-1177636.jpg",
+        "imageAlt" : "Raiders 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/raiders/6/raiders-1177637.jpg",
+        "imageAlt" : "Raiders 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/raiders/6/raiders-1177638.jpg",
+        "imageAlt" : "Raiders 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/raiders/6/raiders-1177639.jpg",
+        "imageAlt" : "Raiders 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/6/raiders-1177640.jpg",
+        "imageAlt" : "Raiders 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/raiders/6/raiders-1177641.jpg",
+        "imageAlt" : "Raiders 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/raiders/6/raiders-1177642.jpg",
+        "imageAlt" : "Raiders 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/raiders/6/raiders-1177643.jpg",
+        "imageAlt" : "Raiders 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/raiders/6/raiders-1177644.jpg",
+        "imageAlt" : "Raiders 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/raiders/6/raiders-1177645.jpg",
+        "imageAlt" : "Raiders 6 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/raiders/6/raiders-1177646.jpg",
+        "imageAlt" : "Raiders 6 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/raiders/6/raiders-1177647.jpg",
+        "imageAlt" : "Raiders 6 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/raiders/6/raiders-1177648.jpg",
+        "imageAlt" : "Raiders 6 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/raiders/6/raiders-1177649.jpg",
+        "imageAlt" : "Raiders 6 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/raiders/6/raiders-1177650.jpg",
+        "imageAlt" : "Raiders 6 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/raiders/6/raiders-1177651.jpg",
+        "imageAlt" : "Raiders 6 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/raiders/6/raiders-1177652.jpg",
+        "imageAlt" : "Raiders 6 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/raiders/6/raiders-1177653.jpg",
+        "imageAlt" : "Raiders 6 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/raiders/6/raiders-1177654.jpg",
+        "imageAlt" : "Raiders 6 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/raiders/6/raiders-1177655.jpg",
+        "imageAlt" : "Raiders 6 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/6/raiders-1177656.jpg",
+        "imageAlt" : "Raiders 6 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/raiders/6/raiders-1177657.jpg",
+        "imageAlt" : "Raiders 6 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/6/raiders-1177658.jpg",
+        "imageAlt" : "Raiders 6 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i1.mangareader.net/raiders/6/raiders-1177659.jpg",
+        "imageAlt" : "Raiders 6 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/raiders/6/raiders-1177660.jpg",
+        "imageAlt" : "Raiders 6 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/raiders/6/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i6.mangareader.net/raiders/6/raiders-1177661.jpg",
+        "imageAlt" : "Raiders 6 - Page 50"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/raiders/7",
+    "chapterTitle" : "Raiders 7",
+    "chapterDescription" : "",
+    "chapterDate" : "01/26/2010",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/raiders/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1207,
+        "imageUrl" : "http://i1.mangareader.net/raiders/7/raiders-1177662.jpg",
+        "imageAlt" : "Raiders 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/raiders/7/raiders-1177663.jpg",
+        "imageAlt" : "Raiders 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/raiders/7/raiders-1177664.jpg",
+        "imageAlt" : "Raiders 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/raiders/7/raiders-1177665.jpg",
+        "imageAlt" : "Raiders 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/7/raiders-1177666.jpg",
+        "imageAlt" : "Raiders 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/raiders/7/raiders-1177667.jpg",
+        "imageAlt" : "Raiders 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/raiders/7/raiders-1177668.jpg",
+        "imageAlt" : "Raiders 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/raiders/7/raiders-1177669.jpg",
+        "imageAlt" : "Raiders 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/raiders/7/raiders-1177670.jpg",
+        "imageAlt" : "Raiders 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/raiders/7/raiders-1177671.jpg",
+        "imageAlt" : "Raiders 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/raiders/7/raiders-1177672.jpg",
+        "imageAlt" : "Raiders 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/raiders/7/raiders-1177673.jpg",
+        "imageAlt" : "Raiders 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/raiders/7/raiders-1177674.jpg",
+        "imageAlt" : "Raiders 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/raiders/7/raiders-1177675.jpg",
+        "imageAlt" : "Raiders 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/raiders/7/raiders-1177676.jpg",
+        "imageAlt" : "Raiders 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/raiders/7/raiders-1177677.jpg",
+        "imageAlt" : "Raiders 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/raiders/7/raiders-1177678.jpg",
+        "imageAlt" : "Raiders 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/raiders/7/raiders-1177679.jpg",
+        "imageAlt" : "Raiders 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/7/raiders-1177680.jpg",
+        "imageAlt" : "Raiders 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/raiders/7/raiders-1177681.jpg",
+        "imageAlt" : "Raiders 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/raiders/7/raiders-1177682.jpg",
+        "imageAlt" : "Raiders 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/raiders/7/raiders-1177683.jpg",
+        "imageAlt" : "Raiders 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/raiders/7/raiders-1177684.jpg",
+        "imageAlt" : "Raiders 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/raiders/7/raiders-1177685.jpg",
+        "imageAlt" : "Raiders 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/raiders/7/raiders-1177686.jpg",
+        "imageAlt" : "Raiders 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/raiders/7/raiders-1177687.jpg",
+        "imageAlt" : "Raiders 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/raiders/7/raiders-1177688.jpg",
+        "imageAlt" : "Raiders 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/raiders/7/raiders-1177689.jpg",
+        "imageAlt" : "Raiders 7 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/raiders/7/raiders-1177690.jpg",
+        "imageAlt" : "Raiders 7 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/raiders/7/raiders-1177691.jpg",
+        "imageAlt" : "Raiders 7 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/raiders/7/raiders-1177692.jpg",
+        "imageAlt" : "Raiders 7 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i3.mangareader.net/raiders/7/raiders-1177693.jpg",
+        "imageAlt" : "Raiders 7 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/raiders/7/raiders-1177694.jpg",
+        "imageAlt" : "Raiders 7 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/raiders/7/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/raiders/7/raiders-1177695.jpg",
+        "imageAlt" : "Raiders 7 - Page 34"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/raiders/8",
+    "chapterTitle" : "Raiders 8",
+    "chapterDescription" : "",
+    "chapterDate" : "01/26/2010",
+    "pageCount" : 51,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/raiders/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/raiders/8/raiders-1177696.jpg",
+        "imageAlt" : "Raiders 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i4.mangareader.net/raiders/8/raiders-1177697.jpg",
+        "imageAlt" : "Raiders 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/raiders/8/raiders-1177698.jpg",
+        "imageAlt" : "Raiders 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i4.mangareader.net/raiders/8/raiders-1177699.jpg",
+        "imageAlt" : "Raiders 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/raiders/8/raiders-1177700.jpg",
+        "imageAlt" : "Raiders 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i6.mangareader.net/raiders/8/raiders-1177701.jpg",
+        "imageAlt" : "Raiders 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/raiders/8/raiders-1177702.jpg",
+        "imageAlt" : "Raiders 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i10.mangareader.net/raiders/8/raiders-1177703.jpg",
+        "imageAlt" : "Raiders 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/raiders/8/raiders-1177704.jpg",
+        "imageAlt" : "Raiders 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i2.mangareader.net/raiders/8/raiders-1177705.jpg",
+        "imageAlt" : "Raiders 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/raiders/8/raiders-1177706.jpg",
+        "imageAlt" : "Raiders 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/raiders/8/raiders-1177707.jpg",
+        "imageAlt" : "Raiders 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/raiders/8/raiders-1177708.jpg",
+        "imageAlt" : "Raiders 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i6.mangareader.net/raiders/8/raiders-1177709.jpg",
+        "imageAlt" : "Raiders 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/raiders/8/raiders-1177710.jpg",
+        "imageAlt" : "Raiders 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i6.mangareader.net/raiders/8/raiders-1177711.jpg",
+        "imageAlt" : "Raiders 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/raiders/8/raiders-1177712.jpg",
+        "imageAlt" : "Raiders 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/raiders/8/raiders-1177713.jpg",
+        "imageAlt" : "Raiders 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/raiders/8/raiders-1177714.jpg",
+        "imageAlt" : "Raiders 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i6.mangareader.net/raiders/8/raiders-1177715.jpg",
+        "imageAlt" : "Raiders 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/raiders/8/raiders-1177716.jpg",
+        "imageAlt" : "Raiders 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i4.mangareader.net/raiders/8/raiders-1177717.jpg",
+        "imageAlt" : "Raiders 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/raiders/8/raiders-1177718.jpg",
+        "imageAlt" : "Raiders 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i10.mangareader.net/raiders/8/raiders-1177719.jpg",
+        "imageAlt" : "Raiders 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/raiders/8/raiders-1177720.jpg",
+        "imageAlt" : "Raiders 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/raiders/8/raiders-1177721.jpg",
+        "imageAlt" : "Raiders 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/raiders/8/raiders-1177722.jpg",
+        "imageAlt" : "Raiders 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/raiders/8/raiders-1177723.jpg",
+        "imageAlt" : "Raiders 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/raiders/8/raiders-1177724.jpg",
+        "imageAlt" : "Raiders 8 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/raiders/8/raiders-1177725.jpg",
+        "imageAlt" : "Raiders 8 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/raiders/8/raiders-1177726.jpg",
+        "imageAlt" : "Raiders 8 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/raiders/8/raiders-1177727.jpg",
+        "imageAlt" : "Raiders 8 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/raiders/8/raiders-1177728.jpg",
+        "imageAlt" : "Raiders 8 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/raiders/8/raiders-1177729.jpg",
+        "imageAlt" : "Raiders 8 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/raiders/8/raiders-1177730.jpg",
+        "imageAlt" : "Raiders 8 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/8/raiders-1177731.jpg",
+        "imageAlt" : "Raiders 8 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/raiders/8/raiders-1177732.jpg",
+        "imageAlt" : "Raiders 8 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/raiders/8/raiders-1177733.jpg",
+        "imageAlt" : "Raiders 8 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i1.mangareader.net/raiders/8/raiders-1177734.jpg",
+        "imageAlt" : "Raiders 8 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/raiders/8/raiders-1177735.jpg",
+        "imageAlt" : "Raiders 8 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/raiders/8/raiders-1177736.jpg",
+        "imageAlt" : "Raiders 8 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/raiders/8/raiders-1177737.jpg",
+        "imageAlt" : "Raiders 8 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/raiders/8/raiders-1177738.jpg",
+        "imageAlt" : "Raiders 8 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/raiders/8/raiders-1177739.jpg",
+        "imageAlt" : "Raiders 8 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/raiders/8/raiders-1177740.jpg",
+        "imageAlt" : "Raiders 8 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/raiders/8/raiders-1177741.jpg",
+        "imageAlt" : "Raiders 8 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/raiders/8/raiders-1177742.jpg",
+        "imageAlt" : "Raiders 8 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i1.mangareader.net/raiders/8/raiders-1177743.jpg",
+        "imageAlt" : "Raiders 8 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/raiders/8/raiders-1177744.jpg",
+        "imageAlt" : "Raiders 8 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/raiders/8/raiders-1177745.jpg",
+        "imageAlt" : "Raiders 8 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/raiders/8/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/8/raiders-1177746.jpg",
+        "imageAlt" : "Raiders 8 - Page 51"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/raiders/9",
+    "chapterTitle" : "Raiders 9",
+    "chapterDescription" : "",
+    "chapterDate" : "01/26/2010",
+    "pageCount" : 41,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/raiders/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i8.mangareader.net/raiders/9/raiders-1177747.jpg",
+        "imageAlt" : "Raiders 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/raiders/9/raiders-1177748.jpg",
+        "imageAlt" : "Raiders 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 577,
+        "imageUrl" : "http://i8.mangareader.net/raiders/9/raiders-1177749.jpg",
+        "imageAlt" : "Raiders 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 577,
+        "imageUrl" : "http://i2.mangareader.net/raiders/9/raiders-1177750.jpg",
+        "imageAlt" : "Raiders 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/raiders/9/raiders-1177751.jpg",
+        "imageAlt" : "Raiders 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/raiders/9/raiders-1177752.jpg",
+        "imageAlt" : "Raiders 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i6.mangareader.net/raiders/9/raiders-1177753.jpg",
+        "imageAlt" : "Raiders 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/raiders/9/raiders-1177754.jpg",
+        "imageAlt" : "Raiders 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i8.mangareader.net/raiders/9/raiders-1177755.jpg",
+        "imageAlt" : "Raiders 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/raiders/9/raiders-1177756.jpg",
+        "imageAlt" : "Raiders 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i8.mangareader.net/raiders/9/raiders-1177757.jpg",
+        "imageAlt" : "Raiders 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/raiders/9/raiders-1177758.jpg",
+        "imageAlt" : "Raiders 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/raiders/9/raiders-1177759.jpg",
+        "imageAlt" : "Raiders 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/9/raiders-1177760.jpg",
+        "imageAlt" : "Raiders 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/9/raiders-1177761.jpg",
+        "imageAlt" : "Raiders 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/9/raiders-1177762.jpg",
+        "imageAlt" : "Raiders 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/9/raiders-1177763.jpg",
+        "imageAlt" : "Raiders 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/9/raiders-1177764.jpg",
+        "imageAlt" : "Raiders 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/9/raiders-1177765.jpg",
+        "imageAlt" : "Raiders 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/9/raiders-1177766.jpg",
+        "imageAlt" : "Raiders 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/9/raiders-1177767.jpg",
+        "imageAlt" : "Raiders 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/9/raiders-1177768.jpg",
+        "imageAlt" : "Raiders 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/9/raiders-1177769.jpg",
+        "imageAlt" : "Raiders 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/9/raiders-1177770.jpg",
+        "imageAlt" : "Raiders 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/9/raiders-1177771.jpg",
+        "imageAlt" : "Raiders 9 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/9/raiders-1177772.jpg",
+        "imageAlt" : "Raiders 9 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/9/raiders-1177773.jpg",
+        "imageAlt" : "Raiders 9 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/9/raiders-1177774.jpg",
+        "imageAlt" : "Raiders 9 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/9/raiders-1177775.jpg",
+        "imageAlt" : "Raiders 9 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/9/raiders-1177776.jpg",
+        "imageAlt" : "Raiders 9 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/9/raiders-1177777.jpg",
+        "imageAlt" : "Raiders 9 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/9/raiders-1177778.jpg",
+        "imageAlt" : "Raiders 9 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/9/raiders-1177779.jpg",
+        "imageAlt" : "Raiders 9 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/9/raiders-1177780.jpg",
+        "imageAlt" : "Raiders 9 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/9/raiders-1177781.jpg",
+        "imageAlt" : "Raiders 9 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/9/raiders-1177782.jpg",
+        "imageAlt" : "Raiders 9 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/9/raiders-1177783.jpg",
+        "imageAlt" : "Raiders 9 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/9/raiders-1177784.jpg",
+        "imageAlt" : "Raiders 9 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i1.mangareader.net/raiders/9/raiders-1177785.jpg",
+        "imageAlt" : "Raiders 9 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/raiders/9/raiders-1177786.jpg",
+        "imageAlt" : "Raiders 9 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/raiders/9/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/9/raiders-1177787.jpg",
+        "imageAlt" : "Raiders 9 - Page 41"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/raiders/10",
+    "chapterTitle" : "Raiders 10",
+    "chapterDescription" : "",
+    "chapterDate" : "01/26/2010",
+    "pageCount" : 41,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/raiders/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/10/raiders-1177788.jpg",
+        "imageAlt" : "Raiders 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/10/raiders-1177789.jpg",
+        "imageAlt" : "Raiders 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/10/raiders-1177790.jpg",
+        "imageAlt" : "Raiders 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/10/raiders-1177791.jpg",
+        "imageAlt" : "Raiders 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/10/raiders-1177792.jpg",
+        "imageAlt" : "Raiders 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/10/raiders-1177793.jpg",
+        "imageAlt" : "Raiders 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/10/raiders-1177794.jpg",
+        "imageAlt" : "Raiders 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/10/raiders-1177795.jpg",
+        "imageAlt" : "Raiders 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/10/raiders-1177796.jpg",
+        "imageAlt" : "Raiders 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/10/raiders-1177797.jpg",
+        "imageAlt" : "Raiders 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/10/raiders-1177798.jpg",
+        "imageAlt" : "Raiders 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/10/raiders-1177799.jpg",
+        "imageAlt" : "Raiders 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/10/raiders-1177800.jpg",
+        "imageAlt" : "Raiders 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/10/raiders-1177801.jpg",
+        "imageAlt" : "Raiders 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/10/raiders-1177802.jpg",
+        "imageAlt" : "Raiders 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i1.mangareader.net/raiders/10/raiders-1177803.jpg",
+        "imageAlt" : "Raiders 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/10/raiders-1177804.jpg",
+        "imageAlt" : "Raiders 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/10/raiders-1177805.jpg",
+        "imageAlt" : "Raiders 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/10/raiders-1177806.jpg",
+        "imageAlt" : "Raiders 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/10/raiders-1177807.jpg",
+        "imageAlt" : "Raiders 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/10/raiders-1177808.jpg",
+        "imageAlt" : "Raiders 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/10/raiders-1177809.jpg",
+        "imageAlt" : "Raiders 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/10/raiders-1177810.jpg",
+        "imageAlt" : "Raiders 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/10/raiders-1177811.jpg",
+        "imageAlt" : "Raiders 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/10/raiders-1177812.jpg",
+        "imageAlt" : "Raiders 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/10/raiders-1177813.jpg",
+        "imageAlt" : "Raiders 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/10/raiders-1177814.jpg",
+        "imageAlt" : "Raiders 10 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/10/raiders-1177815.jpg",
+        "imageAlt" : "Raiders 10 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/10/raiders-1177816.jpg",
+        "imageAlt" : "Raiders 10 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/10/raiders-1177817.jpg",
+        "imageAlt" : "Raiders 10 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/10/raiders-1177818.jpg",
+        "imageAlt" : "Raiders 10 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/10/raiders-1177819.jpg",
+        "imageAlt" : "Raiders 10 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/raiders/10/raiders-1177820.jpg",
+        "imageAlt" : "Raiders 10 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i8.mangareader.net/raiders/10/raiders-1177821.jpg",
+        "imageAlt" : "Raiders 10 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/raiders/10/raiders-1177822.jpg",
+        "imageAlt" : "Raiders 10 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/raiders/10/raiders-1177823.jpg",
+        "imageAlt" : "Raiders 10 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i6.mangareader.net/raiders/10/raiders-1177824.jpg",
+        "imageAlt" : "Raiders 10 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/raiders/10/raiders-1177825.jpg",
+        "imageAlt" : "Raiders 10 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i4.mangareader.net/raiders/10/raiders-1177826.jpg",
+        "imageAlt" : "Raiders 10 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/raiders/10/raiders-1177827.jpg",
+        "imageAlt" : "Raiders 10 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/raiders/10/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i2.mangareader.net/raiders/10/raiders-1177828.jpg",
+        "imageAlt" : "Raiders 10 - Page 41"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/raiders/11",
+    "chapterTitle" : "Raiders 11",
+    "chapterDescription" : "",
+    "chapterDate" : "01/26/2010",
+    "pageCount" : 42,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/raiders/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i8.mangareader.net/raiders/11/raiders-1995753.jpg",
+        "imageAlt" : "Raiders 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/raiders/11/raiders-1995755.jpg",
+        "imageAlt" : "Raiders 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/raiders/11/raiders-1995757.jpg",
+        "imageAlt" : "Raiders 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/raiders/11/raiders-1995759.jpg",
+        "imageAlt" : "Raiders 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/11/raiders-1995761.jpg",
+        "imageAlt" : "Raiders 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/11/raiders-1995763.jpg",
+        "imageAlt" : "Raiders 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/11/raiders-1995765.jpg",
+        "imageAlt" : "Raiders 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/11/raiders-1995767.jpg",
+        "imageAlt" : "Raiders 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/11/raiders-1995769.jpg",
+        "imageAlt" : "Raiders 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/11/raiders-1995771.jpg",
+        "imageAlt" : "Raiders 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/11/raiders-1995773.jpg",
+        "imageAlt" : "Raiders 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/11/raiders-1995775.jpg",
+        "imageAlt" : "Raiders 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/11/raiders-1995777.jpg",
+        "imageAlt" : "Raiders 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/11/raiders-1995779.jpg",
+        "imageAlt" : "Raiders 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/11/raiders-1995781.jpg",
+        "imageAlt" : "Raiders 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/11/raiders-1995783.jpg",
+        "imageAlt" : "Raiders 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/11/raiders-1995785.jpg",
+        "imageAlt" : "Raiders 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/11/raiders-1995787.jpg",
+        "imageAlt" : "Raiders 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/11/raiders-1995789.jpg",
+        "imageAlt" : "Raiders 11 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/11/raiders-1995791.jpg",
+        "imageAlt" : "Raiders 11 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/11/raiders-1995793.jpg",
+        "imageAlt" : "Raiders 11 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/11/raiders-1995795.jpg",
+        "imageAlt" : "Raiders 11 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/11/raiders-1995797.jpg",
+        "imageAlt" : "Raiders 11 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/11/raiders-1995799.jpg",
+        "imageAlt" : "Raiders 11 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/11/raiders-1995801.jpg",
+        "imageAlt" : "Raiders 11 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/11/raiders-1995803.jpg",
+        "imageAlt" : "Raiders 11 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/11/raiders-1995805.jpg",
+        "imageAlt" : "Raiders 11 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/11/raiders-1995809.jpg",
+        "imageAlt" : "Raiders 11 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/11/raiders-1995811.jpg",
+        "imageAlt" : "Raiders 11 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/11/raiders-1995815.jpg",
+        "imageAlt" : "Raiders 11 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/11/raiders-1995817.jpg",
+        "imageAlt" : "Raiders 11 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/raiders/11/raiders-1995821.jpg",
+        "imageAlt" : "Raiders 11 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i8.mangareader.net/raiders/11/raiders-1995823.jpg",
+        "imageAlt" : "Raiders 11 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i6.mangareader.net/raiders/11/raiders-1995827.jpg",
+        "imageAlt" : "Raiders 11 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/raiders/11/raiders-1995829.jpg",
+        "imageAlt" : "Raiders 11 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/raiders/11/raiders-1995831.jpg",
+        "imageAlt" : "Raiders 11 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/raiders/11/raiders-1995835.jpg",
+        "imageAlt" : "Raiders 11 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i6.mangareader.net/raiders/11/raiders-1995837.jpg",
+        "imageAlt" : "Raiders 11 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/raiders/11/raiders-1995841.jpg",
+        "imageAlt" : "Raiders 11 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i8.mangareader.net/raiders/11/raiders-1995843.jpg",
+        "imageAlt" : "Raiders 11 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i5.mangareader.net/raiders/11/raiders-1995861.jpg",
+        "imageAlt" : "Raiders 11 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/raiders/11/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i9.mangareader.net/raiders/11/raiders-1995865.jpg",
+        "imageAlt" : "Raiders 11 - Page 42"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/raiders/12",
+    "chapterTitle" : "Raiders 12",
+    "chapterDescription" : "",
+    "chapterDate" : "01/26/2010",
+    "pageCount" : 45,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/raiders/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i3.mangareader.net/raiders/12/raiders-1177871.jpg",
+        "imageAlt" : "Raiders 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i9.mangareader.net/raiders/12/raiders-1177872.jpg",
+        "imageAlt" : "Raiders 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/12/raiders-1177873.jpg",
+        "imageAlt" : "Raiders 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/12/raiders-1177874.jpg",
+        "imageAlt" : "Raiders 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/12/raiders-1177875.jpg",
+        "imageAlt" : "Raiders 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/12/raiders-1177876.jpg",
+        "imageAlt" : "Raiders 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/12/raiders-1177877.jpg",
+        "imageAlt" : "Raiders 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/12/raiders-1177878.jpg",
+        "imageAlt" : "Raiders 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/12/raiders-1177879.jpg",
+        "imageAlt" : "Raiders 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/12/raiders-1177880.jpg",
+        "imageAlt" : "Raiders 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/12/raiders-1177881.jpg",
+        "imageAlt" : "Raiders 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/12/raiders-1177882.jpg",
+        "imageAlt" : "Raiders 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/12/raiders-1177883.jpg",
+        "imageAlt" : "Raiders 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/12/raiders-1177884.jpg",
+        "imageAlt" : "Raiders 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/12/raiders-1177885.jpg",
+        "imageAlt" : "Raiders 12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/12/raiders-1177886.jpg",
+        "imageAlt" : "Raiders 12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/12/raiders-1177887.jpg",
+        "imageAlt" : "Raiders 12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/12/raiders-1177888.jpg",
+        "imageAlt" : "Raiders 12 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/12/raiders-1177889.jpg",
+        "imageAlt" : "Raiders 12 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/12/raiders-1177890.jpg",
+        "imageAlt" : "Raiders 12 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/12/raiders-1177891.jpg",
+        "imageAlt" : "Raiders 12 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/12/raiders-1177892.jpg",
+        "imageAlt" : "Raiders 12 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/12/raiders-1177893.jpg",
+        "imageAlt" : "Raiders 12 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/12/raiders-1177894.jpg",
+        "imageAlt" : "Raiders 12 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/12/raiders-1177895.jpg",
+        "imageAlt" : "Raiders 12 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/12/raiders-1177896.jpg",
+        "imageAlt" : "Raiders 12 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/12/raiders-1177897.jpg",
+        "imageAlt" : "Raiders 12 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/12/raiders-1177898.jpg",
+        "imageAlt" : "Raiders 12 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/12/raiders-1177899.jpg",
+        "imageAlt" : "Raiders 12 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/12/raiders-1177900.jpg",
+        "imageAlt" : "Raiders 12 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/12/raiders-1177901.jpg",
+        "imageAlt" : "Raiders 12 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/12/raiders-1177902.jpg",
+        "imageAlt" : "Raiders 12 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/12/raiders-1177903.jpg",
+        "imageAlt" : "Raiders 12 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/12/raiders-1177904.jpg",
+        "imageAlt" : "Raiders 12 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/12/raiders-1177905.jpg",
+        "imageAlt" : "Raiders 12 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/raiders/12/raiders-1177906.jpg",
+        "imageAlt" : "Raiders 12 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/raiders/12/raiders-1177907.jpg",
+        "imageAlt" : "Raiders 12 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/12/raiders-1177908.jpg",
+        "imageAlt" : "Raiders 12 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/12/raiders-1177909.jpg",
+        "imageAlt" : "Raiders 12 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/raiders/12/raiders-1177910.jpg",
+        "imageAlt" : "Raiders 12 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/raiders/12/raiders-1177911.jpg",
+        "imageAlt" : "Raiders 12 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/raiders/12/raiders-1177912.jpg",
+        "imageAlt" : "Raiders 12 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i9.mangareader.net/raiders/12/raiders-1177913.jpg",
+        "imageAlt" : "Raiders 12 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/raiders/12/raiders-1177914.jpg",
+        "imageAlt" : "Raiders 12 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/raiders/12/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/raiders/12/raiders-1177915.jpg",
+        "imageAlt" : "Raiders 12 - Page 45"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/raiders/13",
+    "chapterTitle" : "Raiders 13",
+    "chapterDescription" : "",
+    "chapterDate" : "01/26/2010",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/raiders/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 555,
+        "imageUrl" : "http://i10.mangareader.net/raiders/13/raiders-1177916.jpg",
+        "imageAlt" : "Raiders 13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 567,
+        "imageUrl" : "http://i2.mangareader.net/raiders/13/raiders-1177917.jpg",
+        "imageAlt" : "Raiders 13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/raiders/13/raiders-1177918.jpg",
+        "imageAlt" : "Raiders 13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/raiders/13/raiders-1177919.jpg",
+        "imageAlt" : "Raiders 13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/raiders/13/raiders-1177920.jpg",
+        "imageAlt" : "Raiders 13 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/raiders/13/raiders-1177921.jpg",
+        "imageAlt" : "Raiders 13 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/raiders/13/raiders-1177922.jpg",
+        "imageAlt" : "Raiders 13 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/raiders/13/raiders-1177923.jpg",
+        "imageAlt" : "Raiders 13 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i5.mangareader.net/raiders/13/raiders-1177924.jpg",
+        "imageAlt" : "Raiders 13 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/raiders/13/raiders-1177925.jpg",
+        "imageAlt" : "Raiders 13 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i5.mangareader.net/raiders/13/raiders-1177926.jpg",
+        "imageAlt" : "Raiders 13 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/raiders/13/raiders-1177927.jpg",
+        "imageAlt" : "Raiders 13 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i5.mangareader.net/raiders/13/raiders-1177928.jpg",
+        "imageAlt" : "Raiders 13 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i5.mangareader.net/raiders/13/raiders-1177929.jpg",
+        "imageAlt" : "Raiders 13 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/raiders/13/raiders-1177930.jpg",
+        "imageAlt" : "Raiders 13 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i9.mangareader.net/raiders/13/raiders-1177931.jpg",
+        "imageAlt" : "Raiders 13 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i1.mangareader.net/raiders/13/raiders-1177932.jpg",
+        "imageAlt" : "Raiders 13 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i5.mangareader.net/raiders/13/raiders-1177933.jpg",
+        "imageAlt" : "Raiders 13 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/raiders/13/raiders-1177934.jpg",
+        "imageAlt" : "Raiders 13 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i3.mangareader.net/raiders/13/raiders-1177935.jpg",
+        "imageAlt" : "Raiders 13 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i5.mangareader.net/raiders/13/raiders-1177936.jpg",
+        "imageAlt" : "Raiders 13 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1204,
+        "imageUrl" : "http://i3.mangareader.net/raiders/13/raiders-1177937.jpg",
+        "imageAlt" : "Raiders 13 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i9.mangareader.net/raiders/13/raiders-1177938.jpg",
+        "imageAlt" : "Raiders 13 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i1.mangareader.net/raiders/13/raiders-1177939.jpg",
+        "imageAlt" : "Raiders 13 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 595,
+        "imageUrl" : "http://i5.mangareader.net/raiders/13/raiders-1177940.jpg",
+        "imageAlt" : "Raiders 13 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/raiders/13/raiders-1177941.jpg",
+        "imageAlt" : "Raiders 13 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/raiders/13/raiders-1177942.jpg",
+        "imageAlt" : "Raiders 13 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i1.mangareader.net/raiders/13/raiders-1177943.jpg",
+        "imageAlt" : "Raiders 13 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/raiders/13/raiders-1177944.jpg",
+        "imageAlt" : "Raiders 13 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i7.mangareader.net/raiders/13/raiders-1177945.jpg",
+        "imageAlt" : "Raiders 13 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/raiders/13/raiders-1177946.jpg",
+        "imageAlt" : "Raiders 13 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/raiders/13/raiders-1177947.jpg",
+        "imageAlt" : "Raiders 13 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/raiders/13/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/raiders/13/raiders-1177948.jpg",
+        "imageAlt" : "Raiders 13 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/raiders/14",
+    "chapterTitle" : "Raiders 14",
+    "chapterDescription" : "",
+    "chapterDate" : "02/25/2010",
+    "pageCount" : 54,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/raiders/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i7.mangareader.net/raiders/14/raiders-1218830.jpg",
+        "imageAlt" : "Raiders 14 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 589,
+        "imageUrl" : "http://i1.mangareader.net/raiders/14/raiders-1218831.jpg",
+        "imageAlt" : "Raiders 14 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i7.mangareader.net/raiders/14/raiders-1218832.jpg",
+        "imageAlt" : "Raiders 14 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i9.mangareader.net/raiders/14/raiders-1218833.jpg",
+        "imageAlt" : "Raiders 14 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i1.mangareader.net/raiders/14/raiders-1218834.jpg",
+        "imageAlt" : "Raiders 14 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/raiders/14/raiders-1218835.jpg",
+        "imageAlt" : "Raiders 14 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i9.mangareader.net/raiders/14/raiders-1218836.jpg",
+        "imageAlt" : "Raiders 14 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i1.mangareader.net/raiders/14/raiders-1218837.jpg",
+        "imageAlt" : "Raiders 14 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i3.mangareader.net/raiders/14/raiders-1218838.jpg",
+        "imageAlt" : "Raiders 14 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i7.mangareader.net/raiders/14/raiders-1218839.jpg",
+        "imageAlt" : "Raiders 14 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i9.mangareader.net/raiders/14/raiders-1218840.jpg",
+        "imageAlt" : "Raiders 14 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i3.mangareader.net/raiders/14/raiders-1218841.jpg",
+        "imageAlt" : "Raiders 14 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/raiders/14/raiders-1218842.jpg",
+        "imageAlt" : "Raiders 14 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i7.mangareader.net/raiders/14/raiders-1218843.jpg",
+        "imageAlt" : "Raiders 14 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i3.mangareader.net/raiders/14/raiders-1218844.jpg",
+        "imageAlt" : "Raiders 14 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i5.mangareader.net/raiders/14/raiders-1218845.jpg",
+        "imageAlt" : "Raiders 14 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i5.mangareader.net/raiders/14/raiders-1218846.jpg",
+        "imageAlt" : "Raiders 14 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i1.mangareader.net/raiders/14/raiders-1218847.jpg",
+        "imageAlt" : "Raiders 14 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i3.mangareader.net/raiders/14/raiders-1218848.jpg",
+        "imageAlt" : "Raiders 14 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i1.mangareader.net/raiders/14/raiders-1218849.jpg",
+        "imageAlt" : "Raiders 14 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i3.mangareader.net/raiders/14/raiders-1218850.jpg",
+        "imageAlt" : "Raiders 14 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i7.mangareader.net/raiders/14/raiders-1218851.jpg",
+        "imageAlt" : "Raiders 14 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i7.mangareader.net/raiders/14/raiders-1218852.jpg",
+        "imageAlt" : "Raiders 14 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i7.mangareader.net/raiders/14/raiders-1218853.jpg",
+        "imageAlt" : "Raiders 14 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i3.mangareader.net/raiders/14/raiders-1218854.jpg",
+        "imageAlt" : "Raiders 14 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i7.mangareader.net/raiders/14/raiders-1218855.jpg",
+        "imageAlt" : "Raiders 14 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i1.mangareader.net/raiders/14/raiders-1218856.jpg",
+        "imageAlt" : "Raiders 14 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i7.mangareader.net/raiders/14/raiders-1218857.jpg",
+        "imageAlt" : "Raiders 14 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i7.mangareader.net/raiders/14/raiders-1218858.jpg",
+        "imageAlt" : "Raiders 14 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i9.mangareader.net/raiders/14/raiders-1218859.jpg",
+        "imageAlt" : "Raiders 14 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i10.mangareader.net/raiders/14/raiders-1218860.jpg",
+        "imageAlt" : "Raiders 14 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i10.mangareader.net/raiders/14/raiders-1218861.jpg",
+        "imageAlt" : "Raiders 14 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i10.mangareader.net/raiders/14/raiders-1218862.jpg",
+        "imageAlt" : "Raiders 14 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/raiders/14/raiders-1218863.jpg",
+        "imageAlt" : "Raiders 14 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i6.mangareader.net/raiders/14/raiders-1218864.jpg",
+        "imageAlt" : "Raiders 14 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i8.mangareader.net/raiders/14/raiders-1218865.jpg",
+        "imageAlt" : "Raiders 14 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i10.mangareader.net/raiders/14/raiders-1218866.jpg",
+        "imageAlt" : "Raiders 14 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1207,
+        "imageUrl" : "http://i10.mangareader.net/raiders/14/raiders-1218867.jpg",
+        "imageAlt" : "Raiders 14 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i4.mangareader.net/raiders/14/raiders-1218868.jpg",
+        "imageAlt" : "Raiders 14 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i8.mangareader.net/raiders/14/raiders-1218869.jpg",
+        "imageAlt" : "Raiders 14 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i8.mangareader.net/raiders/14/raiders-1218870.jpg",
+        "imageAlt" : "Raiders 14 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i10.mangareader.net/raiders/14/raiders-1218871.jpg",
+        "imageAlt" : "Raiders 14 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i2.mangareader.net/raiders/14/raiders-1218872.jpg",
+        "imageAlt" : "Raiders 14 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i6.mangareader.net/raiders/14/raiders-1218873.jpg",
+        "imageAlt" : "Raiders 14 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i4.mangareader.net/raiders/14/raiders-1218874.jpg",
+        "imageAlt" : "Raiders 14 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i4.mangareader.net/raiders/14/raiders-1218875.jpg",
+        "imageAlt" : "Raiders 14 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i6.mangareader.net/raiders/14/raiders-1218876.jpg",
+        "imageAlt" : "Raiders 14 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i4.mangareader.net/raiders/14/raiders-1218877.jpg",
+        "imageAlt" : "Raiders 14 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i2.mangareader.net/raiders/14/raiders-1218878.jpg",
+        "imageAlt" : "Raiders 14 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i2.mangareader.net/raiders/14/raiders-1218879.jpg",
+        "imageAlt" : "Raiders 14 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1198,
+        "imageUrl" : "http://i10.mangareader.net/raiders/14/raiders-1218880.jpg",
+        "imageAlt" : "Raiders 14 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i2.mangareader.net/raiders/14/raiders-1218881.jpg",
+        "imageAlt" : "Raiders 14 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1228,
+        "imageUrl" : "http://i4.mangareader.net/raiders/14/raiders-1218882.jpg",
+        "imageAlt" : "Raiders 14 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/raiders/14/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i6.mangareader.net/raiders/14/raiders-1218883.jpg",
+        "imageAlt" : "Raiders 14 - Page 54"
+      } ]
+    } ]
+  } ]
+}

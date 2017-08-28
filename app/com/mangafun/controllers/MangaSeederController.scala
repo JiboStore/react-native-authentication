@@ -379,7 +379,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     val lMangaSearchData = Await.result(flMangaSearchData, dTimeout)
     
     val iStartingIndex = if (startingIndex < 0)  0 else startingIndex
-    var iEndingIndex = if (endingIndex < 0 || endingIndex >= lMangaSearchData.length ) lMangaSearchData.length-1 else endingIndex
+    var iEndingIndex = if (endingIndex < 0) lMangaSearchData.length-1 else endingIndex
     if ( iEndingIndex < iStartingIndex ) {
       iEndingIndex = iStartingIndex+1
     }

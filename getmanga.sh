@@ -1,4 +1,4 @@
-curl 'http://localhost:9000/manga/seeder/getfromto?startingIndex=3001&endingIndex=4000' > 3001_4000.txt
+curl 'http://localhost:9000/manga/seeder/getfromto?startingIndex=5001&endingIndex=6000' > 5001_6000.txt
 git add --all
-git commit -am "[seeder] manga: 3001 - 4000"
-git push origin HEAD:3001
+git commit -am "[seeder] manga: 5001 - 6000"
+git push origin HEAD:5001

@@ -385,6 +385,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
     }
     var iCurrentIndex = iStartingIndex
     var iCount = 0
+    Logger.error("Gonna try get manga from: " + iStartingIndex + " to " + iEndingIndex)
     for ( iCurrentIndex <- iStartingIndex to iEndingIndex ) {
     
       try {
@@ -430,7 +431,7 @@ class MangaSeederController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsCli
       }
       catch {
         case ex: Exception => {
-          Logger.error("Exception: " + iCurrentIndex + ex.getMessage)
+          Logger.error("Exception: " + iCurrentIndex)
         }
       }
     }

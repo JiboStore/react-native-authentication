@@ -1,511 +1,2159 @@
 {
   "mangaTitle" : "Yasuko to Kenji",
   "mangaUrl" : "http://www.mangareader.net/yasuko-to-kenji",
-  "mangaThumbUrl" : "http://s2.mangareader.net/cover/yasuko-to-kenji/yasuko-to-kenji-r0.jpg",
+  "mangaThumbUrl" : "http://s1.mangareader.net/cover/yasuko-to-kenji/yasuko-to-kenji-r0.jpg",
   "mangaChaptersInfo" : "6 Chapters Published. (Ongoing)",
   "mangaReadType" : "Manga (Read Right to Left)",
   "mangaGenre" : "Comedy, Romance, School Life, Shoujo",
-  "chapterCount" : 1,
+  "chapterCount" : 5,
   "chapters" : [ {
-    "chapterUrl" : "http://www.mangareader.net/gyakuten-kenji/1",
-    "chapterTitle" : "Gyakuten Kenji 1",
+    "chapterUrl" : "http://www.mangareader.net/yasuko-to-kenji/1",
+    "chapterTitle" : "Yasuko to Kenji 1",
     "chapterDescription" : "",
-    "chapterDate" : "07/15/2016",
-    "pageCount" : 55,
+    "chapterDate" : "09/06/2009",
+    "pageCount" : 57,
     "pages" : [ {
       "pageNumber" : 1,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1155,
-        "imageUrl" : "http://i7.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867105.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 1"
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920889.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 1"
       } ]
     }, {
       "pageNumber" : 2,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/2",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/2",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1218,
-        "imageUrl" : "http://i5.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867111.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 2"
+        "imageHeight" : 761,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920893.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 2"
       } ]
     }, {
       "pageNumber" : 3,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/3",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/3",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1211,
-        "imageUrl" : "http://i3.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867117.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 3"
+        "imageHeight" : 706,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920899.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 3"
       } ]
     }, {
       "pageNumber" : 4,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/4",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/4",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1164,
-        "imageUrl" : "http://i4.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867123.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 4"
+        "imageHeight" : 371,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920901.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 4"
       } ]
     }, {
       "pageNumber" : 5,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/5",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/5",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1151,
-        "imageUrl" : "http://i10.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867129.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 5"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920903.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 5"
       } ]
     }, {
       "pageNumber" : 6,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/6",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/6",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1155,
-        "imageUrl" : "http://i8.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867135.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 6"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920905.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 6"
       } ]
     }, {
       "pageNumber" : 7,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/7",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/7",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1155,
-        "imageUrl" : "http://i6.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867141.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 7"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920907.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 7"
       } ]
     }, {
       "pageNumber" : 8,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/8",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/8",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1158,
-        "imageUrl" : "http://i6.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867147.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 8"
+        "imageHeight" : 619,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920909.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 8"
       } ]
     }, {
       "pageNumber" : 9,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/9",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/9",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1159,
-        "imageUrl" : "http://i6.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867153.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 9"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920911.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 9"
       } ]
     }, {
       "pageNumber" : 10,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/10",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/10",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1178,
-        "imageUrl" : "http://i10.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867159.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 10"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920913.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 10"
       } ]
     }, {
       "pageNumber" : 11,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/11",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/11",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1164,
-        "imageUrl" : "http://i7.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867165.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 11"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920915.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 11"
       } ]
     }, {
       "pageNumber" : 12,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/12",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/12",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1173,
-        "imageUrl" : "http://i3.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867171.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 12"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920917.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 12"
       } ]
     }, {
       "pageNumber" : 13,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/13",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/13",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1159,
-        "imageUrl" : "http://i7.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867177.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 13"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920919.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 13"
       } ]
     }, {
       "pageNumber" : 14,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/14",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/14",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1164,
-        "imageUrl" : "http://i1.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867183.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 14"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920921.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 14"
       } ]
     }, {
       "pageNumber" : 15,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/15",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/15",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1163,
-        "imageUrl" : "http://i5.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867189.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 15"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920923.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 15"
       } ]
     }, {
       "pageNumber" : 16,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/16",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/16",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1168,
-        "imageUrl" : "http://i5.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867195.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 16"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920925.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 16"
       } ]
     }, {
       "pageNumber" : 17,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/17",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/17",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1159,
-        "imageUrl" : "http://i5.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867201.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 17"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920927.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 17"
       } ]
     }, {
       "pageNumber" : 18,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/18",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/18",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1159,
-        "imageUrl" : "http://i7.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867207.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 18"
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920929.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 18"
       } ]
     }, {
       "pageNumber" : 19,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/19",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/19",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1168,
-        "imageUrl" : "http://i1.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867213.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 19"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920931.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 19"
       } ]
     }, {
       "pageNumber" : 20,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/20",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/20",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1178,
-        "imageUrl" : "http://i1.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867219.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 20"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920933.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 20"
       } ]
     }, {
       "pageNumber" : 21,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/21",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/21",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1177,
-        "imageUrl" : "http://i2.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867225.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 21"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920935.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 21"
       } ]
     }, {
       "pageNumber" : 22,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/22",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/22",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1168,
-        "imageUrl" : "http://i2.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867231.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 22"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920937.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 22"
       } ]
     }, {
       "pageNumber" : 23,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/23",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/23",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1182,
-        "imageUrl" : "http://i8.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867237.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 23"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920939.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 23"
       } ]
     }, {
       "pageNumber" : 24,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/24",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/24",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1168,
-        "imageUrl" : "http://i10.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867243.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 24"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920941.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 24"
       } ]
     }, {
       "pageNumber" : 25,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/25",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/25",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1178,
-        "imageUrl" : "http://i10.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867249.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 25"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920943.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 25"
       } ]
     }, {
       "pageNumber" : 26,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/26",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/26",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1164,
-        "imageUrl" : "http://i8.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867255.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 26"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920945.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 26"
       } ]
     }, {
       "pageNumber" : 27,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/27",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/27",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1168,
-        "imageUrl" : "http://i9.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867261.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 27"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920947.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 27"
       } ]
     }, {
       "pageNumber" : 28,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/28",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/28",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1178,
-        "imageUrl" : "http://i9.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867267.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 28"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920949.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 28"
       } ]
     }, {
       "pageNumber" : 29,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/29",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/29",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1173,
-        "imageUrl" : "http://i7.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867273.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 29"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920951.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 29"
       } ]
     }, {
       "pageNumber" : 30,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/30",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/30",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1150,
-        "imageUrl" : "http://i7.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867279.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 30"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920953.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 30"
       } ]
     }, {
       "pageNumber" : 31,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/31",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/31",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1173,
-        "imageUrl" : "http://i1.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867285.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 31"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920955.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 31"
       } ]
     }, {
       "pageNumber" : 32,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/32",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/32",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1173,
-        "imageUrl" : "http://i7.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867291.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 32"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920957.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 32"
       } ]
     }, {
       "pageNumber" : 33,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/33",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/33",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1161,
-        "imageUrl" : "http://i7.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867297.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 33"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920959.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 33"
       } ]
     }, {
       "pageNumber" : 34,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/34",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/34",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1178,
-        "imageUrl" : "http://i7.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867303.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 34"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920961.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 34"
       } ]
     }, {
       "pageNumber" : 35,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/35",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/35",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1178,
-        "imageUrl" : "http://i5.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867309.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 35"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920963.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 35"
       } ]
     }, {
       "pageNumber" : 36,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/36",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/36",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1182,
-        "imageUrl" : "http://i5.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867315.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 36"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920965.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 36"
       } ]
     }, {
       "pageNumber" : 37,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/37",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/37",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1182,
-        "imageUrl" : "http://i10.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867321.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 37"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920967.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 37"
       } ]
     }, {
       "pageNumber" : 38,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/38",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/38",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1186,
-        "imageUrl" : "http://i6.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867327.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 38"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920969.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 38"
       } ]
     }, {
       "pageNumber" : 39,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/39",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/39",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1182,
-        "imageUrl" : "http://i4.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867333.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 39"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920971.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 39"
       } ]
     }, {
       "pageNumber" : 40,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/40",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/40",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1173,
-        "imageUrl" : "http://i8.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867339.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 40"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920973.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 40"
       } ]
     }, {
       "pageNumber" : 41,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/41",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/41",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1182,
-        "imageUrl" : "http://i8.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867345.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 41"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920975.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 41"
       } ]
     }, {
       "pageNumber" : 42,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/42",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/42",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1182,
-        "imageUrl" : "http://i6.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867351.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 42"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920977.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 42"
       } ]
     }, {
       "pageNumber" : 43,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/43",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/43",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1186,
-        "imageUrl" : "http://i2.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867357.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 43"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920979.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 43"
       } ]
     }, {
       "pageNumber" : 44,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/44",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/44",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1168,
-        "imageUrl" : "http://i1.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867363.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 44"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920981.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 44"
       } ]
     }, {
       "pageNumber" : 45,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/45",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/45",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1173,
-        "imageUrl" : "http://i7.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867369.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 45"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920983.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 45"
       } ]
     }, {
       "pageNumber" : 46,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/46",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/46",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1186,
-        "imageUrl" : "http://i5.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867375.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 46"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920985.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 46"
       } ]
     }, {
       "pageNumber" : 47,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/47",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/47",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1186,
-        "imageUrl" : "http://i9.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867381.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 47"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920987.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 47"
       } ]
     }, {
       "pageNumber" : 48,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/48",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/48",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1169,
-        "imageUrl" : "http://i7.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867387.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 48"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920989.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 48"
       } ]
     }, {
       "pageNumber" : 49,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/49",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/49",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1178,
-        "imageUrl" : "http://i7.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867393.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 49"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920991.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 49"
       } ]
     }, {
       "pageNumber" : 50,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/50",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/50",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1186,
-        "imageUrl" : "http://i5.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867399.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 50"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920993.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 50"
       } ]
     }, {
       "pageNumber" : 51,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/51",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/51",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1182,
-        "imageUrl" : "http://i8.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867405.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 51"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920995.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 51"
       } ]
     }, {
       "pageNumber" : 52,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/52",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/52",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1182,
-        "imageUrl" : "http://i2.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867411.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 52"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920997.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 52"
       } ]
     }, {
       "pageNumber" : 53,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/53",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/53",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1200,
-        "imageUrl" : "http://i6.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867417.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 53"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1920999.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 53"
       } ]
     }, {
       "pageNumber" : 54,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/54",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/54",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1200,
-        "imageUrl" : "http://i9.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867423.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 54"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1921001.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 54"
       } ]
     }, {
       "pageNumber" : 55,
-      "pageUrl" : "http://www.mangareader.net/gyakuten-kenji/1/55",
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/55",
       "images" : [ {
         "imageWidth" : 800,
-        "imageHeight" : 1200,
-        "imageUrl" : "http://i3.mangareader.net/gyakuten-kenji/1/gyakuten-kenji-7867429.jpg",
-        "imageAlt" : "Gyakuten Kenji 1 - Page 55"
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1921003.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1921005.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/1/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/1/yasuko-to-kenji-1921007.jpg",
+        "imageAlt" : "Yasuko to Kenji 1 - Page 57"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/yasuko-to-kenji/2",
+    "chapterTitle" : "Yasuko to Kenji 2",
+    "chapterDescription" : "",
+    "chapterDate" : "09/06/2009",
+    "pageCount" : 46,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921009.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921011.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921013.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921015.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921017.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921019.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921021.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921023.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921025.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921027.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921029.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921031.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921033.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921035.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921037.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921039.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1293,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921041.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921043.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921045.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921047.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921049.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921051.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921053.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921055.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921057.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921059.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921061.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921063.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921065.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921067.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921069.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921071.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921073.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921075.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921077.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921079.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921081.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921083.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921085.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921087.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921089.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921091.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921093.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921095.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921097.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/2/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/2/yasuko-to-kenji-1921099.jpg",
+        "imageAlt" : "Yasuko to Kenji 2 - Page 46"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/yasuko-to-kenji/3",
+    "chapterTitle" : "Yasuko to Kenji 3",
+    "chapterDescription" : "",
+    "chapterDate" : "09/06/2009",
+    "pageCount" : 44,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751143.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751144.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751145.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751146.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751147.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751148.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751149.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751150.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751151.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751152.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751153.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751154.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751155.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751156.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751157.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751158.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751159.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751160.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751161.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751162.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751163.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751164.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751165.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751166.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751167.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751168.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751169.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751170.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751171.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751172.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751173.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751174.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751175.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751176.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751177.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751178.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751179.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751180.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751181.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751182.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751183.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751184.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751185.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/3/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/3/yasuko-to-kenji-751186.jpg",
+        "imageAlt" : "Yasuko to Kenji 3 - Page 44"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/yasuko-to-kenji/4",
+    "chapterTitle" : "Yasuko to Kenji 4",
+    "chapterDescription" : "",
+    "chapterDate" : "11/15/2009",
+    "pageCount" : 43,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990840.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990841.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990842.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990843.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990844.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990845.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990846.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990847.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990848.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990849.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990850.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990851.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990852.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990853.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990854.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990855.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990856.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990857.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990858.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990859.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990860.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990861.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990862.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990863.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990865.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990869.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990874.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990876.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990880.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990883.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990886.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990890.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990894.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990897.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990900.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990903.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990906.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990909.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990912.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1294,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990915.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990918.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990921.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/4/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/4/yasuko-to-kenji-990925.jpg",
+        "imageAlt" : "Yasuko to Kenji 4 - Page 43"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/yasuko-to-kenji/5",
+    "chapterTitle" : "Yasuko to Kenji 5",
+    "chapterDescription" : "",
+    "chapterDate" : "07/01/2012",
+    "pageCount" : 45,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419305.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419307.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419309.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419311.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419313.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419315.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419317.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419319.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419321.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419323.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419325.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419327.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419329.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419331.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419333.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419335.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419337.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419339.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419341.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419343.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419345.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419347.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419349.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419351.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419353.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i6.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419355.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419357.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419359.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419361.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419363.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419365.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419367.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419369.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419371.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419373.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419375.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419377.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419379.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419381.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419383.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i3.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419385.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419387.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419389.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419391.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/yasuko-to-kenji/5/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/yasuko-to-kenji/5/yasuko-to-kenji-3419393.jpg",
+        "imageAlt" : "Yasuko to Kenji 5 - Page 45"
       } ]
     } ]
   } ]

@@ -1,0 +1,4452 @@
+{
+  "mangaTitle" : "You are Under Arrest!",
+  "mangaUrl" : "http://www.mangareader.net/you-are-under-arrest",
+  "mangaThumbUrl" : "http://s3.mangareader.net/cover/you-are-under-arrest/you-are-under-arrest-r0.jpg",
+  "mangaChaptersInfo" : "30 Chapters Published. (Completed)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Action, Comedy, Shounen",
+  "chapterCount" : 29,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/1",
+    "chapterTitle" : "You are Under Arrest! 1",
+    "chapterDescription" : "",
+    "chapterDate" : "05/31/2011",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1245,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369539.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369541.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369543.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369545.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369547.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369549.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369551.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369553.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369555.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369557.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369559.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369561.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369563.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369565.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369567.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369569.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1234,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369571.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369573.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369575.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369577.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369579.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369581.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369583.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369585.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369587.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369589.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369591.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369593.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369595.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369597.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369599.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369601.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/1/you-are-under-arrest-2369603.jpg",
+        "imageAlt" : "You are Under Arrest! 1 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/2",
+    "chapterTitle" : "You are Under Arrest! 2",
+    "chapterDescription" : "",
+    "chapterDate" : "05/31/2011",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369605.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369607.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369609.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369611.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369613.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369615.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369617.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369619.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369621.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369623.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369625.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369627.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369629.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369631.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369633.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369635.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369637.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369639.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369641.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369643.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369645.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369647.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369649.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369651.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369653.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369655.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369657.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369659.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369661.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369663.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369665.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369667.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/2/you-are-under-arrest-2369669.jpg",
+        "imageAlt" : "You are Under Arrest! 2 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/3",
+    "chapterTitle" : "You are Under Arrest! 3",
+    "chapterDescription" : "",
+    "chapterDate" : "05/31/2011",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369671.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369673.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369675.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369677.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369679.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369681.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369683.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369685.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369687.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369689.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369691.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369693.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369695.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369697.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369699.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369701.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369703.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369705.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369707.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369709.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369711.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369713.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369715.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369717.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369719.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369721.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369723.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369725.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369727.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369729.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369731.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369733.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/3/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/3/you-are-under-arrest-2369735.jpg",
+        "imageAlt" : "You are Under Arrest! 3 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/4",
+    "chapterTitle" : "You are Under Arrest! 4",
+    "chapterDescription" : "",
+    "chapterDate" : "05/31/2011",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369737.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369739.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369741.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369743.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369745.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369747.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369749.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369751.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369753.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369755.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369757.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369759.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369761.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369763.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369765.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369767.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369769.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369771.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369773.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369775.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369777.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369779.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369781.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369783.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369785.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369787.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369789.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369791.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369793.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369795.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369797.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369799.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/4/you-are-under-arrest-2369801.jpg",
+        "imageAlt" : "You are Under Arrest! 4 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/5",
+    "chapterTitle" : "You are Under Arrest! 5",
+    "chapterDescription" : "",
+    "chapterDate" : "05/31/2011",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369803.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369805.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369807.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369809.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369811.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369813.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369815.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369817.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369819.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369821.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369823.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369825.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369827.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369829.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369831.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369833.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369835.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369837.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369839.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369841.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369843.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369845.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369847.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369849.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369851.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369853.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369855.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369857.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369859.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369861.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369863.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369865.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/5/you-are-under-arrest-2369867.jpg",
+        "imageAlt" : "You are Under Arrest! 5 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/6",
+    "chapterTitle" : "You are Under Arrest! 6",
+    "chapterDescription" : "",
+    "chapterDate" : "05/31/2011",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369869.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369871.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369873.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369875.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369877.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369879.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369881.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369883.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369885.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369887.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369889.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369891.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369893.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369895.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369897.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369899.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369901.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369903.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369905.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369907.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369909.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369911.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369913.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369915.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369917.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369919.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369921.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369923.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369925.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369927.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369929.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369931.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/6/you-are-under-arrest-2369933.jpg",
+        "imageAlt" : "You are Under Arrest! 6 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/7",
+    "chapterTitle" : "You are Under Arrest! 7",
+    "chapterDescription" : "",
+    "chapterDate" : "05/31/2011",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369935.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369937.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369939.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369941.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369943.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369945.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369947.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369949.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369951.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369953.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369955.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369957.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369959.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369961.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369963.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369965.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369967.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369969.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369971.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369973.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369975.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369977.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369979.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369981.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369983.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369985.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369987.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369989.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369991.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369993.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369995.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369997.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/7/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/7/you-are-under-arrest-2369999.jpg",
+        "imageAlt" : "You are Under Arrest! 7 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/8",
+    "chapterTitle" : "You are Under Arrest! 8",
+    "chapterDescription" : "",
+    "chapterDate" : "05/31/2011",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370001.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370003.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370005.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370007.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370009.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370011.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370013.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370015.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370017.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370019.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370021.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370023.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370025.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370027.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370029.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370031.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370033.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370035.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370037.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370039.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370041.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370043.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370045.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370047.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370049.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370051.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 519,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370053.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370055.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370057.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370059.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370061.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/8/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 617,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/8/you-are-under-arrest-2370063.jpg",
+        "imageAlt" : "You are Under Arrest! 8 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/9",
+    "chapterTitle" : "You are Under Arrest! 9",
+    "chapterDescription" : "",
+    "chapterDate" : "03/10/2015",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/9/you-are-under-arrest-5540351.jpg",
+        "imageAlt" : "You are Under Arrest! 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/9/you-are-under-arrest-5540353.jpg",
+        "imageAlt" : "You are Under Arrest! 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/9/you-are-under-arrest-5540355.jpg",
+        "imageAlt" : "You are Under Arrest! 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/9/you-are-under-arrest-5540357.jpg",
+        "imageAlt" : "You are Under Arrest! 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/9/you-are-under-arrest-5540359.jpg",
+        "imageAlt" : "You are Under Arrest! 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/9/you-are-under-arrest-5540361.jpg",
+        "imageAlt" : "You are Under Arrest! 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/9/you-are-under-arrest-5540363.jpg",
+        "imageAlt" : "You are Under Arrest! 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/9/you-are-under-arrest-5540365.jpg",
+        "imageAlt" : "You are Under Arrest! 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/9/you-are-under-arrest-5540367.jpg",
+        "imageAlt" : "You are Under Arrest! 9 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/10",
+    "chapterTitle" : "You are Under Arrest! 10",
+    "chapterDescription" : "",
+    "chapterDate" : "03/17/2015",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/10/you-are-under-arrest-5551907.jpg",
+        "imageAlt" : "You are Under Arrest! 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/10/you-are-under-arrest-5551909.jpg",
+        "imageAlt" : "You are Under Arrest! 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/10/you-are-under-arrest-5551911.jpg",
+        "imageAlt" : "You are Under Arrest! 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/10/you-are-under-arrest-5551913.jpg",
+        "imageAlt" : "You are Under Arrest! 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/10/you-are-under-arrest-5551915.jpg",
+        "imageAlt" : "You are Under Arrest! 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/10/you-are-under-arrest-5551917.jpg",
+        "imageAlt" : "You are Under Arrest! 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/10/you-are-under-arrest-5551919.jpg",
+        "imageAlt" : "You are Under Arrest! 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/10/you-are-under-arrest-5551921.jpg",
+        "imageAlt" : "You are Under Arrest! 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/10/you-are-under-arrest-5551923.jpg",
+        "imageAlt" : "You are Under Arrest! 10 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/11",
+    "chapterTitle" : "You are Under Arrest! 11",
+    "chapterDescription" : "",
+    "chapterDate" : "03/23/2015",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/11/you-are-under-arrest-5562429.jpg",
+        "imageAlt" : "You are Under Arrest! 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/11/you-are-under-arrest-5562431.jpg",
+        "imageAlt" : "You are Under Arrest! 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/11/you-are-under-arrest-5562433.jpg",
+        "imageAlt" : "You are Under Arrest! 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/11/you-are-under-arrest-5562435.jpg",
+        "imageAlt" : "You are Under Arrest! 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/11/you-are-under-arrest-5562437.jpg",
+        "imageAlt" : "You are Under Arrest! 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/11/you-are-under-arrest-5562439.jpg",
+        "imageAlt" : "You are Under Arrest! 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/11/you-are-under-arrest-5562441.jpg",
+        "imageAlt" : "You are Under Arrest! 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/11/you-are-under-arrest-5562443.jpg",
+        "imageAlt" : "You are Under Arrest! 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/11/you-are-under-arrest-5562445.jpg",
+        "imageAlt" : "You are Under Arrest! 11 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/12",
+    "chapterTitle" : "You are Under Arrest! 12",
+    "chapterDescription" : "",
+    "chapterDate" : "03/30/2015",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/12/you-are-under-arrest-5573129.jpg",
+        "imageAlt" : "You are Under Arrest! 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/12/you-are-under-arrest-5573131.jpg",
+        "imageAlt" : "You are Under Arrest! 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/12/you-are-under-arrest-5573133.jpg",
+        "imageAlt" : "You are Under Arrest! 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/12/you-are-under-arrest-5573135.jpg",
+        "imageAlt" : "You are Under Arrest! 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/12/you-are-under-arrest-5573137.jpg",
+        "imageAlt" : "You are Under Arrest! 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/12/you-are-under-arrest-5573139.jpg",
+        "imageAlt" : "You are Under Arrest! 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/12/you-are-under-arrest-5573141.jpg",
+        "imageAlt" : "You are Under Arrest! 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/12/you-are-under-arrest-5573143.jpg",
+        "imageAlt" : "You are Under Arrest! 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/12/you-are-under-arrest-5573145.jpg",
+        "imageAlt" : "You are Under Arrest! 12 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/13",
+    "chapterTitle" : "You are Under Arrest! 13",
+    "chapterDescription" : "",
+    "chapterDate" : "04/06/2015",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/13/you-are-under-arrest-5598905.jpg",
+        "imageAlt" : "You are Under Arrest! 13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/13/you-are-under-arrest-5598907.jpg",
+        "imageAlt" : "You are Under Arrest! 13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/13/you-are-under-arrest-5598909.jpg",
+        "imageAlt" : "You are Under Arrest! 13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1114,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/13/you-are-under-arrest-5598911.jpg",
+        "imageAlt" : "You are Under Arrest! 13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/13/you-are-under-arrest-5598913.jpg",
+        "imageAlt" : "You are Under Arrest! 13 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/13/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/13/you-are-under-arrest-5598915.jpg",
+        "imageAlt" : "You are Under Arrest! 13 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/13/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/13/you-are-under-arrest-5598917.jpg",
+        "imageAlt" : "You are Under Arrest! 13 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/13/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/13/you-are-under-arrest-5598919.jpg",
+        "imageAlt" : "You are Under Arrest! 13 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/13/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/13/you-are-under-arrest-5598921.jpg",
+        "imageAlt" : "You are Under Arrest! 13 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/14",
+    "chapterTitle" : "You are Under Arrest! 14",
+    "chapterDescription" : "",
+    "chapterDate" : "04/14/2015",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/14/you-are-under-arrest-5609225.jpg",
+        "imageAlt" : "You are Under Arrest! 14 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/14/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/14/you-are-under-arrest-5609227.jpg",
+        "imageAlt" : "You are Under Arrest! 14 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/14/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/14/you-are-under-arrest-5609229.jpg",
+        "imageAlt" : "You are Under Arrest! 14 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/14/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/14/you-are-under-arrest-5609231.jpg",
+        "imageAlt" : "You are Under Arrest! 14 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/14/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/14/you-are-under-arrest-5609233.jpg",
+        "imageAlt" : "You are Under Arrest! 14 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/14/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/14/you-are-under-arrest-5609235.jpg",
+        "imageAlt" : "You are Under Arrest! 14 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/14/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/14/you-are-under-arrest-5609237.jpg",
+        "imageAlt" : "You are Under Arrest! 14 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/14/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/14/you-are-under-arrest-5609239.jpg",
+        "imageAlt" : "You are Under Arrest! 14 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/14/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/14/you-are-under-arrest-5609241.jpg",
+        "imageAlt" : "You are Under Arrest! 14 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/15",
+    "chapterTitle" : "You are Under Arrest! 15",
+    "chapterDescription" : "",
+    "chapterDate" : "04/20/2015",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/15/you-are-under-arrest-5623125.jpg",
+        "imageAlt" : "You are Under Arrest! 15 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/15/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/15/you-are-under-arrest-5623127.jpg",
+        "imageAlt" : "You are Under Arrest! 15 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/15/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/15/you-are-under-arrest-5623129.jpg",
+        "imageAlt" : "You are Under Arrest! 15 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/15/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/15/you-are-under-arrest-5623131.jpg",
+        "imageAlt" : "You are Under Arrest! 15 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/15/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/15/you-are-under-arrest-5623133.jpg",
+        "imageAlt" : "You are Under Arrest! 15 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/15/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/15/you-are-under-arrest-5623135.jpg",
+        "imageAlt" : "You are Under Arrest! 15 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/15/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/15/you-are-under-arrest-5623137.jpg",
+        "imageAlt" : "You are Under Arrest! 15 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/15/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/15/you-are-under-arrest-5623139.jpg",
+        "imageAlt" : "You are Under Arrest! 15 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/15/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/15/you-are-under-arrest-5623141.jpg",
+        "imageAlt" : "You are Under Arrest! 15 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/16",
+    "chapterTitle" : "You are Under Arrest! 16",
+    "chapterDescription" : "",
+    "chapterDate" : "04/27/2015",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/16/you-are-under-arrest-5643803.jpg",
+        "imageAlt" : "You are Under Arrest! 16 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/16/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/16/you-are-under-arrest-5643805.jpg",
+        "imageAlt" : "You are Under Arrest! 16 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/16/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/16/you-are-under-arrest-5643807.jpg",
+        "imageAlt" : "You are Under Arrest! 16 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/16/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/16/you-are-under-arrest-5643809.jpg",
+        "imageAlt" : "You are Under Arrest! 16 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/16/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/16/you-are-under-arrest-5643811.jpg",
+        "imageAlt" : "You are Under Arrest! 16 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/16/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/16/you-are-under-arrest-5643813.jpg",
+        "imageAlt" : "You are Under Arrest! 16 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/16/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/16/you-are-under-arrest-5643815.jpg",
+        "imageAlt" : "You are Under Arrest! 16 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/16/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/16/you-are-under-arrest-5643817.jpg",
+        "imageAlt" : "You are Under Arrest! 16 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/16/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/16/you-are-under-arrest-5643819.jpg",
+        "imageAlt" : "You are Under Arrest! 16 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/17",
+    "chapterTitle" : "You are Under Arrest! 17",
+    "chapterDescription" : "",
+    "chapterDate" : "05/04/2015",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/17/you-are-under-arrest-5658407.jpg",
+        "imageAlt" : "You are Under Arrest! 17 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/17/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/17/you-are-under-arrest-5658409.jpg",
+        "imageAlt" : "You are Under Arrest! 17 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/17/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/17/you-are-under-arrest-5658411.jpg",
+        "imageAlt" : "You are Under Arrest! 17 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/17/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/17/you-are-under-arrest-5658413.jpg",
+        "imageAlt" : "You are Under Arrest! 17 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/17/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/17/you-are-under-arrest-5658415.jpg",
+        "imageAlt" : "You are Under Arrest! 17 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/17/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/17/you-are-under-arrest-5658417.jpg",
+        "imageAlt" : "You are Under Arrest! 17 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/17/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/17/you-are-under-arrest-5658419.jpg",
+        "imageAlt" : "You are Under Arrest! 17 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/17/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/17/you-are-under-arrest-5658421.jpg",
+        "imageAlt" : "You are Under Arrest! 17 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/17/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/17/you-are-under-arrest-5658423.jpg",
+        "imageAlt" : "You are Under Arrest! 17 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/18",
+    "chapterTitle" : "You are Under Arrest! 18",
+    "chapterDescription" : "",
+    "chapterDate" : "05/11/2015",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/18/you-are-under-arrest-5669667.jpg",
+        "imageAlt" : "You are Under Arrest! 18 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/18/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/18/you-are-under-arrest-5669669.jpg",
+        "imageAlt" : "You are Under Arrest! 18 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/18/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/18/you-are-under-arrest-5669671.jpg",
+        "imageAlt" : "You are Under Arrest! 18 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/18/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/18/you-are-under-arrest-5669673.jpg",
+        "imageAlt" : "You are Under Arrest! 18 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/18/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/18/you-are-under-arrest-5669675.jpg",
+        "imageAlt" : "You are Under Arrest! 18 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/18/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/18/you-are-under-arrest-5669677.jpg",
+        "imageAlt" : "You are Under Arrest! 18 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/18/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/18/you-are-under-arrest-5669679.jpg",
+        "imageAlt" : "You are Under Arrest! 18 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/18/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/18/you-are-under-arrest-5669681.jpg",
+        "imageAlt" : "You are Under Arrest! 18 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/18/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/18/you-are-under-arrest-5669683.jpg",
+        "imageAlt" : "You are Under Arrest! 18 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/19",
+    "chapterTitle" : "You are Under Arrest! 19",
+    "chapterDescription" : "",
+    "chapterDate" : "05/18/2015",
+    "pageCount" : 10,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/19/you-are-under-arrest-5683093.jpg",
+        "imageAlt" : "You are Under Arrest! 19 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/19/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 538,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/19/you-are-under-arrest-5683095.jpg",
+        "imageAlt" : "You are Under Arrest! 19 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/19/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/19/you-are-under-arrest-5683097.jpg",
+        "imageAlt" : "You are Under Arrest! 19 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/19/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/19/you-are-under-arrest-5683099.jpg",
+        "imageAlt" : "You are Under Arrest! 19 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/19/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/19/you-are-under-arrest-5683101.jpg",
+        "imageAlt" : "You are Under Arrest! 19 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/19/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/19/you-are-under-arrest-5683103.jpg",
+        "imageAlt" : "You are Under Arrest! 19 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/19/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/19/you-are-under-arrest-5683105.jpg",
+        "imageAlt" : "You are Under Arrest! 19 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/19/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/19/you-are-under-arrest-5683107.jpg",
+        "imageAlt" : "You are Under Arrest! 19 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/19/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/19/you-are-under-arrest-5683109.jpg",
+        "imageAlt" : "You are Under Arrest! 19 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/19/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/19/you-are-under-arrest-5683111.jpg",
+        "imageAlt" : "You are Under Arrest! 19 - Page 10"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/20",
+    "chapterTitle" : "You are Under Arrest! 20",
+    "chapterDescription" : "",
+    "chapterDate" : "05/25/2015",
+    "pageCount" : 11,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/20/you-are-under-arrest-5699749.jpg",
+        "imageAlt" : "You are Under Arrest! 20 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/20/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/20/you-are-under-arrest-5699751.jpg",
+        "imageAlt" : "You are Under Arrest! 20 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/20/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/20/you-are-under-arrest-5699753.jpg",
+        "imageAlt" : "You are Under Arrest! 20 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/20/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/20/you-are-under-arrest-5699755.jpg",
+        "imageAlt" : "You are Under Arrest! 20 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/20/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/20/you-are-under-arrest-5699757.jpg",
+        "imageAlt" : "You are Under Arrest! 20 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/20/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/20/you-are-under-arrest-5699759.jpg",
+        "imageAlt" : "You are Under Arrest! 20 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/20/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/20/you-are-under-arrest-5699761.jpg",
+        "imageAlt" : "You are Under Arrest! 20 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/20/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/20/you-are-under-arrest-5699763.jpg",
+        "imageAlt" : "You are Under Arrest! 20 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/20/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/20/you-are-under-arrest-5699765.jpg",
+        "imageAlt" : "You are Under Arrest! 20 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/20/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/20/you-are-under-arrest-5699767.jpg",
+        "imageAlt" : "You are Under Arrest! 20 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/20/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/20/you-are-under-arrest-5699769.jpg",
+        "imageAlt" : "You are Under Arrest! 20 - Page 11"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/21",
+    "chapterTitle" : "You are Under Arrest! 21",
+    "chapterDescription" : "",
+    "chapterDate" : "06/01/2015",
+    "pageCount" : 8,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/21/you-are-under-arrest-5714022.jpg",
+        "imageAlt" : "You are Under Arrest! 21 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/21/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/21/you-are-under-arrest-5714024.jpg",
+        "imageAlt" : "You are Under Arrest! 21 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/21/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/21/you-are-under-arrest-5714026.jpg",
+        "imageAlt" : "You are Under Arrest! 21 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/21/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/21/you-are-under-arrest-5714028.jpg",
+        "imageAlt" : "You are Under Arrest! 21 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/21/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/21/you-are-under-arrest-5714030.jpg",
+        "imageAlt" : "You are Under Arrest! 21 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/21/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/21/you-are-under-arrest-5714032.jpg",
+        "imageAlt" : "You are Under Arrest! 21 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/21/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/21/you-are-under-arrest-5714034.jpg",
+        "imageAlt" : "You are Under Arrest! 21 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/21/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/21/you-are-under-arrest-5714036.jpg",
+        "imageAlt" : "You are Under Arrest! 21 - Page 8"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/22",
+    "chapterTitle" : "You are Under Arrest! 22",
+    "chapterDescription" : "",
+    "chapterDate" : "06/16/2015",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/22/you-are-under-arrest-5745226.jpg",
+        "imageAlt" : "You are Under Arrest! 22 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/22/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/22/you-are-under-arrest-5745228.jpg",
+        "imageAlt" : "You are Under Arrest! 22 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/22/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/22/you-are-under-arrest-5745230.jpg",
+        "imageAlt" : "You are Under Arrest! 22 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/22/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/22/you-are-under-arrest-5745232.jpg",
+        "imageAlt" : "You are Under Arrest! 22 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/22/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/22/you-are-under-arrest-5745234.jpg",
+        "imageAlt" : "You are Under Arrest! 22 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/22/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/22/you-are-under-arrest-5745236.jpg",
+        "imageAlt" : "You are Under Arrest! 22 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/22/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/22/you-are-under-arrest-5745238.jpg",
+        "imageAlt" : "You are Under Arrest! 22 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/22/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/22/you-are-under-arrest-5745240.jpg",
+        "imageAlt" : "You are Under Arrest! 22 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/22/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/22/you-are-under-arrest-5745242.jpg",
+        "imageAlt" : "You are Under Arrest! 22 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/23",
+    "chapterTitle" : "You are Under Arrest! 23",
+    "chapterDescription" : "",
+    "chapterDate" : "06/22/2015",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/23/you-are-under-arrest-5757326.jpg",
+        "imageAlt" : "You are Under Arrest! 23 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/23/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/23/you-are-under-arrest-5757328.jpg",
+        "imageAlt" : "You are Under Arrest! 23 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/23/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/23/you-are-under-arrest-5757330.jpg",
+        "imageAlt" : "You are Under Arrest! 23 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/23/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/23/you-are-under-arrest-5757332.jpg",
+        "imageAlt" : "You are Under Arrest! 23 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/23/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/23/you-are-under-arrest-5757334.jpg",
+        "imageAlt" : "You are Under Arrest! 23 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/23/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/23/you-are-under-arrest-5757338.jpg",
+        "imageAlt" : "You are Under Arrest! 23 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/23/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/23/you-are-under-arrest-5757342.jpg",
+        "imageAlt" : "You are Under Arrest! 23 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/23/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/23/you-are-under-arrest-5757348.jpg",
+        "imageAlt" : "You are Under Arrest! 23 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/23/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/23/you-are-under-arrest-5757360.jpg",
+        "imageAlt" : "You are Under Arrest! 23 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/24",
+    "chapterTitle" : "You are Under Arrest! 24",
+    "chapterDescription" : "",
+    "chapterDate" : "06/22/2015",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/24/you-are-under-arrest-5757336.jpg",
+        "imageAlt" : "You are Under Arrest! 24 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/24/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/24/you-are-under-arrest-5757340.jpg",
+        "imageAlt" : "You are Under Arrest! 24 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/24/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/24/you-are-under-arrest-5757350.jpg",
+        "imageAlt" : "You are Under Arrest! 24 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/24/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/24/you-are-under-arrest-5757358.jpg",
+        "imageAlt" : "You are Under Arrest! 24 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/24/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/24/you-are-under-arrest-5757366.jpg",
+        "imageAlt" : "You are Under Arrest! 24 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/24/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/24/you-are-under-arrest-5757374.jpg",
+        "imageAlt" : "You are Under Arrest! 24 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/24/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/24/you-are-under-arrest-5757386.jpg",
+        "imageAlt" : "You are Under Arrest! 24 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/24/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/24/you-are-under-arrest-5757392.jpg",
+        "imageAlt" : "You are Under Arrest! 24 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/24/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/24/you-are-under-arrest-5757404.jpg",
+        "imageAlt" : "You are Under Arrest! 24 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/25",
+    "chapterTitle" : "You are Under Arrest! 25",
+    "chapterDescription" : "",
+    "chapterDate" : "07/09/2015",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/25/you-are-under-arrest-5790319.jpg",
+        "imageAlt" : "You are Under Arrest! 25 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/25/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/25/you-are-under-arrest-5790321.jpg",
+        "imageAlt" : "You are Under Arrest! 25 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/25/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/25/you-are-under-arrest-5790323.jpg",
+        "imageAlt" : "You are Under Arrest! 25 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/25/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/25/you-are-under-arrest-5790325.jpg",
+        "imageAlt" : "You are Under Arrest! 25 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/25/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/25/you-are-under-arrest-5790327.jpg",
+        "imageAlt" : "You are Under Arrest! 25 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/25/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/25/you-are-under-arrest-5790329.jpg",
+        "imageAlt" : "You are Under Arrest! 25 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/25/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/25/you-are-under-arrest-5790331.jpg",
+        "imageAlt" : "You are Under Arrest! 25 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/25/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/25/you-are-under-arrest-5790333.jpg",
+        "imageAlt" : "You are Under Arrest! 25 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/25/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/25/you-are-under-arrest-5790335.jpg",
+        "imageAlt" : "You are Under Arrest! 25 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/26",
+    "chapterTitle" : "You are Under Arrest! 26",
+    "chapterDescription" : "",
+    "chapterDate" : "07/14/2015",
+    "pageCount" : 22,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800619.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800621.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800623.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800625.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800627.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800629.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800631.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800633.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800635.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800637.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800639.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800641.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800643.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800645.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800647.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800649.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800651.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800653.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800655.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800657.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800659.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/26/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/26/you-are-under-arrest-5800661.jpg",
+        "imageAlt" : "You are Under Arrest! 26 - Page 22"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/27",
+    "chapterTitle" : "You are Under Arrest! 27",
+    "chapterDescription" : "",
+    "chapterDate" : "02/03/2016",
+    "pageCount" : 13,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/27/you-are-under-arrest-7017937.jpg",
+        "imageAlt" : "You are Under Arrest! 27 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/27/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 535,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/27/you-are-under-arrest-7017943.jpg",
+        "imageAlt" : "You are Under Arrest! 27 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/27/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 533,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/27/you-are-under-arrest-7017949.jpg",
+        "imageAlt" : "You are Under Arrest! 27 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/27/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/27/you-are-under-arrest-7017955.jpg",
+        "imageAlt" : "You are Under Arrest! 27 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/27/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/27/you-are-under-arrest-7017961.jpg",
+        "imageAlt" : "You are Under Arrest! 27 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/27/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/27/you-are-under-arrest-7017967.jpg",
+        "imageAlt" : "You are Under Arrest! 27 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/27/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/27/you-are-under-arrest-7017973.jpg",
+        "imageAlt" : "You are Under Arrest! 27 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/27/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/27/you-are-under-arrest-7017979.jpg",
+        "imageAlt" : "You are Under Arrest! 27 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/27/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/27/you-are-under-arrest-7017985.jpg",
+        "imageAlt" : "You are Under Arrest! 27 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/27/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/27/you-are-under-arrest-7017991.jpg",
+        "imageAlt" : "You are Under Arrest! 27 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/27/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/27/you-are-under-arrest-7017997.jpg",
+        "imageAlt" : "You are Under Arrest! 27 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/27/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/27/you-are-under-arrest-7018003.jpg",
+        "imageAlt" : "You are Under Arrest! 27 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/27/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/27/you-are-under-arrest-7018009.jpg",
+        "imageAlt" : "You are Under Arrest! 27 - Page 13"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/28",
+    "chapterTitle" : "You are Under Arrest! 28",
+    "chapterDescription" : "",
+    "chapterDate" : "02/03/2016",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i8.mangareader.net/you-are-under-arrest/28/you-are-under-arrest-7018015.jpg",
+        "imageAlt" : "You are Under Arrest! 28 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/28/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/28/you-are-under-arrest-7018021.jpg",
+        "imageAlt" : "You are Under Arrest! 28 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/28/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/28/you-are-under-arrest-7018027.jpg",
+        "imageAlt" : "You are Under Arrest! 28 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/28/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/28/you-are-under-arrest-7018033.jpg",
+        "imageAlt" : "You are Under Arrest! 28 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/28/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i5.mangareader.net/you-are-under-arrest/28/you-are-under-arrest-7018039.jpg",
+        "imageAlt" : "You are Under Arrest! 28 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/28/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/you-are-under-arrest/28/you-are-under-arrest-7018045.jpg",
+        "imageAlt" : "You are Under Arrest! 28 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/28/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/28/you-are-under-arrest-7018051.jpg",
+        "imageAlt" : "You are Under Arrest! 28 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/28/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/28/you-are-under-arrest-7018057.jpg",
+        "imageAlt" : "You are Under Arrest! 28 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/28/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/28/you-are-under-arrest-7018063.jpg",
+        "imageAlt" : "You are Under Arrest! 28 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/you-are-under-arrest/29",
+    "chapterTitle" : "You are Under Arrest! 29",
+    "chapterDescription" : "",
+    "chapterDate" : "04/09/2016",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/29/you-are-under-arrest-7358527.jpg",
+        "imageAlt" : "You are Under Arrest! 29 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/29/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/you-are-under-arrest/29/you-are-under-arrest-7358533.jpg",
+        "imageAlt" : "You are Under Arrest! 29 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/29/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/you-are-under-arrest/29/you-are-under-arrest-7358539.jpg",
+        "imageAlt" : "You are Under Arrest! 29 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/29/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/29/you-are-under-arrest-7358545.jpg",
+        "imageAlt" : "You are Under Arrest! 29 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/29/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i4.mangareader.net/you-are-under-arrest/29/you-are-under-arrest-7358551.jpg",
+        "imageAlt" : "You are Under Arrest! 29 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/29/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i10.mangareader.net/you-are-under-arrest/29/you-are-under-arrest-7358557.jpg",
+        "imageAlt" : "You are Under Arrest! 29 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/29/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/you-are-under-arrest/29/you-are-under-arrest-7358563.jpg",
+        "imageAlt" : "You are Under Arrest! 29 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/29/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/29/you-are-under-arrest-7358569.jpg",
+        "imageAlt" : "You are Under Arrest! 29 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/you-are-under-arrest/29/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/you-are-under-arrest/29/you-are-under-arrest-7358575.jpg",
+        "imageAlt" : "You are Under Arrest! 29 - Page 9"
+      } ]
+    } ]
+  } ]
+}

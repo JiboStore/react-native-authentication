@@ -1,0 +1,1769 @@
+{
+  "mangaTitle" : "Hotel S.L.",
+  "mangaUrl" : "http://www.mangareader.net/hotel-sl",
+  "mangaThumbUrl" : "http://s4.mangareader.net/cover/hotel-sl/hotel-sl-r0.jpg",
+  "mangaChaptersInfo" : "7 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Action, Josei, Slice of Life",
+  "chapterCount" : 7,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/hotel-sl/1",
+    "chapterTitle" : "Hotel S.L. 1",
+    "chapterDescription" : "",
+    "chapterDate" : "01/04/2017",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/1/hotel-sl-8766643.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1237,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/1/hotel-sl-8766649.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/1/hotel-sl-8766655.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/1/hotel-sl-8766661.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/1/hotel-sl-8766667.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/1/hotel-sl-8766673.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/1/hotel-sl-8766679.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/1/hotel-sl-8766685.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/1/hotel-sl-8766691.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/1/hotel-sl-8766697.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/1/hotel-sl-8766703.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/1/hotel-sl-8766709.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/1/hotel-sl-8766715.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/1/hotel-sl-8766721.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/1/hotel-sl-8766727.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/1/hotel-sl-8766733.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/1/hotel-sl-8766739.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/1/hotel-sl-8766745.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/1/hotel-sl-8766751.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/1/hotel-sl-8766757.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/1/hotel-sl-8766763.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/1/hotel-sl-8766769.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/1/hotel-sl-8766775.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/1/hotel-sl-8766781.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 661,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/1/hotel-sl-8766787.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 704,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/1/hotel-sl-8766793.jpg",
+        "imageAlt" : "Hotel S.L. 1 - Page 26"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/hotel-sl/2",
+    "chapterTitle" : "Hotel S.L. 2",
+    "chapterDescription" : "",
+    "chapterDate" : "01/04/2017",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1098,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/2/hotel-sl-8766799.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/2/hotel-sl-8766805.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/2/hotel-sl-8766811.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/2/hotel-sl-8766817.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i8.mangareader.net/hotel-sl/2/hotel-sl-8766823.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/2/hotel-sl-8766829.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/2/hotel-sl-8766835.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/2/hotel-sl-8766841.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1237,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/2/hotel-sl-8766847.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/2/hotel-sl-8766853.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/2/hotel-sl-8766859.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1222,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/2/hotel-sl-8766865.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/2/hotel-sl-8766871.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1243,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/2/hotel-sl-8766877.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/2/hotel-sl-8766883.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1244,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/2/hotel-sl-8766889.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/2/hotel-sl-8766895.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/2/hotel-sl-8766901.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/2/hotel-sl-8766907.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/2/hotel-sl-8766913.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/2/hotel-sl-8766919.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/2/hotel-sl-8766925.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/2/hotel-sl-8766931.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/2/hotel-sl-8766937.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/2/hotel-sl-8766943.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/2/hotel-sl-8766949.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/2/hotel-sl-8766955.jpg",
+        "imageAlt" : "Hotel S.L. 2 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/hotel-sl/3",
+    "chapterTitle" : "Hotel S.L. 3",
+    "chapterDescription" : "",
+    "chapterDate" : "01/04/2017",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/3/hotel-sl-8766961.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/3/hotel-sl-8766967.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/3/hotel-sl-8766973.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/3/hotel-sl-8766979.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/3/hotel-sl-8766985.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/3/hotel-sl-8766991.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/3/hotel-sl-8766997.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/3/hotel-sl-8767003.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/3/hotel-sl-8767009.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/3/hotel-sl-8767015.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/3/hotel-sl-8767021.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/hotel-sl/3/hotel-sl-8767027.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i8.mangareader.net/hotel-sl/3/hotel-sl-8767033.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/3/hotel-sl-8767039.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/3/hotel-sl-8767045.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/3/hotel-sl-8767051.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/3/hotel-sl-8767057.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/3/hotel-sl-8767063.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/3/hotel-sl-8767069.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/3/hotel-sl-8767075.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/3/hotel-sl-8767081.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/3/hotel-sl-8767087.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/3/hotel-sl-8767093.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/3/hotel-sl-8767099.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/3/hotel-sl-8767105.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/3/hotel-sl-8767111.jpg",
+        "imageAlt" : "Hotel S.L. 3 - Page 26"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/hotel-sl/4",
+    "chapterTitle" : "Hotel S.L. 4",
+    "chapterDescription" : "",
+    "chapterDate" : "01/04/2017",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1098,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/4/hotel-sl-8767117.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/4/hotel-sl-8767123.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i8.mangareader.net/hotel-sl/4/hotel-sl-8767129.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/4/hotel-sl-8767135.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/4/hotel-sl-8767141.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/hotel-sl/4/hotel-sl-8767147.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/4/hotel-sl-8767153.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/4/hotel-sl-8767159.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/4/hotel-sl-8767165.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/4/hotel-sl-8767171.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/4/hotel-sl-8767177.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/4/hotel-sl-8767183.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/4/hotel-sl-8767189.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/4/hotel-sl-8767195.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/4/hotel-sl-8767201.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/4/hotel-sl-8767207.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/4/hotel-sl-8767213.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/4/hotel-sl-8767219.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/4/hotel-sl-8767225.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/4/hotel-sl-8767231.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/4/hotel-sl-8767237.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/4/hotel-sl-8767243.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/4/hotel-sl-8767249.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/4/hotel-sl-8767255.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/4/hotel-sl-8767261.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/4/hotel-sl-8767267.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/4/hotel-sl-8767273.jpg",
+        "imageAlt" : "Hotel S.L. 4 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/hotel-sl/5",
+    "chapterTitle" : "Hotel S.L. 5",
+    "chapterDescription" : "",
+    "chapterDate" : "01/04/2017",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1098,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/5/hotel-sl-8767279.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/5/hotel-sl-8767285.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/5/hotel-sl-8767291.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/5/hotel-sl-8767297.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/5/hotel-sl-8767303.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/5/hotel-sl-8767309.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/5/hotel-sl-8767315.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/5/hotel-sl-8767321.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/5/hotel-sl-8767327.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/5/hotel-sl-8767333.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/5/hotel-sl-8767339.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i8.mangareader.net/hotel-sl/5/hotel-sl-8767345.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/hotel-sl/5/hotel-sl-8767351.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/5/hotel-sl-8767357.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/5/hotel-sl-8767363.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/5/hotel-sl-8767369.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/5/hotel-sl-8767375.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/5/hotel-sl-8767381.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/5/hotel-sl-8767387.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/5/hotel-sl-8767393.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/5/hotel-sl-8767399.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/5/hotel-sl-8767405.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/5/hotel-sl-8767411.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i8.mangareader.net/hotel-sl/5/hotel-sl-8767417.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/5/hotel-sl-8767423.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/5/hotel-sl-8767429.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 524,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/5/hotel-sl-8767435.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 492,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/5/hotel-sl-8767441.jpg",
+        "imageAlt" : "Hotel S.L. 5 - Page 28"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/hotel-sl/6",
+    "chapterTitle" : "Hotel S.L. 6",
+    "chapterDescription" : "",
+    "chapterDate" : "01/04/2017",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/6/hotel-sl-8767447.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/6/hotel-sl-8767453.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/6/hotel-sl-8767459.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/6/hotel-sl-8767465.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/6/hotel-sl-8767471.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/6/hotel-sl-8767477.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/6/hotel-sl-8767483.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/6/hotel-sl-8767489.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/6/hotel-sl-8767495.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i8.mangareader.net/hotel-sl/6/hotel-sl-8767501.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/6/hotel-sl-8767507.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/6/hotel-sl-8767513.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/6/hotel-sl-8767519.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/6/hotel-sl-8767525.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/6/hotel-sl-8767531.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/6/hotel-sl-8767537.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/6/hotel-sl-8767543.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/6/hotel-sl-8767549.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/6/hotel-sl-8767555.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/6/hotel-sl-8767561.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/6/hotel-sl-8767567.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/6/hotel-sl-8767573.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/hotel-sl/6/hotel-sl-8767579.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/6/hotel-sl-8767585.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i8.mangareader.net/hotel-sl/6/hotel-sl-8767591.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/6/hotel-sl-8767597.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/hotel-sl/6/hotel-sl-8767603.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/6/hotel-sl-8767609.jpg",
+        "imageAlt" : "Hotel S.L. 6 - Page 28"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/hotel-sl/7",
+    "chapterTitle" : "Hotel S.L. 7",
+    "chapterDescription" : "",
+    "chapterDate" : "01/30/2017",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/7/hotel-sl-8870947.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/7/hotel-sl-8870953.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i8.mangareader.net/hotel-sl/7/hotel-sl-8870959.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/7/hotel-sl-8870965.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/7/hotel-sl-8870971.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i9.mangareader.net/hotel-sl/7/hotel-sl-8870977.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/7/hotel-sl-8870983.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/7/hotel-sl-8870989.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/7/hotel-sl-8870995.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/7/hotel-sl-8871001.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/7/hotel-sl-8871007.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/7/hotel-sl-8871013.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/7/hotel-sl-8871019.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i10.mangareader.net/hotel-sl/7/hotel-sl-8871025.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/hotel-sl/7/hotel-sl-8871031.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/7/hotel-sl-8871037.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/hotel-sl/7/hotel-sl-8871043.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i8.mangareader.net/hotel-sl/7/hotel-sl-8871049.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/hotel-sl/7/hotel-sl-8871055.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/7/hotel-sl-8871061.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/7/hotel-sl-8871067.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/7/hotel-sl-8871073.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/7/hotel-sl-8871079.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/7/hotel-sl-8871085.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/hotel-sl/7/hotel-sl-8871091.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i1.mangareader.net/hotel-sl/7/hotel-sl-8871097.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i7.mangareader.net/hotel-sl/7/hotel-sl-8871103.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/hotel-sl/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/hotel-sl/7/hotel-sl-8871109.jpg",
+        "imageAlt" : "Hotel S.L. 7 - Page 28"
+      } ]
+    } ]
+  } ]
+}

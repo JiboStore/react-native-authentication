@@ -1,0 +1,3362 @@
+{
+  "mangaTitle" : "Second Brain",
+  "mangaUrl" : "http://www.mangareader.net/second-brain",
+  "mangaThumbUrl" : "http://s3.mangareader.net/cover/second-brain/second-brain-r0.jpg",
+  "mangaChaptersInfo" : "7 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Sci-Fi, Shounen",
+  "chapterCount" : 7,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/second-brain/1",
+    "chapterTitle" : "Second Brain 1",
+    "chapterDescription" : "",
+    "chapterDate" : "04/30/2014",
+    "pageCount" : 71,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/1/second-brain-4933877.jpg",
+        "imageAlt" : "Second Brain 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/1/second-brain-4933879.jpg",
+        "imageAlt" : "Second Brain 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 569,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/1/second-brain-4933881.jpg",
+        "imageAlt" : "Second Brain 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/1/second-brain-4933883.jpg",
+        "imageAlt" : "Second Brain 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/1/second-brain-4933885.jpg",
+        "imageAlt" : "Second Brain 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/1/second-brain-4933887.jpg",
+        "imageAlt" : "Second Brain 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/1/second-brain-4933889.jpg",
+        "imageAlt" : "Second Brain 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/1/second-brain-4933891.jpg",
+        "imageAlt" : "Second Brain 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/1/second-brain-4933893.jpg",
+        "imageAlt" : "Second Brain 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/1/second-brain-4933895.jpg",
+        "imageAlt" : "Second Brain 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/1/second-brain-4933897.jpg",
+        "imageAlt" : "Second Brain 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/1/second-brain-4933899.jpg",
+        "imageAlt" : "Second Brain 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/1/second-brain-4933901.jpg",
+        "imageAlt" : "Second Brain 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/1/second-brain-4933903.jpg",
+        "imageAlt" : "Second Brain 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/1/second-brain-4933905.jpg",
+        "imageAlt" : "Second Brain 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/1/second-brain-4933907.jpg",
+        "imageAlt" : "Second Brain 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/1/second-brain-4933909.jpg",
+        "imageAlt" : "Second Brain 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/1/second-brain-4933911.jpg",
+        "imageAlt" : "Second Brain 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/1/second-brain-4933913.jpg",
+        "imageAlt" : "Second Brain 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/1/second-brain-4933915.jpg",
+        "imageAlt" : "Second Brain 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/1/second-brain-4933917.jpg",
+        "imageAlt" : "Second Brain 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/1/second-brain-4933919.jpg",
+        "imageAlt" : "Second Brain 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/1/second-brain-4933921.jpg",
+        "imageAlt" : "Second Brain 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/1/second-brain-4933923.jpg",
+        "imageAlt" : "Second Brain 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/1/second-brain-4933925.jpg",
+        "imageAlt" : "Second Brain 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/1/second-brain-4933927.jpg",
+        "imageAlt" : "Second Brain 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/1/second-brain-4933929.jpg",
+        "imageAlt" : "Second Brain 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/1/second-brain-4933931.jpg",
+        "imageAlt" : "Second Brain 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/1/second-brain-4933933.jpg",
+        "imageAlt" : "Second Brain 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/1/second-brain-4933935.jpg",
+        "imageAlt" : "Second Brain 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/1/second-brain-4933937.jpg",
+        "imageAlt" : "Second Brain 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/1/second-brain-4933939.jpg",
+        "imageAlt" : "Second Brain 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/1/second-brain-4933941.jpg",
+        "imageAlt" : "Second Brain 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/1/second-brain-4933943.jpg",
+        "imageAlt" : "Second Brain 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/1/second-brain-4933945.jpg",
+        "imageAlt" : "Second Brain 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/1/second-brain-4933947.jpg",
+        "imageAlt" : "Second Brain 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/1/second-brain-4933949.jpg",
+        "imageAlt" : "Second Brain 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/1/second-brain-4933951.jpg",
+        "imageAlt" : "Second Brain 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/1/second-brain-4933953.jpg",
+        "imageAlt" : "Second Brain 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/1/second-brain-4933955.jpg",
+        "imageAlt" : "Second Brain 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/1/second-brain-4933957.jpg",
+        "imageAlt" : "Second Brain 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/1/second-brain-4933959.jpg",
+        "imageAlt" : "Second Brain 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/1/second-brain-4933961.jpg",
+        "imageAlt" : "Second Brain 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/1/second-brain-4933963.jpg",
+        "imageAlt" : "Second Brain 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/1/second-brain-4933965.jpg",
+        "imageAlt" : "Second Brain 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/1/second-brain-4933967.jpg",
+        "imageAlt" : "Second Brain 1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/1/second-brain-4933969.jpg",
+        "imageAlt" : "Second Brain 1 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/1/second-brain-4933971.jpg",
+        "imageAlt" : "Second Brain 1 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/1/second-brain-4933973.jpg",
+        "imageAlt" : "Second Brain 1 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/1/second-brain-4933975.jpg",
+        "imageAlt" : "Second Brain 1 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/1/second-brain-4933977.jpg",
+        "imageAlt" : "Second Brain 1 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/1/second-brain-4933979.jpg",
+        "imageAlt" : "Second Brain 1 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/1/second-brain-4933981.jpg",
+        "imageAlt" : "Second Brain 1 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/1/second-brain-4933983.jpg",
+        "imageAlt" : "Second Brain 1 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/1/second-brain-4933985.jpg",
+        "imageAlt" : "Second Brain 1 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/1/second-brain-4933987.jpg",
+        "imageAlt" : "Second Brain 1 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/1/second-brain-4933989.jpg",
+        "imageAlt" : "Second Brain 1 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/1/second-brain-4933991.jpg",
+        "imageAlt" : "Second Brain 1 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/1/second-brain-4933993.jpg",
+        "imageAlt" : "Second Brain 1 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/1/second-brain-4933995.jpg",
+        "imageAlt" : "Second Brain 1 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/1/second-brain-4933997.jpg",
+        "imageAlt" : "Second Brain 1 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/1/second-brain-4933999.jpg",
+        "imageAlt" : "Second Brain 1 - Page 62"
+      } ]
+    }, {
+      "pageNumber" : 63,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/63",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/1/second-brain-4934001.jpg",
+        "imageAlt" : "Second Brain 1 - Page 63"
+      } ]
+    }, {
+      "pageNumber" : 64,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/64",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/1/second-brain-4934003.jpg",
+        "imageAlt" : "Second Brain 1 - Page 64"
+      } ]
+    }, {
+      "pageNumber" : 65,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/65",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/1/second-brain-4934005.jpg",
+        "imageAlt" : "Second Brain 1 - Page 65"
+      } ]
+    }, {
+      "pageNumber" : 66,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/66",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/1/second-brain-4934007.jpg",
+        "imageAlt" : "Second Brain 1 - Page 66"
+      } ]
+    }, {
+      "pageNumber" : 67,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/67",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/1/second-brain-4934009.jpg",
+        "imageAlt" : "Second Brain 1 - Page 67"
+      } ]
+    }, {
+      "pageNumber" : 68,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/68",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/1/second-brain-4934011.jpg",
+        "imageAlt" : "Second Brain 1 - Page 68"
+      } ]
+    }, {
+      "pageNumber" : 69,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/69",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/1/second-brain-4934013.jpg",
+        "imageAlt" : "Second Brain 1 - Page 69"
+      } ]
+    }, {
+      "pageNumber" : 70,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/70",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/1/second-brain-4934015.jpg",
+        "imageAlt" : "Second Brain 1 - Page 70"
+      } ]
+    }, {
+      "pageNumber" : 71,
+      "pageUrl" : "http://www.mangareader.net/second-brain/1/71",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/1/second-brain-4934017.jpg",
+        "imageAlt" : "Second Brain 1 - Page 71"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/second-brain/2",
+    "chapterTitle" : "Second Brain 2",
+    "chapterDescription" : "",
+    "chapterDate" : "05/19/2014",
+    "pageCount" : 54,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/2/second-brain-4962099.jpg",
+        "imageAlt" : "Second Brain 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/2/second-brain-4962101.jpg",
+        "imageAlt" : "Second Brain 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/2/second-brain-4962103.jpg",
+        "imageAlt" : "Second Brain 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/2/second-brain-4962105.jpg",
+        "imageAlt" : "Second Brain 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/2/second-brain-4962107.jpg",
+        "imageAlt" : "Second Brain 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/2/second-brain-4962109.jpg",
+        "imageAlt" : "Second Brain 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/2/second-brain-4962111.jpg",
+        "imageAlt" : "Second Brain 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/2/second-brain-4962113.jpg",
+        "imageAlt" : "Second Brain 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/2/second-brain-4962115.jpg",
+        "imageAlt" : "Second Brain 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/2/second-brain-4962117.jpg",
+        "imageAlt" : "Second Brain 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/2/second-brain-4962119.jpg",
+        "imageAlt" : "Second Brain 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/2/second-brain-4962121.jpg",
+        "imageAlt" : "Second Brain 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/2/second-brain-4962123.jpg",
+        "imageAlt" : "Second Brain 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/2/second-brain-4962125.jpg",
+        "imageAlt" : "Second Brain 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/2/second-brain-4962127.jpg",
+        "imageAlt" : "Second Brain 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/2/second-brain-4962129.jpg",
+        "imageAlt" : "Second Brain 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/2/second-brain-4962131.jpg",
+        "imageAlt" : "Second Brain 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/2/second-brain-4962133.jpg",
+        "imageAlt" : "Second Brain 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/2/second-brain-4962135.jpg",
+        "imageAlt" : "Second Brain 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/2/second-brain-4962137.jpg",
+        "imageAlt" : "Second Brain 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/2/second-brain-4962139.jpg",
+        "imageAlt" : "Second Brain 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/2/second-brain-4962141.jpg",
+        "imageAlt" : "Second Brain 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/2/second-brain-4962143.jpg",
+        "imageAlt" : "Second Brain 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/2/second-brain-4962145.jpg",
+        "imageAlt" : "Second Brain 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/2/second-brain-4962147.jpg",
+        "imageAlt" : "Second Brain 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/2/second-brain-4962149.jpg",
+        "imageAlt" : "Second Brain 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/2/second-brain-4962151.jpg",
+        "imageAlt" : "Second Brain 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/2/second-brain-4962153.jpg",
+        "imageAlt" : "Second Brain 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/2/second-brain-4962155.jpg",
+        "imageAlt" : "Second Brain 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/2/second-brain-4962157.jpg",
+        "imageAlt" : "Second Brain 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/2/second-brain-4962159.jpg",
+        "imageAlt" : "Second Brain 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/2/second-brain-4962161.jpg",
+        "imageAlt" : "Second Brain 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/2/second-brain-4962163.jpg",
+        "imageAlt" : "Second Brain 2 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/2/second-brain-4962165.jpg",
+        "imageAlt" : "Second Brain 2 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/2/second-brain-4962167.jpg",
+        "imageAlt" : "Second Brain 2 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/2/second-brain-4962169.jpg",
+        "imageAlt" : "Second Brain 2 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/2/second-brain-4962171.jpg",
+        "imageAlt" : "Second Brain 2 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/2/second-brain-4962173.jpg",
+        "imageAlt" : "Second Brain 2 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/2/second-brain-4962175.jpg",
+        "imageAlt" : "Second Brain 2 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/2/second-brain-4962177.jpg",
+        "imageAlt" : "Second Brain 2 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/2/second-brain-4962179.jpg",
+        "imageAlt" : "Second Brain 2 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/2/second-brain-4962181.jpg",
+        "imageAlt" : "Second Brain 2 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/2/second-brain-4962183.jpg",
+        "imageAlt" : "Second Brain 2 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/2/second-brain-4962185.jpg",
+        "imageAlt" : "Second Brain 2 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/2/second-brain-4962187.jpg",
+        "imageAlt" : "Second Brain 2 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 568,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/2/second-brain-4962189.jpg",
+        "imageAlt" : "Second Brain 2 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/2/second-brain-4962191.jpg",
+        "imageAlt" : "Second Brain 2 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/2/second-brain-4962193.jpg",
+        "imageAlt" : "Second Brain 2 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/2/second-brain-4962195.jpg",
+        "imageAlt" : "Second Brain 2 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/2/second-brain-4962197.jpg",
+        "imageAlt" : "Second Brain 2 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/2/second-brain-4962199.jpg",
+        "imageAlt" : "Second Brain 2 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/2/second-brain-4962201.jpg",
+        "imageAlt" : "Second Brain 2 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/2/second-brain-4962203.jpg",
+        "imageAlt" : "Second Brain 2 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/second-brain/2/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/2/second-brain-4962205.jpg",
+        "imageAlt" : "Second Brain 2 - Page 54"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/second-brain/3",
+    "chapterTitle" : "Second Brain 3",
+    "chapterDescription" : "",
+    "chapterDate" : "07/01/2014",
+    "pageCount" : 54,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/3/second-brain-5030765.jpg",
+        "imageAlt" : "Second Brain 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/3/second-brain-5030767.jpg",
+        "imageAlt" : "Second Brain 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/3/second-brain-5030769.jpg",
+        "imageAlt" : "Second Brain 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/3/second-brain-5030771.jpg",
+        "imageAlt" : "Second Brain 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/3/second-brain-5030773.jpg",
+        "imageAlt" : "Second Brain 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/3/second-brain-5030775.jpg",
+        "imageAlt" : "Second Brain 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/3/second-brain-5030777.jpg",
+        "imageAlt" : "Second Brain 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/3/second-brain-5030779.jpg",
+        "imageAlt" : "Second Brain 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/3/second-brain-5030781.jpg",
+        "imageAlt" : "Second Brain 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/3/second-brain-5030783.jpg",
+        "imageAlt" : "Second Brain 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/3/second-brain-5030785.jpg",
+        "imageAlt" : "Second Brain 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/3/second-brain-5030787.jpg",
+        "imageAlt" : "Second Brain 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/3/second-brain-5030789.jpg",
+        "imageAlt" : "Second Brain 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/3/second-brain-5030791.jpg",
+        "imageAlt" : "Second Brain 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/3/second-brain-5030793.jpg",
+        "imageAlt" : "Second Brain 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/3/second-brain-5030795.jpg",
+        "imageAlt" : "Second Brain 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/3/second-brain-5030797.jpg",
+        "imageAlt" : "Second Brain 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/3/second-brain-5030799.jpg",
+        "imageAlt" : "Second Brain 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/3/second-brain-5030801.jpg",
+        "imageAlt" : "Second Brain 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/3/second-brain-5030803.jpg",
+        "imageAlt" : "Second Brain 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/3/second-brain-5030805.jpg",
+        "imageAlt" : "Second Brain 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/3/second-brain-5030807.jpg",
+        "imageAlt" : "Second Brain 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/3/second-brain-5030809.jpg",
+        "imageAlt" : "Second Brain 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/3/second-brain-5030811.jpg",
+        "imageAlt" : "Second Brain 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/3/second-brain-5030813.jpg",
+        "imageAlt" : "Second Brain 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/3/second-brain-5030815.jpg",
+        "imageAlt" : "Second Brain 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/3/second-brain-5030817.jpg",
+        "imageAlt" : "Second Brain 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/3/second-brain-5030819.jpg",
+        "imageAlt" : "Second Brain 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/3/second-brain-5030821.jpg",
+        "imageAlt" : "Second Brain 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/3/second-brain-5030823.jpg",
+        "imageAlt" : "Second Brain 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/3/second-brain-5030825.jpg",
+        "imageAlt" : "Second Brain 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/3/second-brain-5030827.jpg",
+        "imageAlt" : "Second Brain 3 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/3/second-brain-5030829.jpg",
+        "imageAlt" : "Second Brain 3 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/3/second-brain-5030831.jpg",
+        "imageAlt" : "Second Brain 3 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/3/second-brain-5030833.jpg",
+        "imageAlt" : "Second Brain 3 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/3/second-brain-5030835.jpg",
+        "imageAlt" : "Second Brain 3 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/3/second-brain-5030837.jpg",
+        "imageAlt" : "Second Brain 3 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/3/second-brain-5030839.jpg",
+        "imageAlt" : "Second Brain 3 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/3/second-brain-5030841.jpg",
+        "imageAlt" : "Second Brain 3 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/3/second-brain-5030843.jpg",
+        "imageAlt" : "Second Brain 3 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/3/second-brain-5030845.jpg",
+        "imageAlt" : "Second Brain 3 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/3/second-brain-5030847.jpg",
+        "imageAlt" : "Second Brain 3 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/3/second-brain-5030849.jpg",
+        "imageAlt" : "Second Brain 3 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/3/second-brain-5030851.jpg",
+        "imageAlt" : "Second Brain 3 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/3/second-brain-5030853.jpg",
+        "imageAlt" : "Second Brain 3 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/3/second-brain-5030855.jpg",
+        "imageAlt" : "Second Brain 3 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/3/second-brain-5030857.jpg",
+        "imageAlt" : "Second Brain 3 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/3/second-brain-5030859.jpg",
+        "imageAlt" : "Second Brain 3 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/3/second-brain-5030861.jpg",
+        "imageAlt" : "Second Brain 3 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/3/second-brain-5030863.jpg",
+        "imageAlt" : "Second Brain 3 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 601,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/3/second-brain-5030865.jpg",
+        "imageAlt" : "Second Brain 3 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/3/second-brain-5030867.jpg",
+        "imageAlt" : "Second Brain 3 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 601,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/3/second-brain-5030869.jpg",
+        "imageAlt" : "Second Brain 3 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/second-brain/3/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 601,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/3/second-brain-5030871.jpg",
+        "imageAlt" : "Second Brain 3 - Page 54"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/second-brain/4",
+    "chapterTitle" : "Second Brain 4",
+    "chapterDescription" : "",
+    "chapterDate" : "07/01/2014",
+    "pageCount" : 48,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/4/second-brain-5030873.jpg",
+        "imageAlt" : "Second Brain 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/4/second-brain-5030875.jpg",
+        "imageAlt" : "Second Brain 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/4/second-brain-5030877.jpg",
+        "imageAlt" : "Second Brain 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/4/second-brain-5030879.jpg",
+        "imageAlt" : "Second Brain 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/4/second-brain-5030881.jpg",
+        "imageAlt" : "Second Brain 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/4/second-brain-5030883.jpg",
+        "imageAlt" : "Second Brain 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/4/second-brain-5030885.jpg",
+        "imageAlt" : "Second Brain 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/4/second-brain-5030887.jpg",
+        "imageAlt" : "Second Brain 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/4/second-brain-5030889.jpg",
+        "imageAlt" : "Second Brain 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/4/second-brain-5030891.jpg",
+        "imageAlt" : "Second Brain 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/4/second-brain-5030893.jpg",
+        "imageAlt" : "Second Brain 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/4/second-brain-5030895.jpg",
+        "imageAlt" : "Second Brain 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/4/second-brain-5030897.jpg",
+        "imageAlt" : "Second Brain 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/4/second-brain-5030899.jpg",
+        "imageAlt" : "Second Brain 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/4/second-brain-5030901.jpg",
+        "imageAlt" : "Second Brain 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/4/second-brain-5030903.jpg",
+        "imageAlt" : "Second Brain 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/4/second-brain-5030905.jpg",
+        "imageAlt" : "Second Brain 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/4/second-brain-5030907.jpg",
+        "imageAlt" : "Second Brain 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/4/second-brain-5030909.jpg",
+        "imageAlt" : "Second Brain 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/4/second-brain-5030911.jpg",
+        "imageAlt" : "Second Brain 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/4/second-brain-5030913.jpg",
+        "imageAlt" : "Second Brain 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/4/second-brain-5030915.jpg",
+        "imageAlt" : "Second Brain 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/4/second-brain-5030917.jpg",
+        "imageAlt" : "Second Brain 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/4/second-brain-5030919.jpg",
+        "imageAlt" : "Second Brain 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/4/second-brain-5030921.jpg",
+        "imageAlt" : "Second Brain 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/4/second-brain-5030923.jpg",
+        "imageAlt" : "Second Brain 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/4/second-brain-5030925.jpg",
+        "imageAlt" : "Second Brain 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/4/second-brain-5030927.jpg",
+        "imageAlt" : "Second Brain 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/4/second-brain-5030931.jpg",
+        "imageAlt" : "Second Brain 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/4/second-brain-5030937.jpg",
+        "imageAlt" : "Second Brain 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/4/second-brain-5030939.jpg",
+        "imageAlt" : "Second Brain 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/4/second-brain-5030943.jpg",
+        "imageAlt" : "Second Brain 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/4/second-brain-5030947.jpg",
+        "imageAlt" : "Second Brain 4 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/4/second-brain-5030951.jpg",
+        "imageAlt" : "Second Brain 4 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/4/second-brain-5030955.jpg",
+        "imageAlt" : "Second Brain 4 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/4/second-brain-5030959.jpg",
+        "imageAlt" : "Second Brain 4 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/4/second-brain-5030963.jpg",
+        "imageAlt" : "Second Brain 4 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/4/second-brain-5030967.jpg",
+        "imageAlt" : "Second Brain 4 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/4/second-brain-5030971.jpg",
+        "imageAlt" : "Second Brain 4 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/4/second-brain-5030975.jpg",
+        "imageAlt" : "Second Brain 4 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/4/second-brain-5030979.jpg",
+        "imageAlt" : "Second Brain 4 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/4/second-brain-5030983.jpg",
+        "imageAlt" : "Second Brain 4 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/4/second-brain-5030987.jpg",
+        "imageAlt" : "Second Brain 4 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/4/second-brain-5030989.jpg",
+        "imageAlt" : "Second Brain 4 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 601,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/4/second-brain-5030993.jpg",
+        "imageAlt" : "Second Brain 4 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/4/second-brain-5030997.jpg",
+        "imageAlt" : "Second Brain 4 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 601,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/4/second-brain-5031001.jpg",
+        "imageAlt" : "Second Brain 4 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/second-brain/4/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 601,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/4/second-brain-5031005.jpg",
+        "imageAlt" : "Second Brain 4 - Page 48"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/second-brain/5",
+    "chapterTitle" : "Second Brain 5",
+    "chapterDescription" : "",
+    "chapterDate" : "07/12/2014",
+    "pageCount" : 49,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/5/second-brain-5053481.jpg",
+        "imageAlt" : "Second Brain 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/5/second-brain-5053483.jpg",
+        "imageAlt" : "Second Brain 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/5/second-brain-5053485.jpg",
+        "imageAlt" : "Second Brain 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/5/second-brain-5053487.jpg",
+        "imageAlt" : "Second Brain 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/5/second-brain-5053489.jpg",
+        "imageAlt" : "Second Brain 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/5/second-brain-5053491.jpg",
+        "imageAlt" : "Second Brain 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/5/second-brain-5053493.jpg",
+        "imageAlt" : "Second Brain 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/5/second-brain-5053495.jpg",
+        "imageAlt" : "Second Brain 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/5/second-brain-5053497.jpg",
+        "imageAlt" : "Second Brain 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/5/second-brain-5053499.jpg",
+        "imageAlt" : "Second Brain 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/5/second-brain-5053501.jpg",
+        "imageAlt" : "Second Brain 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/5/second-brain-5053503.jpg",
+        "imageAlt" : "Second Brain 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/5/second-brain-5053505.jpg",
+        "imageAlt" : "Second Brain 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/5/second-brain-5053507.jpg",
+        "imageAlt" : "Second Brain 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/5/second-brain-5053509.jpg",
+        "imageAlt" : "Second Brain 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/5/second-brain-5053511.jpg",
+        "imageAlt" : "Second Brain 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/5/second-brain-5053513.jpg",
+        "imageAlt" : "Second Brain 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/5/second-brain-5053515.jpg",
+        "imageAlt" : "Second Brain 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/5/second-brain-5053517.jpg",
+        "imageAlt" : "Second Brain 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/5/second-brain-5053519.jpg",
+        "imageAlt" : "Second Brain 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/5/second-brain-5053521.jpg",
+        "imageAlt" : "Second Brain 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/5/second-brain-5053523.jpg",
+        "imageAlt" : "Second Brain 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/5/second-brain-5053525.jpg",
+        "imageAlt" : "Second Brain 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/5/second-brain-5053527.jpg",
+        "imageAlt" : "Second Brain 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/5/second-brain-5053529.jpg",
+        "imageAlt" : "Second Brain 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/5/second-brain-5053531.jpg",
+        "imageAlt" : "Second Brain 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/5/second-brain-5053533.jpg",
+        "imageAlt" : "Second Brain 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/5/second-brain-5053535.jpg",
+        "imageAlt" : "Second Brain 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/5/second-brain-5053537.jpg",
+        "imageAlt" : "Second Brain 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/5/second-brain-5053539.jpg",
+        "imageAlt" : "Second Brain 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/5/second-brain-5053541.jpg",
+        "imageAlt" : "Second Brain 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/5/second-brain-5053543.jpg",
+        "imageAlt" : "Second Brain 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/5/second-brain-5053545.jpg",
+        "imageAlt" : "Second Brain 5 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/5/second-brain-5053547.jpg",
+        "imageAlt" : "Second Brain 5 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/5/second-brain-5053549.jpg",
+        "imageAlt" : "Second Brain 5 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/5/second-brain-5053551.jpg",
+        "imageAlt" : "Second Brain 5 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/5/second-brain-5053553.jpg",
+        "imageAlt" : "Second Brain 5 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/5/second-brain-5053555.jpg",
+        "imageAlt" : "Second Brain 5 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/5/second-brain-5053557.jpg",
+        "imageAlt" : "Second Brain 5 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/5/second-brain-5053559.jpg",
+        "imageAlt" : "Second Brain 5 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/5/second-brain-5053561.jpg",
+        "imageAlt" : "Second Brain 5 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/5/second-brain-5053563.jpg",
+        "imageAlt" : "Second Brain 5 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/5/second-brain-5053565.jpg",
+        "imageAlt" : "Second Brain 5 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/5/second-brain-5053567.jpg",
+        "imageAlt" : "Second Brain 5 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/5/second-brain-5053569.jpg",
+        "imageAlt" : "Second Brain 5 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/5/second-brain-5053571.jpg",
+        "imageAlt" : "Second Brain 5 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/5/second-brain-5053573.jpg",
+        "imageAlt" : "Second Brain 5 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/5/second-brain-5053575.jpg",
+        "imageAlt" : "Second Brain 5 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/second-brain/5/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/5/second-brain-5053577.jpg",
+        "imageAlt" : "Second Brain 5 - Page 49"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/second-brain/6",
+    "chapterTitle" : "Second Brain 6",
+    "chapterDescription" : "",
+    "chapterDate" : "08/07/2014",
+    "pageCount" : 47,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 601,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/6/second-brain-5103493.jpg",
+        "imageAlt" : "Second Brain 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 601,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/6/second-brain-5103495.jpg",
+        "imageAlt" : "Second Brain 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/6/second-brain-5103497.jpg",
+        "imageAlt" : "Second Brain 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/6/second-brain-5103499.jpg",
+        "imageAlt" : "Second Brain 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/6/second-brain-5103501.jpg",
+        "imageAlt" : "Second Brain 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/6/second-brain-5103503.jpg",
+        "imageAlt" : "Second Brain 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/6/second-brain-5103505.jpg",
+        "imageAlt" : "Second Brain 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/6/second-brain-5103507.jpg",
+        "imageAlt" : "Second Brain 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/6/second-brain-5103509.jpg",
+        "imageAlt" : "Second Brain 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/6/second-brain-5103511.jpg",
+        "imageAlt" : "Second Brain 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/6/second-brain-5103513.jpg",
+        "imageAlt" : "Second Brain 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/6/second-brain-5103515.jpg",
+        "imageAlt" : "Second Brain 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/6/second-brain-5103517.jpg",
+        "imageAlt" : "Second Brain 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/6/second-brain-5103519.jpg",
+        "imageAlt" : "Second Brain 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/6/second-brain-5103521.jpg",
+        "imageAlt" : "Second Brain 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/6/second-brain-5103523.jpg",
+        "imageAlt" : "Second Brain 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/6/second-brain-5103525.jpg",
+        "imageAlt" : "Second Brain 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/6/second-brain-5103527.jpg",
+        "imageAlt" : "Second Brain 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/6/second-brain-5103529.jpg",
+        "imageAlt" : "Second Brain 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/6/second-brain-5103531.jpg",
+        "imageAlt" : "Second Brain 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/6/second-brain-5103533.jpg",
+        "imageAlt" : "Second Brain 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/6/second-brain-5103535.jpg",
+        "imageAlt" : "Second Brain 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/6/second-brain-5103537.jpg",
+        "imageAlt" : "Second Brain 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/6/second-brain-5103539.jpg",
+        "imageAlt" : "Second Brain 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/6/second-brain-5103541.jpg",
+        "imageAlt" : "Second Brain 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/6/second-brain-5103543.jpg",
+        "imageAlt" : "Second Brain 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/6/second-brain-5103545.jpg",
+        "imageAlt" : "Second Brain 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/6/second-brain-5103547.jpg",
+        "imageAlt" : "Second Brain 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/6/second-brain-5103549.jpg",
+        "imageAlt" : "Second Brain 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/6/second-brain-5103551.jpg",
+        "imageAlt" : "Second Brain 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/6/second-brain-5103553.jpg",
+        "imageAlt" : "Second Brain 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/6/second-brain-5103555.jpg",
+        "imageAlt" : "Second Brain 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/6/second-brain-5103557.jpg",
+        "imageAlt" : "Second Brain 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/6/second-brain-5103559.jpg",
+        "imageAlt" : "Second Brain 6 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/6/second-brain-5103561.jpg",
+        "imageAlt" : "Second Brain 6 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/6/second-brain-5103563.jpg",
+        "imageAlt" : "Second Brain 6 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/6/second-brain-5103565.jpg",
+        "imageAlt" : "Second Brain 6 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/6/second-brain-5103567.jpg",
+        "imageAlt" : "Second Brain 6 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/6/second-brain-5103569.jpg",
+        "imageAlt" : "Second Brain 6 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/6/second-brain-5103571.jpg",
+        "imageAlt" : "Second Brain 6 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/6/second-brain-5103573.jpg",
+        "imageAlt" : "Second Brain 6 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/6/second-brain-5103575.jpg",
+        "imageAlt" : "Second Brain 6 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/6/second-brain-5103577.jpg",
+        "imageAlt" : "Second Brain 6 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/6/second-brain-5103579.jpg",
+        "imageAlt" : "Second Brain 6 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/6/second-brain-5103581.jpg",
+        "imageAlt" : "Second Brain 6 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/6/second-brain-5103583.jpg",
+        "imageAlt" : "Second Brain 6 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/second-brain/6/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 601,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/6/second-brain-5103585.jpg",
+        "imageAlt" : "Second Brain 6 - Page 47"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/second-brain/7",
+    "chapterTitle" : "Second Brain 7",
+    "chapterDescription" : "",
+    "chapterDate" : "08/07/2014",
+    "pageCount" : 44,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/7/second-brain-5103587.jpg",
+        "imageAlt" : "Second Brain 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/7/second-brain-5103589.jpg",
+        "imageAlt" : "Second Brain 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/7/second-brain-5103591.jpg",
+        "imageAlt" : "Second Brain 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/7/second-brain-5103593.jpg",
+        "imageAlt" : "Second Brain 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/7/second-brain-5103595.jpg",
+        "imageAlt" : "Second Brain 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/7/second-brain-5103597.jpg",
+        "imageAlt" : "Second Brain 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/7/second-brain-5103599.jpg",
+        "imageAlt" : "Second Brain 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/7/second-brain-5103601.jpg",
+        "imageAlt" : "Second Brain 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/7/second-brain-5103607.jpg",
+        "imageAlt" : "Second Brain 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/7/second-brain-5103611.jpg",
+        "imageAlt" : "Second Brain 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/7/second-brain-5103615.jpg",
+        "imageAlt" : "Second Brain 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/7/second-brain-5103619.jpg",
+        "imageAlt" : "Second Brain 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/7/second-brain-5103623.jpg",
+        "imageAlt" : "Second Brain 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/7/second-brain-5103627.jpg",
+        "imageAlt" : "Second Brain 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/7/second-brain-5103631.jpg",
+        "imageAlt" : "Second Brain 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/second-brain/7/second-brain-5103635.jpg",
+        "imageAlt" : "Second Brain 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/7/second-brain-5103639.jpg",
+        "imageAlt" : "Second Brain 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/7/second-brain-5103643.jpg",
+        "imageAlt" : "Second Brain 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i3.mangareader.net/second-brain/7/second-brain-5103645.jpg",
+        "imageAlt" : "Second Brain 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/second-brain/7/second-brain-5103651.jpg",
+        "imageAlt" : "Second Brain 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/second-brain/7/second-brain-5103653.jpg",
+        "imageAlt" : "Second Brain 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/second-brain/7/second-brain-5103659.jpg",
+        "imageAlt" : "Second Brain 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/7/second-brain-5103665.jpg",
+        "imageAlt" : "Second Brain 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/7/second-brain-5103669.jpg",
+        "imageAlt" : "Second Brain 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/7/second-brain-5103671.jpg",
+        "imageAlt" : "Second Brain 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/second-brain/7/second-brain-5103673.jpg",
+        "imageAlt" : "Second Brain 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/7/second-brain-5103675.jpg",
+        "imageAlt" : "Second Brain 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/7/second-brain-5103677.jpg",
+        "imageAlt" : "Second Brain 7 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/7/second-brain-5103679.jpg",
+        "imageAlt" : "Second Brain 7 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/7/second-brain-5103681.jpg",
+        "imageAlt" : "Second Brain 7 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/7/second-brain-5103683.jpg",
+        "imageAlt" : "Second Brain 7 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/7/second-brain-5103685.jpg",
+        "imageAlt" : "Second Brain 7 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/7/second-brain-5103687.jpg",
+        "imageAlt" : "Second Brain 7 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i2.mangareader.net/second-brain/7/second-brain-5103689.jpg",
+        "imageAlt" : "Second Brain 7 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/7/second-brain-5103691.jpg",
+        "imageAlt" : "Second Brain 7 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/7/second-brain-5103693.jpg",
+        "imageAlt" : "Second Brain 7 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/7/second-brain-5103695.jpg",
+        "imageAlt" : "Second Brain 7 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/7/second-brain-5103697.jpg",
+        "imageAlt" : "Second Brain 7 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/7/second-brain-5103699.jpg",
+        "imageAlt" : "Second Brain 7 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 577,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/7/second-brain-5103701.jpg",
+        "imageAlt" : "Second Brain 7 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/7/second-brain-5103703.jpg",
+        "imageAlt" : "Second Brain 7 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/second-brain/7/second-brain-5103705.jpg",
+        "imageAlt" : "Second Brain 7 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 468,
+        "imageUrl" : "http://i6.mangareader.net/second-brain/7/second-brain-5103707.jpg",
+        "imageAlt" : "Second Brain 7 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/second-brain/7/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 583,
+        "imageUrl" : "http://i8.mangareader.net/second-brain/7/second-brain-5103709.jpg",
+        "imageAlt" : "Second Brain 7 - Page 44"
+      } ]
+    } ]
+  } ]
+}

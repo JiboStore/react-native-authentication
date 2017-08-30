@@ -1,0 +1,882 @@
+{
+  "mangaTitle" : "Kare wa Tomodachi",
+  "mangaUrl" : "http://www.mangareader.net/kare-wa-tomodachi",
+  "mangaThumbUrl" : "http://s1.mangareader.net/cover/kare-wa-tomodachi/kare-wa-tomodachi-r0.jpg",
+  "mangaChaptersInfo" : "29 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Romance, School Life, Shoujo",
+  "chapterCount" : 14,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1",
+    "chapterTitle" : "It's Not My Fault That My Friend's Unpopular! 1",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2013",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i3.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/its-not-my-fault-that-my-friends-unpopular-4100315.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i3.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/its-not-my-fault-that-my-friends-unpopular-4100317.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i5.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/its-not-my-fault-that-my-friends-unpopular-4100319.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i10.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/its-not-my-fault-that-my-friends-unpopular-4100321.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i4.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/its-not-my-fault-that-my-friends-unpopular-4100323.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i8.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/its-not-my-fault-that-my-friends-unpopular-4100325.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i8.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/its-not-my-fault-that-my-friends-unpopular-4100327.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i4.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/its-not-my-fault-that-my-friends-unpopular-4100329.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i6.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/its-not-my-fault-that-my-friends-unpopular-4100331.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i2.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/its-not-my-fault-that-my-friends-unpopular-4100333.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i4.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/its-not-my-fault-that-my-friends-unpopular-4100335.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 850,
+        "imageUrl" : "http://i4.mangareader.net/its-not-my-fault-that-my-friends-unpopular/1/its-not-my-fault-that-my-friends-unpopular-4100337.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 1 - Page 12"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2",
+    "chapterTitle" : "It's Not My Fault That My Friend's Unpopular! 2",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2013",
+    "pageCount" : 8,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i8.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2/its-not-my-fault-that-my-friends-unpopular-4100339.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i10.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2/its-not-my-fault-that-my-friends-unpopular-4100341.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i2.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2/its-not-my-fault-that-my-friends-unpopular-4100343.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i10.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2/its-not-my-fault-that-my-friends-unpopular-4100345.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i6.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2/its-not-my-fault-that-my-friends-unpopular-4100347.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i6.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2/its-not-my-fault-that-my-friends-unpopular-4100349.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i4.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2/its-not-my-fault-that-my-friends-unpopular-4100351.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 850,
+        "imageUrl" : "http://i2.mangareader.net/its-not-my-fault-that-my-friends-unpopular/2/its-not-my-fault-that-my-friends-unpopular-4100353.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 2 - Page 8"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/3",
+    "chapterTitle" : "It's Not My Fault That My Friend's Unpopular! 3",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2013",
+    "pageCount" : 5,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i3.mangareader.net/its-not-my-fault-that-my-friends-unpopular/3/its-not-my-fault-that-my-friends-unpopular-4100355.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/its-not-my-fault-that-my-friends-unpopular/3/its-not-my-fault-that-my-friends-unpopular-4100357.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/its-not-my-fault-that-my-friends-unpopular/3/its-not-my-fault-that-my-friends-unpopular-4100359.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/its-not-my-fault-that-my-friends-unpopular/3/its-not-my-fault-that-my-friends-unpopular-4100361.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 850,
+        "imageUrl" : "http://i10.mangareader.net/its-not-my-fault-that-my-friends-unpopular/3/its-not-my-fault-that-my-friends-unpopular-4100363.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 3 - Page 5"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/4",
+    "chapterTitle" : "It's Not My Fault That My Friend's Unpopular! 4",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2013",
+    "pageCount" : 6,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/its-not-my-fault-that-my-friends-unpopular/4/its-not-my-fault-that-my-friends-unpopular-4100365.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/its-not-my-fault-that-my-friends-unpopular/4/its-not-my-fault-that-my-friends-unpopular-4100367.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/its-not-my-fault-that-my-friends-unpopular/4/its-not-my-fault-that-my-friends-unpopular-4100369.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/its-not-my-fault-that-my-friends-unpopular/4/its-not-my-fault-that-my-friends-unpopular-4100371.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/its-not-my-fault-that-my-friends-unpopular/4/its-not-my-fault-that-my-friends-unpopular-4100373.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 850,
+        "imageUrl" : "http://i8.mangareader.net/its-not-my-fault-that-my-friends-unpopular/4/its-not-my-fault-that-my-friends-unpopular-4100375.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 4 - Page 6"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/5",
+    "chapterTitle" : "It's Not My Fault That My Friend's Unpopular! 5",
+    "chapterDescription" : "",
+    "chapterDate" : "06/26/2013",
+    "pageCount" : 6,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/its-not-my-fault-that-my-friends-unpopular/5/its-not-my-fault-that-my-friends-unpopular-4257113.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/its-not-my-fault-that-my-friends-unpopular/5/its-not-my-fault-that-my-friends-unpopular-4257115.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/its-not-my-fault-that-my-friends-unpopular/5/its-not-my-fault-that-my-friends-unpopular-4257117.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/its-not-my-fault-that-my-friends-unpopular/5/its-not-my-fault-that-my-friends-unpopular-4257119.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/its-not-my-fault-that-my-friends-unpopular/5/its-not-my-fault-that-my-friends-unpopular-4257121.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 851,
+        "imageUrl" : "http://i10.mangareader.net/its-not-my-fault-that-my-friends-unpopular/5/its-not-my-fault-that-my-friends-unpopular-4257123.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 5 - Page 6"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/6",
+    "chapterTitle" : "It's Not My Fault That My Friend's Unpopular! 6",
+    "chapterDescription" : "",
+    "chapterDate" : "07/25/2013",
+    "pageCount" : 6,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i4.mangareader.net/its-not-my-fault-that-my-friends-unpopular/6/its-not-my-fault-that-my-friends-unpopular-4322003.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i4.mangareader.net/its-not-my-fault-that-my-friends-unpopular/6/its-not-my-fault-that-my-friends-unpopular-4322005.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i10.mangareader.net/its-not-my-fault-that-my-friends-unpopular/6/its-not-my-fault-that-my-friends-unpopular-4322007.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i6.mangareader.net/its-not-my-fault-that-my-friends-unpopular/6/its-not-my-fault-that-my-friends-unpopular-4322009.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/its-not-my-fault-that-my-friends-unpopular/6/its-not-my-fault-that-my-friends-unpopular-4322011.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 850,
+        "imageUrl" : "http://i6.mangareader.net/its-not-my-fault-that-my-friends-unpopular/6/its-not-my-fault-that-my-friends-unpopular-4322013.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 6 - Page 6"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/7",
+    "chapterTitle" : "It's Not My Fault That My Friend's Unpopular! 7",
+    "chapterDescription" : "",
+    "chapterDate" : "08/29/2013",
+    "pageCount" : 4,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i10.mangareader.net/its-not-my-fault-that-my-friends-unpopular/7/its-not-my-fault-that-my-friends-unpopular-4418479.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i4.mangareader.net/its-not-my-fault-that-my-friends-unpopular/7/its-not-my-fault-that-my-friends-unpopular-4418481.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/its-not-my-fault-that-my-friends-unpopular/7/its-not-my-fault-that-my-friends-unpopular-4418483.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/its-not-my-fault-that-my-friends-unpopular/7/its-not-my-fault-that-my-friends-unpopular-4418485.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 7 - Page 4"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/8",
+    "chapterTitle" : "It's Not My Fault That My Friend's Unpopular! 8",
+    "chapterDescription" : "",
+    "chapterDate" : "11/11/2013",
+    "pageCount" : 6,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/its-not-my-fault-that-my-friends-unpopular/8/its-not-my-fault-that-my-friends-unpopular-4564515.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/its-not-my-fault-that-my-friends-unpopular/8/its-not-my-fault-that-my-friends-unpopular-4564519.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/its-not-my-fault-that-my-friends-unpopular/8/its-not-my-fault-that-my-friends-unpopular-4564523.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i9.mangareader.net/its-not-my-fault-that-my-friends-unpopular/8/its-not-my-fault-that-my-friends-unpopular-4564527.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/its-not-my-fault-that-my-friends-unpopular/8/its-not-my-fault-that-my-friends-unpopular-4564531.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i1.mangareader.net/its-not-my-fault-that-my-friends-unpopular/8/its-not-my-fault-that-my-friends-unpopular-4564535.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 8 - Page 6"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/9",
+    "chapterTitle" : "It's Not My Fault That My Friend's Unpopular! 9",
+    "chapterDescription" : "",
+    "chapterDate" : "12/14/2013",
+    "pageCount" : 5,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/its-not-my-fault-that-my-friends-unpopular/9/its-not-my-fault-that-my-friends-unpopular-4633041.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/its-not-my-fault-that-my-friends-unpopular/9/its-not-my-fault-that-my-friends-unpopular-4633043.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/its-not-my-fault-that-my-friends-unpopular/9/its-not-my-fault-that-my-friends-unpopular-4633045.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/its-not-my-fault-that-my-friends-unpopular/9/its-not-my-fault-that-my-friends-unpopular-4633047.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i7.mangareader.net/its-not-my-fault-that-my-friends-unpopular/9/its-not-my-fault-that-my-friends-unpopular-4633049.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 9 - Page 5"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/10",
+    "chapterTitle" : "It's Not My Fault That My Friend's Unpopular! 10",
+    "chapterDescription" : "",
+    "chapterDate" : "01/06/2014",
+    "pageCount" : 5,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/its-not-my-fault-that-my-friends-unpopular/10/its-not-my-fault-that-my-friends-unpopular-4696369.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/its-not-my-fault-that-my-friends-unpopular/10/its-not-my-fault-that-my-friends-unpopular-4696371.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i1.mangareader.net/its-not-my-fault-that-my-friends-unpopular/10/its-not-my-fault-that-my-friends-unpopular-4696373.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/its-not-my-fault-that-my-friends-unpopular/10/its-not-my-fault-that-my-friends-unpopular-4696375.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i9.mangareader.net/its-not-my-fault-that-my-friends-unpopular/10/its-not-my-fault-that-my-friends-unpopular-4696377.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 10 - Page 5"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/11",
+    "chapterTitle" : "It's Not My Fault That My Friend's Unpopular! 11",
+    "chapterDescription" : "",
+    "chapterDate" : "01/30/2014",
+    "pageCount" : 5,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/its-not-my-fault-that-my-friends-unpopular/11/its-not-my-fault-that-my-friends-unpopular-4752023.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/its-not-my-fault-that-my-friends-unpopular/11/its-not-my-fault-that-my-friends-unpopular-4752025.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/its-not-my-fault-that-my-friends-unpopular/11/its-not-my-fault-that-my-friends-unpopular-4752027.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/its-not-my-fault-that-my-friends-unpopular/11/its-not-my-fault-that-my-friends-unpopular-4752029.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i1.mangareader.net/its-not-my-fault-that-my-friends-unpopular/11/its-not-my-fault-that-my-friends-unpopular-4752031.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 11 - Page 5"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/12",
+    "chapterTitle" : "It's Not My Fault That My Friend's Unpopular! 12",
+    "chapterDescription" : "",
+    "chapterDate" : "04/24/2014",
+    "pageCount" : 6,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i5.mangareader.net/its-not-my-fault-that-my-friends-unpopular/12/its-not-my-fault-that-my-friends-unpopular-4921257.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i1.mangareader.net/its-not-my-fault-that-my-friends-unpopular/12/its-not-my-fault-that-my-friends-unpopular-4921259.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i10.mangareader.net/its-not-my-fault-that-my-friends-unpopular/12/its-not-my-fault-that-my-friends-unpopular-4921261.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i10.mangareader.net/its-not-my-fault-that-my-friends-unpopular/12/its-not-my-fault-that-my-friends-unpopular-4921263.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i2.mangareader.net/its-not-my-fault-that-my-friends-unpopular/12/its-not-my-fault-that-my-friends-unpopular-4921265.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i4.mangareader.net/its-not-my-fault-that-my-friends-unpopular/12/its-not-my-fault-that-my-friends-unpopular-4921267.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 12 - Page 6"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/13",
+    "chapterTitle" : "It's Not My Fault That My Friend's Unpopular! 13",
+    "chapterDescription" : "",
+    "chapterDate" : "06/12/2014",
+    "pageCount" : 5,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i7.mangareader.net/its-not-my-fault-that-my-friends-unpopular/13/its-not-my-fault-that-my-friends-unpopular-5001625.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i3.mangareader.net/its-not-my-fault-that-my-friends-unpopular/13/its-not-my-fault-that-my-friends-unpopular-5001627.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i5.mangareader.net/its-not-my-fault-that-my-friends-unpopular/13/its-not-my-fault-that-my-friends-unpopular-5001629.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i9.mangareader.net/its-not-my-fault-that-my-friends-unpopular/13/its-not-my-fault-that-my-friends-unpopular-5001631.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i7.mangareader.net/its-not-my-fault-that-my-friends-unpopular/13/its-not-my-fault-that-my-friends-unpopular-5001633.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 13 - Page 5"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/14",
+    "chapterTitle" : "It's Not My Fault That My Friend's Unpopular! 14",
+    "chapterDescription" : "",
+    "chapterDate" : "06/12/2014",
+    "pageCount" : 7,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i5.mangareader.net/its-not-my-fault-that-my-friends-unpopular/14/its-not-my-fault-that-my-friends-unpopular-5001635.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 14 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/14/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i7.mangareader.net/its-not-my-fault-that-my-friends-unpopular/14/its-not-my-fault-that-my-friends-unpopular-5001637.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 14 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/14/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i9.mangareader.net/its-not-my-fault-that-my-friends-unpopular/14/its-not-my-fault-that-my-friends-unpopular-5001639.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 14 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/14/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i7.mangareader.net/its-not-my-fault-that-my-friends-unpopular/14/its-not-my-fault-that-my-friends-unpopular-5001641.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 14 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/14/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i7.mangareader.net/its-not-my-fault-that-my-friends-unpopular/14/its-not-my-fault-that-my-friends-unpopular-5001643.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 14 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/14/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i7.mangareader.net/its-not-my-fault-that-my-friends-unpopular/14/its-not-my-fault-that-my-friends-unpopular-5001645.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 14 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/its-not-my-fault-that-my-friends-unpopular/14/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i3.mangareader.net/its-not-my-fault-that-my-friends-unpopular/14/its-not-my-fault-that-my-friends-unpopular-5001647.jpg",
+        "imageAlt" : "It's Not My Fault That My Friend's Unpopular! 14 - Page 7"
+      } ]
+    } ]
+  } ]
+}

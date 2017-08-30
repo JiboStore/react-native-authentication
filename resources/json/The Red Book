@@ -1,0 +1,4253 @@
+{
+  "mangaTitle" : "The Red Book",
+  "mangaUrl" : "http://www.mangareader.net/the-red-book",
+  "mangaThumbUrl" : "http://s2.mangareader.net/cover/the-red-book/the-red-book-r0.jpg",
+  "mangaChaptersInfo" : "25 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manhwa (Read Left to Right)",
+  "mangaGenre" : "Horror, Psychological",
+  "chapterCount" : 25,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/1",
+    "chapterTitle" : "The Red Book 1",
+    "chapterDescription" : "",
+    "chapterDate" : "05/25/2015",
+    "pageCount" : 24,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/1/the-red-book-5697297.jpg",
+        "imageAlt" : "The Red Book 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/1/the-red-book-5697299.jpg",
+        "imageAlt" : "The Red Book 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/1/the-red-book-5697301.jpg",
+        "imageAlt" : "The Red Book 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/1/the-red-book-5697303.jpg",
+        "imageAlt" : "The Red Book 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/1/the-red-book-5697305.jpg",
+        "imageAlt" : "The Red Book 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/1/the-red-book-5697307.jpg",
+        "imageAlt" : "The Red Book 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/1/the-red-book-5697309.jpg",
+        "imageAlt" : "The Red Book 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/1/the-red-book-5697311.jpg",
+        "imageAlt" : "The Red Book 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/1/the-red-book-5697313.jpg",
+        "imageAlt" : "The Red Book 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/1/the-red-book-5697315.jpg",
+        "imageAlt" : "The Red Book 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 859,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/1/the-red-book-5697317.jpg",
+        "imageAlt" : "The Red Book 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 959,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/1/the-red-book-5697319.jpg",
+        "imageAlt" : "The Red Book 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 880,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/1/the-red-book-5697321.jpg",
+        "imageAlt" : "The Red Book 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 881,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/1/the-red-book-5697323.jpg",
+        "imageAlt" : "The Red Book 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 810,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/1/the-red-book-5697325.jpg",
+        "imageAlt" : "The Red Book 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 803,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/1/the-red-book-5697327.jpg",
+        "imageAlt" : "The Red Book 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 863,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/1/the-red-book-5697329.jpg",
+        "imageAlt" : "The Red Book 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/1/the-red-book-5697331.jpg",
+        "imageAlt" : "The Red Book 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 879,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/1/the-red-book-5697333.jpg",
+        "imageAlt" : "The Red Book 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 904,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/1/the-red-book-5697335.jpg",
+        "imageAlt" : "The Red Book 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 893,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/1/the-red-book-5697337.jpg",
+        "imageAlt" : "The Red Book 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 896,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/1/the-red-book-5697339.jpg",
+        "imageAlt" : "The Red Book 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 897,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/1/the-red-book-5697341.jpg",
+        "imageAlt" : "The Red Book 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/1/the-red-book-5697343.jpg",
+        "imageAlt" : "The Red Book 1 - Page 24"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/2",
+    "chapterTitle" : "The Red Book 2",
+    "chapterDescription" : "",
+    "chapterDate" : "05/25/2015",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/2/the-red-book-5697345.jpg",
+        "imageAlt" : "The Red Book 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 799,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/2/the-red-book-5697347.jpg",
+        "imageAlt" : "The Red Book 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/2/the-red-book-5697349.jpg",
+        "imageAlt" : "The Red Book 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/2/the-red-book-5697351.jpg",
+        "imageAlt" : "The Red Book 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/2/the-red-book-5697353.jpg",
+        "imageAlt" : "The Red Book 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/2/the-red-book-5697355.jpg",
+        "imageAlt" : "The Red Book 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 852,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/2/the-red-book-5697357.jpg",
+        "imageAlt" : "The Red Book 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/2/the-red-book-5697359.jpg",
+        "imageAlt" : "The Red Book 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 824,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/2/the-red-book-5697361.jpg",
+        "imageAlt" : "The Red Book 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/2/the-red-book-5697363.jpg",
+        "imageAlt" : "The Red Book 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 880,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/2/the-red-book-5697365.jpg",
+        "imageAlt" : "The Red Book 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 881,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/2/the-red-book-5697367.jpg",
+        "imageAlt" : "The Red Book 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 865,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/2/the-red-book-5697369.jpg",
+        "imageAlt" : "The Red Book 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/2/the-red-book-5697371.jpg",
+        "imageAlt" : "The Red Book 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/2/the-red-book-5697373.jpg",
+        "imageAlt" : "The Red Book 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 885,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/2/the-red-book-5697375.jpg",
+        "imageAlt" : "The Red Book 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 953,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/2/the-red-book-5697377.jpg",
+        "imageAlt" : "The Red Book 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 872,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/2/the-red-book-5697379.jpg",
+        "imageAlt" : "The Red Book 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 883,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/2/the-red-book-5697381.jpg",
+        "imageAlt" : "The Red Book 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/2/the-red-book-5697383.jpg",
+        "imageAlt" : "The Red Book 2 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/3",
+    "chapterTitle" : "The Red Book 3",
+    "chapterDescription" : "",
+    "chapterDate" : "05/25/2015",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/3/the-red-book-5697385.jpg",
+        "imageAlt" : "The Red Book 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/3/the-red-book-5697387.jpg",
+        "imageAlt" : "The Red Book 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 896,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/3/the-red-book-5697389.jpg",
+        "imageAlt" : "The Red Book 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 883,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/3/the-red-book-5697391.jpg",
+        "imageAlt" : "The Red Book 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/3/the-red-book-5697393.jpg",
+        "imageAlt" : "The Red Book 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 943,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/3/the-red-book-5697395.jpg",
+        "imageAlt" : "The Red Book 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 901,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/3/the-red-book-5697397.jpg",
+        "imageAlt" : "The Red Book 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 981,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/3/the-red-book-5697399.jpg",
+        "imageAlt" : "The Red Book 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 895,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/3/the-red-book-5697401.jpg",
+        "imageAlt" : "The Red Book 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/3/the-red-book-5697403.jpg",
+        "imageAlt" : "The Red Book 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/3/the-red-book-5697405.jpg",
+        "imageAlt" : "The Red Book 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 900,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/3/the-red-book-5697407.jpg",
+        "imageAlt" : "The Red Book 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 888,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/3/the-red-book-5697409.jpg",
+        "imageAlt" : "The Red Book 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 939,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/3/the-red-book-5697411.jpg",
+        "imageAlt" : "The Red Book 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 988,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/3/the-red-book-5697413.jpg",
+        "imageAlt" : "The Red Book 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/3/the-red-book-5697415.jpg",
+        "imageAlt" : "The Red Book 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/3/the-red-book-5697417.jpg",
+        "imageAlt" : "The Red Book 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/3/the-red-book-5697419.jpg",
+        "imageAlt" : "The Red Book 3 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/4",
+    "chapterTitle" : "The Red Book 4",
+    "chapterDescription" : "",
+    "chapterDate" : "05/25/2015",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/4/the-red-book-5697421.jpg",
+        "imageAlt" : "The Red Book 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/4/the-red-book-5697423.jpg",
+        "imageAlt" : "The Red Book 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/4/the-red-book-5697425.jpg",
+        "imageAlt" : "The Red Book 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/4/the-red-book-5697427.jpg",
+        "imageAlt" : "The Red Book 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/4/the-red-book-5697429.jpg",
+        "imageAlt" : "The Red Book 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/4/the-red-book-5697431.jpg",
+        "imageAlt" : "The Red Book 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/4/the-red-book-5697433.jpg",
+        "imageAlt" : "The Red Book 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/4/the-red-book-5697435.jpg",
+        "imageAlt" : "The Red Book 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/4/the-red-book-5697437.jpg",
+        "imageAlt" : "The Red Book 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/4/the-red-book-5697439.jpg",
+        "imageAlt" : "The Red Book 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/4/the-red-book-5697441.jpg",
+        "imageAlt" : "The Red Book 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/4/the-red-book-5697443.jpg",
+        "imageAlt" : "The Red Book 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/4/the-red-book-5697445.jpg",
+        "imageAlt" : "The Red Book 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/4/the-red-book-5697447.jpg",
+        "imageAlt" : "The Red Book 4 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/5",
+    "chapterTitle" : "The Red Book 5",
+    "chapterDescription" : "",
+    "chapterDate" : "05/25/2015",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/5/the-red-book-5697449.jpg",
+        "imageAlt" : "The Red Book 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/5/the-red-book-5697451.jpg",
+        "imageAlt" : "The Red Book 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/5/the-red-book-5697453.jpg",
+        "imageAlt" : "The Red Book 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/5/the-red-book-5697455.jpg",
+        "imageAlt" : "The Red Book 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/5/the-red-book-5697457.jpg",
+        "imageAlt" : "The Red Book 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/5/the-red-book-5697459.jpg",
+        "imageAlt" : "The Red Book 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/5/the-red-book-5697461.jpg",
+        "imageAlt" : "The Red Book 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/5/the-red-book-5697463.jpg",
+        "imageAlt" : "The Red Book 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/5/the-red-book-5697465.jpg",
+        "imageAlt" : "The Red Book 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/5/the-red-book-5697467.jpg",
+        "imageAlt" : "The Red Book 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/5/the-red-book-5697469.jpg",
+        "imageAlt" : "The Red Book 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/5/the-red-book-5697471.jpg",
+        "imageAlt" : "The Red Book 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/5/the-red-book-5697473.jpg",
+        "imageAlt" : "The Red Book 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/5/the-red-book-5697475.jpg",
+        "imageAlt" : "The Red Book 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 951,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/5/the-red-book-5697477.jpg",
+        "imageAlt" : "The Red Book 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 948,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/5/the-red-book-5697479.jpg",
+        "imageAlt" : "The Red Book 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 897,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/5/the-red-book-5697481.jpg",
+        "imageAlt" : "The Red Book 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/5/the-red-book-5697483.jpg",
+        "imageAlt" : "The Red Book 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/5/the-red-book-5697485.jpg",
+        "imageAlt" : "The Red Book 5 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/6",
+    "chapterTitle" : "The Red Book 6",
+    "chapterDescription" : "",
+    "chapterDate" : "05/29/2015",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/6/the-red-book-5708548.jpg",
+        "imageAlt" : "The Red Book 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/6/the-red-book-5708550.jpg",
+        "imageAlt" : "The Red Book 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/6/the-red-book-5708552.jpg",
+        "imageAlt" : "The Red Book 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/6/the-red-book-5708554.jpg",
+        "imageAlt" : "The Red Book 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/6/the-red-book-5708556.jpg",
+        "imageAlt" : "The Red Book 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/6/the-red-book-5708558.jpg",
+        "imageAlt" : "The Red Book 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/6/the-red-book-5708560.jpg",
+        "imageAlt" : "The Red Book 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/6/the-red-book-5708562.jpg",
+        "imageAlt" : "The Red Book 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 966,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/6/the-red-book-5708564.jpg",
+        "imageAlt" : "The Red Book 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 900,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/6/the-red-book-5708566.jpg",
+        "imageAlt" : "The Red Book 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/6/the-red-book-5708568.jpg",
+        "imageAlt" : "The Red Book 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/6/the-red-book-5708570.jpg",
+        "imageAlt" : "The Red Book 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 968,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/6/the-red-book-5708572.jpg",
+        "imageAlt" : "The Red Book 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/6/the-red-book-5708574.jpg",
+        "imageAlt" : "The Red Book 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/6/the-red-book-5708576.jpg",
+        "imageAlt" : "The Red Book 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/6/the-red-book-5708578.jpg",
+        "imageAlt" : "The Red Book 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/6/the-red-book-5708580.jpg",
+        "imageAlt" : "The Red Book 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1367,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/6/the-red-book-5708582.jpg",
+        "imageAlt" : "The Red Book 6 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/7",
+    "chapterTitle" : "The Red Book 7",
+    "chapterDescription" : "",
+    "chapterDate" : "06/03/2015",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/7/the-red-book-5721466.jpg",
+        "imageAlt" : "The Red Book 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 901,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/7/the-red-book-5721468.jpg",
+        "imageAlt" : "The Red Book 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/7/the-red-book-5721470.jpg",
+        "imageAlt" : "The Red Book 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/7/the-red-book-5721472.jpg",
+        "imageAlt" : "The Red Book 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/7/the-red-book-5721474.jpg",
+        "imageAlt" : "The Red Book 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/7/the-red-book-5721476.jpg",
+        "imageAlt" : "The Red Book 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/7/the-red-book-5721478.jpg",
+        "imageAlt" : "The Red Book 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 991,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/7/the-red-book-5721480.jpg",
+        "imageAlt" : "The Red Book 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1071,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/7/the-red-book-5721482.jpg",
+        "imageAlt" : "The Red Book 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1056,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/7/the-red-book-5721484.jpg",
+        "imageAlt" : "The Red Book 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/7/the-red-book-5721486.jpg",
+        "imageAlt" : "The Red Book 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 929,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/7/the-red-book-5721488.jpg",
+        "imageAlt" : "The Red Book 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 974,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/7/the-red-book-5721490.jpg",
+        "imageAlt" : "The Red Book 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1018,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/7/the-red-book-5721492.jpg",
+        "imageAlt" : "The Red Book 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/7/the-red-book-5721494.jpg",
+        "imageAlt" : "The Red Book 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/7/the-red-book-5721496.jpg",
+        "imageAlt" : "The Red Book 7 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/8",
+    "chapterTitle" : "The Red Book 8",
+    "chapterDescription" : "",
+    "chapterDate" : "06/09/2015",
+    "pageCount" : 21,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/8/the-red-book-5732462.jpg",
+        "imageAlt" : "The Red Book 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/8/the-red-book-5732464.jpg",
+        "imageAlt" : "The Red Book 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/8/the-red-book-5732466.jpg",
+        "imageAlt" : "The Red Book 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/8/the-red-book-5732468.jpg",
+        "imageAlt" : "The Red Book 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/8/the-red-book-5732470.jpg",
+        "imageAlt" : "The Red Book 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/8/the-red-book-5732472.jpg",
+        "imageAlt" : "The Red Book 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/8/the-red-book-5732474.jpg",
+        "imageAlt" : "The Red Book 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/8/the-red-book-5732476.jpg",
+        "imageAlt" : "The Red Book 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/8/the-red-book-5732478.jpg",
+        "imageAlt" : "The Red Book 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/8/the-red-book-5732480.jpg",
+        "imageAlt" : "The Red Book 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/8/the-red-book-5732482.jpg",
+        "imageAlt" : "The Red Book 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 914,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/8/the-red-book-5732484.jpg",
+        "imageAlt" : "The Red Book 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 902,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/8/the-red-book-5732486.jpg",
+        "imageAlt" : "The Red Book 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 999,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/8/the-red-book-5732488.jpg",
+        "imageAlt" : "The Red Book 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 921,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/8/the-red-book-5732490.jpg",
+        "imageAlt" : "The Red Book 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 901,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/8/the-red-book-5732492.jpg",
+        "imageAlt" : "The Red Book 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 877,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/8/the-red-book-5732494.jpg",
+        "imageAlt" : "The Red Book 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/8/the-red-book-5732496.jpg",
+        "imageAlt" : "The Red Book 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 866,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/8/the-red-book-5732498.jpg",
+        "imageAlt" : "The Red Book 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/8/the-red-book-5732500.jpg",
+        "imageAlt" : "The Red Book 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/8/the-red-book-5732502.jpg",
+        "imageAlt" : "The Red Book 8 - Page 21"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/9",
+    "chapterTitle" : "The Red Book 9",
+    "chapterDescription" : "",
+    "chapterDate" : "06/09/2015",
+    "pageCount" : 22,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/9/the-red-book-5732504.jpg",
+        "imageAlt" : "The Red Book 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/9/the-red-book-5732506.jpg",
+        "imageAlt" : "The Red Book 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 857,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/9/the-red-book-5732508.jpg",
+        "imageAlt" : "The Red Book 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 870,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/9/the-red-book-5732510.jpg",
+        "imageAlt" : "The Red Book 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1012,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/9/the-red-book-5732512.jpg",
+        "imageAlt" : "The Red Book 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/9/the-red-book-5732514.jpg",
+        "imageAlt" : "The Red Book 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/9/the-red-book-5732516.jpg",
+        "imageAlt" : "The Red Book 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/9/the-red-book-5732518.jpg",
+        "imageAlt" : "The Red Book 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/9/the-red-book-5732520.jpg",
+        "imageAlt" : "The Red Book 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/9/the-red-book-5732522.jpg",
+        "imageAlt" : "The Red Book 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/9/the-red-book-5732524.jpg",
+        "imageAlt" : "The Red Book 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 885,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/9/the-red-book-5732526.jpg",
+        "imageAlt" : "The Red Book 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/9/the-red-book-5732528.jpg",
+        "imageAlt" : "The Red Book 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/9/the-red-book-5732530.jpg",
+        "imageAlt" : "The Red Book 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 870,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/9/the-red-book-5732532.jpg",
+        "imageAlt" : "The Red Book 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 951,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/9/the-red-book-5732534.jpg",
+        "imageAlt" : "The Red Book 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/9/the-red-book-5732536.jpg",
+        "imageAlt" : "The Red Book 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/9/the-red-book-5732538.jpg",
+        "imageAlt" : "The Red Book 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 933,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/9/the-red-book-5732540.jpg",
+        "imageAlt" : "The Red Book 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 882,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/9/the-red-book-5732542.jpg",
+        "imageAlt" : "The Red Book 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/9/the-red-book-5732544.jpg",
+        "imageAlt" : "The Red Book 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 812,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/9/the-red-book-5732546.jpg",
+        "imageAlt" : "The Red Book 9 - Page 22"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/10",
+    "chapterTitle" : "The Red Book 10",
+    "chapterDescription" : "",
+    "chapterDate" : "06/12/2015",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/10/the-red-book-5737884.jpg",
+        "imageAlt" : "The Red Book 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/10/the-red-book-5737886.jpg",
+        "imageAlt" : "The Red Book 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/10/the-red-book-5737888.jpg",
+        "imageAlt" : "The Red Book 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/10/the-red-book-5737890.jpg",
+        "imageAlt" : "The Red Book 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/10/the-red-book-5737892.jpg",
+        "imageAlt" : "The Red Book 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/10/the-red-book-5737894.jpg",
+        "imageAlt" : "The Red Book 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/10/the-red-book-5737896.jpg",
+        "imageAlt" : "The Red Book 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 995,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/10/the-red-book-5737898.jpg",
+        "imageAlt" : "The Red Book 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 843,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/10/the-red-book-5737900.jpg",
+        "imageAlt" : "The Red Book 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/10/the-red-book-5737902.jpg",
+        "imageAlt" : "The Red Book 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 889,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/10/the-red-book-5737904.jpg",
+        "imageAlt" : "The Red Book 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/10/the-red-book-5737906.jpg",
+        "imageAlt" : "The Red Book 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 845,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/10/the-red-book-5737908.jpg",
+        "imageAlt" : "The Red Book 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/10/the-red-book-5737910.jpg",
+        "imageAlt" : "The Red Book 10 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/11",
+    "chapterTitle" : "The Red Book 11",
+    "chapterDescription" : "",
+    "chapterDate" : "06/17/2015",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/11/the-red-book-5746146.jpg",
+        "imageAlt" : "The Red Book 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/11/the-red-book-5746148.jpg",
+        "imageAlt" : "The Red Book 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 875,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/11/the-red-book-5746150.jpg",
+        "imageAlt" : "The Red Book 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/11/the-red-book-5746152.jpg",
+        "imageAlt" : "The Red Book 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 879,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/11/the-red-book-5746154.jpg",
+        "imageAlt" : "The Red Book 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/11/the-red-book-5746156.jpg",
+        "imageAlt" : "The Red Book 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/11/the-red-book-5746158.jpg",
+        "imageAlt" : "The Red Book 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/11/the-red-book-5746160.jpg",
+        "imageAlt" : "The Red Book 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 879,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/11/the-red-book-5746162.jpg",
+        "imageAlt" : "The Red Book 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 881,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/11/the-red-book-5746164.jpg",
+        "imageAlt" : "The Red Book 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 863,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/11/the-red-book-5746166.jpg",
+        "imageAlt" : "The Red Book 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 907,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/11/the-red-book-5746168.jpg",
+        "imageAlt" : "The Red Book 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 867,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/11/the-red-book-5746170.jpg",
+        "imageAlt" : "The Red Book 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 870,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/11/the-red-book-5746172.jpg",
+        "imageAlt" : "The Red Book 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1028,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/11/the-red-book-5746174.jpg",
+        "imageAlt" : "The Red Book 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 860,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/11/the-red-book-5746176.jpg",
+        "imageAlt" : "The Red Book 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 895,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/11/the-red-book-5746178.jpg",
+        "imageAlt" : "The Red Book 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/11/the-red-book-5746180.jpg",
+        "imageAlt" : "The Red Book 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/11/the-red-book-5746182.jpg",
+        "imageAlt" : "The Red Book 11 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/12",
+    "chapterTitle" : "The Red Book 12",
+    "chapterDescription" : "",
+    "chapterDate" : "06/18/2015",
+    "pageCount" : 21,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/12/the-red-book-5750242.jpg",
+        "imageAlt" : "The Red Book 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/12/the-red-book-5750244.jpg",
+        "imageAlt" : "The Red Book 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/12/the-red-book-5750246.jpg",
+        "imageAlt" : "The Red Book 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/12/the-red-book-5750248.jpg",
+        "imageAlt" : "The Red Book 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 864,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/12/the-red-book-5750250.jpg",
+        "imageAlt" : "The Red Book 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/12/the-red-book-5750252.jpg",
+        "imageAlt" : "The Red Book 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/12/the-red-book-5750254.jpg",
+        "imageAlt" : "The Red Book 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/12/the-red-book-5750256.jpg",
+        "imageAlt" : "The Red Book 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 849,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/12/the-red-book-5750258.jpg",
+        "imageAlt" : "The Red Book 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/12/the-red-book-5750260.jpg",
+        "imageAlt" : "The Red Book 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 846,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/12/the-red-book-5750262.jpg",
+        "imageAlt" : "The Red Book 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 865,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/12/the-red-book-5750264.jpg",
+        "imageAlt" : "The Red Book 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/12/the-red-book-5750266.jpg",
+        "imageAlt" : "The Red Book 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 932,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/12/the-red-book-5750268.jpg",
+        "imageAlt" : "The Red Book 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 941,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/12/the-red-book-5750270.jpg",
+        "imageAlt" : "The Red Book 12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/12/the-red-book-5750272.jpg",
+        "imageAlt" : "The Red Book 12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/12/the-red-book-5750274.jpg",
+        "imageAlt" : "The Red Book 12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/12/the-red-book-5750276.jpg",
+        "imageAlt" : "The Red Book 12 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/12/the-red-book-5750278.jpg",
+        "imageAlt" : "The Red Book 12 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/12/the-red-book-5750280.jpg",
+        "imageAlt" : "The Red Book 12 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/12/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1123,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/12/the-red-book-5750282.jpg",
+        "imageAlt" : "The Red Book 12 - Page 21"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/13",
+    "chapterTitle" : "The Red Book 13",
+    "chapterDescription" : "",
+    "chapterDate" : "06/27/2015",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/13/the-red-book-5767446.jpg",
+        "imageAlt" : "The Red Book 13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 944,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/13/the-red-book-5767448.jpg",
+        "imageAlt" : "The Red Book 13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/13/the-red-book-5767450.jpg",
+        "imageAlt" : "The Red Book 13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 931,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/13/the-red-book-5767452.jpg",
+        "imageAlt" : "The Red Book 13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/13/the-red-book-5767454.jpg",
+        "imageAlt" : "The Red Book 13 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/13/the-red-book-5767456.jpg",
+        "imageAlt" : "The Red Book 13 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 879,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/13/the-red-book-5767458.jpg",
+        "imageAlt" : "The Red Book 13 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/13/the-red-book-5767460.jpg",
+        "imageAlt" : "The Red Book 13 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 886,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/13/the-red-book-5767462.jpg",
+        "imageAlt" : "The Red Book 13 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 831,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/13/the-red-book-5767464.jpg",
+        "imageAlt" : "The Red Book 13 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/13/the-red-book-5767466.jpg",
+        "imageAlt" : "The Red Book 13 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 888,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/13/the-red-book-5767468.jpg",
+        "imageAlt" : "The Red Book 13 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 878,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/13/the-red-book-5767470.jpg",
+        "imageAlt" : "The Red Book 13 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/13/the-red-book-5767472.jpg",
+        "imageAlt" : "The Red Book 13 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/13/the-red-book-5767474.jpg",
+        "imageAlt" : "The Red Book 13 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/13/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/13/the-red-book-5767476.jpg",
+        "imageAlt" : "The Red Book 13 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/14",
+    "chapterTitle" : "The Red Book 14",
+    "chapterDescription" : "",
+    "chapterDate" : "06/27/2015",
+    "pageCount" : 22,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/14/the-red-book-5767478.jpg",
+        "imageAlt" : "The Red Book 14 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/14/the-red-book-5767480.jpg",
+        "imageAlt" : "The Red Book 14 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/14/the-red-book-5767482.jpg",
+        "imageAlt" : "The Red Book 14 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/14/the-red-book-5767484.jpg",
+        "imageAlt" : "The Red Book 14 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 874,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/14/the-red-book-5767486.jpg",
+        "imageAlt" : "The Red Book 14 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/14/the-red-book-5767488.jpg",
+        "imageAlt" : "The Red Book 14 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 856,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/14/the-red-book-5767490.jpg",
+        "imageAlt" : "The Red Book 14 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 877,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/14/the-red-book-5767492.jpg",
+        "imageAlt" : "The Red Book 14 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/14/the-red-book-5767494.jpg",
+        "imageAlt" : "The Red Book 14 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 975,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/14/the-red-book-5767496.jpg",
+        "imageAlt" : "The Red Book 14 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/14/the-red-book-5767498.jpg",
+        "imageAlt" : "The Red Book 14 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/14/the-red-book-5767500.jpg",
+        "imageAlt" : "The Red Book 14 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/14/the-red-book-5767502.jpg",
+        "imageAlt" : "The Red Book 14 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/14/the-red-book-5767504.jpg",
+        "imageAlt" : "The Red Book 14 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/14/the-red-book-5767506.jpg",
+        "imageAlt" : "The Red Book 14 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/14/the-red-book-5767508.jpg",
+        "imageAlt" : "The Red Book 14 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/14/the-red-book-5767510.jpg",
+        "imageAlt" : "The Red Book 14 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/14/the-red-book-5767512.jpg",
+        "imageAlt" : "The Red Book 14 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 873,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/14/the-red-book-5767514.jpg",
+        "imageAlt" : "The Red Book 14 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/14/the-red-book-5767516.jpg",
+        "imageAlt" : "The Red Book 14 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/14/the-red-book-5767518.jpg",
+        "imageAlt" : "The Red Book 14 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/14/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/14/the-red-book-5767520.jpg",
+        "imageAlt" : "The Red Book 14 - Page 22"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/15",
+    "chapterTitle" : "The Red Book 15",
+    "chapterDescription" : "",
+    "chapterDate" : "06/27/2015",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/15/the-red-book-5767522.jpg",
+        "imageAlt" : "The Red Book 15 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 870,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/15/the-red-book-5767524.jpg",
+        "imageAlt" : "The Red Book 15 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 858,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/15/the-red-book-5767526.jpg",
+        "imageAlt" : "The Red Book 15 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/15/the-red-book-5767528.jpg",
+        "imageAlt" : "The Red Book 15 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 889,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/15/the-red-book-5767530.jpg",
+        "imageAlt" : "The Red Book 15 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 961,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/15/the-red-book-5767532.jpg",
+        "imageAlt" : "The Red Book 15 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 893,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/15/the-red-book-5767534.jpg",
+        "imageAlt" : "The Red Book 15 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 879,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/15/the-red-book-5767536.jpg",
+        "imageAlt" : "The Red Book 15 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 933,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/15/the-red-book-5767538.jpg",
+        "imageAlt" : "The Red Book 15 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/15/the-red-book-5767540.jpg",
+        "imageAlt" : "The Red Book 15 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/15/the-red-book-5767542.jpg",
+        "imageAlt" : "The Red Book 15 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/15/the-red-book-5767544.jpg",
+        "imageAlt" : "The Red Book 15 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 947,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/15/the-red-book-5767546.jpg",
+        "imageAlt" : "The Red Book 15 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 865,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/15/the-red-book-5767548.jpg",
+        "imageAlt" : "The Red Book 15 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/15/the-red-book-5767550.jpg",
+        "imageAlt" : "The Red Book 15 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/15/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/15/the-red-book-5767552.jpg",
+        "imageAlt" : "The Red Book 15 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/16",
+    "chapterTitle" : "The Red Book 16",
+    "chapterDescription" : "",
+    "chapterDate" : "07/02/2015",
+    "pageCount" : 15,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/16/the-red-book-5779682.jpg",
+        "imageAlt" : "The Red Book 16 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/16/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/16/the-red-book-5779684.jpg",
+        "imageAlt" : "The Red Book 16 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/16/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/16/the-red-book-5779686.jpg",
+        "imageAlt" : "The Red Book 16 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/16/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 842,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/16/the-red-book-5779688.jpg",
+        "imageAlt" : "The Red Book 16 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/16/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/16/the-red-book-5779690.jpg",
+        "imageAlt" : "The Red Book 16 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/16/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/16/the-red-book-5779692.jpg",
+        "imageAlt" : "The Red Book 16 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/16/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/16/the-red-book-5779694.jpg",
+        "imageAlt" : "The Red Book 16 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/16/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/16/the-red-book-5779696.jpg",
+        "imageAlt" : "The Red Book 16 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/16/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/16/the-red-book-5779698.jpg",
+        "imageAlt" : "The Red Book 16 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/16/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/16/the-red-book-5779700.jpg",
+        "imageAlt" : "The Red Book 16 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/16/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 870,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/16/the-red-book-5779702.jpg",
+        "imageAlt" : "The Red Book 16 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/16/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/16/the-red-book-5779704.jpg",
+        "imageAlt" : "The Red Book 16 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/16/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/16/the-red-book-5779706.jpg",
+        "imageAlt" : "The Red Book 16 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/16/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/16/the-red-book-5779708.jpg",
+        "imageAlt" : "The Red Book 16 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/16/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/16/the-red-book-5779710.jpg",
+        "imageAlt" : "The Red Book 16 - Page 15"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/17",
+    "chapterTitle" : "The Red Book 17",
+    "chapterDescription" : "",
+    "chapterDate" : "07/04/2015",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/17/the-red-book-5783278.jpg",
+        "imageAlt" : "The Red Book 17 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/17/the-red-book-5783280.jpg",
+        "imageAlt" : "The Red Book 17 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/17/the-red-book-5783282.jpg",
+        "imageAlt" : "The Red Book 17 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 877,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/17/the-red-book-5783284.jpg",
+        "imageAlt" : "The Red Book 17 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 889,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/17/the-red-book-5783286.jpg",
+        "imageAlt" : "The Red Book 17 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 929,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/17/the-red-book-5783288.jpg",
+        "imageAlt" : "The Red Book 17 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 938,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/17/the-red-book-5783290.jpg",
+        "imageAlt" : "The Red Book 17 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/17/the-red-book-5783292.jpg",
+        "imageAlt" : "The Red Book 17 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 944,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/17/the-red-book-5783294.jpg",
+        "imageAlt" : "The Red Book 17 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 931,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/17/the-red-book-5783296.jpg",
+        "imageAlt" : "The Red Book 17 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 924,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/17/the-red-book-5783298.jpg",
+        "imageAlt" : "The Red Book 17 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 938,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/17/the-red-book-5783300.jpg",
+        "imageAlt" : "The Red Book 17 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/17/the-red-book-5783302.jpg",
+        "imageAlt" : "The Red Book 17 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/17/the-red-book-5783304.jpg",
+        "imageAlt" : "The Red Book 17 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 889,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/17/the-red-book-5783306.jpg",
+        "imageAlt" : "The Red Book 17 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/17/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/17/the-red-book-5783308.jpg",
+        "imageAlt" : "The Red Book 17 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/18",
+    "chapterTitle" : "The Red Book 18",
+    "chapterDescription" : "",
+    "chapterDate" : "07/09/2015",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/18/the-red-book-5791747.jpg",
+        "imageAlt" : "The Red Book 18 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/18/the-red-book-5791749.jpg",
+        "imageAlt" : "The Red Book 18 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/18/the-red-book-5791751.jpg",
+        "imageAlt" : "The Red Book 18 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/18/the-red-book-5791753.jpg",
+        "imageAlt" : "The Red Book 18 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/18/the-red-book-5791755.jpg",
+        "imageAlt" : "The Red Book 18 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/18/the-red-book-5791757.jpg",
+        "imageAlt" : "The Red Book 18 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/18/the-red-book-5791759.jpg",
+        "imageAlt" : "The Red Book 18 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/18/the-red-book-5791761.jpg",
+        "imageAlt" : "The Red Book 18 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/18/the-red-book-5791763.jpg",
+        "imageAlt" : "The Red Book 18 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 929,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/18/the-red-book-5791765.jpg",
+        "imageAlt" : "The Red Book 18 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 889,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/18/the-red-book-5791767.jpg",
+        "imageAlt" : "The Red Book 18 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/18/the-red-book-5791769.jpg",
+        "imageAlt" : "The Red Book 18 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 984,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/18/the-red-book-5791771.jpg",
+        "imageAlt" : "The Red Book 18 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/18/the-red-book-5791773.jpg",
+        "imageAlt" : "The Red Book 18 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/18/the-red-book-5791775.jpg",
+        "imageAlt" : "The Red Book 18 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/18/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/18/the-red-book-5791777.jpg",
+        "imageAlt" : "The Red Book 18 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/19",
+    "chapterTitle" : "The Red Book 19",
+    "chapterDescription" : "",
+    "chapterDate" : "07/11/2015",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/19/the-red-book-5794931.jpg",
+        "imageAlt" : "The Red Book 19 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/19/the-red-book-5794933.jpg",
+        "imageAlt" : "The Red Book 19 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/19/the-red-book-5794935.jpg",
+        "imageAlt" : "The Red Book 19 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/19/the-red-book-5794937.jpg",
+        "imageAlt" : "The Red Book 19 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/19/the-red-book-5794939.jpg",
+        "imageAlt" : "The Red Book 19 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 881,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/19/the-red-book-5794941.jpg",
+        "imageAlt" : "The Red Book 19 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 866,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/19/the-red-book-5794943.jpg",
+        "imageAlt" : "The Red Book 19 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/19/the-red-book-5794945.jpg",
+        "imageAlt" : "The Red Book 19 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 843,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/19/the-red-book-5794947.jpg",
+        "imageAlt" : "The Red Book 19 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 854,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/19/the-red-book-5794949.jpg",
+        "imageAlt" : "The Red Book 19 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 873,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/19/the-red-book-5794951.jpg",
+        "imageAlt" : "The Red Book 19 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 856,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/19/the-red-book-5794953.jpg",
+        "imageAlt" : "The Red Book 19 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/19/the-red-book-5794955.jpg",
+        "imageAlt" : "The Red Book 19 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/19/the-red-book-5794957.jpg",
+        "imageAlt" : "The Red Book 19 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 882,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/19/the-red-book-5794959.jpg",
+        "imageAlt" : "The Red Book 19 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/19/the-red-book-5794961.jpg",
+        "imageAlt" : "The Red Book 19 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/19/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/19/the-red-book-5794963.jpg",
+        "imageAlt" : "The Red Book 19 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/20",
+    "chapterTitle" : "The Red Book 20",
+    "chapterDescription" : "",
+    "chapterDate" : "07/18/2015",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/20/the-red-book-5808609.jpg",
+        "imageAlt" : "The Red Book 20 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/20/the-red-book-5808611.jpg",
+        "imageAlt" : "The Red Book 20 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 846,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/20/the-red-book-5808613.jpg",
+        "imageAlt" : "The Red Book 20 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 864,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/20/the-red-book-5808615.jpg",
+        "imageAlt" : "The Red Book 20 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 844,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/20/the-red-book-5808617.jpg",
+        "imageAlt" : "The Red Book 20 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 886,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/20/the-red-book-5808619.jpg",
+        "imageAlt" : "The Red Book 20 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 865,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/20/the-red-book-5808621.jpg",
+        "imageAlt" : "The Red Book 20 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 986,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/20/the-red-book-5808623.jpg",
+        "imageAlt" : "The Red Book 20 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 849,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/20/the-red-book-5808625.jpg",
+        "imageAlt" : "The Red Book 20 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 941,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/20/the-red-book-5808627.jpg",
+        "imageAlt" : "The Red Book 20 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 961,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/20/the-red-book-5808629.jpg",
+        "imageAlt" : "The Red Book 20 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 944,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/20/the-red-book-5808631.jpg",
+        "imageAlt" : "The Red Book 20 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 875,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/20/the-red-book-5808633.jpg",
+        "imageAlt" : "The Red Book 20 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 896,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/20/the-red-book-5808635.jpg",
+        "imageAlt" : "The Red Book 20 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 883,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/20/the-red-book-5808637.jpg",
+        "imageAlt" : "The Red Book 20 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/20/the-red-book-5808639.jpg",
+        "imageAlt" : "The Red Book 20 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/20/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/20/the-red-book-5808641.jpg",
+        "imageAlt" : "The Red Book 20 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/21",
+    "chapterTitle" : "The Red Book 21",
+    "chapterDescription" : "",
+    "chapterDate" : "07/18/2015",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/21/the-red-book-5808643.jpg",
+        "imageAlt" : "The Red Book 21 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/21/the-red-book-5808645.jpg",
+        "imageAlt" : "The Red Book 21 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/21/the-red-book-5808647.jpg",
+        "imageAlt" : "The Red Book 21 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/21/the-red-book-5808649.jpg",
+        "imageAlt" : "The Red Book 21 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 839,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/21/the-red-book-5808651.jpg",
+        "imageAlt" : "The Red Book 21 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 849,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/21/the-red-book-5808653.jpg",
+        "imageAlt" : "The Red Book 21 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/21/the-red-book-5808655.jpg",
+        "imageAlt" : "The Red Book 21 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/21/the-red-book-5808657.jpg",
+        "imageAlt" : "The Red Book 21 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/21/the-red-book-5808659.jpg",
+        "imageAlt" : "The Red Book 21 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/21/the-red-book-5808661.jpg",
+        "imageAlt" : "The Red Book 21 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/21/the-red-book-5808663.jpg",
+        "imageAlt" : "The Red Book 21 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 837,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/21/the-red-book-5808665.jpg",
+        "imageAlt" : "The Red Book 21 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 859,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/21/the-red-book-5808667.jpg",
+        "imageAlt" : "The Red Book 21 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/21/the-red-book-5808669.jpg",
+        "imageAlt" : "The Red Book 21 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 858,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/21/the-red-book-5808671.jpg",
+        "imageAlt" : "The Red Book 21 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/21/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/21/the-red-book-5808673.jpg",
+        "imageAlt" : "The Red Book 21 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/22",
+    "chapterTitle" : "The Red Book 22",
+    "chapterDescription" : "",
+    "chapterDate" : "07/23/2015",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/22/the-red-book-5823619.jpg",
+        "imageAlt" : "The Red Book 22 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 832,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/22/the-red-book-5823621.jpg",
+        "imageAlt" : "The Red Book 22 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/22/the-red-book-5823623.jpg",
+        "imageAlt" : "The Red Book 22 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 848,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/22/the-red-book-5823625.jpg",
+        "imageAlt" : "The Red Book 22 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/22/the-red-book-5823627.jpg",
+        "imageAlt" : "The Red Book 22 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/22/the-red-book-5823629.jpg",
+        "imageAlt" : "The Red Book 22 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/22/the-red-book-5823631.jpg",
+        "imageAlt" : "The Red Book 22 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/22/the-red-book-5823633.jpg",
+        "imageAlt" : "The Red Book 22 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/22/the-red-book-5823635.jpg",
+        "imageAlt" : "The Red Book 22 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/22/the-red-book-5823637.jpg",
+        "imageAlt" : "The Red Book 22 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/22/the-red-book-5823639.jpg",
+        "imageAlt" : "The Red Book 22 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/22/the-red-book-5823641.jpg",
+        "imageAlt" : "The Red Book 22 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/22/the-red-book-5823643.jpg",
+        "imageAlt" : "The Red Book 22 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/22/the-red-book-5823645.jpg",
+        "imageAlt" : "The Red Book 22 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/22/the-red-book-5823647.jpg",
+        "imageAlt" : "The Red Book 22 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/22/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/22/the-red-book-5823649.jpg",
+        "imageAlt" : "The Red Book 22 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/23",
+    "chapterTitle" : "The Red Book 23",
+    "chapterDescription" : "",
+    "chapterDate" : "07/25/2015",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/23/the-red-book-5827519.jpg",
+        "imageAlt" : "The Red Book 23 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/23/the-red-book-5827521.jpg",
+        "imageAlt" : "The Red Book 23 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/23/the-red-book-5827523.jpg",
+        "imageAlt" : "The Red Book 23 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/23/the-red-book-5827525.jpg",
+        "imageAlt" : "The Red Book 23 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/23/the-red-book-5827527.jpg",
+        "imageAlt" : "The Red Book 23 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/23/the-red-book-5827529.jpg",
+        "imageAlt" : "The Red Book 23 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/23/the-red-book-5827531.jpg",
+        "imageAlt" : "The Red Book 23 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 867,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/23/the-red-book-5827533.jpg",
+        "imageAlt" : "The Red Book 23 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/23/the-red-book-5827535.jpg",
+        "imageAlt" : "The Red Book 23 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 886,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/23/the-red-book-5827537.jpg",
+        "imageAlt" : "The Red Book 23 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 893,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/23/the-red-book-5827539.jpg",
+        "imageAlt" : "The Red Book 23 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 902,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/23/the-red-book-5827541.jpg",
+        "imageAlt" : "The Red Book 23 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 871,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/23/the-red-book-5827543.jpg",
+        "imageAlt" : "The Red Book 23 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/23/the-red-book-5827545.jpg",
+        "imageAlt" : "The Red Book 23 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/23/the-red-book-5827547.jpg",
+        "imageAlt" : "The Red Book 23 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/23/the-red-book-5827549.jpg",
+        "imageAlt" : "The Red Book 23 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/23/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/23/the-red-book-5827551.jpg",
+        "imageAlt" : "The Red Book 23 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/24",
+    "chapterTitle" : "The Red Book 24",
+    "chapterDescription" : "",
+    "chapterDate" : "07/30/2015",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/24/the-red-book-5845069.jpg",
+        "imageAlt" : "The Red Book 24 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/24/the-red-book-5845075.jpg",
+        "imageAlt" : "The Red Book 24 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 904,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/24/the-red-book-5845081.jpg",
+        "imageAlt" : "The Red Book 24 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/24/the-red-book-5845087.jpg",
+        "imageAlt" : "The Red Book 24 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 877,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/24/the-red-book-5845093.jpg",
+        "imageAlt" : "The Red Book 24 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 877,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/24/the-red-book-5845099.jpg",
+        "imageAlt" : "The Red Book 24 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 916,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/24/the-red-book-5845105.jpg",
+        "imageAlt" : "The Red Book 24 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1271,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/24/the-red-book-5845111.jpg",
+        "imageAlt" : "The Red Book 24 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 906,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/24/the-red-book-5845117.jpg",
+        "imageAlt" : "The Red Book 24 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 925,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/24/the-red-book-5845123.jpg",
+        "imageAlt" : "The Red Book 24 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 856,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/24/the-red-book-5845129.jpg",
+        "imageAlt" : "The Red Book 24 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/24/the-red-book-5845135.jpg",
+        "imageAlt" : "The Red Book 24 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 887,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/24/the-red-book-5845141.jpg",
+        "imageAlt" : "The Red Book 24 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/24/the-red-book-5845147.jpg",
+        "imageAlt" : "The Red Book 24 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 880,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/24/the-red-book-5845153.jpg",
+        "imageAlt" : "The Red Book 24 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/24/the-red-book-5845159.jpg",
+        "imageAlt" : "The Red Book 24 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/24/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/24/the-red-book-5845165.jpg",
+        "imageAlt" : "The Red Book 24 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/the-red-book/25",
+    "chapterTitle" : "The Red Book 25",
+    "chapterDescription" : "",
+    "chapterDate" : "08/01/2015",
+    "pageCount" : 25,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/25/the-red-book-5856295.jpg",
+        "imageAlt" : "The Red Book 25 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/25/the-red-book-5856301.jpg",
+        "imageAlt" : "The Red Book 25 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/25/the-red-book-5856307.jpg",
+        "imageAlt" : "The Red Book 25 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 865,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/25/the-red-book-5856313.jpg",
+        "imageAlt" : "The Red Book 25 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 958,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/25/the-red-book-5856319.jpg",
+        "imageAlt" : "The Red Book 25 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/25/the-red-book-5856325.jpg",
+        "imageAlt" : "The Red Book 25 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/25/the-red-book-5856331.jpg",
+        "imageAlt" : "The Red Book 25 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/25/the-red-book-5856337.jpg",
+        "imageAlt" : "The Red Book 25 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 916,
+        "imageUrl" : "http://i9.mangareader.net/the-red-book/25/the-red-book-5856343.jpg",
+        "imageAlt" : "The Red Book 25 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 863,
+        "imageUrl" : "http://i1.mangareader.net/the-red-book/25/the-red-book-5856349.jpg",
+        "imageAlt" : "The Red Book 25 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/25/the-red-book-5856355.jpg",
+        "imageAlt" : "The Red Book 25 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/25/the-red-book-5856361.jpg",
+        "imageAlt" : "The Red Book 25 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i6.mangareader.net/the-red-book/25/the-red-book-5856367.jpg",
+        "imageAlt" : "The Red Book 25 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/25/the-red-book-5856373.jpg",
+        "imageAlt" : "The Red Book 25 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/25/the-red-book-5856379.jpg",
+        "imageAlt" : "The Red Book 25 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 886,
+        "imageUrl" : "http://i10.mangareader.net/the-red-book/25/the-red-book-5856385.jpg",
+        "imageAlt" : "The Red Book 25 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/25/the-red-book-5856391.jpg",
+        "imageAlt" : "The Red Book 25 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/25/the-red-book-5856397.jpg",
+        "imageAlt" : "The Red Book 25 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i5.mangareader.net/the-red-book/25/the-red-book-5856403.jpg",
+        "imageAlt" : "The Red Book 25 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i3.mangareader.net/the-red-book/25/the-red-book-5856409.jpg",
+        "imageAlt" : "The Red Book 25 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 863,
+        "imageUrl" : "http://i7.mangareader.net/the-red-book/25/the-red-book-5856415.jpg",
+        "imageAlt" : "The Red Book 25 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 856,
+        "imageUrl" : "http://i8.mangareader.net/the-red-book/25/the-red-book-5856421.jpg",
+        "imageAlt" : "The Red Book 25 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 871,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/25/the-red-book-5856427.jpg",
+        "imageAlt" : "The Red Book 25 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 879,
+        "imageUrl" : "http://i2.mangareader.net/the-red-book/25/the-red-book-5856433.jpg",
+        "imageAlt" : "The Red Book 25 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/the-red-book/25/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/the-red-book/25/the-red-book-5856439.jpg",
+        "imageAlt" : "The Red Book 25 - Page 25"
+      } ]
+    } ]
+  } ]
+}

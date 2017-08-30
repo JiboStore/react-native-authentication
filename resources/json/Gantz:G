@@ -1,0 +1,5491 @@
+{
+  "mangaTitle" : "Gantz:G",
+  "mangaUrl" : "http://www.mangareader.net/gantzg",
+  "mangaThumbUrl" : "http://s4.mangareader.net/cover/gantzg/gantzg-r0.jpg",
+  "mangaChaptersInfo" : "18 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Action, Drama, Horror, Mystery, School Life, Sci-Fi",
+  "chapterCount" : 18,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/1",
+    "chapterTitle" : "Gantz:G 1",
+    "chapterDescription" : "",
+    "chapterDate" : "12/15/2015",
+    "pageCount" : 42,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/1/gantzg-6674431.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/1/gantzg-6674437.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/1/gantzg-6674443.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/1/gantzg-6674449.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/1/gantzg-6674455.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/1/gantzg-6674461.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/1/gantzg-6674467.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/1/gantzg-6674473.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/1/gantzg-6674479.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/1/gantzg-6674485.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/1/gantzg-6674491.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/1/gantzg-6674497.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/1/gantzg-6674503.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 565,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/1/gantzg-6674509.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 566,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/1/gantzg-6674515.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/1/gantzg-6674521.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/1/gantzg-6674527.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/1/gantzg-6674533.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/1/gantzg-6674539.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/1/gantzg-6674545.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/1/gantzg-6674551.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 570,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/1/gantzg-6674557.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/1/gantzg-6674563.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/1/gantzg-6674569.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/1/gantzg-6674575.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/1/gantzg-6674581.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/1/gantzg-6674587.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/1/gantzg-6674593.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/1/gantzg-6674599.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 567,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/1/gantzg-6674605.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/1/gantzg-6674611.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/1/gantzg-6674617.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/1/gantzg-6674623.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/1/gantzg-6674629.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/1/gantzg-6674635.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/1/gantzg-6674641.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/1/gantzg-6674647.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/1/gantzg-6674653.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/1/gantzg-6674659.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/1/gantzg-6674665.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/1/gantzg-6674671.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/gantzg/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/1/gantzg-6674677.jpg",
+        "imageAlt" : "Gantz:G 1 - Page 42"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/2",
+    "chapterTitle" : "Gantz:G 2",
+    "chapterDescription" : "",
+    "chapterDate" : "12/21/2015",
+    "pageCount" : 30,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/2/gantzg-6697537.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/2/gantzg-6697543.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/2/gantzg-6697549.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/2/gantzg-6697555.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/2/gantzg-6697561.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/2/gantzg-6697567.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/2/gantzg-6697573.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/2/gantzg-6697579.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/2/gantzg-6697585.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/2/gantzg-6697591.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/2/gantzg-6697597.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/2/gantzg-6697603.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/2/gantzg-6697609.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/2/gantzg-6697615.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/2/gantzg-6697621.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/2/gantzg-6697627.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/2/gantzg-6697633.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/2/gantzg-6697639.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/2/gantzg-6697645.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/2/gantzg-6697651.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/2/gantzg-6697657.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/2/gantzg-6697663.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/2/gantzg-6697669.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/2/gantzg-6697675.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/2/gantzg-6697681.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 583,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/2/gantzg-6697687.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/2/gantzg-6697693.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/2/gantzg-6697699.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/2/gantzg-6697705.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/gantzg/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/2/gantzg-6697711.jpg",
+        "imageAlt" : "Gantz:G 2 - Page 30"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/3",
+    "chapterTitle" : "Gantz:G 3",
+    "chapterDescription" : "",
+    "chapterDate" : "03/02/2016",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/3/gantzg-7157269.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/3/gantzg-7157275.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 587,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/3/gantzg-7157281.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/3/gantzg-7157287.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/3/gantzg-7157293.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/3/gantzg-7157299.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/3/gantzg-7157305.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/3/gantzg-7157311.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/3/gantzg-7157317.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/3/gantzg-7157323.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/3/gantzg-7157329.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/3/gantzg-7157335.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/3/gantzg-7157341.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/3/gantzg-7157347.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/3/gantzg-7157353.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/3/gantzg-7157359.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/3/gantzg-7157365.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 587,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/3/gantzg-7157371.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/3/gantzg-7157377.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/3/gantzg-7157383.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 587,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/3/gantzg-7157389.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/3/gantzg-7157395.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/3/gantzg-7157401.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/3/gantzg-7157407.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/3/gantzg-7157413.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/3/gantzg-7157419.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/3/gantzg-7157425.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/3/gantzg-7157431.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/3/gantzg-7157437.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/3/gantzg-7157443.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/3/gantzg-7157449.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/gantzg/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/3/gantzg-7157455.jpg",
+        "imageAlt" : "Gantz:G 3 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/4",
+    "chapterTitle" : "Gantz:G 4",
+    "chapterDescription" : "",
+    "chapterDate" : "03/02/2016",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/4/gantzg-7157461.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/4/gantzg-7157467.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/4/gantzg-7157473.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/4/gantzg-7157479.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/4/gantzg-7157485.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/4/gantzg-7157491.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/4/gantzg-7157497.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/4/gantzg-7157503.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/4/gantzg-7157509.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/4/gantzg-7157515.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/4/gantzg-7157521.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/4/gantzg-7157527.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/4/gantzg-7157533.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/4/gantzg-7157539.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/4/gantzg-7157545.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 601,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/4/gantzg-7157551.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/4/gantzg-7157557.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/4/gantzg-7157563.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/4/gantzg-7157569.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/4/gantzg-7157575.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/4/gantzg-7157581.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/4/gantzg-7157587.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/4/gantzg-7157593.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/4/gantzg-7157599.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/4/gantzg-7157605.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/4/gantzg-7157611.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 605,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/4/gantzg-7157617.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 587,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/4/gantzg-7157623.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/4/gantzg-7157629.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/4/gantzg-7157635.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1231,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/4/gantzg-7157641.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/gantzg/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/4/gantzg-7157647.jpg",
+        "imageAlt" : "Gantz:G 4 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/5",
+    "chapterTitle" : "Gantz:G 5",
+    "chapterDescription" : "",
+    "chapterDate" : "03/23/2016",
+    "pageCount" : 29,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/5/gantzg-7277143.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/5/gantzg-7277149.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 590,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/5/gantzg-7277155.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/5/gantzg-7277161.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/5/gantzg-7277167.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 590,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/5/gantzg-7277173.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/5/gantzg-7277179.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/5/gantzg-7277185.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 590,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/5/gantzg-7277191.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 589,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/5/gantzg-7277197.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/5/gantzg-7277203.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/5/gantzg-7277209.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 591,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/5/gantzg-7277215.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/5/gantzg-7277221.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/5/gantzg-7277227.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 590,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/5/gantzg-7277233.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/5/gantzg-7277239.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/5/gantzg-7277245.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/5/gantzg-7277251.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/5/gantzg-7277257.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/5/gantzg-7277263.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/5/gantzg-7277269.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/5/gantzg-7277275.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/5/gantzg-7277281.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 591,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/5/gantzg-7277287.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/5/gantzg-7277293.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/5/gantzg-7277299.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/5/gantzg-7277305.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/5/gantzg-7277311.jpg",
+        "imageAlt" : "Gantz:G 5 - Page 29"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/6",
+    "chapterTitle" : "Gantz:G 6",
+    "chapterDescription" : "",
+    "chapterDate" : "04/26/2016",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/6/gantzg-7452373.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/6/gantzg-7452379.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/6/gantzg-7452385.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 591,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/6/gantzg-7452391.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/6/gantzg-7452397.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/6/gantzg-7452403.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/6/gantzg-7452409.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/6/gantzg-7452415.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/6/gantzg-7452421.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/6/gantzg-7452427.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 590,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/6/gantzg-7452433.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/6/gantzg-7452439.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/6/gantzg-7452445.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/6/gantzg-7452451.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/6/gantzg-7452457.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/6/gantzg-7452463.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/6/gantzg-7452469.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/6/gantzg-7452475.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/6/gantzg-7452481.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/6/gantzg-7452487.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/6/gantzg-7452493.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/6/gantzg-7452499.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/6/gantzg-7452505.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/6/gantzg-7452511.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/6/gantzg-7452517.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/6/gantzg-7452523.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/6/gantzg-7452529.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/6/gantzg-7452535.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/6/gantzg-7452541.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/6/gantzg-7452547.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/6/gantzg-7452553.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/6/gantzg-7452559.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/6/gantzg-7452565.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/gantzg/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/6/gantzg-7452571.jpg",
+        "imageAlt" : "Gantz:G 6 - Page 34"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/7",
+    "chapterTitle" : "Gantz:G 7",
+    "chapterDescription" : "",
+    "chapterDate" : "06/27/2016",
+    "pageCount" : 36,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/7/gantzg-7751215.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/7/gantzg-7751221.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/7/gantzg-7751227.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/7/gantzg-7751233.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/7/gantzg-7751239.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/7/gantzg-7751245.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/7/gantzg-7751251.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/7/gantzg-7751257.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/7/gantzg-7751263.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/7/gantzg-7751269.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/7/gantzg-7751275.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/7/gantzg-7751281.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/7/gantzg-7751287.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/7/gantzg-7751293.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/7/gantzg-7751299.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/7/gantzg-7751305.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/7/gantzg-7751311.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/7/gantzg-7751317.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/7/gantzg-7751323.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/7/gantzg-7751329.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/7/gantzg-7751335.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/7/gantzg-7751341.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/7/gantzg-7751347.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/7/gantzg-7751353.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/7/gantzg-7751359.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/7/gantzg-7751365.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/7/gantzg-7751371.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/7/gantzg-7751377.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/7/gantzg-7751383.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/7/gantzg-7751389.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 583,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/7/gantzg-7751395.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/7/gantzg-7751401.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/7/gantzg-7751407.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/7/gantzg-7751413.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/7/gantzg-7751419.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/gantzg/7/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/7/gantzg-7751425.jpg",
+        "imageAlt" : "Gantz:G 7 - Page 36"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/8",
+    "chapterTitle" : "Gantz:G 8",
+    "chapterDescription" : "",
+    "chapterDate" : "07/31/2016",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/8/gantzg-7973053.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 593,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/8/gantzg-7973059.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/8/gantzg-7973065.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/8/gantzg-7973071.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/8/gantzg-7973077.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/8/gantzg-7973083.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/8/gantzg-7973089.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/8/gantzg-7973095.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/8/gantzg-7973101.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/8/gantzg-7973107.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/8/gantzg-7973113.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/8/gantzg-7973119.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/8/gantzg-7973125.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/8/gantzg-7973131.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/8/gantzg-7973137.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/8/gantzg-7973143.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/8/gantzg-7973149.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/8/gantzg-7973155.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/8/gantzg-7973161.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/8/gantzg-7973167.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/8/gantzg-7973173.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/8/gantzg-7973179.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/8/gantzg-7973185.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/8/gantzg-7973191.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 603,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/8/gantzg-7973197.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/8/gantzg-7973203.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/8/gantzg-7973209.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/8/gantzg-7973215.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/8/gantzg-7973221.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/8/gantzg-7973227.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/8/gantzg-7973233.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/8/gantzg-7973239.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/8/gantzg-7973245.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/gantzg/8/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1210,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/8/gantzg-7973251.jpg",
+        "imageAlt" : "Gantz:G 8 - Page 34"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/9",
+    "chapterTitle" : "Gantz:G 9",
+    "chapterDescription" : "",
+    "chapterDate" : "08/17/2016",
+    "pageCount" : 36,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/9/gantzg-8058421.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/9/gantzg-8058427.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/9/gantzg-8058433.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/9/gantzg-8058439.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/9/gantzg-8058445.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/9/gantzg-8058451.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/9/gantzg-8058457.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/9/gantzg-8058463.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/9/gantzg-8058469.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/9/gantzg-8058475.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/9/gantzg-8058481.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/9/gantzg-8058487.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/9/gantzg-8058493.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/9/gantzg-8058499.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/9/gantzg-8058505.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/9/gantzg-8058511.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/9/gantzg-8058517.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/9/gantzg-8058523.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/9/gantzg-8058529.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/9/gantzg-8058535.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/9/gantzg-8058541.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/9/gantzg-8058547.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/9/gantzg-8058553.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/9/gantzg-8058559.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/9/gantzg-8058565.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/9/gantzg-8058571.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/9/gantzg-8058577.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/9/gantzg-8058583.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/9/gantzg-8058589.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/9/gantzg-8058595.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/9/gantzg-8058601.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/9/gantzg-8058607.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/9/gantzg-8058613.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/9/gantzg-8058619.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/9/gantzg-8058625.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/gantzg/9/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/9/gantzg-8058631.jpg",
+        "imageAlt" : "Gantz:G 9 - Page 36"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/10",
+    "chapterTitle" : "Gantz:G 10",
+    "chapterDescription" : "",
+    "chapterDate" : "09/08/2016",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/10/gantzg-8184421.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 611,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/10/gantzg-8184427.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/10/gantzg-8184433.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/10/gantzg-8184439.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/10/gantzg-8184445.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/10/gantzg-8184451.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/10/gantzg-8184457.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/10/gantzg-8184463.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/10/gantzg-8184469.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/10/gantzg-8184475.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/10/gantzg-8184481.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/10/gantzg-8184487.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/10/gantzg-8184493.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/10/gantzg-8184499.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/10/gantzg-8184505.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/10/gantzg-8184511.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/10/gantzg-8184517.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/10/gantzg-8184523.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/10/gantzg-8184529.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/10/gantzg-8184535.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/10/gantzg-8184541.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/10/gantzg-8184547.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/10/gantzg-8184553.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/10/gantzg-8184559.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/10/gantzg-8184565.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/10/gantzg-8184571.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/10/gantzg-8184577.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/10/gantzg-8184583.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/10/gantzg-8184589.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/10/gantzg-8184595.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/gantzg/10/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/10/gantzg-8184601.jpg",
+        "imageAlt" : "Gantz:G 10 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/11",
+    "chapterTitle" : "Gantz:G 11",
+    "chapterDescription" : "",
+    "chapterDate" : "10/10/2016",
+    "pageCount" : 43,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/11/gantzg-8817289.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/11/gantzg-8817295.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1034,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/11/gantzg-8817301.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 629,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/11/gantzg-8817307.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/11/gantzg-8817313.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/11/gantzg-8817319.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1209,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/11/gantzg-8817325.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/11/gantzg-8817331.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/11/gantzg-8817337.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/11/gantzg-8817343.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/11/gantzg-8817349.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/11/gantzg-8817355.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/11/gantzg-8817361.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/11/gantzg-8817367.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/11/gantzg-8817373.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/11/gantzg-8817379.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/11/gantzg-8817385.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/11/gantzg-8817391.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/11/gantzg-8817397.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/11/gantzg-8817403.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/11/gantzg-8817409.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/11/gantzg-8817415.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/11/gantzg-8817421.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/11/gantzg-8817427.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/11/gantzg-8817433.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/11/gantzg-8817439.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/11/gantzg-8817445.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/11/gantzg-8817451.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/11/gantzg-8817457.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/11/gantzg-8817463.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/11/gantzg-8817469.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/11/gantzg-8817475.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/11/gantzg-8817481.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/11/gantzg-8817487.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/11/gantzg-8817493.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/11/gantzg-8817499.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/11/gantzg-8817505.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/11/gantzg-8817511.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/11/gantzg-8817517.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/11/gantzg-8817523.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/11/gantzg-8817529.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/11/gantzg-8817535.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/gantzg/11/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/11/gantzg-8817541.jpg",
+        "imageAlt" : "Gantz:G 11 - Page 43"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/12",
+    "chapterTitle" : "Gantz:G 12",
+    "chapterDescription" : "",
+    "chapterDate" : "10/10/2016",
+    "pageCount" : 29,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1226,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/12/gantzg-8382157.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/12/gantzg-8382163.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/12/gantzg-8382169.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/12/gantzg-8382175.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/12/gantzg-8382181.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/12/gantzg-8382187.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/12/gantzg-8382193.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/12/gantzg-8382199.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/12/gantzg-8382205.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/12/gantzg-8382211.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/12/gantzg-8382217.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 606,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/12/gantzg-8382223.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/12/gantzg-8382229.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/12/gantzg-8382235.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/12/gantzg-8382241.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/12/gantzg-8382247.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/12/gantzg-8382253.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/12/gantzg-8382259.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/12/gantzg-8382265.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/12/gantzg-8382271.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/12/gantzg-8382277.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/12/gantzg-8382283.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/12/gantzg-8382289.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/12/gantzg-8382295.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 603,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/12/gantzg-8382301.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/12/gantzg-8382307.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/12/gantzg-8382313.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/12/gantzg-8382319.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/12/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/12/gantzg-8382325.jpg",
+        "imageAlt" : "Gantz:G 12 - Page 29"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/13",
+    "chapterTitle" : "Gantz:G 13",
+    "chapterDescription" : "",
+    "chapterDate" : "11/30/2016",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/13/gantzg-8625703.jpg",
+        "imageAlt" : "Gantz:G 13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/13/gantzg-8625709.jpg",
+        "imageAlt" : "Gantz:G 13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/13/gantzg-8625715.jpg",
+        "imageAlt" : "Gantz:G 13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/13/gantzg-8625721.jpg",
+        "imageAlt" : "Gantz:G 13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/13/gantzg-8625727.jpg",
+        "imageAlt" : "Gantz:G 13 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/13/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/13/gantzg-8625733.jpg",
+        "imageAlt" : "Gantz:G 13 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/13/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/13/gantzg-8625739.jpg",
+        "imageAlt" : "Gantz:G 13 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/13/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/13/gantzg-8625745.jpg",
+        "imageAlt" : "Gantz:G 13 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/13/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/13/gantzg-8625751.jpg",
+        "imageAlt" : "Gantz:G 13 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/13/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/13/gantzg-8625757.jpg",
+        "imageAlt" : "Gantz:G 13 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/13/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/13/gantzg-8625763.jpg",
+        "imageAlt" : "Gantz:G 13 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/13/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/13/gantzg-8625769.jpg",
+        "imageAlt" : "Gantz:G 13 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/13/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/13/gantzg-8625775.jpg",
+        "imageAlt" : "Gantz:G 13 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/13/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1111,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/13/gantzg-8625781.jpg",
+        "imageAlt" : "Gantz:G 13 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/14",
+    "chapterTitle" : "Gantz:G 14",
+    "chapterDescription" : "",
+    "chapterDate" : "12/19/2016",
+    "pageCount" : 29,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/14/gantzg-8697529.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/14/gantzg-8697535.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/14/gantzg-8697541.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/14/gantzg-8697547.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/14/gantzg-8697553.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/14/gantzg-8697559.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/14/gantzg-8697565.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/14/gantzg-8697571.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/14/gantzg-8697577.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/14/gantzg-8697583.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/14/gantzg-8697589.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/14/gantzg-8697595.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 577,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/14/gantzg-8697601.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/14/gantzg-8697607.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/14/gantzg-8697613.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/14/gantzg-8697619.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/14/gantzg-8697625.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/14/gantzg-8697631.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/14/gantzg-8697637.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 577,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/14/gantzg-8697643.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/14/gantzg-8697649.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/14/gantzg-8697655.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/14/gantzg-8697661.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/14/gantzg-8697667.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/14/gantzg-8697673.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/14/gantzg-8697679.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/14/gantzg-8697685.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/14/gantzg-8697691.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/14/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/14/gantzg-8697697.jpg",
+        "imageAlt" : "Gantz:G 14 - Page 29"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/15",
+    "chapterTitle" : "Gantz:G 15",
+    "chapterDescription" : "",
+    "chapterDate" : "01/10/2017",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/15/gantzg-8793199.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/15/gantzg-8793205.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/15/gantzg-8793211.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/15/gantzg-8793217.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/15/gantzg-8793223.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/15/gantzg-8793229.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/15/gantzg-8793235.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/15/gantzg-8793241.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/15/gantzg-8793247.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/15/gantzg-8793253.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/15/gantzg-8793259.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/15/gantzg-8793265.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/15/gantzg-8793271.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/15/gantzg-8793277.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/15/gantzg-8793283.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/15/gantzg-8793289.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/15/gantzg-8793295.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/15/gantzg-8793301.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/15/gantzg-8793307.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/15/gantzg-8793313.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/15/gantzg-8793319.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/15/gantzg-8793325.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/15/gantzg-8793331.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 583,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/15/gantzg-8793337.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/15/gantzg-8793343.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/15/gantzg-8793349.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/15/gantzg-8793355.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/15/gantzg-8793361.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/15/gantzg-8793367.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/15/gantzg-8793373.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/gantzg/15/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/15/gantzg-8793379.jpg",
+        "imageAlt" : "Gantz:G 15 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/16",
+    "chapterTitle" : "Gantz:G 16",
+    "chapterDescription" : "",
+    "chapterDate" : "02/04/2017",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/16/gantzg-8884681.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/16/gantzg-8884687.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/16/gantzg-8884693.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/16/gantzg-8884699.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/16/gantzg-8884705.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/16/gantzg-8884711.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/16/gantzg-8884717.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/16/gantzg-8884723.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/16/gantzg-8884729.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/16/gantzg-8884735.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/16/gantzg-8884741.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/16/gantzg-8884747.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/16/gantzg-8884753.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/16/gantzg-8884759.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/16/gantzg-8884765.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/16/gantzg-8884771.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/16/gantzg-8884777.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/16/gantzg-8884783.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/16/gantzg-8884789.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/16/gantzg-8884795.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/16/gantzg-8884801.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/16/gantzg-8884807.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 577,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/16/gantzg-8884813.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/16/gantzg-8884819.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/16/gantzg-8884825.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/16/gantzg-8884831.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/16/gantzg-8884837.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/16/gantzg-8884843.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/16/gantzg-8884849.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/16/gantzg-8884855.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/16/gantzg-8884861.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/16/gantzg-8884867.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/gantzg/16/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/16/gantzg-8884873.jpg",
+        "imageAlt" : "Gantz:G 16 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/17",
+    "chapterTitle" : "Gantz:G 17",
+    "chapterDescription" : "",
+    "chapterDate" : "05/28/2017",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/17/gantzg-9333487.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/17/gantzg-9333493.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/17/gantzg-9333499.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/17/gantzg-9333505.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/17/gantzg-9333511.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/17/gantzg-9333517.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/17/gantzg-9333523.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/17/gantzg-9333529.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/17/gantzg-9333535.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/17/gantzg-9333541.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/17/gantzg-9333547.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/17/gantzg-9333553.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/17/gantzg-9333559.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/17/gantzg-9333565.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/17/gantzg-9333571.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/17/gantzg-9333577.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/17/gantzg-9333583.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/17/gantzg-9333589.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/17/gantzg-9333595.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/17/gantzg-9333601.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/17/gantzg-9333607.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/17/gantzg-9333613.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/17/gantzg-9333619.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/17/gantzg-9333625.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/17/gantzg-9333631.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/17/gantzg-9333637.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/17/gantzg-9333643.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/17/gantzg-9333649.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/17/gantzg-9333655.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/17/gantzg-9333661.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/17/gantzg-9333667.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/17/gantzg-9333673.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/gantzg/17/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/17/gantzg-9333679.jpg",
+        "imageAlt" : "Gantz:G 17 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/gantzg/18",
+    "chapterTitle" : "Gantz:G 18",
+    "chapterDescription" : "",
+    "chapterDate" : "05/28/2017",
+    "pageCount" : 47,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/18/gantzg-9333685.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/18/gantzg-9333691.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/18/gantzg-9333697.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/18/gantzg-9333703.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/18/gantzg-9333709.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/18/gantzg-9333715.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/18/gantzg-9333721.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/18/gantzg-9333727.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/18/gantzg-9333733.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/18/gantzg-9333739.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/18/gantzg-9333745.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/18/gantzg-9333751.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/gantzg/18/gantzg-9333757.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 574,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/18/gantzg-9333763.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/18/gantzg-9333769.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/18/gantzg-9333775.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/gantzg/18/gantzg-9333781.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/18/gantzg-9333787.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/18/gantzg-9333793.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/18/gantzg-9333799.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/gantzg/18/gantzg-9333805.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/18/gantzg-9333811.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/18/gantzg-9333817.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/18/gantzg-9333823.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/18/gantzg-9333829.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/18/gantzg-9333835.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/18/gantzg-9333841.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/18/gantzg-9333847.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/18/gantzg-9333853.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/18/gantzg-9333859.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/18/gantzg-9333865.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/18/gantzg-9333871.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/18/gantzg-9333877.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/18/gantzg-9333883.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/18/gantzg-9333889.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/18/gantzg-9333895.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 583,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/18/gantzg-9333901.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/18/gantzg-9333907.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/gantzg/18/gantzg-9333913.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/gantzg/18/gantzg-9333919.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/18/gantzg-9333925.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/18/gantzg-9333931.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/gantzg/18/gantzg-9333937.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 583,
+        "imageUrl" : "http://i8.mangareader.net/gantzg/18/gantzg-9333943.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/gantzg/18/gantzg-9333949.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i4.mangareader.net/gantzg/18/gantzg-9333955.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/gantzg/18/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i9.mangareader.net/gantzg/18/gantzg-9333961.jpg",
+        "imageAlt" : "Gantz:G 18 - Page 47"
+      } ]
+    } ]
+  } ]
+}

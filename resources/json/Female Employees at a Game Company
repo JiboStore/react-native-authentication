@@ -1,0 +1,42 @@
+{
+  "mangaTitle" : "Female Employees at a Game Company",
+  "mangaUrl" : "http://www.mangareader.net/female-employees-at-a-game-company",
+  "mangaThumbUrl" : "http://s2.mangareader.net/cover/female-employees-at-a-game-company/female-employees-at-a-game-company-r0.jpg",
+  "mangaChaptersInfo" : "2 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manhwa (Read Left to Right)",
+  "mangaGenre" : "Drama, Seinen",
+  "chapterCount" : 2,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/female-employees-at-a-game-company/1",
+    "chapterTitle" : "Female Employees at a Game Company 1",
+    "chapterDescription" : "",
+    "chapterDate" : "05/19/2015",
+    "pageCount" : 1,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/female-employees-at-a-game-company/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 17592,
+        "imageUrl" : "http://i1.mangareader.net/female-employees-at-a-game-company/1/female-employees-at-a-game-company-5684995.jpg",
+        "imageAlt" : "Female Employees at a Game Company 1 - Page 1"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/female-employees-at-a-game-company/2",
+    "chapterTitle" : "Female Employees at a Game Company 2",
+    "chapterDescription" : "",
+    "chapterDate" : "05/19/2015",
+    "pageCount" : 1,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/female-employees-at-a-game-company/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 17759,
+        "imageUrl" : "http://i5.mangareader.net/female-employees-at-a-game-company/2/female-employees-at-a-game-company-5684997.jpg",
+        "imageAlt" : "Female Employees at a Game Company 2 - Page 1"
+      } ]
+    } ]
+  } ]
+}

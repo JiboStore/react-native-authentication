@@ -1,0 +1,4941 @@
+{
+  "mangaTitle" : "Patlabor",
+  "mangaUrl" : "http://www.mangareader.net/patlabor",
+  "mangaThumbUrl" : "http://s3.mangareader.net/cover/patlabor/patlabor-r0.jpg",
+  "mangaChaptersInfo" : "14 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Action, Adventure, Comedy, Drama, Mecha, Sci-Fi, Shounen",
+  "chapterCount" : 14,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/patlabor/1",
+    "chapterTitle" : "Patlabor 1",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2011",
+    "pageCount" : 187,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194707.jpg",
+        "imageAlt" : "Patlabor 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194709.jpg",
+        "imageAlt" : "Patlabor 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1239,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194711.jpg",
+        "imageAlt" : "Patlabor 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194713.jpg",
+        "imageAlt" : "Patlabor 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194715.jpg",
+        "imageAlt" : "Patlabor 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194717.jpg",
+        "imageAlt" : "Patlabor 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194719.jpg",
+        "imageAlt" : "Patlabor 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194721.jpg",
+        "imageAlt" : "Patlabor 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194723.jpg",
+        "imageAlt" : "Patlabor 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1198,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/1/patlabor-2194725.jpg",
+        "imageAlt" : "Patlabor 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194727.jpg",
+        "imageAlt" : "Patlabor 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/1/patlabor-2194729.jpg",
+        "imageAlt" : "Patlabor 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/1/patlabor-2194731.jpg",
+        "imageAlt" : "Patlabor 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194733.jpg",
+        "imageAlt" : "Patlabor 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2194735.jpg",
+        "imageAlt" : "Patlabor 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/1/patlabor-2194737.jpg",
+        "imageAlt" : "Patlabor 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2194739.jpg",
+        "imageAlt" : "Patlabor 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194741.jpg",
+        "imageAlt" : "Patlabor 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194743.jpg",
+        "imageAlt" : "Patlabor 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/1/patlabor-2194745.jpg",
+        "imageAlt" : "Patlabor 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194747.jpg",
+        "imageAlt" : "Patlabor 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/1/patlabor-2194749.jpg",
+        "imageAlt" : "Patlabor 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2194751.jpg",
+        "imageAlt" : "Patlabor 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2194753.jpg",
+        "imageAlt" : "Patlabor 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2194755.jpg",
+        "imageAlt" : "Patlabor 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194757.jpg",
+        "imageAlt" : "Patlabor 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2194759.jpg",
+        "imageAlt" : "Patlabor 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194761.jpg",
+        "imageAlt" : "Patlabor 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194763.jpg",
+        "imageAlt" : "Patlabor 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194765.jpg",
+        "imageAlt" : "Patlabor 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194767.jpg",
+        "imageAlt" : "Patlabor 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194769.jpg",
+        "imageAlt" : "Patlabor 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194771.jpg",
+        "imageAlt" : "Patlabor 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194773.jpg",
+        "imageAlt" : "Patlabor 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194775.jpg",
+        "imageAlt" : "Patlabor 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194777.jpg",
+        "imageAlt" : "Patlabor 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194779.jpg",
+        "imageAlt" : "Patlabor 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194781.jpg",
+        "imageAlt" : "Patlabor 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194783.jpg",
+        "imageAlt" : "Patlabor 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194785.jpg",
+        "imageAlt" : "Patlabor 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2194787.jpg",
+        "imageAlt" : "Patlabor 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194789.jpg",
+        "imageAlt" : "Patlabor 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194791.jpg",
+        "imageAlt" : "Patlabor 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194793.jpg",
+        "imageAlt" : "Patlabor 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194795.jpg",
+        "imageAlt" : "Patlabor 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194797.jpg",
+        "imageAlt" : "Patlabor 1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194799.jpg",
+        "imageAlt" : "Patlabor 1 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194801.jpg",
+        "imageAlt" : "Patlabor 1 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194803.jpg",
+        "imageAlt" : "Patlabor 1 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194805.jpg",
+        "imageAlt" : "Patlabor 1 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194807.jpg",
+        "imageAlt" : "Patlabor 1 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194809.jpg",
+        "imageAlt" : "Patlabor 1 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2194811.jpg",
+        "imageAlt" : "Patlabor 1 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2194813.jpg",
+        "imageAlt" : "Patlabor 1 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1124,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2194815.jpg",
+        "imageAlt" : "Patlabor 1 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194817.jpg",
+        "imageAlt" : "Patlabor 1 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194819.jpg",
+        "imageAlt" : "Patlabor 1 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2194821.jpg",
+        "imageAlt" : "Patlabor 1 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2194823.jpg",
+        "imageAlt" : "Patlabor 1 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2194825.jpg",
+        "imageAlt" : "Patlabor 1 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/1/patlabor-2194827.jpg",
+        "imageAlt" : "Patlabor 1 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194829.jpg",
+        "imageAlt" : "Patlabor 1 - Page 62"
+      } ]
+    }, {
+      "pageNumber" : 63,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/63",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/1/patlabor-2194831.jpg",
+        "imageAlt" : "Patlabor 1 - Page 63"
+      } ]
+    }, {
+      "pageNumber" : 64,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/64",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2194833.jpg",
+        "imageAlt" : "Patlabor 1 - Page 64"
+      } ]
+    }, {
+      "pageNumber" : 65,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/65",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/1/patlabor-2194835.jpg",
+        "imageAlt" : "Patlabor 1 - Page 65"
+      } ]
+    }, {
+      "pageNumber" : 66,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/66",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2194837.jpg",
+        "imageAlt" : "Patlabor 1 - Page 66"
+      } ]
+    }, {
+      "pageNumber" : 67,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/67",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2194839.jpg",
+        "imageAlt" : "Patlabor 1 - Page 67"
+      } ]
+    }, {
+      "pageNumber" : 68,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/68",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/1/patlabor-2194841.jpg",
+        "imageAlt" : "Patlabor 1 - Page 68"
+      } ]
+    }, {
+      "pageNumber" : 69,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/69",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2194843.jpg",
+        "imageAlt" : "Patlabor 1 - Page 69"
+      } ]
+    }, {
+      "pageNumber" : 70,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/70",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/1/patlabor-2194845.jpg",
+        "imageAlt" : "Patlabor 1 - Page 70"
+      } ]
+    }, {
+      "pageNumber" : 71,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/71",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/1/patlabor-2194847.jpg",
+        "imageAlt" : "Patlabor 1 - Page 71"
+      } ]
+    }, {
+      "pageNumber" : 72,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/72",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2194849.jpg",
+        "imageAlt" : "Patlabor 1 - Page 72"
+      } ]
+    }, {
+      "pageNumber" : 73,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/73",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/1/patlabor-2194851.jpg",
+        "imageAlt" : "Patlabor 1 - Page 73"
+      } ]
+    }, {
+      "pageNumber" : 74,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/74",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194853.jpg",
+        "imageAlt" : "Patlabor 1 - Page 74"
+      } ]
+    }, {
+      "pageNumber" : 75,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/75",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 588,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2194855.jpg",
+        "imageAlt" : "Patlabor 1 - Page 75"
+      } ]
+    }, {
+      "pageNumber" : 76,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/76",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/1/patlabor-2194857.jpg",
+        "imageAlt" : "Patlabor 1 - Page 76"
+      } ]
+    }, {
+      "pageNumber" : 77,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/77",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/1/patlabor-2194859.jpg",
+        "imageAlt" : "Patlabor 1 - Page 77"
+      } ]
+    }, {
+      "pageNumber" : 78,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/78",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194861.jpg",
+        "imageAlt" : "Patlabor 1 - Page 78"
+      } ]
+    }, {
+      "pageNumber" : 79,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/79",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194863.jpg",
+        "imageAlt" : "Patlabor 1 - Page 79"
+      } ]
+    }, {
+      "pageNumber" : 80,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/80",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2194865.jpg",
+        "imageAlt" : "Patlabor 1 - Page 80"
+      } ]
+    }, {
+      "pageNumber" : 81,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/81",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194867.jpg",
+        "imageAlt" : "Patlabor 1 - Page 81"
+      } ]
+    }, {
+      "pageNumber" : 82,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/82",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194869.jpg",
+        "imageAlt" : "Patlabor 1 - Page 82"
+      } ]
+    }, {
+      "pageNumber" : 83,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/83",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194871.jpg",
+        "imageAlt" : "Patlabor 1 - Page 83"
+      } ]
+    }, {
+      "pageNumber" : 84,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/84",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194873.jpg",
+        "imageAlt" : "Patlabor 1 - Page 84"
+      } ]
+    }, {
+      "pageNumber" : 85,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/85",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194875.jpg",
+        "imageAlt" : "Patlabor 1 - Page 85"
+      } ]
+    }, {
+      "pageNumber" : 86,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/86",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194877.jpg",
+        "imageAlt" : "Patlabor 1 - Page 86"
+      } ]
+    }, {
+      "pageNumber" : 87,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/87",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194879.jpg",
+        "imageAlt" : "Patlabor 1 - Page 87"
+      } ]
+    }, {
+      "pageNumber" : 88,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/88",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194881.jpg",
+        "imageAlt" : "Patlabor 1 - Page 88"
+      } ]
+    }, {
+      "pageNumber" : 89,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/89",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194883.jpg",
+        "imageAlt" : "Patlabor 1 - Page 89"
+      } ]
+    }, {
+      "pageNumber" : 90,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/90",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194885.jpg",
+        "imageAlt" : "Patlabor 1 - Page 90"
+      } ]
+    }, {
+      "pageNumber" : 91,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/91",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194887.jpg",
+        "imageAlt" : "Patlabor 1 - Page 91"
+      } ]
+    }, {
+      "pageNumber" : 92,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/92",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194889.jpg",
+        "imageAlt" : "Patlabor 1 - Page 92"
+      } ]
+    }, {
+      "pageNumber" : 93,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/93",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194891.jpg",
+        "imageAlt" : "Patlabor 1 - Page 93"
+      } ]
+    }, {
+      "pageNumber" : 94,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/94",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2194893.jpg",
+        "imageAlt" : "Patlabor 1 - Page 94"
+      } ]
+    }, {
+      "pageNumber" : 95,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/95",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194895.jpg",
+        "imageAlt" : "Patlabor 1 - Page 95"
+      } ]
+    }, {
+      "pageNumber" : 96,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/96",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194897.jpg",
+        "imageAlt" : "Patlabor 1 - Page 96"
+      } ]
+    }, {
+      "pageNumber" : 97,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/97",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194899.jpg",
+        "imageAlt" : "Patlabor 1 - Page 97"
+      } ]
+    }, {
+      "pageNumber" : 98,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/98",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194901.jpg",
+        "imageAlt" : "Patlabor 1 - Page 98"
+      } ]
+    }, {
+      "pageNumber" : 99,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/99",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194903.jpg",
+        "imageAlt" : "Patlabor 1 - Page 99"
+      } ]
+    }, {
+      "pageNumber" : 100,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/100",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 583,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2194905.jpg",
+        "imageAlt" : "Patlabor 1 - Page 100"
+      } ]
+    }, {
+      "pageNumber" : 101,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/101",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194907.jpg",
+        "imageAlt" : "Patlabor 1 - Page 101"
+      } ]
+    }, {
+      "pageNumber" : 102,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/102",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2194909.jpg",
+        "imageAlt" : "Patlabor 1 - Page 102"
+      } ]
+    }, {
+      "pageNumber" : 103,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/103",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194911.jpg",
+        "imageAlt" : "Patlabor 1 - Page 103"
+      } ]
+    }, {
+      "pageNumber" : 104,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/104",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194913.jpg",
+        "imageAlt" : "Patlabor 1 - Page 104"
+      } ]
+    }, {
+      "pageNumber" : 105,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/105",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194915.jpg",
+        "imageAlt" : "Patlabor 1 - Page 105"
+      } ]
+    }, {
+      "pageNumber" : 106,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/106",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194917.jpg",
+        "imageAlt" : "Patlabor 1 - Page 106"
+      } ]
+    }, {
+      "pageNumber" : 107,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/107",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194919.jpg",
+        "imageAlt" : "Patlabor 1 - Page 107"
+      } ]
+    }, {
+      "pageNumber" : 108,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/108",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2194921.jpg",
+        "imageAlt" : "Patlabor 1 - Page 108"
+      } ]
+    }, {
+      "pageNumber" : 109,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/109",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/1/patlabor-2194923.jpg",
+        "imageAlt" : "Patlabor 1 - Page 109"
+      } ]
+    }, {
+      "pageNumber" : 110,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/110",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2194925.jpg",
+        "imageAlt" : "Patlabor 1 - Page 110"
+      } ]
+    }, {
+      "pageNumber" : 111,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/111",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 583,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194927.jpg",
+        "imageAlt" : "Patlabor 1 - Page 111"
+      } ]
+    }, {
+      "pageNumber" : 112,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/112",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2194929.jpg",
+        "imageAlt" : "Patlabor 1 - Page 112"
+      } ]
+    }, {
+      "pageNumber" : 113,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/113",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2194931.jpg",
+        "imageAlt" : "Patlabor 1 - Page 113"
+      } ]
+    }, {
+      "pageNumber" : 114,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/114",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194933.jpg",
+        "imageAlt" : "Patlabor 1 - Page 114"
+      } ]
+    }, {
+      "pageNumber" : 115,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/115",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194935.jpg",
+        "imageAlt" : "Patlabor 1 - Page 115"
+      } ]
+    }, {
+      "pageNumber" : 116,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/116",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2194937.jpg",
+        "imageAlt" : "Patlabor 1 - Page 116"
+      } ]
+    }, {
+      "pageNumber" : 117,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/117",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194939.jpg",
+        "imageAlt" : "Patlabor 1 - Page 117"
+      } ]
+    }, {
+      "pageNumber" : 118,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/118",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2194941.jpg",
+        "imageAlt" : "Patlabor 1 - Page 118"
+      } ]
+    }, {
+      "pageNumber" : 119,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/119",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2194943.jpg",
+        "imageAlt" : "Patlabor 1 - Page 119"
+      } ]
+    }, {
+      "pageNumber" : 120,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/120",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/1/patlabor-2194945.jpg",
+        "imageAlt" : "Patlabor 1 - Page 120"
+      } ]
+    }, {
+      "pageNumber" : 121,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/121",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194947.jpg",
+        "imageAlt" : "Patlabor 1 - Page 121"
+      } ]
+    }, {
+      "pageNumber" : 122,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/122",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2194949.jpg",
+        "imageAlt" : "Patlabor 1 - Page 122"
+      } ]
+    }, {
+      "pageNumber" : 123,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/123",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/1/patlabor-2194951.jpg",
+        "imageAlt" : "Patlabor 1 - Page 123"
+      } ]
+    }, {
+      "pageNumber" : 124,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/124",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2194953.jpg",
+        "imageAlt" : "Patlabor 1 - Page 124"
+      } ]
+    }, {
+      "pageNumber" : 125,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/125",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/1/patlabor-2194955.jpg",
+        "imageAlt" : "Patlabor 1 - Page 125"
+      } ]
+    }, {
+      "pageNumber" : 126,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/126",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2194957.jpg",
+        "imageAlt" : "Patlabor 1 - Page 126"
+      } ]
+    }, {
+      "pageNumber" : 127,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/127",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2194959.jpg",
+        "imageAlt" : "Patlabor 1 - Page 127"
+      } ]
+    }, {
+      "pageNumber" : 128,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/128",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194961.jpg",
+        "imageAlt" : "Patlabor 1 - Page 128"
+      } ]
+    }, {
+      "pageNumber" : 129,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/129",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2194963.jpg",
+        "imageAlt" : "Patlabor 1 - Page 129"
+      } ]
+    }, {
+      "pageNumber" : 130,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/130",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194965.jpg",
+        "imageAlt" : "Patlabor 1 - Page 130"
+      } ]
+    }, {
+      "pageNumber" : 131,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/131",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194967.jpg",
+        "imageAlt" : "Patlabor 1 - Page 131"
+      } ]
+    }, {
+      "pageNumber" : 132,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/132",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194969.jpg",
+        "imageAlt" : "Patlabor 1 - Page 132"
+      } ]
+    }, {
+      "pageNumber" : 133,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/133",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194971.jpg",
+        "imageAlt" : "Patlabor 1 - Page 133"
+      } ]
+    }, {
+      "pageNumber" : 134,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/134",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194973.jpg",
+        "imageAlt" : "Patlabor 1 - Page 134"
+      } ]
+    }, {
+      "pageNumber" : 135,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/135",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194975.jpg",
+        "imageAlt" : "Patlabor 1 - Page 135"
+      } ]
+    }, {
+      "pageNumber" : 136,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/136",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194977.jpg",
+        "imageAlt" : "Patlabor 1 - Page 136"
+      } ]
+    }, {
+      "pageNumber" : 137,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/137",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2194979.jpg",
+        "imageAlt" : "Patlabor 1 - Page 137"
+      } ]
+    }, {
+      "pageNumber" : 138,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/138",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2194981.jpg",
+        "imageAlt" : "Patlabor 1 - Page 138"
+      } ]
+    }, {
+      "pageNumber" : 139,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/139",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194983.jpg",
+        "imageAlt" : "Patlabor 1 - Page 139"
+      } ]
+    }, {
+      "pageNumber" : 140,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/140",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194985.jpg",
+        "imageAlt" : "Patlabor 1 - Page 140"
+      } ]
+    }, {
+      "pageNumber" : 141,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/141",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2194987.jpg",
+        "imageAlt" : "Patlabor 1 - Page 141"
+      } ]
+    }, {
+      "pageNumber" : 142,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/142",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194989.jpg",
+        "imageAlt" : "Patlabor 1 - Page 142"
+      } ]
+    }, {
+      "pageNumber" : 143,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/143",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2194991.jpg",
+        "imageAlt" : "Patlabor 1 - Page 143"
+      } ]
+    }, {
+      "pageNumber" : 144,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/144",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2194993.jpg",
+        "imageAlt" : "Patlabor 1 - Page 144"
+      } ]
+    }, {
+      "pageNumber" : 145,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/145",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2194995.jpg",
+        "imageAlt" : "Patlabor 1 - Page 145"
+      } ]
+    }, {
+      "pageNumber" : 146,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/146",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2194997.jpg",
+        "imageAlt" : "Patlabor 1 - Page 146"
+      } ]
+    }, {
+      "pageNumber" : 147,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/147",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2194999.jpg",
+        "imageAlt" : "Patlabor 1 - Page 147"
+      } ]
+    }, {
+      "pageNumber" : 148,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/148",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2195001.jpg",
+        "imageAlt" : "Patlabor 1 - Page 148"
+      } ]
+    }, {
+      "pageNumber" : 149,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/149",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2195003.jpg",
+        "imageAlt" : "Patlabor 1 - Page 149"
+      } ]
+    }, {
+      "pageNumber" : 150,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/150",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2195005.jpg",
+        "imageAlt" : "Patlabor 1 - Page 150"
+      } ]
+    }, {
+      "pageNumber" : 151,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/151",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2195007.jpg",
+        "imageAlt" : "Patlabor 1 - Page 151"
+      } ]
+    }, {
+      "pageNumber" : 152,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/152",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2195009.jpg",
+        "imageAlt" : "Patlabor 1 - Page 152"
+      } ]
+    }, {
+      "pageNumber" : 153,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/153",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2195011.jpg",
+        "imageAlt" : "Patlabor 1 - Page 153"
+      } ]
+    }, {
+      "pageNumber" : 154,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/154",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2195013.jpg",
+        "imageAlt" : "Patlabor 1 - Page 154"
+      } ]
+    }, {
+      "pageNumber" : 155,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/155",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2195015.jpg",
+        "imageAlt" : "Patlabor 1 - Page 155"
+      } ]
+    }, {
+      "pageNumber" : 156,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/156",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2195017.jpg",
+        "imageAlt" : "Patlabor 1 - Page 156"
+      } ]
+    }, {
+      "pageNumber" : 157,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/157",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2195019.jpg",
+        "imageAlt" : "Patlabor 1 - Page 157"
+      } ]
+    }, {
+      "pageNumber" : 158,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/158",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2195021.jpg",
+        "imageAlt" : "Patlabor 1 - Page 158"
+      } ]
+    }, {
+      "pageNumber" : 159,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/159",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2195023.jpg",
+        "imageAlt" : "Patlabor 1 - Page 159"
+      } ]
+    }, {
+      "pageNumber" : 160,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/160",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/1/patlabor-2195025.jpg",
+        "imageAlt" : "Patlabor 1 - Page 160"
+      } ]
+    }, {
+      "pageNumber" : 161,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/161",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/1/patlabor-2195027.jpg",
+        "imageAlt" : "Patlabor 1 - Page 161"
+      } ]
+    }, {
+      "pageNumber" : 162,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/162",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2195029.jpg",
+        "imageAlt" : "Patlabor 1 - Page 162"
+      } ]
+    }, {
+      "pageNumber" : 163,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/163",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2195031.jpg",
+        "imageAlt" : "Patlabor 1 - Page 163"
+      } ]
+    }, {
+      "pageNumber" : 164,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/164",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2195033.jpg",
+        "imageAlt" : "Patlabor 1 - Page 164"
+      } ]
+    }, {
+      "pageNumber" : 165,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/165",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2195035.jpg",
+        "imageAlt" : "Patlabor 1 - Page 165"
+      } ]
+    }, {
+      "pageNumber" : 166,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/166",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2195037.jpg",
+        "imageAlt" : "Patlabor 1 - Page 166"
+      } ]
+    }, {
+      "pageNumber" : 167,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/167",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/1/patlabor-2195039.jpg",
+        "imageAlt" : "Patlabor 1 - Page 167"
+      } ]
+    }, {
+      "pageNumber" : 168,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/168",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2195041.jpg",
+        "imageAlt" : "Patlabor 1 - Page 168"
+      } ]
+    }, {
+      "pageNumber" : 169,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/169",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/1/patlabor-2195043.jpg",
+        "imageAlt" : "Patlabor 1 - Page 169"
+      } ]
+    }, {
+      "pageNumber" : 170,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/170",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2195045.jpg",
+        "imageAlt" : "Patlabor 1 - Page 170"
+      } ]
+    }, {
+      "pageNumber" : 171,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/171",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2195047.jpg",
+        "imageAlt" : "Patlabor 1 - Page 171"
+      } ]
+    }, {
+      "pageNumber" : 172,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/172",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/1/patlabor-2195049.jpg",
+        "imageAlt" : "Patlabor 1 - Page 172"
+      } ]
+    }, {
+      "pageNumber" : 173,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/173",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/1/patlabor-2195051.jpg",
+        "imageAlt" : "Patlabor 1 - Page 173"
+      } ]
+    }, {
+      "pageNumber" : 174,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/174",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/1/patlabor-2195053.jpg",
+        "imageAlt" : "Patlabor 1 - Page 174"
+      } ]
+    }, {
+      "pageNumber" : 175,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/175",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/1/patlabor-2195055.jpg",
+        "imageAlt" : "Patlabor 1 - Page 175"
+      } ]
+    }, {
+      "pageNumber" : 176,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/176",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/1/patlabor-2195057.jpg",
+        "imageAlt" : "Patlabor 1 - Page 176"
+      } ]
+    }, {
+      "pageNumber" : 177,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/177",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/1/patlabor-2195059.jpg",
+        "imageAlt" : "Patlabor 1 - Page 177"
+      } ]
+    }, {
+      "pageNumber" : 178,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/178",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2195061.jpg",
+        "imageAlt" : "Patlabor 1 - Page 178"
+      } ]
+    }, {
+      "pageNumber" : 179,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/179",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2195063.jpg",
+        "imageAlt" : "Patlabor 1 - Page 179"
+      } ]
+    }, {
+      "pageNumber" : 180,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/180",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2195065.jpg",
+        "imageAlt" : "Patlabor 1 - Page 180"
+      } ]
+    }, {
+      "pageNumber" : 181,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/181",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2195067.jpg",
+        "imageAlt" : "Patlabor 1 - Page 181"
+      } ]
+    }, {
+      "pageNumber" : 182,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/182",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/1/patlabor-2195069.jpg",
+        "imageAlt" : "Patlabor 1 - Page 182"
+      } ]
+    }, {
+      "pageNumber" : 183,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/183",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/1/patlabor-2195071.jpg",
+        "imageAlt" : "Patlabor 1 - Page 183"
+      } ]
+    }, {
+      "pageNumber" : 184,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/184",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/1/patlabor-2195073.jpg",
+        "imageAlt" : "Patlabor 1 - Page 184"
+      } ]
+    }, {
+      "pageNumber" : 185,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/185",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2195075.jpg",
+        "imageAlt" : "Patlabor 1 - Page 185"
+      } ]
+    }, {
+      "pageNumber" : 186,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/186",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/1/patlabor-2195077.jpg",
+        "imageAlt" : "Patlabor 1 - Page 186"
+      } ]
+    }, {
+      "pageNumber" : 187,
+      "pageUrl" : "http://www.mangareader.net/patlabor/1/187",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/1/patlabor-2195079.jpg",
+        "imageAlt" : "Patlabor 1 - Page 187"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/patlabor/2",
+    "chapterTitle" : "Patlabor 2",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2011",
+    "pageCount" : 95,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195081.jpg",
+        "imageAlt" : "Patlabor 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/2/patlabor-2195083.jpg",
+        "imageAlt" : "Patlabor 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/2/patlabor-2195085.jpg",
+        "imageAlt" : "Patlabor 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195087.jpg",
+        "imageAlt" : "Patlabor 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/2/patlabor-2195089.jpg",
+        "imageAlt" : "Patlabor 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/2/patlabor-2195091.jpg",
+        "imageAlt" : "Patlabor 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195093.jpg",
+        "imageAlt" : "Patlabor 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 588,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195095.jpg",
+        "imageAlt" : "Patlabor 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1204,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/2/patlabor-2195097.jpg",
+        "imageAlt" : "Patlabor 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/2/patlabor-2195099.jpg",
+        "imageAlt" : "Patlabor 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/2/patlabor-2195101.jpg",
+        "imageAlt" : "Patlabor 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195103.jpg",
+        "imageAlt" : "Patlabor 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195105.jpg",
+        "imageAlt" : "Patlabor 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195107.jpg",
+        "imageAlt" : "Patlabor 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/2/patlabor-2195109.jpg",
+        "imageAlt" : "Patlabor 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195111.jpg",
+        "imageAlt" : "Patlabor 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/2/patlabor-2195113.jpg",
+        "imageAlt" : "Patlabor 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/2/patlabor-2195115.jpg",
+        "imageAlt" : "Patlabor 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/2/patlabor-2195117.jpg",
+        "imageAlt" : "Patlabor 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195119.jpg",
+        "imageAlt" : "Patlabor 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 588,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/2/patlabor-2195121.jpg",
+        "imageAlt" : "Patlabor 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/2/patlabor-2195123.jpg",
+        "imageAlt" : "Patlabor 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195125.jpg",
+        "imageAlt" : "Patlabor 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/2/patlabor-2195127.jpg",
+        "imageAlt" : "Patlabor 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195129.jpg",
+        "imageAlt" : "Patlabor 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/2/patlabor-2195131.jpg",
+        "imageAlt" : "Patlabor 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/2/patlabor-2195133.jpg",
+        "imageAlt" : "Patlabor 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195135.jpg",
+        "imageAlt" : "Patlabor 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195137.jpg",
+        "imageAlt" : "Patlabor 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195139.jpg",
+        "imageAlt" : "Patlabor 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/2/patlabor-2195141.jpg",
+        "imageAlt" : "Patlabor 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/2/patlabor-2195143.jpg",
+        "imageAlt" : "Patlabor 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195145.jpg",
+        "imageAlt" : "Patlabor 2 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/2/patlabor-2195147.jpg",
+        "imageAlt" : "Patlabor 2 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/2/patlabor-2195149.jpg",
+        "imageAlt" : "Patlabor 2 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195151.jpg",
+        "imageAlt" : "Patlabor 2 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/2/patlabor-2195153.jpg",
+        "imageAlt" : "Patlabor 2 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195155.jpg",
+        "imageAlt" : "Patlabor 2 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/2/patlabor-2195157.jpg",
+        "imageAlt" : "Patlabor 2 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/2/patlabor-2195159.jpg",
+        "imageAlt" : "Patlabor 2 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/2/patlabor-2195161.jpg",
+        "imageAlt" : "Patlabor 2 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/2/patlabor-2195163.jpg",
+        "imageAlt" : "Patlabor 2 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/2/patlabor-2195165.jpg",
+        "imageAlt" : "Patlabor 2 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/2/patlabor-2195167.jpg",
+        "imageAlt" : "Patlabor 2 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/2/patlabor-2195169.jpg",
+        "imageAlt" : "Patlabor 2 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/2/patlabor-2195171.jpg",
+        "imageAlt" : "Patlabor 2 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/2/patlabor-2195173.jpg",
+        "imageAlt" : "Patlabor 2 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/2/patlabor-2195175.jpg",
+        "imageAlt" : "Patlabor 2 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195177.jpg",
+        "imageAlt" : "Patlabor 2 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/2/patlabor-2195179.jpg",
+        "imageAlt" : "Patlabor 2 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/2/patlabor-2195181.jpg",
+        "imageAlt" : "Patlabor 2 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/2/patlabor-2195183.jpg",
+        "imageAlt" : "Patlabor 2 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/2/patlabor-2195185.jpg",
+        "imageAlt" : "Patlabor 2 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/2/patlabor-2195187.jpg",
+        "imageAlt" : "Patlabor 2 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/2/patlabor-2195189.jpg",
+        "imageAlt" : "Patlabor 2 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195191.jpg",
+        "imageAlt" : "Patlabor 2 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195193.jpg",
+        "imageAlt" : "Patlabor 2 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/2/patlabor-2195195.jpg",
+        "imageAlt" : "Patlabor 2 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/2/patlabor-2195197.jpg",
+        "imageAlt" : "Patlabor 2 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/2/patlabor-2195199.jpg",
+        "imageAlt" : "Patlabor 2 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/2/patlabor-2195201.jpg",
+        "imageAlt" : "Patlabor 2 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/2/patlabor-2195203.jpg",
+        "imageAlt" : "Patlabor 2 - Page 62"
+      } ]
+    }, {
+      "pageNumber" : 63,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/63",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/2/patlabor-2195205.jpg",
+        "imageAlt" : "Patlabor 2 - Page 63"
+      } ]
+    }, {
+      "pageNumber" : 64,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/64",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/2/patlabor-2195207.jpg",
+        "imageAlt" : "Patlabor 2 - Page 64"
+      } ]
+    }, {
+      "pageNumber" : 65,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/65",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/2/patlabor-2195209.jpg",
+        "imageAlt" : "Patlabor 2 - Page 65"
+      } ]
+    }, {
+      "pageNumber" : 66,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/66",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/2/patlabor-2195211.jpg",
+        "imageAlt" : "Patlabor 2 - Page 66"
+      } ]
+    }, {
+      "pageNumber" : 67,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/67",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/2/patlabor-2195213.jpg",
+        "imageAlt" : "Patlabor 2 - Page 67"
+      } ]
+    }, {
+      "pageNumber" : 68,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/68",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195215.jpg",
+        "imageAlt" : "Patlabor 2 - Page 68"
+      } ]
+    }, {
+      "pageNumber" : 69,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/69",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195217.jpg",
+        "imageAlt" : "Patlabor 2 - Page 69"
+      } ]
+    }, {
+      "pageNumber" : 70,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/70",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/2/patlabor-2195219.jpg",
+        "imageAlt" : "Patlabor 2 - Page 70"
+      } ]
+    }, {
+      "pageNumber" : 71,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/71",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195221.jpg",
+        "imageAlt" : "Patlabor 2 - Page 71"
+      } ]
+    }, {
+      "pageNumber" : 72,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/72",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/2/patlabor-2195223.jpg",
+        "imageAlt" : "Patlabor 2 - Page 72"
+      } ]
+    }, {
+      "pageNumber" : 73,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/73",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195225.jpg",
+        "imageAlt" : "Patlabor 2 - Page 73"
+      } ]
+    }, {
+      "pageNumber" : 74,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/74",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/2/patlabor-2195227.jpg",
+        "imageAlt" : "Patlabor 2 - Page 74"
+      } ]
+    }, {
+      "pageNumber" : 75,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/75",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/2/patlabor-2195229.jpg",
+        "imageAlt" : "Patlabor 2 - Page 75"
+      } ]
+    }, {
+      "pageNumber" : 76,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/76",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195231.jpg",
+        "imageAlt" : "Patlabor 2 - Page 76"
+      } ]
+    }, {
+      "pageNumber" : 77,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/77",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/2/patlabor-2195233.jpg",
+        "imageAlt" : "Patlabor 2 - Page 77"
+      } ]
+    }, {
+      "pageNumber" : 78,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/78",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/2/patlabor-2195235.jpg",
+        "imageAlt" : "Patlabor 2 - Page 78"
+      } ]
+    }, {
+      "pageNumber" : 79,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/79",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/2/patlabor-2195237.jpg",
+        "imageAlt" : "Patlabor 2 - Page 79"
+      } ]
+    }, {
+      "pageNumber" : 80,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/80",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195239.jpg",
+        "imageAlt" : "Patlabor 2 - Page 80"
+      } ]
+    }, {
+      "pageNumber" : 81,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/81",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/2/patlabor-2195241.jpg",
+        "imageAlt" : "Patlabor 2 - Page 81"
+      } ]
+    }, {
+      "pageNumber" : 82,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/82",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195243.jpg",
+        "imageAlt" : "Patlabor 2 - Page 82"
+      } ]
+    }, {
+      "pageNumber" : 83,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/83",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195245.jpg",
+        "imageAlt" : "Patlabor 2 - Page 83"
+      } ]
+    }, {
+      "pageNumber" : 84,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/84",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/2/patlabor-2195247.jpg",
+        "imageAlt" : "Patlabor 2 - Page 84"
+      } ]
+    }, {
+      "pageNumber" : 85,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/85",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195249.jpg",
+        "imageAlt" : "Patlabor 2 - Page 85"
+      } ]
+    }, {
+      "pageNumber" : 86,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/86",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/2/patlabor-2195251.jpg",
+        "imageAlt" : "Patlabor 2 - Page 86"
+      } ]
+    }, {
+      "pageNumber" : 87,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/87",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/2/patlabor-2195253.jpg",
+        "imageAlt" : "Patlabor 2 - Page 87"
+      } ]
+    }, {
+      "pageNumber" : 88,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/88",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/2/patlabor-2195255.jpg",
+        "imageAlt" : "Patlabor 2 - Page 88"
+      } ]
+    }, {
+      "pageNumber" : 89,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/89",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/2/patlabor-2195257.jpg",
+        "imageAlt" : "Patlabor 2 - Page 89"
+      } ]
+    }, {
+      "pageNumber" : 90,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/90",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/2/patlabor-2195259.jpg",
+        "imageAlt" : "Patlabor 2 - Page 90"
+      } ]
+    }, {
+      "pageNumber" : 91,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/91",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/2/patlabor-2195261.jpg",
+        "imageAlt" : "Patlabor 2 - Page 91"
+      } ]
+    }, {
+      "pageNumber" : 92,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/92",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/2/patlabor-2195263.jpg",
+        "imageAlt" : "Patlabor 2 - Page 92"
+      } ]
+    }, {
+      "pageNumber" : 93,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/93",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195265.jpg",
+        "imageAlt" : "Patlabor 2 - Page 93"
+      } ]
+    }, {
+      "pageNumber" : 94,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/94",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/2/patlabor-2195267.jpg",
+        "imageAlt" : "Patlabor 2 - Page 94"
+      } ]
+    }, {
+      "pageNumber" : 95,
+      "pageUrl" : "http://www.mangareader.net/patlabor/2/95",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/2/patlabor-2195269.jpg",
+        "imageAlt" : "Patlabor 2 - Page 95"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/patlabor/3",
+    "chapterTitle" : "Patlabor 3",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2011",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 547,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/3/patlabor-2195271.jpg",
+        "imageAlt" : "Patlabor 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/3/patlabor-2195273.jpg",
+        "imageAlt" : "Patlabor 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1326,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/3/patlabor-2195275.jpg",
+        "imageAlt" : "Patlabor 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1248,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/3/patlabor-2195277.jpg",
+        "imageAlt" : "Patlabor 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/3/patlabor-2195279.jpg",
+        "imageAlt" : "Patlabor 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/3/patlabor-2195281.jpg",
+        "imageAlt" : "Patlabor 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/3/patlabor-2195283.jpg",
+        "imageAlt" : "Patlabor 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/3/patlabor-2195285.jpg",
+        "imageAlt" : "Patlabor 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/3/patlabor-2195287.jpg",
+        "imageAlt" : "Patlabor 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1306,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/3/patlabor-2195289.jpg",
+        "imageAlt" : "Patlabor 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/3/patlabor-2195291.jpg",
+        "imageAlt" : "Patlabor 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1343,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/3/patlabor-2195293.jpg",
+        "imageAlt" : "Patlabor 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/3/patlabor-2195295.jpg",
+        "imageAlt" : "Patlabor 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/3/patlabor-2195297.jpg",
+        "imageAlt" : "Patlabor 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/3/patlabor-2195299.jpg",
+        "imageAlt" : "Patlabor 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/3/patlabor-2195301.jpg",
+        "imageAlt" : "Patlabor 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/3/patlabor-2195303.jpg",
+        "imageAlt" : "Patlabor 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/3/patlabor-2195305.jpg",
+        "imageAlt" : "Patlabor 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1283,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/3/patlabor-2195307.jpg",
+        "imageAlt" : "Patlabor 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/patlabor/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 783,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/3/patlabor-2195309.jpg",
+        "imageAlt" : "Patlabor 3 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/patlabor/4",
+    "chapterTitle" : "Patlabor 4",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2011",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/4/patlabor-2195311.jpg",
+        "imageAlt" : "Patlabor 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/4/patlabor-2195313.jpg",
+        "imageAlt" : "Patlabor 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/4/patlabor-2195315.jpg",
+        "imageAlt" : "Patlabor 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/4/patlabor-2195317.jpg",
+        "imageAlt" : "Patlabor 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/4/patlabor-2195319.jpg",
+        "imageAlt" : "Patlabor 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1334,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/4/patlabor-2195321.jpg",
+        "imageAlt" : "Patlabor 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1235,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/4/patlabor-2195323.jpg",
+        "imageAlt" : "Patlabor 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/4/patlabor-2195325.jpg",
+        "imageAlt" : "Patlabor 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/4/patlabor-2195327.jpg",
+        "imageAlt" : "Patlabor 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/4/patlabor-2195329.jpg",
+        "imageAlt" : "Patlabor 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/4/patlabor-2195331.jpg",
+        "imageAlt" : "Patlabor 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1218,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/4/patlabor-2195333.jpg",
+        "imageAlt" : "Patlabor 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1329,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/4/patlabor-2195335.jpg",
+        "imageAlt" : "Patlabor 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1278,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/4/patlabor-2195337.jpg",
+        "imageAlt" : "Patlabor 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/4/patlabor-2195339.jpg",
+        "imageAlt" : "Patlabor 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/4/patlabor-2195341.jpg",
+        "imageAlt" : "Patlabor 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1302,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/4/patlabor-2195343.jpg",
+        "imageAlt" : "Patlabor 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/4/patlabor-2195345.jpg",
+        "imageAlt" : "Patlabor 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 783,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/4/patlabor-2195347.jpg",
+        "imageAlt" : "Patlabor 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/patlabor/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1326,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/4/patlabor-2195349.jpg",
+        "imageAlt" : "Patlabor 4 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/patlabor/5",
+    "chapterTitle" : "Patlabor 5",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2011",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 603,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/5/patlabor-2195351.jpg",
+        "imageAlt" : "Patlabor 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/5/patlabor-2195353.jpg",
+        "imageAlt" : "Patlabor 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/5/patlabor-2195355.jpg",
+        "imageAlt" : "Patlabor 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1198,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/5/patlabor-2195357.jpg",
+        "imageAlt" : "Patlabor 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/5/patlabor-2195359.jpg",
+        "imageAlt" : "Patlabor 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/5/patlabor-2195361.jpg",
+        "imageAlt" : "Patlabor 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/5/patlabor-2195363.jpg",
+        "imageAlt" : "Patlabor 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/5/patlabor-2195365.jpg",
+        "imageAlt" : "Patlabor 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/5/patlabor-2195367.jpg",
+        "imageAlt" : "Patlabor 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/5/patlabor-2195369.jpg",
+        "imageAlt" : "Patlabor 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/5/patlabor-2195371.jpg",
+        "imageAlt" : "Patlabor 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/5/patlabor-2195373.jpg",
+        "imageAlt" : "Patlabor 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/5/patlabor-2195375.jpg",
+        "imageAlt" : "Patlabor 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/5/patlabor-2195377.jpg",
+        "imageAlt" : "Patlabor 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/5/patlabor-2195379.jpg",
+        "imageAlt" : "Patlabor 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/5/patlabor-2195381.jpg",
+        "imageAlt" : "Patlabor 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/5/patlabor-2195383.jpg",
+        "imageAlt" : "Patlabor 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/5/patlabor-2195385.jpg",
+        "imageAlt" : "Patlabor 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/5/patlabor-2195387.jpg",
+        "imageAlt" : "Patlabor 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/patlabor/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/5/patlabor-2195389.jpg",
+        "imageAlt" : "Patlabor 5 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/patlabor/6",
+    "chapterTitle" : "Patlabor 6",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2011",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 849,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/6/patlabor-2195391.jpg",
+        "imageAlt" : "Patlabor 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/6/patlabor-2195393.jpg",
+        "imageAlt" : "Patlabor 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1218,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/6/patlabor-2195395.jpg",
+        "imageAlt" : "Patlabor 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/6/patlabor-2195397.jpg",
+        "imageAlt" : "Patlabor 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/6/patlabor-2195399.jpg",
+        "imageAlt" : "Patlabor 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/6/patlabor-2195401.jpg",
+        "imageAlt" : "Patlabor 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/6/patlabor-2195403.jpg",
+        "imageAlt" : "Patlabor 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1204,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/6/patlabor-2195405.jpg",
+        "imageAlt" : "Patlabor 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/6/patlabor-2195407.jpg",
+        "imageAlt" : "Patlabor 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1209,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/6/patlabor-2195409.jpg",
+        "imageAlt" : "Patlabor 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/6/patlabor-2195411.jpg",
+        "imageAlt" : "Patlabor 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/6/patlabor-2195413.jpg",
+        "imageAlt" : "Patlabor 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/6/patlabor-2195415.jpg",
+        "imageAlt" : "Patlabor 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/6/patlabor-2195417.jpg",
+        "imageAlt" : "Patlabor 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/6/patlabor-2195419.jpg",
+        "imageAlt" : "Patlabor 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/6/patlabor-2195421.jpg",
+        "imageAlt" : "Patlabor 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/6/patlabor-2195423.jpg",
+        "imageAlt" : "Patlabor 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/patlabor/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/6/patlabor-2195425.jpg",
+        "imageAlt" : "Patlabor 6 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/patlabor/7",
+    "chapterTitle" : "Patlabor 7",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2011",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 507,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/7/patlabor-2195427.jpg",
+        "imageAlt" : "Patlabor 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/7/patlabor-2195429.jpg",
+        "imageAlt" : "Patlabor 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/7/patlabor-2195431.jpg",
+        "imageAlt" : "Patlabor 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/7/patlabor-2195433.jpg",
+        "imageAlt" : "Patlabor 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/7/patlabor-2195435.jpg",
+        "imageAlt" : "Patlabor 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/7/patlabor-2195437.jpg",
+        "imageAlt" : "Patlabor 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/7/patlabor-2195439.jpg",
+        "imageAlt" : "Patlabor 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/7/patlabor-2195441.jpg",
+        "imageAlt" : "Patlabor 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/7/patlabor-2195443.jpg",
+        "imageAlt" : "Patlabor 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/7/patlabor-2195445.jpg",
+        "imageAlt" : "Patlabor 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/7/patlabor-2195447.jpg",
+        "imageAlt" : "Patlabor 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/7/patlabor-2195449.jpg",
+        "imageAlt" : "Patlabor 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/7/patlabor-2195451.jpg",
+        "imageAlt" : "Patlabor 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/7/patlabor-2195453.jpg",
+        "imageAlt" : "Patlabor 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/7/patlabor-2195455.jpg",
+        "imageAlt" : "Patlabor 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/7/patlabor-2195457.jpg",
+        "imageAlt" : "Patlabor 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/7/patlabor-2195459.jpg",
+        "imageAlt" : "Patlabor 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/7/patlabor-2195461.jpg",
+        "imageAlt" : "Patlabor 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/7/patlabor-2195463.jpg",
+        "imageAlt" : "Patlabor 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/patlabor/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/7/patlabor-2195465.jpg",
+        "imageAlt" : "Patlabor 7 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/patlabor/8",
+    "chapterTitle" : "Patlabor 8",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2011",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 508,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/8/patlabor-2195467.jpg",
+        "imageAlt" : "Patlabor 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/8/patlabor-2195469.jpg",
+        "imageAlt" : "Patlabor 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/8/patlabor-2195471.jpg",
+        "imageAlt" : "Patlabor 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/8/patlabor-2195473.jpg",
+        "imageAlt" : "Patlabor 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/8/patlabor-2195475.jpg",
+        "imageAlt" : "Patlabor 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1228,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/8/patlabor-2195477.jpg",
+        "imageAlt" : "Patlabor 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/8/patlabor-2195479.jpg",
+        "imageAlt" : "Patlabor 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/8/patlabor-2195481.jpg",
+        "imageAlt" : "Patlabor 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/8/patlabor-2195483.jpg",
+        "imageAlt" : "Patlabor 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/8/patlabor-2195485.jpg",
+        "imageAlt" : "Patlabor 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/8/patlabor-2195487.jpg",
+        "imageAlt" : "Patlabor 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/8/patlabor-2195489.jpg",
+        "imageAlt" : "Patlabor 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/8/patlabor-2195491.jpg",
+        "imageAlt" : "Patlabor 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/8/patlabor-2195493.jpg",
+        "imageAlt" : "Patlabor 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1248,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/8/patlabor-2195495.jpg",
+        "imageAlt" : "Patlabor 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/8/patlabor-2195497.jpg",
+        "imageAlt" : "Patlabor 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/8/patlabor-2195499.jpg",
+        "imageAlt" : "Patlabor 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/8/patlabor-2195501.jpg",
+        "imageAlt" : "Patlabor 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/patlabor/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/8/patlabor-2195503.jpg",
+        "imageAlt" : "Patlabor 8 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/patlabor/9",
+    "chapterTitle" : "Patlabor 9",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2011",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 508,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/9/patlabor-2195505.jpg",
+        "imageAlt" : "Patlabor 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/9/patlabor-2195507.jpg",
+        "imageAlt" : "Patlabor 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 633,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/9/patlabor-2195509.jpg",
+        "imageAlt" : "Patlabor 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/9/patlabor-2195511.jpg",
+        "imageAlt" : "Patlabor 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/9/patlabor-2195513.jpg",
+        "imageAlt" : "Patlabor 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/9/patlabor-2195515.jpg",
+        "imageAlt" : "Patlabor 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/9/patlabor-2195517.jpg",
+        "imageAlt" : "Patlabor 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/9/patlabor-2195519.jpg",
+        "imageAlt" : "Patlabor 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/9/patlabor-2195521.jpg",
+        "imageAlt" : "Patlabor 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/9/patlabor-2195523.jpg",
+        "imageAlt" : "Patlabor 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1222,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/9/patlabor-2195525.jpg",
+        "imageAlt" : "Patlabor 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/9/patlabor-2195527.jpg",
+        "imageAlt" : "Patlabor 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1221,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/9/patlabor-2195529.jpg",
+        "imageAlt" : "Patlabor 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/9/patlabor-2195531.jpg",
+        "imageAlt" : "Patlabor 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/9/patlabor-2195533.jpg",
+        "imageAlt" : "Patlabor 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1221,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/9/patlabor-2195535.jpg",
+        "imageAlt" : "Patlabor 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/9/patlabor-2195537.jpg",
+        "imageAlt" : "Patlabor 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/patlabor/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/9/patlabor-2195539.jpg",
+        "imageAlt" : "Patlabor 9 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/patlabor/10",
+    "chapterTitle" : "Patlabor 10",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2011",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 474,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/10/patlabor-2195541.jpg",
+        "imageAlt" : "Patlabor 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/10/patlabor-2195543.jpg",
+        "imageAlt" : "Patlabor 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/10/patlabor-2195545.jpg",
+        "imageAlt" : "Patlabor 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/10/patlabor-2195547.jpg",
+        "imageAlt" : "Patlabor 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/10/patlabor-2195549.jpg",
+        "imageAlt" : "Patlabor 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/10/patlabor-2195551.jpg",
+        "imageAlt" : "Patlabor 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/10/patlabor-2195553.jpg",
+        "imageAlt" : "Patlabor 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/10/patlabor-2195555.jpg",
+        "imageAlt" : "Patlabor 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/10/patlabor-2195557.jpg",
+        "imageAlt" : "Patlabor 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/10/patlabor-2195559.jpg",
+        "imageAlt" : "Patlabor 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/10/patlabor-2195561.jpg",
+        "imageAlt" : "Patlabor 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/10/patlabor-2195563.jpg",
+        "imageAlt" : "Patlabor 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/10/patlabor-2195565.jpg",
+        "imageAlt" : "Patlabor 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/10/patlabor-2195567.jpg",
+        "imageAlt" : "Patlabor 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1218,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/10/patlabor-2195569.jpg",
+        "imageAlt" : "Patlabor 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/10/patlabor-2195571.jpg",
+        "imageAlt" : "Patlabor 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/10/patlabor-2195573.jpg",
+        "imageAlt" : "Patlabor 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/10/patlabor-2195575.jpg",
+        "imageAlt" : "Patlabor 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/patlabor/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/10/patlabor-2195577.jpg",
+        "imageAlt" : "Patlabor 10 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/patlabor/11",
+    "chapterTitle" : "Patlabor 11",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2011",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/11/patlabor-2195579.jpg",
+        "imageAlt" : "Patlabor 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/11/patlabor-2195581.jpg",
+        "imageAlt" : "Patlabor 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/11/patlabor-2195583.jpg",
+        "imageAlt" : "Patlabor 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/11/patlabor-2195585.jpg",
+        "imageAlt" : "Patlabor 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/11/patlabor-2195587.jpg",
+        "imageAlt" : "Patlabor 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/11/patlabor-2195589.jpg",
+        "imageAlt" : "Patlabor 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/11/patlabor-2195591.jpg",
+        "imageAlt" : "Patlabor 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/11/patlabor-2195593.jpg",
+        "imageAlt" : "Patlabor 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/11/patlabor-2195595.jpg",
+        "imageAlt" : "Patlabor 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/11/patlabor-2195597.jpg",
+        "imageAlt" : "Patlabor 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/11/patlabor-2195599.jpg",
+        "imageAlt" : "Patlabor 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/11/patlabor-2195601.jpg",
+        "imageAlt" : "Patlabor 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/11/patlabor-2195603.jpg",
+        "imageAlt" : "Patlabor 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/11/patlabor-2195605.jpg",
+        "imageAlt" : "Patlabor 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/11/patlabor-2195607.jpg",
+        "imageAlt" : "Patlabor 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/11/patlabor-2195609.jpg",
+        "imageAlt" : "Patlabor 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/11/patlabor-2195611.jpg",
+        "imageAlt" : "Patlabor 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/11/patlabor-2195613.jpg",
+        "imageAlt" : "Patlabor 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/11/patlabor-2195615.jpg",
+        "imageAlt" : "Patlabor 11 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/11/patlabor-2195617.jpg",
+        "imageAlt" : "Patlabor 11 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/11/patlabor-2195619.jpg",
+        "imageAlt" : "Patlabor 11 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/11/patlabor-2195621.jpg",
+        "imageAlt" : "Patlabor 11 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/11/patlabor-2195623.jpg",
+        "imageAlt" : "Patlabor 11 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/11/patlabor-2195625.jpg",
+        "imageAlt" : "Patlabor 11 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/11/patlabor-2195627.jpg",
+        "imageAlt" : "Patlabor 11 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/11/patlabor-2195629.jpg",
+        "imageAlt" : "Patlabor 11 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/11/patlabor-2195631.jpg",
+        "imageAlt" : "Patlabor 11 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/11/patlabor-2195633.jpg",
+        "imageAlt" : "Patlabor 11 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/11/patlabor-2195635.jpg",
+        "imageAlt" : "Patlabor 11 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/11/patlabor-2195637.jpg",
+        "imageAlt" : "Patlabor 11 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/11/patlabor-2195639.jpg",
+        "imageAlt" : "Patlabor 11 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/patlabor/11/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/11/patlabor-2195641.jpg",
+        "imageAlt" : "Patlabor 11 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/patlabor/12",
+    "chapterTitle" : "Patlabor 12",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2011",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 749,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/12/patlabor-2195643.jpg",
+        "imageAlt" : "Patlabor 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 827,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/12/patlabor-2195645.jpg",
+        "imageAlt" : "Patlabor 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/12/patlabor-2195647.jpg",
+        "imageAlt" : "Patlabor 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/12/patlabor-2195649.jpg",
+        "imageAlt" : "Patlabor 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/12/patlabor-2195651.jpg",
+        "imageAlt" : "Patlabor 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/12/patlabor-2195653.jpg",
+        "imageAlt" : "Patlabor 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/12/patlabor-2195655.jpg",
+        "imageAlt" : "Patlabor 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/12/patlabor-2195657.jpg",
+        "imageAlt" : "Patlabor 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/12/patlabor-2195659.jpg",
+        "imageAlt" : "Patlabor 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/12/patlabor-2195661.jpg",
+        "imageAlt" : "Patlabor 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/12/patlabor-2195663.jpg",
+        "imageAlt" : "Patlabor 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/12/patlabor-2195665.jpg",
+        "imageAlt" : "Patlabor 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/12/patlabor-2195667.jpg",
+        "imageAlt" : "Patlabor 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/12/patlabor-2195669.jpg",
+        "imageAlt" : "Patlabor 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/12/patlabor-2195671.jpg",
+        "imageAlt" : "Patlabor 12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/12/patlabor-2195673.jpg",
+        "imageAlt" : "Patlabor 12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/12/patlabor-2195675.jpg",
+        "imageAlt" : "Patlabor 12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/12/patlabor-2195677.jpg",
+        "imageAlt" : "Patlabor 12 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/12/patlabor-2195679.jpg",
+        "imageAlt" : "Patlabor 12 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 625,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/12/patlabor-2195681.jpg",
+        "imageAlt" : "Patlabor 12 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/12/patlabor-2195683.jpg",
+        "imageAlt" : "Patlabor 12 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/12/patlabor-2195685.jpg",
+        "imageAlt" : "Patlabor 12 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/12/patlabor-2195687.jpg",
+        "imageAlt" : "Patlabor 12 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/12/patlabor-2195689.jpg",
+        "imageAlt" : "Patlabor 12 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/12/patlabor-2195691.jpg",
+        "imageAlt" : "Patlabor 12 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/12/patlabor-2195693.jpg",
+        "imageAlt" : "Patlabor 12 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/12/patlabor-2195695.jpg",
+        "imageAlt" : "Patlabor 12 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/12/patlabor-2195697.jpg",
+        "imageAlt" : "Patlabor 12 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1244,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/12/patlabor-2195699.jpg",
+        "imageAlt" : "Patlabor 12 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/12/patlabor-2195701.jpg",
+        "imageAlt" : "Patlabor 12 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1245,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/12/patlabor-2195703.jpg",
+        "imageAlt" : "Patlabor 12 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1245,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/12/patlabor-2195705.jpg",
+        "imageAlt" : "Patlabor 12 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/12/patlabor-2195707.jpg",
+        "imageAlt" : "Patlabor 12 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/12/patlabor-2195709.jpg",
+        "imageAlt" : "Patlabor 12 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/patlabor/12/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/12/patlabor-2195711.jpg",
+        "imageAlt" : "Patlabor 12 - Page 35"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/patlabor/13",
+    "chapterTitle" : "Patlabor 13",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2011",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2069,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/13/patlabor-2195713.jpg",
+        "imageAlt" : "Patlabor 13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/13/patlabor-2195715.jpg",
+        "imageAlt" : "Patlabor 13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/13/patlabor-2195717.jpg",
+        "imageAlt" : "Patlabor 13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/13/patlabor-2195719.jpg",
+        "imageAlt" : "Patlabor 13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/13/patlabor-2195721.jpg",
+        "imageAlt" : "Patlabor 13 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/13/patlabor-2195723.jpg",
+        "imageAlt" : "Patlabor 13 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/13/patlabor-2195725.jpg",
+        "imageAlt" : "Patlabor 13 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/13/patlabor-2195727.jpg",
+        "imageAlt" : "Patlabor 13 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i4.mangareader.net/patlabor/13/patlabor-2195729.jpg",
+        "imageAlt" : "Patlabor 13 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/13/patlabor-2195731.jpg",
+        "imageAlt" : "Patlabor 13 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/13/patlabor-2195733.jpg",
+        "imageAlt" : "Patlabor 13 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/13/patlabor-2195735.jpg",
+        "imageAlt" : "Patlabor 13 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/13/patlabor-2195737.jpg",
+        "imageAlt" : "Patlabor 13 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/13/patlabor-2195739.jpg",
+        "imageAlt" : "Patlabor 13 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/13/patlabor-2195741.jpg",
+        "imageAlt" : "Patlabor 13 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/13/patlabor-2195743.jpg",
+        "imageAlt" : "Patlabor 13 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/patlabor/13/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/13/patlabor-2195745.jpg",
+        "imageAlt" : "Patlabor 13 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/patlabor/14",
+    "chapterTitle" : "Patlabor 14",
+    "chapterDescription" : "",
+    "chapterDate" : "04/25/2011",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/14/patlabor-2195747.jpg",
+        "imageAlt" : "Patlabor 14 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/14/patlabor-2195749.jpg",
+        "imageAlt" : "Patlabor 14 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i10.mangareader.net/patlabor/14/patlabor-2195751.jpg",
+        "imageAlt" : "Patlabor 14 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1222,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/14/patlabor-2195753.jpg",
+        "imageAlt" : "Patlabor 14 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i2.mangareader.net/patlabor/14/patlabor-2195755.jpg",
+        "imageAlt" : "Patlabor 14 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i8.mangareader.net/patlabor/14/patlabor-2195757.jpg",
+        "imageAlt" : "Patlabor 14 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i6.mangareader.net/patlabor/14/patlabor-2195759.jpg",
+        "imageAlt" : "Patlabor 14 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/14/patlabor-2195761.jpg",
+        "imageAlt" : "Patlabor 14 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/14/patlabor-2195763.jpg",
+        "imageAlt" : "Patlabor 14 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/14/patlabor-2195765.jpg",
+        "imageAlt" : "Patlabor 14 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/14/patlabor-2195767.jpg",
+        "imageAlt" : "Patlabor 14 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i7.mangareader.net/patlabor/14/patlabor-2195769.jpg",
+        "imageAlt" : "Patlabor 14 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i5.mangareader.net/patlabor/14/patlabor-2195771.jpg",
+        "imageAlt" : "Patlabor 14 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i1.mangareader.net/patlabor/14/patlabor-2195773.jpg",
+        "imageAlt" : "Patlabor 14 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/14/patlabor-2195775.jpg",
+        "imageAlt" : "Patlabor 14 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i3.mangareader.net/patlabor/14/patlabor-2195777.jpg",
+        "imageAlt" : "Patlabor 14 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/patlabor/14/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i9.mangareader.net/patlabor/14/patlabor-2195779.jpg",
+        "imageAlt" : "Patlabor 14 - Page 17"
+      } ]
+    } ]
+  } ]
+}

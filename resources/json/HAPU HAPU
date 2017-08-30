@@ -1,0 +1,123 @@
+{
+  "mangaTitle" : "HAPU HAPU",
+  "mangaUrl" : "http://www.mangareader.net/hapu-hapu",
+  "mangaThumbUrl" : "http://s5.mangareader.net/cover/hapu-hapu/hapu-hapu-r0.jpg",
+  "mangaChaptersInfo" : "2 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manhwa (Read Left to Right)",
+  "mangaGenre" : "",
+  "chapterCount" : 2,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/hapu-hapu/1",
+    "chapterTitle" : "HAPU HAPU 1",
+    "chapterDescription" : "",
+    "chapterDate" : "04/03/2015",
+    "pageCount" : 6,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/hapu-hapu/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 833,
+        "imageUrl" : "http://i9.mangareader.net/hapu-hapu/1/hapu-hapu-5585895.jpg",
+        "imageAlt" : "HAPU HAPU 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/hapu-hapu/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1534,
+        "imageUrl" : "http://i3.mangareader.net/hapu-hapu/1/hapu-hapu-5585897.jpg",
+        "imageAlt" : "HAPU HAPU 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/hapu-hapu/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i3.mangareader.net/hapu-hapu/1/hapu-hapu-5585899.jpg",
+        "imageAlt" : "HAPU HAPU 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/hapu-hapu/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1297,
+        "imageUrl" : "http://i3.mangareader.net/hapu-hapu/1/hapu-hapu-5585901.jpg",
+        "imageAlt" : "HAPU HAPU 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/hapu-hapu/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1359,
+        "imageUrl" : "http://i7.mangareader.net/hapu-hapu/1/hapu-hapu-5585903.jpg",
+        "imageAlt" : "HAPU HAPU 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/hapu-hapu/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 767,
+        "imageUrl" : "http://i7.mangareader.net/hapu-hapu/1/hapu-hapu-5585905.jpg",
+        "imageAlt" : "HAPU HAPU 1 - Page 6"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/hapu-hapu/2",
+    "chapterTitle" : "HAPU HAPU 2",
+    "chapterDescription" : "",
+    "chapterDate" : "04/14/2015",
+    "pageCount" : 5,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/hapu-hapu/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 832,
+        "imageUrl" : "http://i1.mangareader.net/hapu-hapu/2/hapu-hapu-5612489.jpg",
+        "imageAlt" : "HAPU HAPU 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/hapu-hapu/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2461,
+        "imageUrl" : "http://i7.mangareader.net/hapu-hapu/2/hapu-hapu-5612491.jpg",
+        "imageAlt" : "HAPU HAPU 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/hapu-hapu/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2492,
+        "imageUrl" : "http://i9.mangareader.net/hapu-hapu/2/hapu-hapu-5612493.jpg",
+        "imageAlt" : "HAPU HAPU 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/hapu-hapu/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2246,
+        "imageUrl" : "http://i9.mangareader.net/hapu-hapu/2/hapu-hapu-5612495.jpg",
+        "imageAlt" : "HAPU HAPU 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/hapu-hapu/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1426,
+        "imageUrl" : "http://i5.mangareader.net/hapu-hapu/2/hapu-hapu-5612497.jpg",
+        "imageAlt" : "HAPU HAPU 2 - Page 5"
+      } ]
+    } ]
+  } ]
+}

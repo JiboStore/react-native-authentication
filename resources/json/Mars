@@ -1,0 +1,4084 @@
+{
+  "mangaTitle" : "Mars",
+  "mangaUrl" : "http://www.mangareader.net/mars",
+  "mangaThumbUrl" : "http://s2.mangareader.net/cover/mars/mars-r0.jpg",
+  "mangaChaptersInfo" : "15 Chapters Published. (Completed)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Drama, Mature, Psychological, Romance, School Life, Shoujo",
+  "chapterCount" : 15,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1",
+    "chapterTitle" : "Terra Formars Gaiden - Asimov 1",
+    "chapterDescription" : "",
+    "chapterDate" : "11/21/2016",
+    "pageCount" : 39,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589025.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 567,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589031.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589037.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589043.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589049.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589055.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589061.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589067.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589073.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589079.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589085.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589091.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589097.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589103.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589109.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589115.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589121.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589127.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589133.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589139.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589145.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589151.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589157.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589163.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589169.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589175.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589181.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589187.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589193.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589199.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589205.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589211.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 566,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589217.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589223.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589229.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589235.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589241.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589247.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/1/terra-formars-gaiden-asimov-8589253.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 1 - Page 39"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2",
+    "chapterTitle" : "Terra Formars Gaiden - Asimov 2",
+    "chapterDescription" : "",
+    "chapterDate" : "11/21/2016",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589259.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589265.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589271.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589277.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589283.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589289.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589295.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589301.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589307.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589313.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589319.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589325.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589331.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589337.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589343.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589349.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589355.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589361.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589367.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589373.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589379.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589385.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 569,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589391.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589397.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589403.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589409.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589415.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589421.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589427.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589433.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589439.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589445.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/2/terra-formars-gaiden-asimov-8589451.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 2 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3",
+    "chapterTitle" : "Terra Formars Gaiden - Asimov 3",
+    "chapterDescription" : "",
+    "chapterDate" : "11/21/2016",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589457.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589463.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589469.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589475.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589481.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589487.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589493.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589499.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589505.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589511.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589517.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589523.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589529.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589535.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589541.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589547.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589553.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589559.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1124,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589565.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 569,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589571.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589577.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589583.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589589.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1126,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589595.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589601.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589607.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589613.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589619.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589625.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589631.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589637.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589643.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589649.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/3/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/3/terra-formars-gaiden-asimov-8589655.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 3 - Page 34"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4",
+    "chapterTitle" : "Terra Formars Gaiden - Asimov 4",
+    "chapterDescription" : "",
+    "chapterDate" : "11/21/2016",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589661.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589667.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589673.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589679.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589685.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589691.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589697.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589703.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589709.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 570,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589715.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589721.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589727.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589733.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589739.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589745.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589751.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 568,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589757.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589763.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589769.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589775.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589781.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589787.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589793.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589799.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589805.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589811.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/4/terra-formars-gaiden-asimov-8589817.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 4 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5",
+    "chapterTitle" : "Terra Formars Gaiden - Asimov 5",
+    "chapterDescription" : "",
+    "chapterDate" : "11/21/2016",
+    "pageCount" : 30,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589823.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589829.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589835.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589841.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589847.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589853.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589859.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589865.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589871.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589877.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589883.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589889.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589895.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589901.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 567,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589907.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589913.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589919.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589925.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589931.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 568,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589937.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589943.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589949.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589955.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589961.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589967.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589973.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589979.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589985.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589991.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/5/terra-formars-gaiden-asimov-8589997.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 5 - Page 30"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6",
+    "chapterTitle" : "Terra Formars Gaiden - Asimov 6",
+    "chapterDescription" : "",
+    "chapterDate" : "11/21/2016",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590003.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590009.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590021.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590033.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590045.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590057.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590069.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590075.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590087.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1119,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590099.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590111.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590123.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590141.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590153.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590159.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 567,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590171.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590177.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590189.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590201.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590213.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590231.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590243.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590261.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1126,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590267.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590279.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590297.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590303.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590315.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590327.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590339.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/6/terra-formars-gaiden-asimov-8590345.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 6 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7",
+    "chapterTitle" : "Terra Formars Gaiden - Asimov 7",
+    "chapterDescription" : "",
+    "chapterDate" : "11/21/2016",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590015.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590027.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590039.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590051.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590063.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590081.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590093.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590105.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590117.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590129.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590135.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590147.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 570,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590165.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590183.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590195.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590207.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590219.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590225.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590237.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590249.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590255.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590273.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590285.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590291.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590309.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590321.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590333.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 569,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590351.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590357.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590369.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590381.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/7/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/7/terra-formars-gaiden-asimov-8590393.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 7 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8",
+    "chapterTitle" : "Terra Formars Gaiden - Asimov 8",
+    "chapterDescription" : "",
+    "chapterDate" : "11/21/2016",
+    "pageCount" : 38,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590363.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1010,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590375.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 533,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590387.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590399.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 568,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590405.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590411.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590417.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590423.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590429.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590435.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590441.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590447.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590453.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 565,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590459.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590465.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590471.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590477.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590483.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590489.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590495.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590501.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590507.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590513.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1124,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590519.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590525.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590531.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590537.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590543.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590549.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590555.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590561.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590567.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590573.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590579.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1126,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590585.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590591.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590597.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/8/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/8/terra-formars-gaiden-asimov-8590603.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 8 - Page 38"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9",
+    "chapterTitle" : "Terra Formars Gaiden - Asimov 9",
+    "chapterDescription" : "",
+    "chapterDate" : "12/04/2016",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8631919.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 561,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8631925.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8631931.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8631937.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8631943.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8631949.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8631955.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8631961.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8631967.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8631973.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8631979.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8631985.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8631991.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8631997.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1122,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632003.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632009.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632015.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1126,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632021.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632027.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632033.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632039.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632045.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632051.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1123,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632057.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632063.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632069.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632075.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632081.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632087.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632093.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1126,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632099.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632105.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632111.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/9/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/9/terra-formars-gaiden-asimov-8632117.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 9 - Page 34"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10",
+    "chapterTitle" : "Terra Formars Gaiden - Asimov 10",
+    "chapterDescription" : "",
+    "chapterDate" : "12/14/2016",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671021.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671027.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671033.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671039.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671045.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671051.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671057.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671063.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671069.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1126,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671075.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671081.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671087.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671093.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671099.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671105.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671111.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671117.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 562,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671123.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671129.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671135.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 563,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671141.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 564,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671147.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671153.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671159.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671165.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1109,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671171.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/10/terra-formars-gaiden-asimov-8671177.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 10 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11",
+    "chapterTitle" : "Terra Formars Gaiden - Asimov 11",
+    "chapterDescription" : "",
+    "chapterDate" : "12/14/2016",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671183.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671189.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671195.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671201.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671207.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 583,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671213.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 576,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671219.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671225.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671231.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671237.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671243.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671249.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671255.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 574,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671261.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671267.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671273.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671279.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671285.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671291.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671297.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671303.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671309.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671315.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 580,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671321.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671327.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671333.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/11/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 699,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/11/terra-formars-gaiden-asimov-8671339.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 11 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12",
+    "chapterTitle" : "Terra Formars Gaiden - Asimov 12",
+    "chapterDescription" : "",
+    "chapterDate" : "12/15/2016",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676649.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676655.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676661.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676667.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676673.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676679.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676685.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 582,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676691.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676697.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676703.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676709.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676715.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676721.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676727.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676733.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676739.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676745.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676751.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676757.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 577,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676763.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676769.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676775.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676781.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676787.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676793.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/12/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 707,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/12/terra-formars-gaiden-asimov-8676799.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 12 - Page 26"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13",
+    "chapterTitle" : "Terra Formars Gaiden - Asimov 13",
+    "chapterDescription" : "",
+    "chapterDate" : "12/19/2016",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696557.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 577,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696563.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696569.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696575.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696581.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696587.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696593.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696599.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 586,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696605.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696611.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696617.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696623.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696629.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696635.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696641.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696647.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696653.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696659.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696665.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696671.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696677.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 576,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696683.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696689.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696695.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696701.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 707,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696707.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/13/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/13/terra-formars-gaiden-asimov-8696713.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 13 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14",
+    "chapterTitle" : "Terra Formars Gaiden - Asimov 14",
+    "chapterDescription" : "",
+    "chapterDate" : "12/29/2016",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8739937.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8739943.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8739949.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8739955.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8739961.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8739967.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8739973.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8739979.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8739985.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8739991.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8739997.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740003.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 583,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740009.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740015.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740021.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740027.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740033.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i9.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740039.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740045.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740051.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740057.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740063.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740069.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740075.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i2.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740081.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740087.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i8.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740093.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/14/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/14/terra-formars-gaiden-asimov-8740099.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 14 - Page 28"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/15",
+    "chapterTitle" : "Terra Formars Gaiden - Asimov 15",
+    "chapterDescription" : "",
+    "chapterDate" : "12/29/2016",
+    "pageCount" : 8,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/15/terra-formars-gaiden-asimov-8740105.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 15 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/15/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/terra-formars-gaiden-asimov/15/terra-formars-gaiden-asimov-8740111.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 15 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/15/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i6.mangareader.net/terra-formars-gaiden-asimov/15/terra-formars-gaiden-asimov-8740117.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 15 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/15/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/terra-formars-gaiden-asimov/15/terra-formars-gaiden-asimov-8740123.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 15 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/15/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/15/terra-formars-gaiden-asimov-8740129.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 15 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/15/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i5.mangareader.net/terra-formars-gaiden-asimov/15/terra-formars-gaiden-asimov-8740135.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 15 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/15/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1109,
+        "imageUrl" : "http://i3.mangareader.net/terra-formars-gaiden-asimov/15/terra-formars-gaiden-asimov-8740141.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 15 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/terra-formars-gaiden-asimov/15/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1109,
+        "imageUrl" : "http://i1.mangareader.net/terra-formars-gaiden-asimov/15/terra-formars-gaiden-asimov-8740147.jpg",
+        "imageAlt" : "Terra Formars Gaiden - Asimov 15 - Page 8"
+      } ]
+    } ]
+  } ]
+}

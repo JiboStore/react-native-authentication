@@ -1,0 +1,4207 @@
+{
+  "mangaTitle" : "Kechonpa",
+  "mangaUrl" : "http://www.mangareader.net/kechonpa",
+  "mangaThumbUrl" : "http://s4.mangareader.net/cover/kechonpa/kechonpa-r0.jpg",
+  "mangaChaptersInfo" : "12 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Comedy, Josei, Mystery, Romance",
+  "chapterCount" : 12,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/kechonpa/1",
+    "chapterTitle" : "Kechonpa 1",
+    "chapterDescription" : "",
+    "chapterDate" : "05/02/2012",
+    "pageCount" : 49,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 648,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/1/kechonpa-3264621.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 640,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/1/kechonpa-3264623.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 590,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/1/kechonpa-3264625.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 589,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/1/kechonpa-3264627.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1317,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/1/kechonpa-3264629.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1355,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/1/kechonpa-3264631.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1321,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/1/kechonpa-3264633.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 640,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/1/kechonpa-3264635.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1342,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/1/kechonpa-3264637.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1316,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/1/kechonpa-3264639.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1326,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/1/kechonpa-3264641.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1320,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/1/kechonpa-3264643.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1338,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/1/kechonpa-3264645.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/1/kechonpa-3264647.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1334,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/1/kechonpa-3264649.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1310,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/1/kechonpa-3264651.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1323,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/1/kechonpa-3264653.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1320,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/1/kechonpa-3264655.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1330,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/1/kechonpa-3264657.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1334,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/1/kechonpa-3264659.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1316,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/1/kechonpa-3264661.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1326,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/1/kechonpa-3264663.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1316,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/1/kechonpa-3264665.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1313,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/1/kechonpa-3264667.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/1/kechonpa-3264669.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1322,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/1/kechonpa-3264671.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1331,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/1/kechonpa-3264673.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1321,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/1/kechonpa-3264675.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1326,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/1/kechonpa-3264677.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1327,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/1/kechonpa-3264679.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1322,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/1/kechonpa-3264681.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1322,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/1/kechonpa-3264683.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1322,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/1/kechonpa-3264685.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1326,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/1/kechonpa-3264687.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1330,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/1/kechonpa-3264689.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1318,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/1/kechonpa-3264691.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1330,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/1/kechonpa-3264693.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1314,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/1/kechonpa-3264695.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1334,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/1/kechonpa-3264697.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1326,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/1/kechonpa-3264699.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1343,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/1/kechonpa-3264701.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1316,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/1/kechonpa-3264703.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1343,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/1/kechonpa-3264705.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1333,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/1/kechonpa-3264707.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1323,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/1/kechonpa-3264709.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1333,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/1/kechonpa-3264711.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1336,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/1/kechonpa-3264713.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1322,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/1/kechonpa-3264715.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/1/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/1/kechonpa-3264717.jpg",
+        "imageAlt" : "Kechonpa 1 - Page 49"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kechonpa/2",
+    "chapterTitle" : "Kechonpa 2",
+    "chapterDescription" : "",
+    "chapterDate" : "05/02/2012",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1374,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/2/kechonpa-3264719.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/2/kechonpa-3264721.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 640,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/2/kechonpa-3264723.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1376,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/2/kechonpa-3264725.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1338,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/2/kechonpa-3264727.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1346,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/2/kechonpa-3264729.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/2/kechonpa-3264731.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1322,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/2/kechonpa-3264733.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1341,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/2/kechonpa-3264735.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/2/kechonpa-3264737.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1326,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/2/kechonpa-3264739.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1332,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/2/kechonpa-3264741.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/2/kechonpa-3264743.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1323,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/2/kechonpa-3264745.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1313,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/2/kechonpa-3264747.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1330,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/2/kechonpa-3264749.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1325,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/2/kechonpa-3264751.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1302,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/2/kechonpa-3264753.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1293,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/2/kechonpa-3264755.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1308,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/2/kechonpa-3264757.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1302,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/2/kechonpa-3264759.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1303,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/2/kechonpa-3264761.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1324,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/2/kechonpa-3264763.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1301,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/2/kechonpa-3264765.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1304,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/2/kechonpa-3264767.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1321,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/2/kechonpa-3264769.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1323,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/2/kechonpa-3264771.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1301,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/2/kechonpa-3264773.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1304,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/2/kechonpa-3264775.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1305,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/2/kechonpa-3264777.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/2/kechonpa-3264779.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/2/kechonpa-3264781.jpg",
+        "imageAlt" : "Kechonpa 2 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kechonpa/3",
+    "chapterTitle" : "Kechonpa 3",
+    "chapterDescription" : "",
+    "chapterDate" : "05/02/2012",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1318,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/3/kechonpa-3264783.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/3/kechonpa-3264785.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1339,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/3/kechonpa-3264787.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/3/kechonpa-3264789.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1340,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/3/kechonpa-3264791.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/3/kechonpa-3264793.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1318,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/3/kechonpa-3264795.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/3/kechonpa-3264797.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1316,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/3/kechonpa-3264799.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/3/kechonpa-3264801.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1324,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/3/kechonpa-3264803.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/3/kechonpa-3264805.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/3/kechonpa-3264807.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1275,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/3/kechonpa-3264809.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1330,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/3/kechonpa-3264811.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/3/kechonpa-3264813.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1334,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/3/kechonpa-3264815.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/3/kechonpa-3264817.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1323,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/3/kechonpa-3264819.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/3/kechonpa-3264821.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1332,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/3/kechonpa-3264823.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/3/kechonpa-3264825.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/3/kechonpa-3264827.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1278,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/3/kechonpa-3264829.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/3/kechonpa-3264831.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/3/kechonpa-3264833.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/3/kechonpa-3264835.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1298,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/3/kechonpa-3264837.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1327,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/3/kechonpa-3264839.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/3/kechonpa-3264841.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1325,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/3/kechonpa-3264843.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/3/kechonpa-3264845.jpg",
+        "imageAlt" : "Kechonpa 3 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kechonpa/4",
+    "chapterTitle" : "Kechonpa 4",
+    "chapterDescription" : "",
+    "chapterDate" : "05/02/2012",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 640,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/4/kechonpa-3264847.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1342,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/4/kechonpa-3264849.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1311,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/4/kechonpa-3264851.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/4/kechonpa-3264853.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/4/kechonpa-3264855.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1304,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/4/kechonpa-3264857.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1278,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/4/kechonpa-3264859.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/4/kechonpa-3264861.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/4/kechonpa-3264863.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1305,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/4/kechonpa-3264865.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1278,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/4/kechonpa-3264867.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/4/kechonpa-3264869.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1276,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/4/kechonpa-3264871.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1294,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/4/kechonpa-3264873.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/4/kechonpa-3264875.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/4/kechonpa-3264877.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/4/kechonpa-3264879.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1306,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/4/kechonpa-3264881.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/4/kechonpa-3264883.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1308,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/4/kechonpa-3264885.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1294,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/4/kechonpa-3264887.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/4/kechonpa-3264889.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1298,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/4/kechonpa-3264891.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/4/kechonpa-3264893.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/4/kechonpa-3264895.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1313,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/4/kechonpa-3264897.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/4/kechonpa-3264899.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1302,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/4/kechonpa-3264901.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1251,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/4/kechonpa-3264903.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1312,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/4/kechonpa-3264905.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/4/kechonpa-3264907.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1306,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/4/kechonpa-3264909.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/4/kechonpa-3264911.jpg",
+        "imageAlt" : "Kechonpa 4 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kechonpa/5",
+    "chapterTitle" : "Kechonpa 5",
+    "chapterDescription" : "",
+    "chapterDate" : "05/02/2012",
+    "pageCount" : 30,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/5/kechonpa-3264913.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1324,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/5/kechonpa-3264915.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1325,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/5/kechonpa-3264917.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/5/kechonpa-3264919.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1317,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/5/kechonpa-3264921.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/5/kechonpa-3264923.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1298,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/5/kechonpa-3264925.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1284,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/5/kechonpa-3264927.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1293,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/5/kechonpa-3264929.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1302,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/5/kechonpa-3264931.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1298,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/5/kechonpa-3264933.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/5/kechonpa-3264935.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1317,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/5/kechonpa-3264937.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1278,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/5/kechonpa-3264939.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1294,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/5/kechonpa-3264941.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/5/kechonpa-3264943.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1318,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/5/kechonpa-3264945.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1294,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/5/kechonpa-3264947.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1298,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/5/kechonpa-3264949.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1303,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/5/kechonpa-3264951.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1311,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/5/kechonpa-3264953.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1314,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/5/kechonpa-3264955.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1314,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/5/kechonpa-3264957.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1318,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/5/kechonpa-3264959.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1302,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/5/kechonpa-3264961.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1304,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/5/kechonpa-3264963.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/5/kechonpa-3264965.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1321,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/5/kechonpa-3264967.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1322,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/5/kechonpa-3264969.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1324,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/5/kechonpa-3264971.jpg",
+        "imageAlt" : "Kechonpa 5 - Page 30"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kechonpa/6",
+    "chapterTitle" : "Kechonpa 6",
+    "chapterDescription" : "",
+    "chapterDate" : "05/02/2012",
+    "pageCount" : 46,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/6/kechonpa-3264973.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/6/kechonpa-3264975.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1330,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/6/kechonpa-3264977.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1284,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/6/kechonpa-3264979.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1330,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/6/kechonpa-3264981.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1304,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/6/kechonpa-3264983.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1336,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/6/kechonpa-3264985.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1297,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/6/kechonpa-3264987.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1310,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/6/kechonpa-3264989.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/6/kechonpa-3264991.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1316,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/6/kechonpa-3264993.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/6/kechonpa-3264995.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1328,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/6/kechonpa-3264997.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/6/kechonpa-3264999.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/6/kechonpa-3265001.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/6/kechonpa-3265003.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/6/kechonpa-3265005.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/6/kechonpa-3265007.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1325,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/6/kechonpa-3265009.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1275,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/6/kechonpa-3265011.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1326,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/6/kechonpa-3265013.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/6/kechonpa-3265015.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1330,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/6/kechonpa-3265017.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/6/kechonpa-3265019.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1306,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/6/kechonpa-3265021.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/6/kechonpa-3265023.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1326,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/6/kechonpa-3265025.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/6/kechonpa-3265027.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/6/kechonpa-3265029.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1294,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/6/kechonpa-3265031.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1337,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/6/kechonpa-3265033.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/6/kechonpa-3265035.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/6/kechonpa-3265037.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/6/kechonpa-3265039.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1324,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/6/kechonpa-3265041.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/6/kechonpa-3265043.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/6/kechonpa-3265045.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/6/kechonpa-3265047.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/6/kechonpa-3265049.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/6/kechonpa-3265051.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1336,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/6/kechonpa-3265053.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/6/kechonpa-3265055.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1330,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/6/kechonpa-3265057.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1346,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/6/kechonpa-3265059.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 640,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/6/kechonpa-3265061.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/6/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 640,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/6/kechonpa-3265063.jpg",
+        "imageAlt" : "Kechonpa 6 - Page 46"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kechonpa/7",
+    "chapterTitle" : "Kechonpa 7",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2012",
+    "pageCount" : 40,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/7/kechonpa-3707863.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/7/kechonpa-3707865.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/7/kechonpa-3707867.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1337,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/7/kechonpa-3707869.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1297,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/7/kechonpa-3707871.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1330,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/7/kechonpa-3707873.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/7/kechonpa-3707875.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/7/kechonpa-3707877.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/7/kechonpa-3707879.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/7/kechonpa-3707881.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/7/kechonpa-3707883.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1283,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/7/kechonpa-3707885.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1278,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/7/kechonpa-3707887.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1291,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/7/kechonpa-3707889.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/7/kechonpa-3707891.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1291,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/7/kechonpa-3707893.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/7/kechonpa-3707895.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1294,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/7/kechonpa-3707897.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/7/kechonpa-3707899.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/7/kechonpa-3707901.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/7/kechonpa-3707903.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/7/kechonpa-3707905.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1279,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/7/kechonpa-3707907.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/7/kechonpa-3707909.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/7/kechonpa-3707911.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/7/kechonpa-3707913.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/7/kechonpa-3707915.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1291,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/7/kechonpa-3707917.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/7/kechonpa-3707919.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/7/kechonpa-3707921.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/7/kechonpa-3707923.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/7/kechonpa-3707925.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/7/kechonpa-3707927.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/7/kechonpa-3707929.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1294,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/7/kechonpa-3707931.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/7/kechonpa-3707933.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1271,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/7/kechonpa-3707935.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/7/kechonpa-3707937.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/7/kechonpa-3707939.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/7/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/7/kechonpa-3707941.jpg",
+        "imageAlt" : "Kechonpa 7 - Page 40"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kechonpa/8",
+    "chapterTitle" : "Kechonpa 8",
+    "chapterDescription" : "",
+    "chapterDate" : "04/22/2013",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1302,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/8/kechonpa-4085537.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/8/kechonpa-4085539.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/8/kechonpa-4085541.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1294,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/8/kechonpa-4085543.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1283,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/8/kechonpa-4085545.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/8/kechonpa-4085547.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1276,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/8/kechonpa-4085549.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/8/kechonpa-4085551.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/8/kechonpa-4085553.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/8/kechonpa-4085555.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/8/kechonpa-4085557.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/8/kechonpa-4085559.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1284,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/8/kechonpa-4085561.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/8/kechonpa-4085563.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/8/kechonpa-4085565.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1281,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/8/kechonpa-4085567.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1278,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/8/kechonpa-4085569.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/8/kechonpa-4085571.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/8/kechonpa-4085573.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1291,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/8/kechonpa-4085575.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/8/kechonpa-4085577.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1271,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/8/kechonpa-4085579.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/8/kechonpa-4085581.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1283,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/8/kechonpa-4085583.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/8/kechonpa-4085585.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1281,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/8/kechonpa-4085587.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/8/kechonpa-4085589.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/8/kechonpa-4085591.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/8/kechonpa-4085593.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/8/kechonpa-4085595.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/8/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/8/kechonpa-4085597.jpg",
+        "imageAlt" : "Kechonpa 8 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kechonpa/9",
+    "chapterTitle" : "Kechonpa 9",
+    "chapterDescription" : "",
+    "chapterDate" : "05/06/2013",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 648,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/9/kechonpa-4131941.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/9/kechonpa-4131943.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/9/kechonpa-4131945.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1271,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/9/kechonpa-4131947.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/9/kechonpa-4131949.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/9/kechonpa-4131951.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/9/kechonpa-4131953.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/9/kechonpa-4131955.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/9/kechonpa-4131957.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/9/kechonpa-4131959.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/9/kechonpa-4131961.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/9/kechonpa-4131963.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/9/kechonpa-4131965.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/9/kechonpa-4131967.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1275,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/9/kechonpa-4131969.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/9/kechonpa-4131971.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/9/kechonpa-4131973.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/9/kechonpa-4131975.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/9/kechonpa-4131977.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1281,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/9/kechonpa-4131979.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/9/kechonpa-4131981.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/9/kechonpa-4131983.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/9/kechonpa-4131985.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/9/kechonpa-4131987.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/9/kechonpa-4131989.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/9/kechonpa-4131991.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/9/kechonpa-4131993.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/9/kechonpa-4131995.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/9/kechonpa-4131997.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/9/kechonpa-4131999.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/9/kechonpa-4132001.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/9/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/9/kechonpa-4132003.jpg",
+        "imageAlt" : "Kechonpa 9 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kechonpa/10",
+    "chapterTitle" : "Kechonpa 10",
+    "chapterDescription" : "",
+    "chapterDate" : "01/03/2014",
+    "pageCount" : 41,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/10/kechonpa-4686353.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1329,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/10/kechonpa-4686355.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/10/kechonpa-4686357.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1316,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/10/kechonpa-4686359.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/10/kechonpa-4686361.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/10/kechonpa-4686363.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/10/kechonpa-4686365.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/10/kechonpa-4686367.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1291,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/10/kechonpa-4686369.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/10/kechonpa-4686371.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/10/kechonpa-4686373.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/10/kechonpa-4686375.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/10/kechonpa-4686377.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1316,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/10/kechonpa-4686379.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/10/kechonpa-4686381.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1318,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/10/kechonpa-4686383.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/10/kechonpa-4686385.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/10/kechonpa-4686387.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/10/kechonpa-4686389.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/10/kechonpa-4686391.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/10/kechonpa-4686393.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/10/kechonpa-4686395.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1310,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/10/kechonpa-4686397.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1304,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/10/kechonpa-4686399.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/10/kechonpa-4686401.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1323,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/10/kechonpa-4686403.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/10/kechonpa-4686405.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1314,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/10/kechonpa-4686407.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1311,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/10/kechonpa-4686409.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/10/kechonpa-4686411.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/10/kechonpa-4686413.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/10/kechonpa-4686415.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/10/kechonpa-4686417.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/10/kechonpa-4686419.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1285,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/10/kechonpa-4686421.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1314,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/10/kechonpa-4686423.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1304,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/10/kechonpa-4686425.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/10/kechonpa-4686427.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1314,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/10/kechonpa-4686429.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/10/kechonpa-4686431.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/10/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/10/kechonpa-4686433.jpg",
+        "imageAlt" : "Kechonpa 10 - Page 41"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kechonpa/11",
+    "chapterTitle" : "Kechonpa 11",
+    "chapterDescription" : "",
+    "chapterDate" : "01/29/2014",
+    "pageCount" : 44,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 649,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/11/kechonpa-4750745.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1331,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/11/kechonpa-4750747.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/11/kechonpa-4750749.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/11/kechonpa-4750751.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/11/kechonpa-4750753.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1298,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/11/kechonpa-4750755.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1293,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/11/kechonpa-4750757.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/11/kechonpa-4750759.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/11/kechonpa-4750761.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/11/kechonpa-4750763.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1301,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/11/kechonpa-4750765.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/11/kechonpa-4750767.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1284,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/11/kechonpa-4750769.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/11/kechonpa-4750771.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1281,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/11/kechonpa-4750773.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/11/kechonpa-4750775.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1298,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/11/kechonpa-4750777.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1302,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/11/kechonpa-4750779.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/11/kechonpa-4750781.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/11/kechonpa-4750783.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1285,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/11/kechonpa-4750785.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/11/kechonpa-4750787.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1301,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/11/kechonpa-4750789.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/11/kechonpa-4750791.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1304,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/11/kechonpa-4750793.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/11/kechonpa-4750795.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1275,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/11/kechonpa-4750797.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/11/kechonpa-4750799.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/11/kechonpa-4750801.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/11/kechonpa-4750803.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/11/kechonpa-4750805.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/11/kechonpa-4750807.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1298,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/11/kechonpa-4750809.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/11/kechonpa-4750811.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/11/kechonpa-4750813.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/11/kechonpa-4750815.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1297,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/11/kechonpa-4750817.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1284,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/11/kechonpa-4750819.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/11/kechonpa-4750821.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1303,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/11/kechonpa-4750823.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1314,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/11/kechonpa-4750825.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1291,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/11/kechonpa-4750827.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1333,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/11/kechonpa-4750829.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/11/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1322,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/11/kechonpa-4750831.jpg",
+        "imageAlt" : "Kechonpa 11 - Page 44"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kechonpa/12",
+    "chapterTitle" : "Kechonpa 12",
+    "chapterDescription" : "",
+    "chapterDate" : "02/20/2015",
+    "pageCount" : 47,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 649,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/12/kechonpa-5497435.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 577,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/12/kechonpa-5497437.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/12/kechonpa-5497439.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1322,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/12/kechonpa-5497441.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1335,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/12/kechonpa-5497443.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/12/kechonpa-5497445.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 641,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/12/kechonpa-5497447.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1329,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/12/kechonpa-5497449.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/12/kechonpa-5497451.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1330,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/12/kechonpa-5497453.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1291,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/12/kechonpa-5497455.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/12/kechonpa-5497457.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i6.mangareader.net/kechonpa/12/kechonpa-5497459.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/12/kechonpa-5497461.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1313,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/12/kechonpa-5497463.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1312,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/12/kechonpa-5497465.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/12/kechonpa-5497467.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1310,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/12/kechonpa-5497469.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/12/kechonpa-5497471.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1314,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/12/kechonpa-5497473.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/12/kechonpa-5497475.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1311,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/12/kechonpa-5497477.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/12/kechonpa-5497479.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1303,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/12/kechonpa-5497481.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/12/kechonpa-5497483.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/12/kechonpa-5497485.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1301,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/12/kechonpa-5497487.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1302,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/12/kechonpa-5497489.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1311,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/12/kechonpa-5497491.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1304,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/12/kechonpa-5497493.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/12/kechonpa-5497495.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/12/kechonpa-5497497.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1298,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/12/kechonpa-5497499.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1312,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/12/kechonpa-5497501.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1298,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/12/kechonpa-5497503.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1321,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/12/kechonpa-5497505.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1297,
+        "imageUrl" : "http://i1.mangareader.net/kechonpa/12/kechonpa-5497507.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1297,
+        "imageUrl" : "http://i3.mangareader.net/kechonpa/12/kechonpa-5497509.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1312,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/12/kechonpa-5497511.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1302,
+        "imageUrl" : "http://i7.mangareader.net/kechonpa/12/kechonpa-5497513.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/12/kechonpa-5497515.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1311,
+        "imageUrl" : "http://i9.mangareader.net/kechonpa/12/kechonpa-5497517.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i5.mangareader.net/kechonpa/12/kechonpa-5497519.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1327,
+        "imageUrl" : "http://i8.mangareader.net/kechonpa/12/kechonpa-5497521.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1321,
+        "imageUrl" : "http://i4.mangareader.net/kechonpa/12/kechonpa-5497523.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1326,
+        "imageUrl" : "http://i2.mangareader.net/kechonpa/12/kechonpa-5497525.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/kechonpa/12/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1321,
+        "imageUrl" : "http://i10.mangareader.net/kechonpa/12/kechonpa-5497527.jpg",
+        "imageAlt" : "Kechonpa 12 - Page 47"
+      } ]
+    } ]
+  } ]
+}

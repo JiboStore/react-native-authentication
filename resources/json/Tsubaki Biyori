@@ -1,0 +1,788 @@
+{
+  "mangaTitle" : "Tsubaki Biyori",
+  "mangaUrl" : "http://www.mangareader.net/tsubaki-biyori",
+  "mangaThumbUrl" : "http://s4.mangareader.net/cover/tsubaki-biyori/tsubaki-biyori-r0.jpg",
+  "mangaChaptersInfo" : "8 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Shounenai, Slice of Life",
+  "chapterCount" : 7,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/tsubaki-biyori/1",
+    "chapterTitle" : "Tsubaki Biyori 1",
+    "chapterDescription" : "",
+    "chapterDate" : "03/01/2010",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 539,
+        "imageUrl" : "http://i6.mangareader.net/tsubaki-biyori/1/tsubaki-biyori-1222742.jpg",
+        "imageAlt" : "Tsubaki Biyori 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i10.mangareader.net/tsubaki-biyori/1/tsubaki-biyori-1222743.jpg",
+        "imageAlt" : "Tsubaki Biyori 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i2.mangareader.net/tsubaki-biyori/1/tsubaki-biyori-1222744.jpg",
+        "imageAlt" : "Tsubaki Biyori 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i8.mangareader.net/tsubaki-biyori/1/tsubaki-biyori-1222745.jpg",
+        "imageAlt" : "Tsubaki Biyori 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i6.mangareader.net/tsubaki-biyori/1/tsubaki-biyori-1222746.jpg",
+        "imageAlt" : "Tsubaki Biyori 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 960,
+        "imageUrl" : "http://i2.mangareader.net/tsubaki-biyori/1/tsubaki-biyori-1222747.jpg",
+        "imageAlt" : "Tsubaki Biyori 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i6.mangareader.net/tsubaki-biyori/1/tsubaki-biyori-1222748.jpg",
+        "imageAlt" : "Tsubaki Biyori 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i4.mangareader.net/tsubaki-biyori/1/tsubaki-biyori-1222749.jpg",
+        "imageAlt" : "Tsubaki Biyori 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i10.mangareader.net/tsubaki-biyori/1/tsubaki-biyori-1222750.jpg",
+        "imageAlt" : "Tsubaki Biyori 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1209,
+        "imageUrl" : "http://i2.mangareader.net/tsubaki-biyori/1/tsubaki-biyori-1222751.jpg",
+        "imageAlt" : "Tsubaki Biyori 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1217,
+        "imageUrl" : "http://i10.mangareader.net/tsubaki-biyori/1/tsubaki-biyori-1222752.jpg",
+        "imageAlt" : "Tsubaki Biyori 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i2.mangareader.net/tsubaki-biyori/1/tsubaki-biyori-1222753.jpg",
+        "imageAlt" : "Tsubaki Biyori 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i4.mangareader.net/tsubaki-biyori/1/tsubaki-biyori-1222754.jpg",
+        "imageAlt" : "Tsubaki Biyori 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/tsubaki-biyori/1/tsubaki-biyori-1222755.jpg",
+        "imageAlt" : "Tsubaki Biyori 1 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/tsubaki-biyori/2",
+    "chapterTitle" : "Tsubaki Biyori 2",
+    "chapterDescription" : "",
+    "chapterDate" : "03/01/2010",
+    "pageCount" : 8,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/tsubaki-biyori/2/tsubaki-biyori-1222757.jpg",
+        "imageAlt" : "Tsubaki Biyori 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i1.mangareader.net/tsubaki-biyori/2/tsubaki-biyori-1222758.jpg",
+        "imageAlt" : "Tsubaki Biyori 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i9.mangareader.net/tsubaki-biyori/2/tsubaki-biyori-1222759.jpg",
+        "imageAlt" : "Tsubaki Biyori 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1222,
+        "imageUrl" : "http://i6.mangareader.net/tsubaki-biyori/2/tsubaki-biyori-1222760.jpg",
+        "imageAlt" : "Tsubaki Biyori 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1222,
+        "imageUrl" : "http://i2.mangareader.net/tsubaki-biyori/2/tsubaki-biyori-1222761.jpg",
+        "imageAlt" : "Tsubaki Biyori 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i6.mangareader.net/tsubaki-biyori/2/tsubaki-biyori-1222762.jpg",
+        "imageAlt" : "Tsubaki Biyori 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i6.mangareader.net/tsubaki-biyori/2/tsubaki-biyori-1222763.jpg",
+        "imageAlt" : "Tsubaki Biyori 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i10.mangareader.net/tsubaki-biyori/2/tsubaki-biyori-1222764.jpg",
+        "imageAlt" : "Tsubaki Biyori 2 - Page 8"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/tsubaki-biyori/3",
+    "chapterTitle" : "Tsubaki Biyori 3",
+    "chapterDescription" : "",
+    "chapterDate" : "03/01/2010",
+    "pageCount" : 13,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 888,
+        "imageUrl" : "http://i8.mangareader.net/tsubaki-biyori/3/tsubaki-biyori-1222766.jpg",
+        "imageAlt" : "Tsubaki Biyori 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i4.mangareader.net/tsubaki-biyori/3/tsubaki-biyori-1222767.jpg",
+        "imageAlt" : "Tsubaki Biyori 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i10.mangareader.net/tsubaki-biyori/3/tsubaki-biyori-1222768.jpg",
+        "imageAlt" : "Tsubaki Biyori 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1234,
+        "imageUrl" : "http://i8.mangareader.net/tsubaki-biyori/3/tsubaki-biyori-1222769.jpg",
+        "imageAlt" : "Tsubaki Biyori 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1231,
+        "imageUrl" : "http://i10.mangareader.net/tsubaki-biyori/3/tsubaki-biyori-1222770.jpg",
+        "imageAlt" : "Tsubaki Biyori 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i4.mangareader.net/tsubaki-biyori/3/tsubaki-biyori-1222771.jpg",
+        "imageAlt" : "Tsubaki Biyori 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i4.mangareader.net/tsubaki-biyori/3/tsubaki-biyori-1222772.jpg",
+        "imageAlt" : "Tsubaki Biyori 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1228,
+        "imageUrl" : "http://i8.mangareader.net/tsubaki-biyori/3/tsubaki-biyori-1222773.jpg",
+        "imageAlt" : "Tsubaki Biyori 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i4.mangareader.net/tsubaki-biyori/3/tsubaki-biyori-1222774.jpg",
+        "imageAlt" : "Tsubaki Biyori 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1231,
+        "imageUrl" : "http://i2.mangareader.net/tsubaki-biyori/3/tsubaki-biyori-1222775.jpg",
+        "imageAlt" : "Tsubaki Biyori 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i6.mangareader.net/tsubaki-biyori/3/tsubaki-biyori-1222776.jpg",
+        "imageAlt" : "Tsubaki Biyori 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i2.mangareader.net/tsubaki-biyori/3/tsubaki-biyori-1222777.jpg",
+        "imageAlt" : "Tsubaki Biyori 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1234,
+        "imageUrl" : "http://i10.mangareader.net/tsubaki-biyori/3/tsubaki-biyori-1222778.jpg",
+        "imageAlt" : "Tsubaki Biyori 3 - Page 13"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/tsubaki-biyori/4",
+    "chapterTitle" : "Tsubaki Biyori 4",
+    "chapterDescription" : "",
+    "chapterDate" : "03/01/2010",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1000,
+        "imageUrl" : "http://i3.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222780.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i3.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222781.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i3.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222782.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i1.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222783.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i7.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222784.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i9.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222785.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222786.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i3.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222787.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i9.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222788.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1408,
+        "imageUrl" : "http://i1.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222789.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1207,
+        "imageUrl" : "http://i1.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222790.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1231,
+        "imageUrl" : "http://i9.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222791.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222792.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i7.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222793.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1204,
+        "imageUrl" : "http://i5.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222794.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222795.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i3.mangareader.net/tsubaki-biyori/4/tsubaki-biyori-1222796.jpg",
+        "imageAlt" : "Tsubaki Biyori 4 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/tsubaki-biyori/5",
+    "chapterTitle" : "Tsubaki Biyori 5",
+    "chapterDescription" : "",
+    "chapterDate" : "06/08/2010",
+    "pageCount" : 8,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1222,
+        "imageUrl" : "http://i1.mangareader.net/tsubaki-biyori/5/tsubaki-biyori-1372046.jpg",
+        "imageAlt" : "Tsubaki Biyori 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/tsubaki-biyori/5/tsubaki-biyori-1372047.jpg",
+        "imageAlt" : "Tsubaki Biyori 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/tsubaki-biyori/5/tsubaki-biyori-1372048.jpg",
+        "imageAlt" : "Tsubaki Biyori 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i5.mangareader.net/tsubaki-biyori/5/tsubaki-biyori-1372049.jpg",
+        "imageAlt" : "Tsubaki Biyori 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/tsubaki-biyori/5/tsubaki-biyori-1372050.jpg",
+        "imageAlt" : "Tsubaki Biyori 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i5.mangareader.net/tsubaki-biyori/5/tsubaki-biyori-1372051.jpg",
+        "imageAlt" : "Tsubaki Biyori 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i7.mangareader.net/tsubaki-biyori/5/tsubaki-biyori-1372052.jpg",
+        "imageAlt" : "Tsubaki Biyori 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i1.mangareader.net/tsubaki-biyori/5/tsubaki-biyori-1372053.jpg",
+        "imageAlt" : "Tsubaki Biyori 5 - Page 8"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/tsubaki-biyori/6",
+    "chapterTitle" : "Tsubaki Biyori 6",
+    "chapterDescription" : "",
+    "chapterDate" : "06/08/2010",
+    "pageCount" : 8,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i4.mangareader.net/tsubaki-biyori/6/tsubaki-biyori-1372054.jpg",
+        "imageAlt" : "Tsubaki Biyori 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i8.mangareader.net/tsubaki-biyori/6/tsubaki-biyori-1372055.jpg",
+        "imageAlt" : "Tsubaki Biyori 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/tsubaki-biyori/6/tsubaki-biyori-1372056.jpg",
+        "imageAlt" : "Tsubaki Biyori 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i10.mangareader.net/tsubaki-biyori/6/tsubaki-biyori-1372057.jpg",
+        "imageAlt" : "Tsubaki Biyori 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i6.mangareader.net/tsubaki-biyori/6/tsubaki-biyori-1372058.jpg",
+        "imageAlt" : "Tsubaki Biyori 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i6.mangareader.net/tsubaki-biyori/6/tsubaki-biyori-1372059.jpg",
+        "imageAlt" : "Tsubaki Biyori 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/tsubaki-biyori/6/tsubaki-biyori-1372060.jpg",
+        "imageAlt" : "Tsubaki Biyori 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/tsubaki-biyori/6/tsubaki-biyori-1372061.jpg",
+        "imageAlt" : "Tsubaki Biyori 6 - Page 8"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/tsubaki-biyori/7",
+    "chapterTitle" : "Tsubaki Biyori 7",
+    "chapterDescription" : "",
+    "chapterDate" : "06/08/2010",
+    "pageCount" : 13,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/tsubaki-biyori/7/tsubaki-biyori-1372062.jpg",
+        "imageAlt" : "Tsubaki Biyori 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i5.mangareader.net/tsubaki-biyori/7/tsubaki-biyori-1372063.jpg",
+        "imageAlt" : "Tsubaki Biyori 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i1.mangareader.net/tsubaki-biyori/7/tsubaki-biyori-1372064.jpg",
+        "imageAlt" : "Tsubaki Biyori 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i7.mangareader.net/tsubaki-biyori/7/tsubaki-biyori-1372065.jpg",
+        "imageAlt" : "Tsubaki Biyori 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i1.mangareader.net/tsubaki-biyori/7/tsubaki-biyori-1372066.jpg",
+        "imageAlt" : "Tsubaki Biyori 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i1.mangareader.net/tsubaki-biyori/7/tsubaki-biyori-1372067.jpg",
+        "imageAlt" : "Tsubaki Biyori 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i3.mangareader.net/tsubaki-biyori/7/tsubaki-biyori-1372068.jpg",
+        "imageAlt" : "Tsubaki Biyori 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i1.mangareader.net/tsubaki-biyori/7/tsubaki-biyori-1372069.jpg",
+        "imageAlt" : "Tsubaki Biyori 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/tsubaki-biyori/7/tsubaki-biyori-1372070.jpg",
+        "imageAlt" : "Tsubaki Biyori 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i7.mangareader.net/tsubaki-biyori/7/tsubaki-biyori-1372071.jpg",
+        "imageAlt" : "Tsubaki Biyori 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/tsubaki-biyori/7/tsubaki-biyori-1372072.jpg",
+        "imageAlt" : "Tsubaki Biyori 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i1.mangareader.net/tsubaki-biyori/7/tsubaki-biyori-1372073.jpg",
+        "imageAlt" : "Tsubaki Biyori 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/tsubaki-biyori/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 898,
+        "imageUrl" : "http://i9.mangareader.net/tsubaki-biyori/7/tsubaki-biyori-1372074.jpg",
+        "imageAlt" : "Tsubaki Biyori 7 - Page 13"
+      } ]
+    } ]
+  } ]
+}

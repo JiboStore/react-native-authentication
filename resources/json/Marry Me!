@@ -1,0 +1,823 @@
+{
+  "mangaTitle" : "Marry Me!",
+  "mangaUrl" : "http://www.mangareader.net/marry-me",
+  "mangaThumbUrl" : "http://s1.mangareader.net/cover/marry-me/marry-me-r0.jpg",
+  "mangaChaptersInfo" : "3 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Romance, Slice of Life",
+  "chapterCount" : 3,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/marry-me/1",
+    "chapterTitle" : "Marry Me! 1",
+    "chapterDescription" : "",
+    "chapterDate" : "11/07/2016",
+    "pageCount" : 45,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 893,
+        "imageUrl" : "http://i2.mangareader.net/marry-me/1/marry-me-8524483.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/marry-me/1/marry-me-8524489.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/marry-me/1/marry-me-8524495.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/marry-me/1/marry-me-8524501.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/marry-me/1/marry-me-8524507.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/marry-me/1/marry-me-8524513.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/marry-me/1/marry-me-8524519.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/marry-me/1/marry-me-8524525.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/marry-me/1/marry-me-8524531.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/marry-me/1/marry-me-8524537.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/marry-me/1/marry-me-8524543.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/marry-me/1/marry-me-8524549.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/marry-me/1/marry-me-8524555.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/marry-me/1/marry-me-8524561.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/marry-me/1/marry-me-8524567.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/marry-me/1/marry-me-8524573.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/marry-me/1/marry-me-8524579.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/marry-me/1/marry-me-8524585.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/marry-me/1/marry-me-8524591.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/marry-me/1/marry-me-8524597.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/marry-me/1/marry-me-8524603.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/marry-me/1/marry-me-8524609.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/marry-me/1/marry-me-8524615.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/marry-me/1/marry-me-8524621.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/marry-me/1/marry-me-8524627.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/marry-me/1/marry-me-8524633.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/marry-me/1/marry-me-8524639.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/marry-me/1/marry-me-8524645.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/marry-me/1/marry-me-8524651.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/marry-me/1/marry-me-8524657.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/marry-me/1/marry-me-8524663.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/marry-me/1/marry-me-8524669.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/marry-me/1/marry-me-8524675.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/marry-me/1/marry-me-8524681.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/marry-me/1/marry-me-8524687.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/marry-me/1/marry-me-8524693.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/marry-me/1/marry-me-8524699.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/marry-me/1/marry-me-8524705.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/marry-me/1/marry-me-8524711.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/marry-me/1/marry-me-8524717.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/marry-me/1/marry-me-8524723.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/marry-me/1/marry-me-8524729.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/marry-me/1/marry-me-8524735.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/marry-me/1/marry-me-8524741.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/marry-me/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/marry-me/1/marry-me-8524747.jpg",
+        "imageAlt" : "Marry Me! 1 - Page 45"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/marry-me/2",
+    "chapterTitle" : "Marry Me! 2",
+    "chapterDescription" : "",
+    "chapterDate" : "11/13/2016",
+    "pageCount" : 22,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 893,
+        "imageUrl" : "http://i7.mangareader.net/marry-me/2/marry-me-8545075.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/marry-me/2/marry-me-8545081.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/marry-me/2/marry-me-8545087.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/marry-me/2/marry-me-8545093.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/marry-me/2/marry-me-8545099.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/marry-me/2/marry-me-8545105.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/marry-me/2/marry-me-8545111.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/marry-me/2/marry-me-8545117.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/marry-me/2/marry-me-8545123.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/marry-me/2/marry-me-8545129.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/marry-me/2/marry-me-8545135.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/marry-me/2/marry-me-8545141.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/marry-me/2/marry-me-8545147.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/marry-me/2/marry-me-8545153.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/marry-me/2/marry-me-8545159.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/marry-me/2/marry-me-8545165.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/marry-me/2/marry-me-8545171.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/marry-me/2/marry-me-8545177.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/marry-me/2/marry-me-8545183.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/marry-me/2/marry-me-8545189.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/marry-me/2/marry-me-8545195.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/marry-me/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/marry-me/2/marry-me-8545201.jpg",
+        "imageAlt" : "Marry Me! 2 - Page 22"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/marry-me/3",
+    "chapterTitle" : "Marry Me! 3",
+    "chapterDescription" : "",
+    "chapterDate" : "11/27/2016",
+    "pageCount" : 21,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 893,
+        "imageUrl" : "http://i7.mangareader.net/marry-me/3/marry-me-8613415.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/marry-me/3/marry-me-8613421.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/marry-me/3/marry-me-8613427.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/marry-me/3/marry-me-8613433.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/marry-me/3/marry-me-8613439.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/marry-me/3/marry-me-8613445.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/marry-me/3/marry-me-8613451.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/marry-me/3/marry-me-8613457.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/marry-me/3/marry-me-8613463.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/marry-me/3/marry-me-8613469.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/marry-me/3/marry-me-8613475.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/marry-me/3/marry-me-8613481.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/marry-me/3/marry-me-8613487.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/marry-me/3/marry-me-8613493.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i5.mangareader.net/marry-me/3/marry-me-8613499.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/marry-me/3/marry-me-8613505.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/marry-me/3/marry-me-8613511.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/marry-me/3/marry-me-8613517.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/marry-me/3/marry-me-8613523.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/marry-me/3/marry-me-8613529.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/marry-me/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/marry-me/3/marry-me-8613535.jpg",
+        "imageAlt" : "Marry Me! 3 - Page 21"
+      } ]
+    } ]
+  } ]
+}

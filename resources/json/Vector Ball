@@ -1,0 +1,959 @@
+{
+  "mangaTitle" : "Vector Ball",
+  "mangaUrl" : "http://www.mangareader.net/vector-ball",
+  "mangaThumbUrl" : "http://s2.mangareader.net/cover/vector-ball/vector-ball-r0.jpg",
+  "mangaChaptersInfo" : "7 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Action, Comedy, School Life, Shounen, Supernatural",
+  "chapterCount" : 7,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/vector-ball/1",
+    "chapterTitle" : "Vector Ball 1",
+    "chapterDescription" : "",
+    "chapterDate" : "10/25/2016",
+    "pageCount" : 60,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/1/vector-ball-8448919.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i5.mangareader.net/vector-ball/1/vector-ball-8448925.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/vector-ball/1/vector-ball-8448931.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i1.mangareader.net/vector-ball/1/vector-ball-8448937.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i1.mangareader.net/vector-ball/1/vector-ball-8448943.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i9.mangareader.net/vector-ball/1/vector-ball-8448949.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i7.mangareader.net/vector-ball/1/vector-ball-8448955.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i10.mangareader.net/vector-ball/1/vector-ball-8448961.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/1/vector-ball-8448967.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/1/vector-ball-8448973.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/1/vector-ball-8448979.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i6.mangareader.net/vector-ball/1/vector-ball-8448985.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i8.mangareader.net/vector-ball/1/vector-ball-8448991.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i6.mangareader.net/vector-ball/1/vector-ball-8448997.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i10.mangareader.net/vector-ball/1/vector-ball-8449003.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/1/vector-ball-8449009.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i6.mangareader.net/vector-ball/1/vector-ball-8449015.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i7.mangareader.net/vector-ball/1/vector-ball-8449021.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i1.mangareader.net/vector-ball/1/vector-ball-8449027.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i1.mangareader.net/vector-ball/1/vector-ball-8449033.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i9.mangareader.net/vector-ball/1/vector-ball-8449039.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i1.mangareader.net/vector-ball/1/vector-ball-8449045.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i5.mangareader.net/vector-ball/1/vector-ball-8449051.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i1.mangareader.net/vector-ball/1/vector-ball-8449057.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/1/vector-ball-8449063.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i8.mangareader.net/vector-ball/1/vector-ball-8449069.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i8.mangareader.net/vector-ball/1/vector-ball-8449075.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i2.mangareader.net/vector-ball/1/vector-ball-8449081.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i6.mangareader.net/vector-ball/1/vector-ball-8449087.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i2.mangareader.net/vector-ball/1/vector-ball-8449093.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i8.mangareader.net/vector-ball/1/vector-ball-8449099.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/1/vector-ball-8449105.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i10.mangareader.net/vector-ball/1/vector-ball-8449111.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i6.mangareader.net/vector-ball/1/vector-ball-8449117.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i5.mangareader.net/vector-ball/1/vector-ball-8449123.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i5.mangareader.net/vector-ball/1/vector-ball-8449129.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i7.mangareader.net/vector-ball/1/vector-ball-8449135.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i7.mangareader.net/vector-ball/1/vector-ball-8449141.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i7.mangareader.net/vector-ball/1/vector-ball-8449147.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i7.mangareader.net/vector-ball/1/vector-ball-8449153.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i9.mangareader.net/vector-ball/1/vector-ball-8449159.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i2.mangareader.net/vector-ball/1/vector-ball-8449165.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i10.mangareader.net/vector-ball/1/vector-ball-8449171.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i10.mangareader.net/vector-ball/1/vector-ball-8449177.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i8.mangareader.net/vector-ball/1/vector-ball-8449183.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i6.mangareader.net/vector-ball/1/vector-ball-8449189.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/1/vector-ball-8449195.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/1/vector-ball-8449201.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i8.mangareader.net/vector-ball/1/vector-ball-8449207.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i10.mangareader.net/vector-ball/1/vector-ball-8449213.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/1/vector-ball-8449219.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i9.mangareader.net/vector-ball/1/vector-ball-8449225.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i9.mangareader.net/vector-ball/1/vector-ball-8449231.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i3.mangareader.net/vector-ball/1/vector-ball-8449237.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i5.mangareader.net/vector-ball/1/vector-ball-8449243.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i1.mangareader.net/vector-ball/1/vector-ball-8449249.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i3.mangareader.net/vector-ball/1/vector-ball-8449255.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i2.mangareader.net/vector-ball/1/vector-ball-8449261.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 582,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/1/vector-ball-8449267.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/1/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i8.mangareader.net/vector-ball/1/vector-ball-8449273.jpg",
+        "imageAlt" : "Vector Ball 1 - Page 60"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/vector-ball/2",
+    "chapterTitle" : "Vector Ball 2",
+    "chapterDescription" : "",
+    "chapterDate" : "10/25/2016",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i3.mangareader.net/vector-ball/2/vector-ball-8449279.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i3.mangareader.net/vector-ball/2/vector-ball-8449285.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i9.mangareader.net/vector-ball/2/vector-ball-8449291.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i9.mangareader.net/vector-ball/2/vector-ball-8449297.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i9.mangareader.net/vector-ball/2/vector-ball-8449303.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i3.mangareader.net/vector-ball/2/vector-ball-8449309.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i5.mangareader.net/vector-ball/2/vector-ball-8449315.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i8.mangareader.net/vector-ball/2/vector-ball-8449321.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i10.mangareader.net/vector-ball/2/vector-ball-8449327.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i2.mangareader.net/vector-ball/2/vector-ball-8449333.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/2/vector-ball-8449339.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i2.mangareader.net/vector-ball/2/vector-ball-8449345.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i10.mangareader.net/vector-ball/2/vector-ball-8449351.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i6.mangareader.net/vector-ball/2/vector-ball-8449357.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i7.mangareader.net/vector-ball/2/vector-ball-8449363.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i1.mangareader.net/vector-ball/2/vector-ball-8449369.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i1.mangareader.net/vector-ball/2/vector-ball-8449375.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i7.mangareader.net/vector-ball/2/vector-ball-8449381.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 599,
+        "imageUrl" : "http://i5.mangareader.net/vector-ball/2/vector-ball-8449387.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i7.mangareader.net/vector-ball/2/vector-ball-8449393.jpg",
+        "imageAlt" : "Vector Ball 2 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/vector-ball/3",
+    "chapterTitle" : "Vector Ball 3",
+    "chapterDescription" : "",
+    "chapterDate" : "10/25/2016",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/3/vector-ball-8449399.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i3.mangareader.net/vector-ball/3/vector-ball-8449405.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i9.mangareader.net/vector-ball/3/vector-ball-8449411.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i5.mangareader.net/vector-ball/3/vector-ball-8449417.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i10.mangareader.net/vector-ball/3/vector-ball-8449423.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i2.mangareader.net/vector-ball/3/vector-ball-8449429.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i8.mangareader.net/vector-ball/3/vector-ball-8449435.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/3/vector-ball-8449441.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/3/vector-ball-8449447.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i8.mangareader.net/vector-ball/3/vector-ball-8449453.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i4.mangareader.net/vector-ball/3/vector-ball-8449459.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i7.mangareader.net/vector-ball/3/vector-ball-8449465.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i5.mangareader.net/vector-ball/3/vector-ball-8449471.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i5.mangareader.net/vector-ball/3/vector-ball-8449477.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i9.mangareader.net/vector-ball/3/vector-ball-8449483.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i7.mangareader.net/vector-ball/3/vector-ball-8449489.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i9.mangareader.net/vector-ball/3/vector-ball-8449495.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i3.mangareader.net/vector-ball/3/vector-ball-8449501.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i3.mangareader.net/vector-ball/3/vector-ball-8449507.jpg",
+        "imageAlt" : "Vector Ball 3 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/vector-ball/4",
+    "chapterTitle" : "Vector Ball 4",
+    "chapterDescription" : "",
+    "chapterDate" : "10/25/2016",
+    "pageCount" : 0,
+    "pages" : [ ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/vector-ball/5",
+    "chapterTitle" : "Vector Ball 5",
+    "chapterDescription" : "",
+    "chapterDate" : "10/25/2016",
+    "pageCount" : 0,
+    "pages" : [ ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/vector-ball/6",
+    "chapterTitle" : "Vector Ball 6",
+    "chapterDescription" : "",
+    "chapterDate" : "10/25/2016",
+    "pageCount" : 1,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/vector-ball/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i1.mangareader.net/vector-ball/6/vector-ball-8449513.jpg",
+        "imageAlt" : "Vector Ball 6 - Page 1"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/vector-ball/7",
+    "chapterTitle" : "Vector Ball 7",
+    "chapterDescription" : "",
+    "chapterDate" : "10/25/2016",
+    "pageCount" : 0,
+    "pages" : [ ]
+  } ]
+}

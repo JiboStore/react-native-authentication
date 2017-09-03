@@ -15,13 +15,18 @@ import {
 } from 'react-native';
 
 class LogOrSign extends Component {
+  handleOnPress() {
+    Alert.alert("handle button login pressed")
+  }
   render() {
     return (
       <Button 
         title="Login"
-        onPress={()=>{
-          Alert.alert("button login pressed")
-        }}
+        onPress={this.handleOnPress}
+//         onPress={()=>{
+//           this.handleOnPress()
+// //           Alert.alert("button login pressed")
+//         }}
       />
     );
   }

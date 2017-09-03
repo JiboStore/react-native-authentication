@@ -12,6 +12,8 @@ import {
   View
 } from 'react-native';
 
+import LogOrSign from './src/scenes/logorsign/logorsign'
+
 export default class MangafunApp extends Component {
   render() {
     return (
@@ -50,4 +52,5 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('MangafunApp', () => MangafunApp);
+// AppRegistry.registerComponent('MangafunApp', () => MangafunApp);
+AppRegistry.registerComponent('MangafunApp', () => LogOrSign);

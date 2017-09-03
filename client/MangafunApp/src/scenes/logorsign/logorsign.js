@@ -11,6 +11,7 @@ import {
   Alert,
   Button,
   Text,
+  TextInput,
   View
 } from 'react-native';
 
@@ -18,9 +19,21 @@ class LogOrSign extends Component {
   handleOnPress() {
     Alert.alert("handle button login pressed")
   }
+  submitFunc = () => {
+    const payload = {
+      email: this.email,
+      password: this.password
+    }
+    console.log(payload)
+    Alert.alert("hello: " + payload.email)
+  }
   render() {
     return (
-      <View>
+      <View style={{flex: 1, flexDirection: 'column', justifyContent: 'space-around'}}>
+        <TextInput placeholder="email"
+          onChangeText={(text) => this.email = text}/>
+        <TextInput placeholder="password"
+          onChangeText={(text) => this.password = text}/>
       <Button 
         title="Login"
         onPress={this.handleOnPress}
@@ -30,7 +43,7 @@ class LogOrSign extends Component {
 //         }}
       />
       <Button title="Sign up"
-        onPress={this.handleOnPress}
+        onPress={this.submitFunc}
       />
       </View>
     );

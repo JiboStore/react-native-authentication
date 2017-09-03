@@ -20,6 +20,7 @@ class LogOrSign extends Component {
   }
   render() {
     return (
+      <View>
       <Button 
         title="Login"
         onPress={this.handleOnPress}
@@ -28,6 +29,10 @@ class LogOrSign extends Component {
 // //           Alert.alert("button login pressed")
 //         }}
       />
+      <Button title="Sign up"
+        onPress={this.handleOnPress}
+      />
+      </View>
     );
   }
 }

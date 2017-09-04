@@ -48,6 +48,10 @@ docker push 217300804996.dkr.ecr.us-east-1.amazonaws.com/mangafunecs:latest
 
 http://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/
 
+Activator command to update crypto secret
+activator playGenerateSecret
+activator playUpdateSecret
+
 List[Future[String]] => Future[List[String]]
 https://stackoverflow.com/a/20012490/474330
 

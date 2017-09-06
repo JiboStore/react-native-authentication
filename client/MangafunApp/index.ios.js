@@ -13,7 +13,7 @@ import {
 } from 'react-native';
 
 import LogOrSign from './src/scenes/logorsign/logorsign'
-import SignName from './src/scenes/signupseq/signname'
+import SignUpSeq from './src/scenes/signupseq/index'
 
 export default class MangafunApp extends Component {
   render() {
@@ -55,4 +55,4 @@ const styles = StyleSheet.create({
 
 // AppRegistry.registerComponent('MangafunApp', () => MangafunApp);
 // AppRegistry.registerComponent('MangafunApp', () => LogOrSign);
-AppRegistry.registerComponent('MangafunApp', () => SignName);
+AppRegistry.registerComponent('MangafunApp', () => SignUpSeq);

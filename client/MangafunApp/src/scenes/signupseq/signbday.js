@@ -15,17 +15,12 @@ import {
   View
 } from 'react-native';
 
-import { StackNavigator } from 'react-navigation';
-
-import SignBdayScreen from './signbday'
-
-class SignNameScreen extends Component {
+class SignBdayScreen extends Component {
   static navigationOptions = {
-    title: 'Welcome',
+    title: 'Birthday',
   };
   handleNext() {
     Alert.alert("handle button next pressed")
-//     navigate("SignBday")
   }
   handleOnPress() {
     Alert.alert("handle button login pressed")
@@ -47,12 +42,11 @@ class SignNameScreen extends Component {
           onChangeText={(text) => this.lastname = text}/>
       <Button 
         title="Next"
-//         onPress={this.handleNext} // this doesnt work, the function cannot access props
-        onPress={() => {this.props.navigation.navigate("SignBday")}}
+        onPress={this.handleNext}
       />
       </View>
     );
   }
 }
 
-export default SignNameScreen;
+export default SignBdayScreen;

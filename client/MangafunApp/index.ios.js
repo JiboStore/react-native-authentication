@@ -12,8 +12,11 @@ import {
   View
 } from 'react-native';
 
-import LogOrSign from './src/scenes/logorsign/logorsign'
-import SignUpSeq from './src/scenes/signupseq/index'
+import { connect } from 'react-redux';
+
+// import LogOrSign from './src/scenes/logorsign/logorsign'
+// import SignUpSeq from './src/scenes/signupseq/index'
+import TryRedux from './src/scenes/signupseq/tryredux'
 
 export default class MangafunApp extends Component {
   render() {
@@ -55,4 +58,5 @@ const styles = StyleSheet.create({
 
 // AppRegistry.registerComponent('MangafunApp', () => MangafunApp);
 // AppRegistry.registerComponent('MangafunApp', () => LogOrSign);
-AppRegistry.registerComponent('MangafunApp', () => SignUpSeq);
+// AppRegistry.registerComponent('MangafunApp', () => SignUpSeq);
+AppRegistry.registerComponent('MangafunApp', () => TryRedux);

@@ -46,9 +46,11 @@ class ChatScreen extends React.Component {
 }
 
 const ReactNavigationLearning = StackNavigator({
-  Home: { screen: HomeScreen },
+  //Home: { screen: HomeScreen },
+  Home: { screen: TabNav },
   Chat: { screen: ChatScreen },
 });
 
 // AppRegistry.registerComponent('ReactNavigationLearning', () => ReactNavigationLearning)
-AppRegistry.registerComponent('ReactNavigationLearning', () => TabNav);
+// AppRegistry.registerComponent('ReactNavigationLearning', () => TabNav);
+AppRegistry.registerComponent('ReactNavigationLearning', () => ReactNavigationLearning);

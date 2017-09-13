@@ -7,7 +7,10 @@ import {
 } from 'react-native';
 import { 
   StackNavigator,
+  TabNavigator,
 } from 'react-navigation';
+
+import TabNav from './app/tabnav'
 
 class HomeScreen extends React.Component {
   static navigationOptions = {
@@ -47,4 +50,5 @@ const ReactNavigationLearning = StackNavigator({
   Chat: { screen: ChatScreen },
 });
 
-AppRegistry.registerComponent('ReactNavigationLearning', () => ReactNavigationLearning);
+// AppRegistry.registerComponent('ReactNavigationLearning', () => ReactNavigationLearning)
+AppRegistry.registerComponent('ReactNavigationLearning', () => TabNav);

@@ -45,9 +45,19 @@ class ChatScreen extends React.Component {
   }
 }
 
+class NavigatorWrappingScreen extends React.Component {
+  render() {
+    return (
+      <TabNav navigation={this.props.navigation}/>
+    );
+  }
+}
+NavigatorWrappingScreen.router = TabNav.router;
+
 const ReactNavigationLearning = StackNavigator({
   //Home: { screen: HomeScreen },
-  Home: { screen: TabNav },
+  //Home: { screen: TabNav },
+Home: { screen: NavigatorWrappingScreen },
   Chat: { screen: ChatScreen },
 });
 

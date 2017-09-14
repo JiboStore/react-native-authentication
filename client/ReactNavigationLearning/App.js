@@ -11,7 +11,7 @@ import {
 } from 'react-navigation';
 
 import TabNav from './app/tabnav'
-
+/*
 class HomeScreen extends React.Component {
   static navigationOptions = {
     title: 'Welcome',
@@ -29,7 +29,7 @@ class HomeScreen extends React.Component {
     );
   }
 }
-
+*/
 class ChatScreen extends React.Component {
   static navigationOptions = ({ navigation }) => ({
     title: `Chat with ${navigation.state.params.user}`,

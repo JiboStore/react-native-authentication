@@ -31,9 +31,22 @@ class HomeScreen extends React.Component {
 }
 */
 class ChatScreen extends React.Component {
-  static navigationOptions = ({ navigation }) => ({
-    title: `Chat with ${navigation.state.params.user}`,
-  });
+  static navigationOptions = ({ navigation }) => {
+    const { state, setParams } = navigation;
+    const { isInfo } = state.params.mode === 'info';
+    const { user } = state.params;
+    return {
+      title: isInfo ? `${user}'s Contact info` : `Chat with ${state.params.user}`,
+      headerRight: (
+          <Button
+            title={ isInfo ? `Done`: `${user}'s info`}
+            onPress={()=>{
+              setParams({mode: isInfo ? `none`: `info`});
+            }}
+          />
+      )
+    };
+  };
   render() {
     // The screen's current route is passed in to `props.navigation.state`:
     const { params } = this.props.navigation.state;

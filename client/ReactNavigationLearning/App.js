@@ -33,7 +33,7 @@ class HomeScreen extends React.Component {
 class ChatScreen extends React.Component {
   static navigationOptions = ({ navigation }) => {
     const { state, setParams } = navigation;
-    const { isInfo } = state.params.mode === 'info';
+    const isInfo = state.params.mode === 'info';
     const { user } = state.params;
     return {
       title: isInfo ? `${user}'s Contact info` : `Chat with ${state.params.user}`,

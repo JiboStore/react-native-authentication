@@ -70,9 +70,12 @@ NavigatorWrappingScreen.router = TabNav.router;
 const ReactNavigationLearning = StackNavigator({
   //Home: { screen: HomeScreen },
   //Home: { screen: TabNav },
-Home: { screen: NavigatorWrappingScreen },
-  Chat: { screen: ChatScreen },
-});
+      Home: { screen: NavigatorWrappingScreen },
+        Chat: { screen: ChatScreen },
+      }, 
+      // StackNavigatorConfig, https://reactnavigation.org/docs/navigators/stack
+      { mode: "modal" } 
+);
 
 // AppRegistry.registerComponent('ReactNavigationLearning', () => ReactNavigationLearning)
 // AppRegistry.registerComponent('ReactNavigationLearning', () => TabNav);

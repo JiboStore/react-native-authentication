@@ -36,6 +36,7 @@ class SignBdayScreen extends Component {
   render() {
     return (
       <View style={{flex: 1, flexDirection: 'column', justifyContent: 'space-around'}}>
+        <Text>Hello {this.props.navigation.state.params.name.first}</Text>
         <TextInput placeholder="first name"
           onChangeText={(text) => this.firstname = text}/>
         <TextInput placeholder="last name"

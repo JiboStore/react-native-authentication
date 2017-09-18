@@ -48,7 +48,11 @@ class SignNameScreen extends Component {
       <Button 
         title="Next"
 //         onPress={this.handleNext} // this doesnt work, the function cannot access props
-        onPress={() => {this.props.navigation.navigate("SignBday")}}
+        onPress={() => {
+            this.props.navigation.navigate("SignBday", {
+              "name": { "first": this.firstname, "last": this.lastname}
+            })
+        }}
       />
       </View>
     );

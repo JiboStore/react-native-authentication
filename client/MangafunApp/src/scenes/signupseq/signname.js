@@ -71,7 +71,8 @@ class SignNameScreen extends Component {
         title="Next"
 //         onPress={this.handleNext} // this doesnt work, the function cannot access props
         onPress={() => {
-            fetchMyData(this.firstname, first.lastname);
+            Alert.alert("hello: " + this.firstname + ", " + this.lastname);
+            this.props.fetchMyData(this.firstname, this.lastname);
             this.props.navigation.navigate("SignBday");
 //             this.props.navigation.navigate("SignBday", {
 //               "name": { "first": this.firstname, "last": this.lastname}

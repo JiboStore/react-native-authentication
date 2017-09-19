@@ -15,6 +15,26 @@ import {
   View
 } from 'react-native';
 
+import { 
+  Provider,
+  connect
+} from 'react-redux';
+
+import {
+  SIGNUP_USER_REQUEST,
+  SIGNUP_USER_RESPONSE
+} from '../../constants/type';
+
+let fetchMyData = (fn, ln) => {
+  return (dispatch) => {
+    dispatch({
+      type: SIGNUP_USER_REQUEST,
+        birthdate: fn,
+        birthmonth: ln
+    });
+  }
+}
+
 class SignBdayScreen extends Component {
   static navigationOptions = {
     title: 'Birthday',
@@ -36,7 +56,7 @@ class SignBdayScreen extends Component {
   render() {
     return (
       <View style={{flex: 1, flexDirection: 'column', justifyContent: 'space-around'}}>
-        <Text>Hello {this.props.navigation.state.params.name.first}</Text>
+        <Text>Hello {this.props.firstname}</Text>
         <TextInput placeholder="first name"
           onChangeText={(text) => this.firstname = text}/>
         <TextInput placeholder="last name"
@@ -50,4 +70,17 @@ class SignBdayScreen extends Component {
   }
 }
 
-export default SignBdayScreen;
+// export default SignBdayScreen;
+
+export default SignBdayScreen = connect(
+  (state) => {
+    const { firstname, lastname } = state.signupReducer;
+    return {
+      firstname,
+      lastname
+    }
+  },
+  {
+    fetchMyData
+  }
+)(SignBdayScreen);

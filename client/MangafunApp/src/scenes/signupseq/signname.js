@@ -87,7 +87,11 @@ class SignNameScreen extends Component {
 
 export default SignNameScreen = connect(
   (state) => {
-    const { } = state.signupReducer;
+    const { firstname, lastname } = state.signupReducer;
+    return {
+      firstname,
+      lastname
+    }
   },
   {
     fetchMyData

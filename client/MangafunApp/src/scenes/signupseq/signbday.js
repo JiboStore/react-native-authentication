@@ -29,8 +29,10 @@ let fetchMyData = (fn, ln) => {
   return (dispatch) => {
     dispatch({
       type: SIGNUP_USER_REQUEST,
+      signup_data: {
         birthdate: fn,
         birthmonth: ln
+      }
     });
   }
 }
@@ -56,7 +58,7 @@ class SignBdayScreen extends Component {
   render() {
     return (
       <View style={{flex: 1, flexDirection: 'column', justifyContent: 'space-around'}}>
-        <Text>Hello {this.props.firstname}</Text>
+        <Text>Hello {this.props.signup_data.firstname}</Text>
         <TextInput placeholder="first name"
           onChangeText={(text) => this.firstname = text}/>
         <TextInput placeholder="last name"
@@ -74,10 +76,13 @@ class SignBdayScreen extends Component {
 
 export default SignBdayScreen = connect(
   (state) => {
-    const { firstname, lastname } = state.signupReducer;
+//     const { firstname, lastname } = state.signupReducer;
+    const { firstname, lastname } = state.signupReducer.signup_data;
     return {
-      firstname,
-      lastname
+      signup_data: {
+        firstname,
+        lastname
+      }
     }
   },
   {

@@ -35,8 +35,10 @@ let fetchMyData = (fn, ln) => {
   return (dispatch) => {
     dispatch({
       type: SIGNUP_USER_REQUEST,
+      signup_data: {
         firstname: fn,
         lastname: ln
+      }
     });
   }
 }
@@ -88,10 +90,13 @@ class SignNameScreen extends Component {
 
 export default SignNameScreen = connect(
   (state) => {
-    const { firstname, lastname } = state.signupReducer;
+//     const { firstname, lastname } = state.signupReducer;
+    const { firstname, lastname } = state.signupReducer.signup_data;
     return {
-      firstname,
-      lastname
+      signup_data: {
+        firstname,
+        lastname
+      }
     }
   },
   {

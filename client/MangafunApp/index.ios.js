@@ -13,7 +13,8 @@ import {
 } from 'react-native';
 
 import LogOrSign from './src/scenes/logorsign/logorsign'
-import SignUpSeq from './src/scenes/signupseq/index'
+// import SignUpSeq from './src/scenes/signupseq/index'
+import SignUpSeq from './src/scenes/signupseq/testredux'
 
 export default class MangafunApp extends Component {
   render() {

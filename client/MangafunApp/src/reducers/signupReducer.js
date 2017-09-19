@@ -14,10 +14,7 @@ const signupReducer = (state = initialState, action) => {
   switch (action.type) {
     case SIGNUP_USER_REQUEST:
       return Object.assign({}, state, {
-        signup_data: {
-          firstname: action.firstname,
-          lastname: action.lastname
-        }
+        signup_data: action.signup_data
       })
     case SIGNUP_USER_RESPONSE:
       return Object.assign({}, state, {

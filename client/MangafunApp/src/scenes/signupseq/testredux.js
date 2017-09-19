@@ -17,6 +17,18 @@ import {
 
 import { StackNavigator } from 'react-navigation';
 
+import { 
+  Provider,
+  connect
+} from 'react-redux';
+
+import {
+  SIGNUP_USER_REQUEST,
+  SIGNUP_USER_RESPONSE
+} from '../../constants/type';
+
+import store from '../../store/store';
+
 import SignNameScreen from './signname'
 import SignBdayScreen from './signbday'
 

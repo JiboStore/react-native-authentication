@@ -17,7 +17,29 @@ import {
 
 import { StackNavigator } from 'react-navigation';
 
+import { 
+  Provider,
+  connect
+} from 'react-redux';
+
+import {
+  SIGNUP_USER_REQUEST,
+  SIGNUP_USER_RESPONSE
+} from '../../constants/type';
+
+import store from '../../store/store';
+
 import SignBdayScreen from './signbday'
+
+let fetchMyData = (fn, ln) => {
+  return (dispatch) => {
+    dispatch({
+      type: SIGNUP_USER_REQUEST,
+        firstname: fn,
+        lastname: ln
+    });
+  }
+}
 
 class SignNameScreen extends Component {
   static navigationOptions = {
@@ -49,9 +71,11 @@ class SignNameScreen extends Component {
         title="Next"
 //         onPress={this.handleNext} // this doesnt work, the function cannot access props
         onPress={() => {
-            this.props.navigation.navigate("SignBday", {
-              "name": { "first": this.firstname, "last": this.lastname}
-            })
+            fetchMyData(this.firstname, first.lastname);
+            this.props.navigation.navigate("SignBday");
+//             this.props.navigation.navigate("SignBday", {
+//               "name": { "first": this.firstname, "last": this.lastname}
+//             })
         }}
       />
       </View>
@@ -59,4 +83,13 @@ class SignNameScreen extends Component {
   }
 }
 
-export default SignNameScreen;
+// export default SignNameScreen;
+
+export default SignNameScreen = connect(
+  (state) => {
+    const { } = state.signupReducer;
+  },
+  {
+    fetchMyData
+  }
+)(SignNameScreen);

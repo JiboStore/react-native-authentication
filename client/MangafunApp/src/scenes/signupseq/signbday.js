@@ -25,6 +25,8 @@ import {
   SIGNUP_USER_RESPONSE
 } from '../../constants/type';
 
+import HttpUtil from '../../utils/HttpUtil';
+
 let fetchMyData = (fn, ln) => {
   return (dispatch) => {
     dispatch({
@@ -37,12 +39,26 @@ let fetchMyData = (fn, ln) => {
   }
 }
 
+let getParam = {
+  q: "hello"
+}
+
 class SignBdayScreen extends Component {
   static navigationOptions = {
     title: 'Birthday',
   };
   handleNext() {
     Alert.alert("handle button next pressed")
+    HttpUtil.justRequest("http://www.google.com/");
+//     HttpUtil.fetchGet("http://www.google.com/search", getParam, 
+//                      (jsonData) => {
+//       console.log(jsonData);
+//       Alert.alert(jsonData);
+//     },
+//                      (error) => {
+//       console.log(error);
+//       Alert.alert(error);
+//     });
   }
   handleOnPress() {
     Alert.alert("handle button login pressed")
@@ -65,7 +81,20 @@ class SignBdayScreen extends Component {
           onChangeText={(text) => this.lastname = text}/>
       <Button 
         title="Next"
-        onPress={this.handleNext}
+//         onPress={this.handleNext}
+        onPress={() => {
+//             this.handleNext();
+            HttpUtil.justRequest("https://www.google.com/");
+//                 HttpUtil.fetchGet("http://www.google.com/search", getParam, 
+//                      (jsonData) => {
+//                         console.log(jsonData);
+//                         Alert.alert(jsonData);
+//                       },
+//                                        (error) => {
+//                         console.log(error);
+//                         Alert.alert(error);
+//                       });
+          }}
       />
       </View>
     );

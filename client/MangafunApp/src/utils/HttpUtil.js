@@ -20,6 +20,7 @@ let Httputil = {
   },
   
   fetchGet: (url, params, successCallback, errorCallback) => {
+    // todo: pass params
     fetch(url).then(
       (response) => {
         console.log(response);
@@ -39,7 +40,35 @@ let Httputil = {
   },
   
   fetchPost: (url, params, successCallback, errorCallback) => {
-    // todo: fetch method post
+    var paramsBody = Object.keys(params)
+    .reduce((a, k) => {
+        a.push(k + "=" + encodeURIComponent(params[k]));
+        return a;
+    }, [])
+    .join('&');
+    fetch(url, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/x-www-form-urlencoded'
+        },
+//         body: paramsBody      
+      }
+    ).then(
+      (response) => {
+        console.log(response);
+        return response.json();
+      }
+    ).then(
+      (responseObj) => {
+        console.log(responseObj);
+        successCallback(responseObj);
+      }
+    ).catch(
+      (error) => {
+        console.log(error);
+        errorCallback(error);
+      }
+    ).done();
   }
 }
 

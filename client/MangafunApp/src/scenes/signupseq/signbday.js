@@ -49,7 +49,7 @@ class SignBdayScreen extends Component {
   };
   handleNext() {
     Alert.alert("handle button next pressed")
-    HttpUtil.justRequest("http://www.google.com/");
+//     HttpUtil.justRequest("http://www.google.com/");
 //     HttpUtil.fetchGet("http://www.google.com/search", getParam, 
 //                      (jsonData) => {
 //       console.log(jsonData);
@@ -84,16 +84,26 @@ class SignBdayScreen extends Component {
 //         onPress={this.handleNext}
         onPress={() => {
 //             this.handleNext();
-            HttpUtil.justRequest("https://www.google.com/");
-//                 HttpUtil.fetchGet("http://www.google.com/search", getParam, 
+// //             HttpUtil.justRequest("https://www.google.com/");
+//                 HttpUtil.fetchGet("https://www.google.com/search", getParam, 
 //                      (jsonData) => {
 //                         console.log(jsonData);
-//                         Alert.alert(jsonData);
+// //                         Alert.alert(jsonData);
 //                       },
 //                                        (error) => {
 //                         console.log(error);
-//                         Alert.alert(error);
+// //                         Alert.alert(error);
 //                       });
+            HttpUtil.fetchPost("https://www.google.com/search", getParam,
+              (jsonData) => {
+                console.log(jsonData);
+                //Alert.alert(jsonData);
+              },
+              (error) => {
+                console.log(error);
+                //Alert.alert(error);
+              }
+            )
           }}
       />
       </View>

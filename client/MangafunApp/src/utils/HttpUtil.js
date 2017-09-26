@@ -27,7 +27,7 @@ let Httputil = {
             return a;
           }, [])
           .join('&');
-      url += "&" + paramsBody;
+      url += "?" + paramsBody;
     }
     console.info("url:"+url);
     fetch(url).then(

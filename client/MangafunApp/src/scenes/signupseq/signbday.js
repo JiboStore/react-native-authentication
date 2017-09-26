@@ -94,16 +94,27 @@ class SignBdayScreen extends Component {
 //                         console.log(error);
 // //                         Alert.alert(error);
 //                       });
-            HttpUtil.fetchPost("https://www.google.com/search", getParam,
+            
+            HttpUtil.fetchGet("http://localhost:3005/manga/api/rnfetchget", getParam,
               (jsonData) => {
                 console.log(jsonData);
-                //Alert.alert(jsonData);
               },
               (error) => {
                 console.log(error);
-                //Alert.alert(error);
               }
             )
+            
+//             HttpUtil.fetchPost("https://www.google.com/search", getParam,
+//               (jsonData) => {
+//                 console.log(jsonData);
+//                 //Alert.alert(jsonData);
+//               },
+//               (error) => {
+//                 console.log(error);
+//                 //Alert.alert(error);
+//               }
+//             )
+            
           }}
       />
       </View>

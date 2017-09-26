@@ -20,7 +20,16 @@ let Httputil = {
   },
   
   fetchGet: (url, params, successCallback, errorCallback) => {
-    // todo: pass params
+    if (params) {
+      var paramsBody = Object.keys(params)
+          .reduce((a, k) => {
+            a.push(k + "=" + encodeURIComponent(params[k]));
+            return a;
+          }, [])
+          .join('&');
+      url += "&" + paramsBody;
+    }
+    console.info("url:"+url);
     fetch(url).then(
       (response) => {
         console.log(response);

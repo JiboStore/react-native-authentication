@@ -53,8 +53,8 @@ class ReactNativeFetchController @Inject() (reactiveMongoApi: ReactiveMongoApi)(
     }
   }
   
-  def fetchget(): Action[AnyContent] = Action.async { implicit request =>
-    var str = "param is: ";
+  def fetchget(q: String): Action[AnyContent] = Action.async { implicit request =>
+    var str = "param is: " + q + " queryString: ";
     try {
       val req: Map[String, Seq[String]] = request.queryString
       val rmap = req.map { case (k, v) => k -> v.mkString }
@@ -63,6 +63,7 @@ class ReactNativeFetchController @Inject() (reactiveMongoApi: ReactiveMongoApi)(
         str += ", "
         str += v
       }
+      Logger.error(str);
     } catch {
       case t: Throwable => {
         

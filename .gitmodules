@@ -1,6 +1,6 @@
 [submodule "resources/manga"]
 	path = resources/manga
-	url = https://gitlab.com/kimentertainment/mangafun_manga.git
+	url = https://github.com/JiboStore/mangafun-pages.git
 [submodule "resources/sources/aonhub"]
 	path = resources/sources/aonhub
 	url = https://gitlab.com/kimentertainment/mangafun_sources_aonhub.git

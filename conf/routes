@@ -29,6 +29,9 @@ GET		/manga/seeder/getfromto		@com.mangafun.controllers.MangaSeederController.ge
 GET		/manga/seeder/image			@com.mangafun.controllers.MangaSeederController.image(mangaIndex: Int ?= 0)
 GET		/manga/seeder/imagefromto	@com.mangafun.controllers.MangaSeederController.imagefromto(startingIndex: Int, endingIndex: Int)
 
+GET		/manga/api/rnfetchget		@com.mangafun.controllers.ReactNativeFetchController.fetchget()
+POST	/manga/api/rnfetchpost		@com.mangafun.controllers.ReactNativeFetchController.fetchpost()
+
 GET		/aonhub/seeder/updatemangajson		@com.mangafun.controllers.AonhubSeederController.updatemangajson()
 GET		/aonhub/seeder/getmangainfo			@com.mangafun.controllers.AonhubSeederController.getmangainfo(mangaId: Int ?= 2940)
 GET		/aonhub/seeder/getfromto			@com.mangafun.controllers.AonhubSeederController.getfromto(startingIndex: Int, endingIndex: Int)

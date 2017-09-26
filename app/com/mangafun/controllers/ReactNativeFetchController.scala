@@ -75,15 +75,19 @@ class ReactNativeFetchController @Inject() (reactiveMongoApi: ReactiveMongoApi)(
   }
   
   def fetchpost(): Action[AnyContent] = Action.async { implicit request =>
+    var str = "params: "
     try {
-      
+//      val req = request.body.asText // None
+      val oReq = request.body.asJson
+      str += oReq.getOrElse("nothing")
+      Logger.error(str)
     } catch {
       case t: Throwable => {
         
       }
     }
     Future {
-      Ok("fetchpost")
+      Ok(str)
     }
   }
   

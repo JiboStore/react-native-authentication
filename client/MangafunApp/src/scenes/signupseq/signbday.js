@@ -95,7 +95,16 @@ class SignBdayScreen extends Component {
 // //                         Alert.alert(error);
 //                       });
             
-            HttpUtil.fetchGet("http://localhost:3005/manga/api/rnfetchget", getParam,
+//             HttpUtil.fetchGet("http://localhost:3005/manga/api/rnfetchget", getParam,
+//               (jsonData) => {
+//                 console.log(jsonData);
+//               },
+//               (error) => {
+//                 console.log(error);
+//               }
+//             )
+            
+            HttpUtil.fetchPost("http://localhost:3005/manga/api/rnfetchpost", getParam,
               (jsonData) => {
                 console.log(jsonData);
               },

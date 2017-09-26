@@ -55,12 +55,16 @@ let Httputil = {
         return a;
     }, [])
     .join('&');
+    var strParams = JSON.stringify(params);
+    console.log('params: ' + strParams)
+    console.log('paramsBody: ' + paramsBody)
     fetch(url, {
         method: 'POST',
         headers: {
-          'Content-Type': 'application/x-www-form-urlencoded'
+          'Accept': 'application/json',
+          'Content-Type': 'application/json',
         },
-//         body: paramsBody      
+        body: strParams      
       }
     ).then(
       (response) => {

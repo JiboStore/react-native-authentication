@@ -1,0 +1,1421 @@
+{
+  "mangaTitle" : "Durarara",
+  "mangaUrl" : "http://www.mangareader.net/durarara",
+  "mangaThumbUrl" : "http://s3.mangareader.net/cover/durarara/durarara-r0.jpg",
+  "mangaChaptersInfo" : "21 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Action, Romance, Shounen",
+  "chapterCount" : 10,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/minidura/1",
+    "chapterTitle" : "Minidura 1",
+    "chapterDescription" : "",
+    "chapterDate" : "11/11/2014",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/minidura/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i10.mangareader.net/minidura/1/minidura-5293085.jpg",
+        "imageAlt" : "Minidura 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i4.mangareader.net/minidura/1/minidura-5293087.jpg",
+        "imageAlt" : "Minidura 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i2.mangareader.net/minidura/1/minidura-5293089.jpg",
+        "imageAlt" : "Minidura 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1207,
+        "imageUrl" : "http://i2.mangareader.net/minidura/1/minidura-5293091.jpg",
+        "imageAlt" : "Minidura 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i6.mangareader.net/minidura/1/minidura-5293093.jpg",
+        "imageAlt" : "Minidura 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i10.mangareader.net/minidura/1/minidura-5293095.jpg",
+        "imageAlt" : "Minidura 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i2.mangareader.net/minidura/1/minidura-5293097.jpg",
+        "imageAlt" : "Minidura 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1218,
+        "imageUrl" : "http://i6.mangareader.net/minidura/1/minidura-5293099.jpg",
+        "imageAlt" : "Minidura 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1210,
+        "imageUrl" : "http://i10.mangareader.net/minidura/1/minidura-5293101.jpg",
+        "imageAlt" : "Minidura 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i2.mangareader.net/minidura/1/minidura-5293103.jpg",
+        "imageAlt" : "Minidura 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1207,
+        "imageUrl" : "http://i10.mangareader.net/minidura/1/minidura-5293105.jpg",
+        "imageAlt" : "Minidura 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i2.mangareader.net/minidura/1/minidura-5293107.jpg",
+        "imageAlt" : "Minidura 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 587,
+        "imageUrl" : "http://i6.mangareader.net/minidura/1/minidura-5293109.jpg",
+        "imageAlt" : "Minidura 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i2.mangareader.net/minidura/1/minidura-5293111.jpg",
+        "imageAlt" : "Minidura 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1210,
+        "imageUrl" : "http://i6.mangareader.net/minidura/1/minidura-5293113.jpg",
+        "imageAlt" : "Minidura 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i4.mangareader.net/minidura/1/minidura-5293115.jpg",
+        "imageAlt" : "Minidura 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1226,
+        "imageUrl" : "http://i6.mangareader.net/minidura/1/minidura-5293117.jpg",
+        "imageAlt" : "Minidura 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i4.mangareader.net/minidura/1/minidura-5293119.jpg",
+        "imageAlt" : "Minidura 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/minidura/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 562,
+        "imageUrl" : "http://i5.mangareader.net/minidura/1/minidura-5293121.jpg",
+        "imageAlt" : "Minidura 1 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/minidura/2",
+    "chapterTitle" : "Minidura 2",
+    "chapterDescription" : "",
+    "chapterDate" : "11/11/2014",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/minidura/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i9.mangareader.net/minidura/2/minidura-5293123.jpg",
+        "imageAlt" : "Minidura 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i9.mangareader.net/minidura/2/minidura-5293125.jpg",
+        "imageAlt" : "Minidura 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1226,
+        "imageUrl" : "http://i3.mangareader.net/minidura/2/minidura-5293127.jpg",
+        "imageAlt" : "Minidura 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i3.mangareader.net/minidura/2/minidura-5293129.jpg",
+        "imageAlt" : "Minidura 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i1.mangareader.net/minidura/2/minidura-5293131.jpg",
+        "imageAlt" : "Minidura 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i5.mangareader.net/minidura/2/minidura-5293133.jpg",
+        "imageAlt" : "Minidura 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i5.mangareader.net/minidura/2/minidura-5293135.jpg",
+        "imageAlt" : "Minidura 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i7.mangareader.net/minidura/2/minidura-5293137.jpg",
+        "imageAlt" : "Minidura 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1234,
+        "imageUrl" : "http://i9.mangareader.net/minidura/2/minidura-5293139.jpg",
+        "imageAlt" : "Minidura 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i3.mangareader.net/minidura/2/minidura-5293141.jpg",
+        "imageAlt" : "Minidura 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i5.mangareader.net/minidura/2/minidura-5293143.jpg",
+        "imageAlt" : "Minidura 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1210,
+        "imageUrl" : "http://i3.mangareader.net/minidura/2/minidura-5293145.jpg",
+        "imageAlt" : "Minidura 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i1.mangareader.net/minidura/2/minidura-5293147.jpg",
+        "imageAlt" : "Minidura 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1218,
+        "imageUrl" : "http://i5.mangareader.net/minidura/2/minidura-5293149.jpg",
+        "imageAlt" : "Minidura 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i3.mangareader.net/minidura/2/minidura-5293151.jpg",
+        "imageAlt" : "Minidura 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1221,
+        "imageUrl" : "http://i7.mangareader.net/minidura/2/minidura-5293153.jpg",
+        "imageAlt" : "Minidura 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i1.mangareader.net/minidura/2/minidura-5293155.jpg",
+        "imageAlt" : "Minidura 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i7.mangareader.net/minidura/2/minidura-5293157.jpg",
+        "imageAlt" : "Minidura 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i5.mangareader.net/minidura/2/minidura-5293159.jpg",
+        "imageAlt" : "Minidura 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/minidura/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 562,
+        "imageUrl" : "http://i4.mangareader.net/minidura/2/minidura-5293161.jpg",
+        "imageAlt" : "Minidura 2 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/minidura/3",
+    "chapterTitle" : "Minidura 3",
+    "chapterDescription" : "",
+    "chapterDate" : "12/16/2014",
+    "pageCount" : 13,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/minidura/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i2.mangareader.net/minidura/3/minidura-5373099.jpg",
+        "imageAlt" : "Minidura 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/minidura/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i6.mangareader.net/minidura/3/minidura-5373101.jpg",
+        "imageAlt" : "Minidura 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/minidura/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i2.mangareader.net/minidura/3/minidura-5373103.jpg",
+        "imageAlt" : "Minidura 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/minidura/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i2.mangareader.net/minidura/3/minidura-5373105.jpg",
+        "imageAlt" : "Minidura 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/minidura/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i8.mangareader.net/minidura/3/minidura-5373107.jpg",
+        "imageAlt" : "Minidura 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/minidura/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i2.mangareader.net/minidura/3/minidura-5373109.jpg",
+        "imageAlt" : "Minidura 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/minidura/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i8.mangareader.net/minidura/3/minidura-5373111.jpg",
+        "imageAlt" : "Minidura 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/minidura/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i8.mangareader.net/minidura/3/minidura-5373113.jpg",
+        "imageAlt" : "Minidura 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/minidura/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i8.mangareader.net/minidura/3/minidura-5373115.jpg",
+        "imageAlt" : "Minidura 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/minidura/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1215,
+        "imageUrl" : "http://i6.mangareader.net/minidura/3/minidura-5373117.jpg",
+        "imageAlt" : "Minidura 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/minidura/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/minidura/3/minidura-5373119.jpg",
+        "imageAlt" : "Minidura 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/minidura/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i7.mangareader.net/minidura/3/minidura-5373121.jpg",
+        "imageAlt" : "Minidura 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/minidura/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 563,
+        "imageUrl" : "http://i3.mangareader.net/minidura/3/minidura-5373123.jpg",
+        "imageAlt" : "Minidura 3 - Page 13"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/minidura/4",
+    "chapterTitle" : "Minidura 4",
+    "chapterDescription" : "",
+    "chapterDate" : "04/12/2015",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/minidura/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i9.mangareader.net/minidura/4/minidura-5608439.jpg",
+        "imageAlt" : "Minidura 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/minidura/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/minidura/4/minidura-5608441.jpg",
+        "imageAlt" : "Minidura 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/minidura/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1313,
+        "imageUrl" : "http://i3.mangareader.net/minidura/4/minidura-5608443.jpg",
+        "imageAlt" : "Minidura 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/minidura/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1210,
+        "imageUrl" : "http://i5.mangareader.net/minidura/4/minidura-5608445.jpg",
+        "imageAlt" : "Minidura 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/minidura/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i9.mangareader.net/minidura/4/minidura-5608447.jpg",
+        "imageAlt" : "Minidura 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/minidura/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i5.mangareader.net/minidura/4/minidura-5608449.jpg",
+        "imageAlt" : "Minidura 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/minidura/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1311,
+        "imageUrl" : "http://i9.mangareader.net/minidura/4/minidura-5608451.jpg",
+        "imageAlt" : "Minidura 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/minidura/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i3.mangareader.net/minidura/4/minidura-5608453.jpg",
+        "imageAlt" : "Minidura 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/minidura/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/minidura/4/minidura-5608455.jpg",
+        "imageAlt" : "Minidura 4 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/minidura/5",
+    "chapterTitle" : "Minidura 5",
+    "chapterDescription" : "",
+    "chapterDate" : "05/26/2015",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/minidura/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i3.mangareader.net/minidura/5/minidura-5701289.jpg",
+        "imageAlt" : "Minidura 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/minidura/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i3.mangareader.net/minidura/5/minidura-5701291.jpg",
+        "imageAlt" : "Minidura 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/minidura/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i7.mangareader.net/minidura/5/minidura-5701293.jpg",
+        "imageAlt" : "Minidura 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/minidura/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1221,
+        "imageUrl" : "http://i1.mangareader.net/minidura/5/minidura-5701295.jpg",
+        "imageAlt" : "Minidura 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/minidura/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i7.mangareader.net/minidura/5/minidura-5701297.jpg",
+        "imageAlt" : "Minidura 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/minidura/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i3.mangareader.net/minidura/5/minidura-5701299.jpg",
+        "imageAlt" : "Minidura 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/minidura/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i3.mangareader.net/minidura/5/minidura-5701301.jpg",
+        "imageAlt" : "Minidura 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/minidura/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1221,
+        "imageUrl" : "http://i3.mangareader.net/minidura/5/minidura-5701303.jpg",
+        "imageAlt" : "Minidura 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/minidura/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/minidura/5/minidura-5701305.jpg",
+        "imageAlt" : "Minidura 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/minidura/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/minidura/5/minidura-5701307.jpg",
+        "imageAlt" : "Minidura 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/minidura/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i3.mangareader.net/minidura/5/minidura-5701309.jpg",
+        "imageAlt" : "Minidura 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/minidura/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i1.mangareader.net/minidura/5/minidura-5701311.jpg",
+        "imageAlt" : "Minidura 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/minidura/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i1.mangareader.net/minidura/5/minidura-5701313.jpg",
+        "imageAlt" : "Minidura 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/minidura/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 399,
+        "imageUrl" : "http://i9.mangareader.net/minidura/5/minidura-5701315.jpg",
+        "imageAlt" : "Minidura 5 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/minidura/6",
+    "chapterTitle" : "Minidura 6",
+    "chapterDescription" : "",
+    "chapterDate" : "01/06/2016",
+    "pageCount" : 13,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/minidura/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i1.mangareader.net/minidura/6/minidura-6845479.jpg",
+        "imageAlt" : "Minidura 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/minidura/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i7.mangareader.net/minidura/6/minidura-6845485.jpg",
+        "imageAlt" : "Minidura 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/minidura/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i9.mangareader.net/minidura/6/minidura-6845491.jpg",
+        "imageAlt" : "Minidura 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/minidura/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1218,
+        "imageUrl" : "http://i7.mangareader.net/minidura/6/minidura-6845497.jpg",
+        "imageAlt" : "Minidura 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/minidura/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i7.mangareader.net/minidura/6/minidura-6845503.jpg",
+        "imageAlt" : "Minidura 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/minidura/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i3.mangareader.net/minidura/6/minidura-6845509.jpg",
+        "imageAlt" : "Minidura 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/minidura/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i7.mangareader.net/minidura/6/minidura-6845515.jpg",
+        "imageAlt" : "Minidura 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/minidura/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i6.mangareader.net/minidura/6/minidura-6845521.jpg",
+        "imageAlt" : "Minidura 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/minidura/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i8.mangareader.net/minidura/6/minidura-6845527.jpg",
+        "imageAlt" : "Minidura 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/minidura/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1217,
+        "imageUrl" : "http://i10.mangareader.net/minidura/6/minidura-6845533.jpg",
+        "imageAlt" : "Minidura 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/minidura/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1204,
+        "imageUrl" : "http://i6.mangareader.net/minidura/6/minidura-6845539.jpg",
+        "imageAlt" : "Minidura 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/minidura/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1210,
+        "imageUrl" : "http://i8.mangareader.net/minidura/6/minidura-6845545.jpg",
+        "imageAlt" : "Minidura 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/minidura/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 398,
+        "imageUrl" : "http://i8.mangareader.net/minidura/6/minidura-6845551.jpg",
+        "imageAlt" : "Minidura 6 - Page 13"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/minidura/7",
+    "chapterTitle" : "Minidura 7",
+    "chapterDescription" : "",
+    "chapterDate" : "01/06/2016",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/minidura/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i4.mangareader.net/minidura/7/minidura-6845557.jpg",
+        "imageAlt" : "Minidura 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/minidura/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/minidura/7/minidura-6845563.jpg",
+        "imageAlt" : "Minidura 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/minidura/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i9.mangareader.net/minidura/7/minidura-6845569.jpg",
+        "imageAlt" : "Minidura 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/minidura/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i3.mangareader.net/minidura/7/minidura-6845575.jpg",
+        "imageAlt" : "Minidura 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/minidura/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i7.mangareader.net/minidura/7/minidura-6845581.jpg",
+        "imageAlt" : "Minidura 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/minidura/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i3.mangareader.net/minidura/7/minidura-6845587.jpg",
+        "imageAlt" : "Minidura 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/minidura/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i9.mangareader.net/minidura/7/minidura-6845593.jpg",
+        "imageAlt" : "Minidura 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/minidura/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i3.mangareader.net/minidura/7/minidura-6845599.jpg",
+        "imageAlt" : "Minidura 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/minidura/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i9.mangareader.net/minidura/7/minidura-6845605.jpg",
+        "imageAlt" : "Minidura 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/minidura/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i9.mangareader.net/minidura/7/minidura-6845611.jpg",
+        "imageAlt" : "Minidura 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/minidura/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i3.mangareader.net/minidura/7/minidura-6845617.jpg",
+        "imageAlt" : "Minidura 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/minidura/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/minidura/7/minidura-6845623.jpg",
+        "imageAlt" : "Minidura 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/minidura/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1204,
+        "imageUrl" : "http://i6.mangareader.net/minidura/7/minidura-6845629.jpg",
+        "imageAlt" : "Minidura 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/minidura/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 398,
+        "imageUrl" : "http://i2.mangareader.net/minidura/7/minidura-6845635.jpg",
+        "imageAlt" : "Minidura 7 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/minidura/8",
+    "chapterTitle" : "Minidura 8",
+    "chapterDescription" : "",
+    "chapterDate" : "01/06/2016",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/minidura/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/minidura/8/minidura-6845641.jpg",
+        "imageAlt" : "Minidura 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/minidura/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i2.mangareader.net/minidura/8/minidura-6845647.jpg",
+        "imageAlt" : "Minidura 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/minidura/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1207,
+        "imageUrl" : "http://i10.mangareader.net/minidura/8/minidura-6845653.jpg",
+        "imageAlt" : "Minidura 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/minidura/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i8.mangareader.net/minidura/8/minidura-6845659.jpg",
+        "imageAlt" : "Minidura 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/minidura/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i3.mangareader.net/minidura/8/minidura-6845665.jpg",
+        "imageAlt" : "Minidura 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/minidura/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i9.mangareader.net/minidura/8/minidura-6845671.jpg",
+        "imageAlt" : "Minidura 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/minidura/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i3.mangareader.net/minidura/8/minidura-6845677.jpg",
+        "imageAlt" : "Minidura 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/minidura/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i3.mangareader.net/minidura/8/minidura-6845683.jpg",
+        "imageAlt" : "Minidura 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/minidura/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i5.mangareader.net/minidura/8/minidura-6845689.jpg",
+        "imageAlt" : "Minidura 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/minidura/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i9.mangareader.net/minidura/8/minidura-6845695.jpg",
+        "imageAlt" : "Minidura 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/minidura/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i9.mangareader.net/minidura/8/minidura-6845701.jpg",
+        "imageAlt" : "Minidura 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/minidura/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/minidura/8/minidura-6845707.jpg",
+        "imageAlt" : "Minidura 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/minidura/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i1.mangareader.net/minidura/8/minidura-6845713.jpg",
+        "imageAlt" : "Minidura 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/minidura/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i5.mangareader.net/minidura/8/minidura-6845719.jpg",
+        "imageAlt" : "Minidura 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/minidura/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i10.mangareader.net/minidura/8/minidura-6845725.jpg",
+        "imageAlt" : "Minidura 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/minidura/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 398,
+        "imageUrl" : "http://i8.mangareader.net/minidura/8/minidura-6845731.jpg",
+        "imageAlt" : "Minidura 8 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/minidura/9",
+    "chapterTitle" : "Minidura 9",
+    "chapterDescription" : "",
+    "chapterDate" : "01/06/2016",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/minidura/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i2.mangareader.net/minidura/9/minidura-6845737.jpg",
+        "imageAlt" : "Minidura 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i6.mangareader.net/minidura/9/minidura-6845743.jpg",
+        "imageAlt" : "Minidura 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/minidura/9/minidura-6845749.jpg",
+        "imageAlt" : "Minidura 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i10.mangareader.net/minidura/9/minidura-6845755.jpg",
+        "imageAlt" : "Minidura 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i9.mangareader.net/minidura/9/minidura-6845761.jpg",
+        "imageAlt" : "Minidura 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i1.mangareader.net/minidura/9/minidura-6845767.jpg",
+        "imageAlt" : "Minidura 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i9.mangareader.net/minidura/9/minidura-6845773.jpg",
+        "imageAlt" : "Minidura 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i5.mangareader.net/minidura/9/minidura-6845779.jpg",
+        "imageAlt" : "Minidura 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i1.mangareader.net/minidura/9/minidura-6845785.jpg",
+        "imageAlt" : "Minidura 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/minidura/9/minidura-6845791.jpg",
+        "imageAlt" : "Minidura 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/minidura/9/minidura-6845797.jpg",
+        "imageAlt" : "Minidura 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/minidura/9/minidura-6845803.jpg",
+        "imageAlt" : "Minidura 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i7.mangareader.net/minidura/9/minidura-6845809.jpg",
+        "imageAlt" : "Minidura 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/minidura/9/minidura-6845815.jpg",
+        "imageAlt" : "Minidura 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/minidura/9/minidura-6845821.jpg",
+        "imageAlt" : "Minidura 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/minidura/9/minidura-6845827.jpg",
+        "imageAlt" : "Minidura 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/minidura/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 398,
+        "imageUrl" : "http://i10.mangareader.net/minidura/9/minidura-6845833.jpg",
+        "imageAlt" : "Minidura 9 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/minidura/10",
+    "chapterTitle" : "Minidura 10",
+    "chapterDescription" : "",
+    "chapterDate" : "01/06/2016",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/minidura/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i2.mangareader.net/minidura/10/minidura-6845839.jpg",
+        "imageAlt" : "Minidura 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/minidura/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i4.mangareader.net/minidura/10/minidura-6845845.jpg",
+        "imageAlt" : "Minidura 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/minidura/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i4.mangareader.net/minidura/10/minidura-6845851.jpg",
+        "imageAlt" : "Minidura 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/minidura/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i4.mangareader.net/minidura/10/minidura-6845857.jpg",
+        "imageAlt" : "Minidura 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/minidura/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/minidura/10/minidura-6845863.jpg",
+        "imageAlt" : "Minidura 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/minidura/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i1.mangareader.net/minidura/10/minidura-6845869.jpg",
+        "imageAlt" : "Minidura 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/minidura/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i9.mangareader.net/minidura/10/minidura-6845875.jpg",
+        "imageAlt" : "Minidura 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/minidura/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i7.mangareader.net/minidura/10/minidura-6845881.jpg",
+        "imageAlt" : "Minidura 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/minidura/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/minidura/10/minidura-6845887.jpg",
+        "imageAlt" : "Minidura 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/minidura/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i1.mangareader.net/minidura/10/minidura-6845893.jpg",
+        "imageAlt" : "Minidura 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/minidura/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/minidura/10/minidura-6845899.jpg",
+        "imageAlt" : "Minidura 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/minidura/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1198,
+        "imageUrl" : "http://i1.mangareader.net/minidura/10/minidura-6845905.jpg",
+        "imageAlt" : "Minidura 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/minidura/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/minidura/10/minidura-6845911.jpg",
+        "imageAlt" : "Minidura 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/minidura/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 398,
+        "imageUrl" : "http://i5.mangareader.net/minidura/10/minidura-6845917.jpg",
+        "imageAlt" : "Minidura 10 - Page 14"
+      } ]
+    } ]
+  } ]
+}

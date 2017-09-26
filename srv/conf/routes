@@ -1,0 +1,42 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET     /                           @controllers.Application.index
+GET     /restrict1                  @controllers.RestrictController.restrictOne
+GET     /restrict2                  @controllers.RestrictController.restrictTwo
+GET     /restrict3                  @controllers.RestrictController.restrictThree
+GET     /restrict4                  @controllers.RestrictController.restrictFour
+GET     /pureLuck                   @controllers.DynamicRestrictionsController.pureLuck
+GET     /noWayJose                  @controllers.DynamicRestrictionsController.noWayJose
+GET     /rhp_roleHolderPresent      @controllers.SubjectPresentController.loggedIn
+GET     /rhp_roleHolderNotPresent   @controllers.SubjectPresentController.notLoggedIn
+GET     /rhnp_roleHolderPresent     @controllers.SubjectNotPresentController.loggedIn
+GET     /rhnp_roleHolderNotPresent  @controllers.SubjectNotPresentController.notLoggedIn
+GET     /printersEdit               @controllers.PatternController.printersEdit
+GET     /printersFoo                @controllers.PatternController.printersFoo
+GET     /printersRegex              @controllers.PatternController.printersRegex
+
+GET		/api/widgets				@controllers.WidgetsController.index
+
+GET		/widgets/seeder/index		@com.mangafun.controllers.WidgetsSeederController.index
+GET		/widgets/seeder/cleanup		@com.mangafun.controllers.WidgetsSeederController.cleanup
+
+GET		/manga/seeder/index_old		@com.mangafun.controllers.MangaSeederController.index_old()
+GET		/manga/seeder/index			@com.mangafun.controllers.MangaSeederController.index(mangaIndex: Int ?= 0)
+GET		/manga/seeder/getfromto		@com.mangafun.controllers.MangaSeederController.getfromto(startingIndex: Int, endingIndex: Int)
+GET		/manga/seeder/image			@com.mangafun.controllers.MangaSeederController.image(mangaIndex: Int ?= 0)
+GET		/manga/seeder/imagefromto	@com.mangafun.controllers.MangaSeederController.imagefromto(startingIndex: Int, endingIndex: Int)
+
+GET		/manga/api/rnfetchget		@com.mangafun.controllers.ReactNativeFetchController.fetchget()
+POST	/manga/api/rnfetchpost		@com.mangafun.controllers.ReactNativeFetchController.fetchpost()
+
+GET		/aonhub/seeder/updatemangajson		@com.mangafun.controllers.AonhubSeederController.updatemangajson()
+GET		/aonhub/seeder/getmangainfo			@com.mangafun.controllers.AonhubSeederController.getmangainfo(mangaId: Int ?= 2940)
+GET		/aonhub/seeder/getfromto			@com.mangafun.controllers.AonhubSeederController.getfromto(startingIndex: Int, endingIndex: Int)
+GET		/aonhub/seeder/image				@com.mangafun.controllers.AonhubSeederController.image(mangaId: Int ?= 2940)
+GET		/aonhub/seeder/imagefromto			@com.mangafun.controllers.AonhubSeederController.imagefromto(startingIndex: Int, endingIndex: Int)
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               @controllers.Assets.at(path="/public", file)

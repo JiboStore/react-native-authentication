@@ -1,0 +1,1015 @@
+{
+  "mangaTitle" : "Mr. Applicant",
+  "mangaUrl" : "http://www.mangareader.net/mr-applicant",
+  "mangaThumbUrl" : "http://s1.mangareader.net/cover/mr-applicant/mr-applicant-r0.jpg",
+  "mangaChaptersInfo" : "6 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Adventure, Comedy, Fantasy, Shoujo",
+  "chapterCount" : 6,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/mr-applicant/1",
+    "chapterTitle" : "Mr. Applicant 1",
+    "chapterDescription" : "",
+    "chapterDate" : "01/02/2012",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/1/mr-applicant-2947171.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/1/mr-applicant-2947173.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/mr-applicant/1/mr-applicant-2947175.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/1/mr-applicant-2947177.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/1/mr-applicant-2947179.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/mr-applicant/1/mr-applicant-2947181.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/1/mr-applicant-2947183.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/mr-applicant/1/mr-applicant-2947185.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/mr-applicant/1/mr-applicant-2947187.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/1/mr-applicant-2947189.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/1/mr-applicant-2947191.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/mr-applicant/1/mr-applicant-2947193.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/1/mr-applicant-2947195.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/1/mr-applicant-2947197.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/1/mr-applicant-2947199.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/1/mr-applicant-2947201.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/1/mr-applicant-2947203.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 554,
+        "imageUrl" : "http://i3.mangareader.net/mr-applicant/1/mr-applicant-2947205.jpg",
+        "imageAlt" : "Mr. Applicant 1 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mr-applicant/2",
+    "chapterTitle" : "Mr. Applicant 2",
+    "chapterDescription" : "",
+    "chapterDate" : "01/08/2012",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 554,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/2/mr-applicant-2966067.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/2/mr-applicant-2966069.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/2/mr-applicant-2966071.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/2/mr-applicant-2966073.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/2/mr-applicant-2966075.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/mr-applicant/2/mr-applicant-2966077.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/2/mr-applicant-2966079.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/mr-applicant/2/mr-applicant-2966081.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/mr-applicant/2/mr-applicant-2966083.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/2/mr-applicant-2966085.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/mr-applicant/2/mr-applicant-2966087.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/2/mr-applicant-2966089.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/mr-applicant/2/mr-applicant-2966091.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/2/mr-applicant-2966093.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/2/mr-applicant-2966095.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/mr-applicant/2/mr-applicant-2966097.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/2/mr-applicant-2966099.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/2/mr-applicant-2966101.jpg",
+        "imageAlt" : "Mr. Applicant 2 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mr-applicant/3",
+    "chapterTitle" : "Mr. Applicant 3",
+    "chapterDescription" : "",
+    "chapterDate" : "01/09/2012",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 554,
+        "imageUrl" : "http://i5.mangareader.net/mr-applicant/3/mr-applicant-2967849.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 554,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/3/mr-applicant-2967851.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/mr-applicant/3/mr-applicant-2967853.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/3/mr-applicant-2967855.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/mr-applicant/3/mr-applicant-2967857.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/mr-applicant/3/mr-applicant-2967859.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/mr-applicant/3/mr-applicant-2967861.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/mr-applicant/3/mr-applicant-2967863.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/mr-applicant/3/mr-applicant-2967865.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/mr-applicant/3/mr-applicant-2967867.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/mr-applicant/3/mr-applicant-2967869.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/mr-applicant/3/mr-applicant-2967871.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/mr-applicant/3/mr-applicant-2967873.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/mr-applicant/3/mr-applicant-2967875.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/mr-applicant/3/mr-applicant-2967877.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/mr-applicant/3/mr-applicant-2967879.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/mr-applicant/3/mr-applicant-2967881.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/mr-applicant/3/mr-applicant-2967883.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/mr-applicant/3/mr-applicant-2967885.jpg",
+        "imageAlt" : "Mr. Applicant 3 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mr-applicant/4",
+    "chapterTitle" : "Mr. Applicant 4",
+    "chapterDescription" : "",
+    "chapterDate" : "01/12/2012",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 554,
+        "imageUrl" : "http://i6.mangareader.net/mr-applicant/4/mr-applicant-2974389.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/mr-applicant/4/mr-applicant-2974391.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 551,
+        "imageUrl" : "http://i2.mangareader.net/mr-applicant/4/mr-applicant-2974393.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/mr-applicant/4/mr-applicant-2974395.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/mr-applicant/4/mr-applicant-2974397.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/mr-applicant/4/mr-applicant-2974399.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/4/mr-applicant-2974401.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/mr-applicant/4/mr-applicant-2974403.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/4/mr-applicant-2974405.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/mr-applicant/4/mr-applicant-2974407.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/4/mr-applicant-2974409.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/mr-applicant/4/mr-applicant-2974411.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/4/mr-applicant-2974413.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/4/mr-applicant-2974415.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/mr-applicant/4/mr-applicant-2974417.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/4/mr-applicant-2974419.jpg",
+        "imageAlt" : "Mr. Applicant 4 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mr-applicant/5",
+    "chapterTitle" : "Mr. Applicant 5",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2012",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 554,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/5/mr-applicant-2996871.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/5/mr-applicant-2996873.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/5/mr-applicant-2996875.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/5/mr-applicant-2996877.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/5/mr-applicant-2996879.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/5/mr-applicant-2996881.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/5/mr-applicant-2996883.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/5/mr-applicant-2996885.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/5/mr-applicant-2996887.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/5/mr-applicant-2996889.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/mr-applicant/5/mr-applicant-2996891.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/5/mr-applicant-2996893.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/5/mr-applicant-2996895.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/5/mr-applicant-2996897.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/5/mr-applicant-2996899.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/5/mr-applicant-2996901.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/mr-applicant/5/mr-applicant-2996903.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/mr-applicant/5/mr-applicant-2996905.jpg",
+        "imageAlt" : "Mr. Applicant 5 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mr-applicant/6",
+    "chapterTitle" : "Mr. Applicant 6",
+    "chapterDescription" : "",
+    "chapterDate" : "02/06/2012",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 554,
+        "imageUrl" : "http://i6.mangareader.net/mr-applicant/6/mr-applicant-3038915.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/mr-applicant/6/mr-applicant-3038917.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/mr-applicant/6/mr-applicant-3038919.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/mr-applicant/6/mr-applicant-3038921.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/6/mr-applicant-3038923.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/6/mr-applicant-3038925.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/6/mr-applicant-3038927.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/mr-applicant/6/mr-applicant-3038929.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/mr-applicant/6/mr-applicant-3038931.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/6/mr-applicant-3038933.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/6/mr-applicant-3038935.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/6/mr-applicant-3038937.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-applicant/6/mr-applicant-3038939.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/6/mr-applicant-3038941.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/mr-applicant/6/mr-applicant-3038943.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/6/mr-applicant-3038945.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/6/mr-applicant-3038947.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mr-applicant/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/mr-applicant/6/mr-applicant-3038949.jpg",
+        "imageAlt" : "Mr. Applicant 6 - Page 18"
+      } ]
+    } ]
+  } ]
+}

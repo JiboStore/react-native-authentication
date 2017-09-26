@@ -1,0 +1,671 @@
+{
+  "mangaTitle" : "Odin",
+  "mangaUrl" : "http://www.mangareader.net/odin",
+  "mangaThumbUrl" : "http://s5.mangareader.net/cover/odin/odin-r0.jpg",
+  "mangaChaptersInfo" : "7 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manhwa (Read Left to Right)",
+  "mangaGenre" : "Action, Comedy, Fantasy, Shounen",
+  "chapterCount" : 7,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/odin/1",
+    "chapterTitle" : "Odin 1",
+    "chapterDescription" : "",
+    "chapterDate" : "08/24/2015",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/odin/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1005,
+        "imageUrl" : "http://i4.mangareader.net/odin/1/odin-6002197.jpg",
+        "imageAlt" : "Odin 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/odin/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2986,
+        "imageUrl" : "http://i10.mangareader.net/odin/1/odin-6002203.jpg",
+        "imageAlt" : "Odin 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/odin/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1623,
+        "imageUrl" : "http://i4.mangareader.net/odin/1/odin-6002209.jpg",
+        "imageAlt" : "Odin 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/odin/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2319,
+        "imageUrl" : "http://i2.mangareader.net/odin/1/odin-6002215.jpg",
+        "imageAlt" : "Odin 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/odin/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2609,
+        "imageUrl" : "http://i3.mangareader.net/odin/1/odin-6002221.jpg",
+        "imageAlt" : "Odin 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/odin/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2782,
+        "imageUrl" : "http://i3.mangareader.net/odin/1/odin-6002227.jpg",
+        "imageAlt" : "Odin 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/odin/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2434,
+        "imageUrl" : "http://i7.mangareader.net/odin/1/odin-6002233.jpg",
+        "imageAlt" : "Odin 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/odin/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 445,
+        "imageUrl" : "http://i3.mangareader.net/odin/1/odin-6002239.jpg",
+        "imageAlt" : "Odin 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/odin/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5287,
+        "imageUrl" : "http://i1.mangareader.net/odin/1/odin-6002245.jpg",
+        "imageAlt" : "Odin 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/odin/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5972,
+        "imageUrl" : "http://i7.mangareader.net/odin/1/odin-6002251.jpg",
+        "imageAlt" : "Odin 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/odin/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4779,
+        "imageUrl" : "http://i5.mangareader.net/odin/1/odin-6002257.jpg",
+        "imageAlt" : "Odin 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/odin/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4216,
+        "imageUrl" : "http://i10.mangareader.net/odin/1/odin-6002263.jpg",
+        "imageAlt" : "Odin 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/odin/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4779,
+        "imageUrl" : "http://i2.mangareader.net/odin/1/odin-6002269.jpg",
+        "imageAlt" : "Odin 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/odin/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5450,
+        "imageUrl" : "http://i6.mangareader.net/odin/1/odin-6002275.jpg",
+        "imageAlt" : "Odin 1 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/odin/2",
+    "chapterTitle" : "Odin 2",
+    "chapterDescription" : "",
+    "chapterDate" : "09/15/2015",
+    "pageCount" : 8,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/odin/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 446,
+        "imageUrl" : "http://i1.mangareader.net/odin/2/odin-6144097.jpg",
+        "imageAlt" : "Odin 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/odin/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 7536,
+        "imageUrl" : "http://i3.mangareader.net/odin/2/odin-6144103.jpg",
+        "imageAlt" : "Odin 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/odin/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5102,
+        "imageUrl" : "http://i5.mangareader.net/odin/2/odin-6144109.jpg",
+        "imageAlt" : "Odin 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/odin/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5658,
+        "imageUrl" : "http://i5.mangareader.net/odin/2/odin-6144115.jpg",
+        "imageAlt" : "Odin 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/odin/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5798,
+        "imageUrl" : "http://i6.mangareader.net/odin/2/odin-6144121.jpg",
+        "imageAlt" : "Odin 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/odin/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4927,
+        "imageUrl" : "http://i4.mangareader.net/odin/2/odin-6144127.jpg",
+        "imageAlt" : "Odin 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/odin/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 4986,
+        "imageUrl" : "http://i2.mangareader.net/odin/2/odin-6144133.jpg",
+        "imageAlt" : "Odin 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/odin/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3246,
+        "imageUrl" : "http://i8.mangareader.net/odin/2/odin-6144139.jpg",
+        "imageAlt" : "Odin 2 - Page 8"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/odin/3",
+    "chapterTitle" : "Odin 3",
+    "chapterDescription" : "",
+    "chapterDate" : "08/02/2016",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/odin/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 865,
+        "imageUrl" : "http://i3.mangareader.net/odin/3/odin-7985059.jpg",
+        "imageAlt" : "Odin 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/odin/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 446,
+        "imageUrl" : "http://i4.mangareader.net/odin/3/odin-7985065.jpg",
+        "imageAlt" : "Odin 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/odin/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6030,
+        "imageUrl" : "http://i6.mangareader.net/odin/3/odin-7985071.jpg",
+        "imageAlt" : "Odin 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/odin/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5566,
+        "imageUrl" : "http://i2.mangareader.net/odin/3/odin-7985077.jpg",
+        "imageAlt" : "Odin 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/odin/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5392,
+        "imageUrl" : "http://i4.mangareader.net/odin/3/odin-7985083.jpg",
+        "imageAlt" : "Odin 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/odin/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6377,
+        "imageUrl" : "http://i10.mangareader.net/odin/3/odin-7985089.jpg",
+        "imageAlt" : "Odin 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/odin/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5218,
+        "imageUrl" : "http://i8.mangareader.net/odin/3/odin-7985095.jpg",
+        "imageAlt" : "Odin 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/odin/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5160,
+        "imageUrl" : "http://i2.mangareader.net/odin/3/odin-7985101.jpg",
+        "imageAlt" : "Odin 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/odin/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5914,
+        "imageUrl" : "http://i6.mangareader.net/odin/3/odin-7985107.jpg",
+        "imageAlt" : "Odin 3 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/odin/4",
+    "chapterTitle" : "Odin 4",
+    "chapterDescription" : "",
+    "chapterDate" : "08/02/2016",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/odin/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 865,
+        "imageUrl" : "http://i8.mangareader.net/odin/4/odin-7985113.jpg",
+        "imageAlt" : "Odin 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/odin/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 446,
+        "imageUrl" : "http://i10.mangareader.net/odin/4/odin-7985119.jpg",
+        "imageAlt" : "Odin 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/odin/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6725,
+        "imageUrl" : "http://i5.mangareader.net/odin/4/odin-7985125.jpg",
+        "imageAlt" : "Odin 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/odin/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5914,
+        "imageUrl" : "http://i5.mangareader.net/odin/4/odin-7985131.jpg",
+        "imageAlt" : "Odin 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/odin/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5681,
+        "imageUrl" : "http://i1.mangareader.net/odin/4/odin-7985137.jpg",
+        "imageAlt" : "Odin 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/odin/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5798,
+        "imageUrl" : "http://i7.mangareader.net/odin/4/odin-7985143.jpg",
+        "imageAlt" : "Odin 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/odin/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5681,
+        "imageUrl" : "http://i1.mangareader.net/odin/4/odin-7985149.jpg",
+        "imageAlt" : "Odin 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/odin/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5566,
+        "imageUrl" : "http://i3.mangareader.net/odin/4/odin-7985155.jpg",
+        "imageAlt" : "Odin 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/odin/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5449,
+        "imageUrl" : "http://i10.mangareader.net/odin/4/odin-7985161.jpg",
+        "imageAlt" : "Odin 4 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/odin/5",
+    "chapterTitle" : "Odin 5",
+    "chapterDescription" : "",
+    "chapterDate" : "08/02/2016",
+    "pageCount" : 9,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/odin/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 865,
+        "imageUrl" : "http://i2.mangareader.net/odin/5/odin-7985167.jpg",
+        "imageAlt" : "Odin 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/odin/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 446,
+        "imageUrl" : "http://i8.mangareader.net/odin/5/odin-7985173.jpg",
+        "imageAlt" : "Odin 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/odin/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6842,
+        "imageUrl" : "http://i2.mangareader.net/odin/5/odin-7985179.jpg",
+        "imageAlt" : "Odin 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/odin/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5682,
+        "imageUrl" : "http://i4.mangareader.net/odin/5/odin-7985185.jpg",
+        "imageAlt" : "Odin 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/odin/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5102,
+        "imageUrl" : "http://i10.mangareader.net/odin/5/odin-7985191.jpg",
+        "imageAlt" : "Odin 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/odin/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5450,
+        "imageUrl" : "http://i4.mangareader.net/odin/5/odin-7985197.jpg",
+        "imageAlt" : "Odin 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/odin/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 5219,
+        "imageUrl" : "http://i6.mangareader.net/odin/5/odin-7985203.jpg",
+        "imageAlt" : "Odin 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/odin/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6146,
+        "imageUrl" : "http://i2.mangareader.net/odin/5/odin-7985209.jpg",
+        "imageAlt" : "Odin 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/odin/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6958,
+        "imageUrl" : "http://i4.mangareader.net/odin/5/odin-7985215.jpg",
+        "imageAlt" : "Odin 5 - Page 9"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/odin/6",
+    "chapterTitle" : "Odin 6",
+    "chapterDescription" : "",
+    "chapterDate" : "08/02/2016",
+    "pageCount" : 7,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/odin/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 7765,
+        "imageUrl" : "http://i4.mangareader.net/odin/6/odin-7985221.jpg",
+        "imageAlt" : "Odin 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/odin/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6185,
+        "imageUrl" : "http://i8.mangareader.net/odin/6/odin-7985227.jpg",
+        "imageAlt" : "Odin 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/odin/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6082,
+        "imageUrl" : "http://i10.mangareader.net/odin/6/odin-7985233.jpg",
+        "imageAlt" : "Odin 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/odin/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6315,
+        "imageUrl" : "http://i8.mangareader.net/odin/6/odin-7985239.jpg",
+        "imageAlt" : "Odin 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/odin/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6489,
+        "imageUrl" : "http://i2.mangareader.net/odin/6/odin-7985245.jpg",
+        "imageAlt" : "Odin 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/odin/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6489,
+        "imageUrl" : "http://i8.mangareader.net/odin/6/odin-7985251.jpg",
+        "imageAlt" : "Odin 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/odin/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 6663,
+        "imageUrl" : "http://i4.mangareader.net/odin/6/odin-7985257.jpg",
+        "imageAlt" : "Odin 6 - Page 7"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/odin/7",
+    "chapterTitle" : "Odin 7",
+    "chapterDescription" : "",
+    "chapterDate" : "08/04/2016",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/odin/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3121,
+        "imageUrl" : "http://i10.mangareader.net/odin/7/odin-7990747.jpg",
+        "imageAlt" : "Odin 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/odin/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3588,
+        "imageUrl" : "http://i6.mangareader.net/odin/7/odin-7990753.jpg",
+        "imageAlt" : "Odin 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/odin/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3197,
+        "imageUrl" : "http://i2.mangareader.net/odin/7/odin-7990759.jpg",
+        "imageAlt" : "Odin 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/odin/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3122,
+        "imageUrl" : "http://i5.mangareader.net/odin/7/odin-7990765.jpg",
+        "imageAlt" : "Odin 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/odin/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2622,
+        "imageUrl" : "http://i3.mangareader.net/odin/7/odin-7990771.jpg",
+        "imageAlt" : "Odin 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/odin/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3184,
+        "imageUrl" : "http://i9.mangareader.net/odin/7/odin-7990777.jpg",
+        "imageAlt" : "Odin 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/odin/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3197,
+        "imageUrl" : "http://i3.mangareader.net/odin/7/odin-7990783.jpg",
+        "imageAlt" : "Odin 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/odin/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3121,
+        "imageUrl" : "http://i3.mangareader.net/odin/7/odin-7990789.jpg",
+        "imageAlt" : "Odin 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/odin/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3184,
+        "imageUrl" : "http://i7.mangareader.net/odin/7/odin-7990795.jpg",
+        "imageAlt" : "Odin 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/odin/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3198,
+        "imageUrl" : "http://i9.mangareader.net/odin/7/odin-7990801.jpg",
+        "imageAlt" : "Odin 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/odin/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3199,
+        "imageUrl" : "http://i3.mangareader.net/odin/7/odin-7990807.jpg",
+        "imageAlt" : "Odin 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/odin/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3197,
+        "imageUrl" : "http://i5.mangareader.net/odin/7/odin-7990813.jpg",
+        "imageAlt" : "Odin 7 - Page 12"
+      } ]
+    } ]
+  } ]
+}

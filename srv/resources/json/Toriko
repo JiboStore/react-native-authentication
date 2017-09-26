@@ -1,0 +1,4349 @@
+{
+  "mangaTitle" : "Toriko",
+  "mangaUrl" : "http://www.mangareader.net/toriko",
+  "mangaThumbUrl" : "http://s3.mangareader.net/cover/toriko/toriko-r0.jpg",
+  "mangaChaptersInfo" : "397 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manhwa (Read Left to Right)",
+  "mangaGenre" : "Action, Comedy, Shounen",
+  "chapterCount" : 13,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1",
+    "chapterTitle" : "Ano Ko no, Toriko 1",
+    "chapterDescription" : "",
+    "chapterDate" : "12/02/2013",
+    "pageCount" : 42,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 592,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609021.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609023.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609025.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609027.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609029.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609031.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609033.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609035.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609037.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 587,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609039.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609041.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609043.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609045.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609047.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609049.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609051.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609053.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609055.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609057.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609059.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609061.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609063.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609065.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609067.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609069.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609071.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609073.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609075.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609077.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609079.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609081.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609083.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609085.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609087.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 586,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609089.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 582,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609091.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609093.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609095.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609097.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609099.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609101.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/1/ano-ko-no-toriko-4609103.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 1 - Page 42"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2",
+    "chapterTitle" : "Ano Ko no, Toriko 2",
+    "chapterDescription" : "",
+    "chapterDate" : "12/02/2013",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 592,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609105.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609107.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609109.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609111.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609113.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609115.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609117.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609119.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609121.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609123.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609125.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609127.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609129.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609131.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609133.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609135.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609137.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609139.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609141.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609143.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609145.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609147.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609149.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609151.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609153.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609155.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609157.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609159.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609161.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609163.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609165.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609167.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609169.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609171.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/2/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/2/ano-ko-no-toriko-4609173.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 2 - Page 35"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3",
+    "chapterTitle" : "Ano Ko no, Toriko 3",
+    "chapterDescription" : "",
+    "chapterDate" : "04/19/2014",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 592,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914713.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914715.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914717.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914719.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914721.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914723.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914725.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914727.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914729.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914731.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914733.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914735.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914737.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914739.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914741.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914743.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914745.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914747.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914749.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914751.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914753.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914755.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 591,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914757.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914759.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914761.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 588,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914763.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914765.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914767.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914769.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914771.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914773.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/3/ano-ko-no-toriko-4914775.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 3 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4",
+    "chapterTitle" : "Ano Ko no, Toriko 4",
+    "chapterDescription" : "",
+    "chapterDate" : "04/19/2014",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 592,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914777.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914779.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914781.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914783.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914785.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914787.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914789.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914791.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914793.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914795.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914797.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914799.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914801.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914803.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914805.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914807.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914809.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914811.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914813.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914815.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914817.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914819.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914821.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914823.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914825.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914827.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914829.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914831.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914833.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914835.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914837.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914839.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914841.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/4/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/4/ano-ko-no-toriko-4914843.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 4 - Page 34"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5",
+    "chapterTitle" : "Ano Ko no, Toriko 5",
+    "chapterDescription" : "",
+    "chapterDate" : "05/30/2014",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 592,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4981975.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4981977.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4981979.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4981981.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4981983.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4981985.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4981987.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4981989.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4981991.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4981993.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4981995.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4981997.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4981999.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982001.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982003.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982005.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982007.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982009.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982011.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982013.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 592,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982015.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982017.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982019.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982021.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982023.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982025.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982027.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982029.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982031.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982033.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982035.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982037.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/5/ano-ko-no-toriko-4982039.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 5 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6",
+    "chapterTitle" : "Ano Ko no, Toriko 6",
+    "chapterDescription" : "",
+    "chapterDate" : "11/11/2014",
+    "pageCount" : 41,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 593,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292073.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292075.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292077.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292079.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292081.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292083.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292085.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292087.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292089.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292091.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292093.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292095.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292097.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292099.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292101.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292103.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292105.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292107.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 585,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292109.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292111.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292113.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292115.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292117.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292119.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292121.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292123.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292125.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 583,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292127.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292129.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292131.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292133.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292135.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292137.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292139.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292141.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292143.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292145.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292147.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292149.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292151.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/6/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/6/ano-ko-no-toriko-5292153.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 6 - Page 41"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7",
+    "chapterTitle" : "Ano Ko no, Toriko 7",
+    "chapterDescription" : "",
+    "chapterDate" : "11/11/2014",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 593,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292155.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1085,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292157.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292159.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292161.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292163.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292165.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292167.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292169.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292171.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292173.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292175.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292177.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292179.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292181.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292183.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 588,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292185.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292187.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292189.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292191.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292193.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292195.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292197.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292199.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292201.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292203.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292205.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292207.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292209.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292211.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292213.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292215.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292217.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292219.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292221.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/7/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/7/ano-ko-no-toriko-5292223.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 7 - Page 35"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8",
+    "chapterTitle" : "Ano Ko no, Toriko 8",
+    "chapterDescription" : "",
+    "chapterDate" : "09/09/2015",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 637,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105115.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 593,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105121.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1085,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105127.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105133.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105139.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105145.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105151.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105157.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105163.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105169.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105175.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105181.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105187.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 590,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105193.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105199.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105205.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105211.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105217.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105223.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105229.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105235.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105241.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105247.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105253.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105259.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105265.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105271.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105277.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105283.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105289.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 582,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105295.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105301.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/8/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/8/ano-ko-no-toriko-6105307.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 8 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9",
+    "chapterTitle" : "Ano Ko no, Toriko 9",
+    "chapterDescription" : "",
+    "chapterDate" : "09/09/2015",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 593,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105313.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1085,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105319.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105325.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105331.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105337.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105343.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105349.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105355.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105361.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105367.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105373.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105379.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105385.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105391.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105397.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105403.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105409.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105415.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105421.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105427.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105433.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105439.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105445.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105451.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105457.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105463.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105469.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105475.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105481.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105487.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105493.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105499.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 583,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105505.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105511.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/9/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/9/ano-ko-no-toriko-6105517.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 9 - Page 35"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10",
+    "chapterTitle" : "Ano Ko no, Toriko 10",
+    "chapterDescription" : "",
+    "chapterDate" : "06/05/2016",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 590,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648759.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 684,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648765.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648771.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1085,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648777.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648783.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648789.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648795.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648801.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648807.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648813.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648819.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648825.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648831.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648837.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648843.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648849.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648855.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648861.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648867.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648873.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648879.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648885.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648891.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648897.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648903.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648909.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648915.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648921.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648927.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648933.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648939.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648945.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648951.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648957.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/10/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/10/ano-ko-no-toriko-7648963.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 10 - Page 35"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11",
+    "chapterTitle" : "Ano Ko no, Toriko 11",
+    "chapterDescription" : "",
+    "chapterDate" : "08/07/2016",
+    "pageCount" : 43,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1118,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006299.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 592,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006305.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 685,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006311.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1085,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006317.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1276,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006323.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006329.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006335.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006341.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006347.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006353.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006359.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006365.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006371.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006377.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006383.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006389.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006395.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006401.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006407.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006413.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006419.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006425.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006431.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006437.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006443.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006449.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006455.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006461.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006467.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006473.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006479.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006485.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006491.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006497.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006503.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006509.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006515.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 593,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006521.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006527.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006533.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006539.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006545.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/11/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/11/ano-ko-no-toriko-8006551.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 11 - Page 43"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12",
+    "chapterTitle" : "Ano Ko no, Toriko 12",
+    "chapterDescription" : "",
+    "chapterDate" : "08/30/2016",
+    "pageCount" : 37,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141269.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 592,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141275.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 685,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141281.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1085,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141287.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1276,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141293.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141299.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141305.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141311.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141317.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141323.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141329.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141335.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141341.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141347.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141353.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141359.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141365.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141371.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141377.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141383.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141389.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141395.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141401.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141407.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141413.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141419.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141425.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141431.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141437.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141443.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141449.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141455.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141461.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141467.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 592,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141473.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141479.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/12/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/12/ano-ko-no-toriko-8141485.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 12 - Page 37"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13",
+    "chapterTitle" : "Ano Ko no, Toriko 13",
+    "chapterDescription" : "",
+    "chapterDate" : "11/02/2016",
+    "pageCount" : 37,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 592,
+        "imageUrl" : "http://i2.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502019.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 685,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502025.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1085,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502031.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1276,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502037.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502043.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502049.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502055.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502061.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502067.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502073.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502079.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502085.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502091.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502097.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502103.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502109.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502115.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i5.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502121.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502127.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i1.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502133.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502139.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502145.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502151.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i3.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502157.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502163.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502169.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502175.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502181.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i6.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502187.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502193.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i4.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502199.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502205.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i10.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502211.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i8.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502217.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i7.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502223.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502229.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/ano-ko-no-toriko/13/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i9.mangareader.net/ano-ko-no-toriko/13/ano-ko-no-toriko-8502235.jpg",
+        "imageAlt" : "Ano Ko no, Toriko 13 - Page 37"
+      } ]
+    } ]
+  } ]
+}

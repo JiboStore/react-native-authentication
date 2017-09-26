@@ -1,0 +1,2425 @@
+{
+  "mangaTitle" : "Zettai Reiiki",
+  "mangaUrl" : "http://www.mangareader.net/zettai-reiiki",
+  "mangaThumbUrl" : "http://s5.mangareader.net/cover/zettai-reiiki/zettai-reiiki-r0.jpg",
+  "mangaChaptersInfo" : "12 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Comedy, Shounen, Supernatural",
+  "chapterCount" : 12,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/zettai-reiiki/1",
+    "chapterTitle" : "Zettai Reiiki 1",
+    "chapterDescription" : "",
+    "chapterDate" : "09/16/2015",
+    "pageCount" : 22,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 347,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149449.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149455.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149461.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149467.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149473.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149479.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149485.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149491.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149497.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149503.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149509.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149515.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149521.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149527.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149533.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149539.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149545.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149551.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149557.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149563.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149569.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 441,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/1/zettai-reiiki-6149575.jpg",
+        "imageAlt" : "Zettai Reiiki 1 - Page 22"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-reiiki/2",
+    "chapterTitle" : "Zettai Reiiki 2",
+    "chapterDescription" : "",
+    "chapterDate" : "09/16/2015",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149581.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149587.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149593.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149599.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149605.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149611.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149617.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149623.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149629.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149635.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149641.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149647.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149653.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149659.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149665.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149671.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 441,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/2/zettai-reiiki-6149677.jpg",
+        "imageAlt" : "Zettai Reiiki 2 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-reiiki/3",
+    "chapterTitle" : "Zettai Reiiki 3",
+    "chapterDescription" : "",
+    "chapterDate" : "09/16/2015",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149683.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149689.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149695.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149701.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149707.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149713.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149719.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149725.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149731.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149737.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149743.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149749.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149755.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149761.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149767.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149773.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149779.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149785.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1564,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/3/zettai-reiiki-6149791.jpg",
+        "imageAlt" : "Zettai Reiiki 3 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-reiiki/4",
+    "chapterTitle" : "Zettai Reiiki 4",
+    "chapterDescription" : "",
+    "chapterDate" : "11/24/2015",
+    "pageCount" : 22,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559909.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559915.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559921.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559927.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559933.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559939.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559945.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559951.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559957.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559963.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559969.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559975.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559981.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559987.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559993.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/4/zettai-reiiki-6559999.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/4/zettai-reiiki-6560005.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/4/zettai-reiiki-6560011.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/4/zettai-reiiki-6560017.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/4/zettai-reiiki-6560023.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 535,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/4/zettai-reiiki-6560029.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 501,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/4/zettai-reiiki-6560035.jpg",
+        "imageAlt" : "Zettai Reiiki 4 - Page 22"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-reiiki/5",
+    "chapterTitle" : "Zettai Reiiki 5",
+    "chapterDescription" : "",
+    "chapterDate" : "03/10/2016",
+    "pageCount" : 22,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 501,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211065.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211071.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211077.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211083.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211089.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211095.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211101.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211107.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211113.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211119.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211125.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211131.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211137.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211143.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211149.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211155.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211161.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211167.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211173.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211179.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211185.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 535,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/5/zettai-reiiki-7211191.jpg",
+        "imageAlt" : "Zettai Reiiki 5 - Page 22"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-reiiki/6",
+    "chapterTitle" : "Zettai Reiiki 6",
+    "chapterDescription" : "",
+    "chapterDate" : "03/10/2016",
+    "pageCount" : 23,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211197.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211203.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211209.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211215.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211221.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211227.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211233.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211239.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211245.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211251.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211257.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211263.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211269.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211275.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211281.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211287.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211293.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211299.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211305.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211311.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211317.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211323.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 533,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/6/zettai-reiiki-7211329.jpg",
+        "imageAlt" : "Zettai Reiiki 6 - Page 23"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-reiiki/7",
+    "chapterTitle" : "Zettai Reiiki 7",
+    "chapterDescription" : "",
+    "chapterDate" : "04/13/2016",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377715.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377721.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377727.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377733.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377739.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377745.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377751.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377757.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377763.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377769.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377775.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377781.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377787.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377793.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377799.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377805.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377811.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377817.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377823.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377829.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377835.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377841.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377847.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377853.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377859.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377865.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 533,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/7/zettai-reiiki-7377871.jpg",
+        "imageAlt" : "Zettai Reiiki 7 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-reiiki/8",
+    "chapterTitle" : "Zettai Reiiki 8",
+    "chapterDescription" : "",
+    "chapterDate" : "07/10/2016",
+    "pageCount" : 22,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841755.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 568,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841761.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841767.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841773.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841779.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841785.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841791.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841797.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841803.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841809.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841815.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841821.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841827.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841833.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841839.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841845.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841851.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841857.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841863.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841869.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841875.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 534,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/8/zettai-reiiki-7841881.jpg",
+        "imageAlt" : "Zettai Reiiki 8 - Page 22"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-reiiki/9",
+    "chapterTitle" : "Zettai Reiiki 9",
+    "chapterDescription" : "",
+    "chapterDate" : "07/10/2016",
+    "pageCount" : 25,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841887.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841893.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841899.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841905.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841911.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841917.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841923.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841929.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841935.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841941.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841947.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841953.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841959.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841965.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841971.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841977.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841983.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841989.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/9/zettai-reiiki-7841995.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/9/zettai-reiiki-7842001.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/9/zettai-reiiki-7842007.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/9/zettai-reiiki-7842013.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/9/zettai-reiiki-7842019.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/9/zettai-reiiki-7842025.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 534,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/9/zettai-reiiki-7842031.jpg",
+        "imageAlt" : "Zettai Reiiki 9 - Page 25"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-reiiki/10",
+    "chapterTitle" : "Zettai Reiiki 10",
+    "chapterDescription" : "",
+    "chapterDate" : "08/14/2016",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043355.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043361.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043367.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043373.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043379.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043385.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043391.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043397.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043403.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043409.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043415.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043421.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043427.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043433.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043439.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043445.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043451.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043457.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043463.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043469.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043475.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043481.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043487.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043493.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043499.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043505.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043511.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043517.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043523.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043529.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/10/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 534,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/10/zettai-reiiki-8043535.jpg",
+        "imageAlt" : "Zettai Reiiki 10 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-reiiki/11",
+    "chapterTitle" : "Zettai Reiiki 11",
+    "chapterDescription" : "",
+    "chapterDate" : "09/21/2016",
+    "pageCount" : 15,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/11/zettai-reiiki-8257711.jpg",
+        "imageAlt" : "Zettai Reiiki 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/11/zettai-reiiki-8257717.jpg",
+        "imageAlt" : "Zettai Reiiki 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/zettai-reiiki/11/zettai-reiiki-8257723.jpg",
+        "imageAlt" : "Zettai Reiiki 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/11/zettai-reiiki-8257729.jpg",
+        "imageAlt" : "Zettai Reiiki 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/11/zettai-reiiki-8257735.jpg",
+        "imageAlt" : "Zettai Reiiki 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/11/zettai-reiiki-8257741.jpg",
+        "imageAlt" : "Zettai Reiiki 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/11/zettai-reiiki-8257747.jpg",
+        "imageAlt" : "Zettai Reiiki 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/11/zettai-reiiki-8257753.jpg",
+        "imageAlt" : "Zettai Reiiki 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/zettai-reiiki/11/zettai-reiiki-8257759.jpg",
+        "imageAlt" : "Zettai Reiiki 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/11/zettai-reiiki-8257765.jpg",
+        "imageAlt" : "Zettai Reiiki 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/11/zettai-reiiki-8257771.jpg",
+        "imageAlt" : "Zettai Reiiki 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/11/zettai-reiiki-8257777.jpg",
+        "imageAlt" : "Zettai Reiiki 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/11/zettai-reiiki-8257783.jpg",
+        "imageAlt" : "Zettai Reiiki 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/zettai-reiiki/11/zettai-reiiki-8257789.jpg",
+        "imageAlt" : "Zettai Reiiki 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 533,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/11/zettai-reiiki-8257795.jpg",
+        "imageAlt" : "Zettai Reiiki 11 - Page 15"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-reiiki/12",
+    "chapterTitle" : "Zettai Reiiki 12",
+    "chapterDescription" : "",
+    "chapterDate" : "07/11/2017",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/12/zettai-reiiki-9525133.jpg",
+        "imageAlt" : "Zettai Reiiki 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/12/zettai-reiiki-9525139.jpg",
+        "imageAlt" : "Zettai Reiiki 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i4.mangareader.net/zettai-reiiki/12/zettai-reiiki-9525145.jpg",
+        "imageAlt" : "Zettai Reiiki 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/zettai-reiiki/12/zettai-reiiki-9525151.jpg",
+        "imageAlt" : "Zettai Reiiki 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/zettai-reiiki/12/zettai-reiiki-9525157.jpg",
+        "imageAlt" : "Zettai Reiiki 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/12/zettai-reiiki-9525163.jpg",
+        "imageAlt" : "Zettai Reiiki 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/12/zettai-reiiki-9525169.jpg",
+        "imageAlt" : "Zettai Reiiki 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i3.mangareader.net/zettai-reiiki/12/zettai-reiiki-9525175.jpg",
+        "imageAlt" : "Zettai Reiiki 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i5.mangareader.net/zettai-reiiki/12/zettai-reiiki-9525181.jpg",
+        "imageAlt" : "Zettai Reiiki 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/12/zettai-reiiki-9525187.jpg",
+        "imageAlt" : "Zettai Reiiki 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/12/zettai-reiiki-9525193.jpg",
+        "imageAlt" : "Zettai Reiiki 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/12/zettai-reiiki-9525199.jpg",
+        "imageAlt" : "Zettai Reiiki 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i7.mangareader.net/zettai-reiiki/12/zettai-reiiki-9525205.jpg",
+        "imageAlt" : "Zettai Reiiki 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-reiiki/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 532,
+        "imageUrl" : "http://i1.mangareader.net/zettai-reiiki/12/zettai-reiiki-9525211.jpg",
+        "imageAlt" : "Zettai Reiiki 12 - Page 14"
+      } ]
+    } ]
+  } ]
+}

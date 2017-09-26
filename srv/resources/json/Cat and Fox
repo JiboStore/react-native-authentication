@@ -1,0 +1,1623 @@
+{
+  "mangaTitle" : "Cat and Fox",
+  "mangaUrl" : "http://www.mangareader.net/cat-and-fox",
+  "mangaThumbUrl" : "http://s3.mangareader.net/cover/cat-and-fox/cat-and-fox-r0.jpg",
+  "mangaChaptersInfo" : "8 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Comedy, Supernatural",
+  "chapterCount" : 8,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/cat-and-fox/1",
+    "chapterTitle" : "Cat and Fox 1",
+    "chapterDescription" : "",
+    "chapterDate" : "10/15/2016",
+    "pageCount" : 39,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/1/cat-and-fox-8408665.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/1/cat-and-fox-8408671.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/1/cat-and-fox-8408677.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/cat-and-fox/1/cat-and-fox-8408683.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/1/cat-and-fox-8408689.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/1/cat-and-fox-8408695.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/1/cat-and-fox-8408701.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/1/cat-and-fox-8408707.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/1/cat-and-fox-8408713.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/1/cat-and-fox-8408719.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/cat-and-fox/1/cat-and-fox-8408725.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/1/cat-and-fox-8408731.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/cat-and-fox/1/cat-and-fox-8408737.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/1/cat-and-fox-8408743.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/1/cat-and-fox-8408749.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/1/cat-and-fox-8408755.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/cat-and-fox/1/cat-and-fox-8408761.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/1/cat-and-fox-8408767.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/1/cat-and-fox-8408773.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/1/cat-and-fox-8408779.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/1/cat-and-fox-8408785.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/1/cat-and-fox-8408791.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/1/cat-and-fox-8408797.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/1/cat-and-fox-8408803.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/cat-and-fox/1/cat-and-fox-8408809.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/1/cat-and-fox-8408815.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/1/cat-and-fox-8408821.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i10.mangareader.net/cat-and-fox/1/cat-and-fox-8408827.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/cat-and-fox/1/cat-and-fox-8408833.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/cat-and-fox/1/cat-and-fox-8408839.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/1/cat-and-fox-8408845.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/1/cat-and-fox-8408851.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/cat-and-fox/1/cat-and-fox-8408857.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/1/cat-and-fox-8408863.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/1/cat-and-fox-8408869.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/1/cat-and-fox-8408875.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/1/cat-and-fox-8408881.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/1/cat-and-fox-8408887.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/1/cat-and-fox-8408893.jpg",
+        "imageAlt" : "Cat and Fox 1 - Page 39"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/cat-and-fox/2",
+    "chapterTitle" : "Cat and Fox 2",
+    "chapterDescription" : "",
+    "chapterDate" : "11/26/2016",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/2/cat-and-fox-8608465.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/2/cat-and-fox-8608471.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/cat-and-fox/2/cat-and-fox-8608477.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/2/cat-and-fox-8608483.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/cat-and-fox/2/cat-and-fox-8608489.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/2/cat-and-fox-8608495.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/cat-and-fox/2/cat-and-fox-8608501.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/cat-and-fox/2/cat-and-fox-8608507.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/cat-and-fox/2/cat-and-fox-8608513.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/cat-and-fox/2/cat-and-fox-8608519.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/2/cat-and-fox-8608525.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/2/cat-and-fox-8608531.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/2/cat-and-fox-8608537.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/2/cat-and-fox-8608543.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/2/cat-and-fox-8608549.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/2/cat-and-fox-8608555.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/2/cat-and-fox-8608561.jpg",
+        "imageAlt" : "Cat and Fox 2 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/cat-and-fox/3",
+    "chapterTitle" : "Cat and Fox 3",
+    "chapterDescription" : "",
+    "chapterDate" : "11/26/2016",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/3/cat-and-fox-8608567.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/3/cat-and-fox-8608573.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/3/cat-and-fox-8608579.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/3/cat-and-fox-8608585.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/3/cat-and-fox-8608591.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/3/cat-and-fox-8608597.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/3/cat-and-fox-8608603.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/3/cat-and-fox-8608609.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/cat-and-fox/3/cat-and-fox-8608615.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/3/cat-and-fox-8608621.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/3/cat-and-fox-8608627.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/3/cat-and-fox-8608633.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/3/cat-and-fox-8608639.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/cat-and-fox/3/cat-and-fox-8608645.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/3/cat-and-fox-8608651.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/cat-and-fox/3/cat-and-fox-8608657.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/3/cat-and-fox-8608663.jpg",
+        "imageAlt" : "Cat and Fox 3 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/cat-and-fox/4",
+    "chapterTitle" : "Cat and Fox 4",
+    "chapterDescription" : "",
+    "chapterDate" : "11/26/2016",
+    "pageCount" : 25,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/4/cat-and-fox-8608669.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/4/cat-and-fox-8608675.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/4/cat-and-fox-8608681.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/4/cat-and-fox-8608687.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/4/cat-and-fox-8608693.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/cat-and-fox/4/cat-and-fox-8608699.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/cat-and-fox/4/cat-and-fox-8608705.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/4/cat-and-fox-8608711.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/4/cat-and-fox-8608717.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/4/cat-and-fox-8608723.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/cat-and-fox/4/cat-and-fox-8608729.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/4/cat-and-fox-8608735.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/4/cat-and-fox-8608741.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/4/cat-and-fox-8608747.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/cat-and-fox/4/cat-and-fox-8608753.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/cat-and-fox/4/cat-and-fox-8608759.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/4/cat-and-fox-8608765.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/4/cat-and-fox-8608771.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/4/cat-and-fox-8608777.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/4/cat-and-fox-8608783.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/4/cat-and-fox-8608789.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/4/cat-and-fox-8608795.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/4/cat-and-fox-8608801.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/4/cat-and-fox-8608807.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/cat-and-fox/4/cat-and-fox-8608813.jpg",
+        "imageAlt" : "Cat and Fox 4 - Page 25"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/cat-and-fox/5",
+    "chapterTitle" : "Cat and Fox 5",
+    "chapterDescription" : "",
+    "chapterDate" : "11/26/2016",
+    "pageCount" : 25,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/5/cat-and-fox-8608819.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/5/cat-and-fox-8608825.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/cat-and-fox/5/cat-and-fox-8608831.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/5/cat-and-fox-8608837.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/5/cat-and-fox-8608843.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/5/cat-and-fox-8608849.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/5/cat-and-fox-8608855.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/cat-and-fox/5/cat-and-fox-8608861.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/5/cat-and-fox-8608867.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/cat-and-fox/5/cat-and-fox-8608873.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/cat-and-fox/5/cat-and-fox-8608879.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/5/cat-and-fox-8608885.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i10.mangareader.net/cat-and-fox/5/cat-and-fox-8608891.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/5/cat-and-fox-8608897.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/cat-and-fox/5/cat-and-fox-8608903.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i10.mangareader.net/cat-and-fox/5/cat-and-fox-8608909.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i8.mangareader.net/cat-and-fox/5/cat-and-fox-8608915.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/5/cat-and-fox-8608921.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/5/cat-and-fox-8608927.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/5/cat-and-fox-8608933.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/5/cat-and-fox-8608939.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/5/cat-and-fox-8608945.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/5/cat-and-fox-8608951.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/cat-and-fox/5/cat-and-fox-8608957.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/5/cat-and-fox-8608963.jpg",
+        "imageAlt" : "Cat and Fox 5 - Page 25"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/cat-and-fox/6",
+    "chapterTitle" : "Cat and Fox 6",
+    "chapterDescription" : "",
+    "chapterDate" : "12/09/2016",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 552,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/6/cat-and-fox-8656765.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/cat-and-fox/6/cat-and-fox-8656771.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/6/cat-and-fox-8656777.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/6/cat-and-fox-8656783.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/6/cat-and-fox-8656789.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/6/cat-and-fox-8656795.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i5.mangareader.net/cat-and-fox/6/cat-and-fox-8656801.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/6/cat-and-fox-8656807.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/6/cat-and-fox-8656813.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/6/cat-and-fox-8656819.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/6/cat-and-fox-8656825.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/6/cat-and-fox-8656831.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/6/cat-and-fox-8656837.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/cat-and-fox/6/cat-and-fox-8656843.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/6/cat-and-fox-8656849.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/6/cat-and-fox-8656855.jpg",
+        "imageAlt" : "Cat and Fox 6 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/cat-and-fox/7",
+    "chapterTitle" : "Cat and Fox 7",
+    "chapterDescription" : "",
+    "chapterDate" : "01/23/2017",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/cat-and-fox/7/cat-and-fox-8841817.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/7/cat-and-fox-8841823.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/7/cat-and-fox-8841829.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/7/cat-and-fox-8841835.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/7/cat-and-fox-8841841.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/7/cat-and-fox-8841847.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/cat-and-fox/7/cat-and-fox-8841853.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/7/cat-and-fox-8841859.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/cat-and-fox/7/cat-and-fox-8841865.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/7/cat-and-fox-8841871.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/cat-and-fox/7/cat-and-fox-8841877.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/cat-and-fox/7/cat-and-fox-8841883.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/7/cat-and-fox-8841889.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/7/cat-and-fox-8841895.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/7/cat-and-fox-8841901.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/cat-and-fox/7/cat-and-fox-8841907.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/7/cat-and-fox-8841913.jpg",
+        "imageAlt" : "Cat and Fox 7 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/cat-and-fox/8",
+    "chapterTitle" : "Cat and Fox 8",
+    "chapterDescription" : "",
+    "chapterDate" : "01/23/2017",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/8/cat-and-fox-8841919.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/8/cat-and-fox-8841925.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/8/cat-and-fox-8841931.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/8/cat-and-fox-8841937.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/cat-and-fox/8/cat-and-fox-8841943.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/cat-and-fox/8/cat-and-fox-8841949.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/cat-and-fox/8/cat-and-fox-8841955.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/cat-and-fox/8/cat-and-fox-8841961.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/8/cat-and-fox-8841967.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/cat-and-fox/8/cat-and-fox-8841973.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/cat-and-fox/8/cat-and-fox-8841979.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/cat-and-fox/8/cat-and-fox-8841985.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/8/cat-and-fox-8841991.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/cat-and-fox/8/cat-and-fox-8841997.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/8/cat-and-fox-8842003.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/cat-and-fox/8/cat-and-fox-8842009.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/cat-and-fox/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i7.mangareader.net/cat-and-fox/8/cat-and-fox-8842015.jpg",
+        "imageAlt" : "Cat and Fox 8 - Page 17"
+      } ]
+    } ]
+  } ]
+}

@@ -1,0 +1,4602 @@
+{
+  "mangaTitle" : "Majimoji Rurumo",
+  "mangaUrl" : "http://www.mangareader.net/majimoji-rurumo",
+  "mangaThumbUrl" : "http://s2.mangareader.net/cover/majimoji-rurumo/majimoji-rurumo-r0.jpg",
+  "mangaChaptersInfo" : "17 Chapters Published. (Completed)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Comedy, Fantasy, Shounen",
+  "chapterCount" : 17,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/1",
+    "chapterTitle" : "Majimoji Rurumo 1",
+    "chapterDescription" : "",
+    "chapterDate" : "05/05/2014",
+    "pageCount" : 64,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941945.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941947.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941949.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941951.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1218,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941953.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941955.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941957.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941959.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941961.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941963.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941965.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941967.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941969.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941971.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941973.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941975.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941977.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941979.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941981.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941983.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941985.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941987.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941989.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941991.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941993.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941995.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941997.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4941999.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942001.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942003.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942005.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942007.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942009.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942011.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942013.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942015.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942017.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942019.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942021.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942023.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942025.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942027.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942029.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942031.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942033.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942035.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942037.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942039.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942041.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942043.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942045.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942047.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942049.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942051.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942053.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942055.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942057.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942059.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942061.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942063.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942065.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942067.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 62"
+      } ]
+    }, {
+      "pageNumber" : 63,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/63",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942069.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 63"
+      } ]
+    }, {
+      "pageNumber" : 64,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/1/64",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 722,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/1/majimoji-rurumo-4942071.jpg",
+        "imageAlt" : "Majimoji Rurumo 1 - Page 64"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/2",
+    "chapterTitle" : "Majimoji Rurumo 2",
+    "chapterDescription" : "",
+    "chapterDate" : "05/05/2014",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942073.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942075.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942077.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942079.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942081.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942083.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942085.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942087.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942089.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942091.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942093.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942095.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942097.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942099.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942101.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942103.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942105.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942107.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942109.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942111.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942113.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942115.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942117.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942119.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942121.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942123.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942125.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 722,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/2/majimoji-rurumo-4942127.jpg",
+        "imageAlt" : "Majimoji Rurumo 2 - Page 28"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/3",
+    "chapterTitle" : "Majimoji Rurumo 3",
+    "chapterDescription" : "",
+    "chapterDate" : "05/05/2014",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942129.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942131.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942133.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942135.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942137.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942139.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942141.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942143.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942145.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942147.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942149.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942151.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942153.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942155.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942157.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942159.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942161.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942163.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942165.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942167.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942169.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942171.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942173.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942175.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942177.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/3/majimoji-rurumo-4942179.jpg",
+        "imageAlt" : "Majimoji Rurumo 3 - Page 26"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/4",
+    "chapterTitle" : "Majimoji Rurumo 4",
+    "chapterDescription" : "",
+    "chapterDate" : "05/20/2014",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 750,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965249.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965251.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965253.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965255.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 580,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965257.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965259.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965261.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965263.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965265.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965267.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965269.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965271.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965273.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965275.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965277.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965279.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965281.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965283.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965285.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965287.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965289.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965291.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965293.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965295.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965297.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965299.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965301.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/4/majimoji-rurumo-4965303.jpg",
+        "imageAlt" : "Majimoji Rurumo 4 - Page 28"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/5",
+    "chapterTitle" : "Majimoji Rurumo 5",
+    "chapterDescription" : "",
+    "chapterDate" : "10/16/2014",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 752,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245851.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245853.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 561,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245855.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245857.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245859.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245861.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245863.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245865.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245867.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245869.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245871.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245873.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245875.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245877.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245879.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245881.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245883.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245885.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245887.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245889.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245891.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245893.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245895.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245897.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245899.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/5/majimoji-rurumo-5245901.jpg",
+        "imageAlt" : "Majimoji Rurumo 5 - Page 26"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/6",
+    "chapterTitle" : "Majimoji Rurumo 6",
+    "chapterDescription" : "",
+    "chapterDate" : "10/16/2014",
+    "pageCount" : 5,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 752,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/6/majimoji-rurumo-5245903.jpg",
+        "imageAlt" : "Majimoji Rurumo 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/6/majimoji-rurumo-5245905.jpg",
+        "imageAlt" : "Majimoji Rurumo 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/6/majimoji-rurumo-5245907.jpg",
+        "imageAlt" : "Majimoji Rurumo 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/6/majimoji-rurumo-5245909.jpg",
+        "imageAlt" : "Majimoji Rurumo 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/6/majimoji-rurumo-5245911.jpg",
+        "imageAlt" : "Majimoji Rurumo 6 - Page 5"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/7",
+    "chapterTitle" : "Majimoji Rurumo 7",
+    "chapterDescription" : "",
+    "chapterDate" : "10/30/2014",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 752,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271879.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271881.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271883.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271885.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271887.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271889.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271891.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271893.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271895.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271897.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271899.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271901.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271903.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271905.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271907.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271909.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271911.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271913.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271915.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271917.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271919.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271921.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271923.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271925.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271927.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271929.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/7/majimoji-rurumo-5271931.jpg",
+        "imageAlt" : "Majimoji Rurumo 7 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/8",
+    "chapterTitle" : "Majimoji Rurumo 8",
+    "chapterDescription" : "",
+    "chapterDate" : "11/07/2014",
+    "pageCount" : 29,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 750,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285345.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285347.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285349.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285351.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285353.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285355.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285357.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285359.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285361.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285363.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285365.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285367.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285369.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285371.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285373.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285375.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285377.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285379.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285381.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285383.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285385.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285387.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285389.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285391.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285393.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285395.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285397.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285399.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/8/majimoji-rurumo-5285401.jpg",
+        "imageAlt" : "Majimoji Rurumo 8 - Page 29"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/9",
+    "chapterTitle" : "Majimoji Rurumo 9",
+    "chapterDescription" : "",
+    "chapterDate" : "11/07/2014",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 750,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285403.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285405.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285407.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285409.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285411.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285413.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 560,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285415.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285417.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285419.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285421.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285423.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 560,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285425.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285427.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285429.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285431.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285433.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285435.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285437.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285439.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285441.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285443.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285445.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285447.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285449.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 593,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285451.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285453.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285455.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/9/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/9/majimoji-rurumo-5285457.jpg",
+        "imageAlt" : "Majimoji Rurumo 9 - Page 28"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/10",
+    "chapterTitle" : "Majimoji Rurumo 10",
+    "chapterDescription" : "",
+    "chapterDate" : "11/11/2014",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 752,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291455.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291457.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291459.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291461.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291463.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291465.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291467.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291469.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291471.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291473.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291475.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291477.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291479.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291481.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291483.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291485.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291487.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291489.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291491.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291493.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291495.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291497.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291499.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291501.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291503.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291505.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291507.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/10/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/10/majimoji-rurumo-5291509.jpg",
+        "imageAlt" : "Majimoji Rurumo 10 - Page 28"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/11",
+    "chapterTitle" : "Majimoji Rurumo 11",
+    "chapterDescription" : "",
+    "chapterDate" : "11/17/2014",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305951.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305953.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305955.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 561,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305957.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305959.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305961.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305963.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305965.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305967.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305969.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305971.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305973.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305975.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305977.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305979.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305981.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 561,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305983.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305985.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305987.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305989.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305991.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305993.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305995.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 584,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305997.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5305999.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5306001.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5306003.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/11/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 751,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/11/majimoji-rurumo-5306005.jpg",
+        "imageAlt" : "Majimoji Rurumo 11 - Page 28"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/12",
+    "chapterTitle" : "Majimoji Rurumo 12",
+    "chapterDescription" : "",
+    "chapterDate" : "12/24/2014",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 347,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385955.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 545,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385957.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385959.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385961.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385963.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385965.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385967.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385969.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385971.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385973.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385975.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385977.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385979.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385981.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385983.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385985.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385987.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385989.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385991.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385993.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385995.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385997.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5385999.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5386001.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5386003.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5386005.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5386007.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5386009.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5386011.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5386013.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5386015.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5386017.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5386019.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5386021.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/12/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 751,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/12/majimoji-rurumo-5386023.jpg",
+        "imageAlt" : "Majimoji Rurumo 12 - Page 35"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/13",
+    "chapterTitle" : "Majimoji Rurumo 13",
+    "chapterDescription" : "",
+    "chapterDate" : "07/13/2015",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 801,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799563.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799565.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 567,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799567.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799569.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799571.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799573.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799575.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799577.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799579.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799581.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799583.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799585.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799587.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799589.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799591.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799593.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799595.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799597.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799599.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799601.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799603.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799605.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799607.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799609.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799611.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799613.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799615.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/13/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/13/majimoji-rurumo-5799617.jpg",
+        "imageAlt" : "Majimoji Rurumo 13 - Page 28"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/14",
+    "chapterTitle" : "Majimoji Rurumo 14",
+    "chapterDescription" : "",
+    "chapterDate" : "07/17/2015",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807539.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807541.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807543.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807545.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 567,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807547.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807549.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807551.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807553.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807555.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807557.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807559.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807561.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807563.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807565.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807567.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807569.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807571.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/14/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/14/majimoji-rurumo-5807573.jpg",
+        "imageAlt" : "Majimoji Rurumo 14 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/15",
+    "chapterTitle" : "Majimoji Rurumo 15",
+    "chapterDescription" : "",
+    "chapterDate" : "08/15/2015",
+    "pageCount" : 29,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 801,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950735.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950741.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950747.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950753.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950759.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950765.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950771.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950777.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950783.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950789.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950795.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950801.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950807.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950813.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950819.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950825.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950831.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950837.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950843.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950849.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950855.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950861.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950867.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950873.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950879.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950885.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950891.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950897.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/15/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/15/majimoji-rurumo-5950903.jpg",
+        "imageAlt" : "Majimoji Rurumo 15 - Page 29"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/16",
+    "chapterTitle" : "Majimoji Rurumo 16",
+    "chapterDescription" : "",
+    "chapterDate" : "10/08/2015",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 801,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283867.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283873.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 567,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283879.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283885.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283891.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283897.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283903.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283909.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283915.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283921.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283927.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283933.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283939.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283945.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283951.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283957.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283963.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 565,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283969.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283975.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283981.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283987.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283993.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6283999.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6284005.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6284011.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6284017.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6284023.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6284029.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6284035.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6284041.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6284047.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6284053.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6284059.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6284065.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/16/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/16/majimoji-rurumo-6284071.jpg",
+        "imageAlt" : "Majimoji Rurumo 16 - Page 35"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/majimoji-rurumo/17",
+    "chapterTitle" : "Majimoji Rurumo 17",
+    "chapterDescription" : "",
+    "chapterDate" : "12/24/2015",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719281.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719287.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719293.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719299.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719305.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719311.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719317.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719323.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719329.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719335.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719341.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719347.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719353.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719359.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719365.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719371.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719377.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719383.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719389.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719395.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719401.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719407.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719413.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719419.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719425.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719431.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 565,
+        "imageUrl" : "http://i7.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719437.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719443.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719449.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719455.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719461.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719467.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719473.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719479.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/majimoji-rurumo/17/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 680,
+        "imageUrl" : "http://i10.mangareader.net/majimoji-rurumo/17/majimoji-rurumo-6719485.jpg",
+        "imageAlt" : "Majimoji Rurumo 17 - Page 35"
+      } ]
+    } ]
+  } ]
+}

@@ -1,0 +1,2464 @@
+{
+  "mangaTitle" : "Hanasaku Iroha",
+  "mangaUrl" : "http://www.mangareader.net/hanasaku-iroha",
+  "mangaThumbUrl" : "http://s5.mangareader.net/cover/hanasaku-iroha/hanasaku-iroha-r0.jpg",
+  "mangaChaptersInfo" : "6 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Comedy, Drama, Romance, Shounen, Slice of Life",
+  "chapterCount" : 6,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/hanasaku-iroha/1",
+    "chapterTitle" : "Hanasaku Iroha 1",
+    "chapterDescription" : "",
+    "chapterDate" : "05/23/2011",
+    "pageCount" : 46,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 339,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304807.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304809.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1124,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304811.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304813.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304815.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304817.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304819.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304821.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304823.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304825.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304827.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304829.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304831.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304833.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304835.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304837.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304839.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304841.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304843.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304845.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304847.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304849.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304851.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304853.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304855.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304857.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304859.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304861.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304863.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304865.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 577,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304867.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304869.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304871.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304873.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304875.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304877.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304879.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304881.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304883.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304885.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304887.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304889.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304891.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304893.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304895.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 539,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/1/hanasaku-iroha-2304897.jpg",
+        "imageAlt" : "Hanasaku Iroha 1 - Page 46"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/hanasaku-iroha/2",
+    "chapterTitle" : "Hanasaku Iroha 2",
+    "chapterDescription" : "",
+    "chapterDate" : "05/23/2011",
+    "pageCount" : 57,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304899.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304901.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304903.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304905.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304907.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304909.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304911.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304913.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304915.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304917.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304919.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304921.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304923.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304925.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304927.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304929.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304931.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304933.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304935.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304937.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304939.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304941.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304943.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304945.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304947.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304949.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304951.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304953.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304955.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304957.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304959.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304961.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304963.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 577,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304965.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304967.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304969.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304971.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304973.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304975.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304977.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304979.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304981.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304983.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304985.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304987.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304989.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304991.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304993.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 577,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304995.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304997.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2304999.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2305001.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2305003.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2305005.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2305007.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2305009.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/2/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 539,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/2/hanasaku-iroha-2305011.jpg",
+        "imageAlt" : "Hanasaku Iroha 2 - Page 57"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/hanasaku-iroha/3",
+    "chapterTitle" : "Hanasaku Iroha 3",
+    "chapterDescription" : "",
+    "chapterDate" : "06/02/2011",
+    "pageCount" : 36,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379377.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379379.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379381.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379383.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379385.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379387.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379389.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379391.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379393.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379395.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379397.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379399.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379401.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379403.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379405.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379407.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379409.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379411.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379413.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379415.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379417.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379419.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379421.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379423.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379425.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379427.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379429.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379431.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379433.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379435.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379437.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379439.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379441.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379443.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379445.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/3/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 539,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/3/hanasaku-iroha-2379447.jpg",
+        "imageAlt" : "Hanasaku Iroha 3 - Page 36"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/hanasaku-iroha/4",
+    "chapterTitle" : "Hanasaku Iroha 4",
+    "chapterDescription" : "",
+    "chapterDate" : "06/19/2011",
+    "pageCount" : 56,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424665.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424667.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424669.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424671.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424673.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424675.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424677.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424679.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424681.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424683.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424685.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424687.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424689.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424691.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424693.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424695.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424697.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424699.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424701.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424703.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424705.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424707.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424709.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424711.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424713.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424715.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424717.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424719.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424721.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424723.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424725.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424727.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424729.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424731.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424733.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 580,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424735.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424737.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424739.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424741.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424743.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424745.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424747.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424749.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424751.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424753.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424755.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424757.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424759.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424761.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424763.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424765.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424767.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 565,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424769.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424771.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424773.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/4/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 539,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/4/hanasaku-iroha-2424775.jpg",
+        "imageAlt" : "Hanasaku Iroha 4 - Page 56"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/hanasaku-iroha/5",
+    "chapterTitle" : "Hanasaku Iroha 5",
+    "chapterDescription" : "",
+    "chapterDate" : "11/30/2011",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 557,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844267.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 543,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844269.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844271.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 550,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844273.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844275.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844277.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844279.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844281.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844283.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844285.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844287.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844289.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844291.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844293.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844295.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844297.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844299.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844301.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844303.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844305.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844307.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844309.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844311.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844313.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844315.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844317.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 582,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844319.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844321.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844323.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844325.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844327.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844329.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 539,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/5/hanasaku-iroha-2844331.jpg",
+        "imageAlt" : "Hanasaku Iroha 5 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/hanasaku-iroha/6",
+    "chapterTitle" : "Hanasaku Iroha 6",
+    "chapterDescription" : "",
+    "chapterDate" : "08/03/2012",
+    "pageCount" : 40,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497673.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497675.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497677.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497679.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497681.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497683.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497685.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497687.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497689.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497691.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i3.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497693.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497695.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497697.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497699.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497701.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497703.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497705.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497707.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i1.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497709.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497711.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497713.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i5.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497715.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i9.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497717.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497719.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497721.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497723.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497725.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497727.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497729.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497731.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i2.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497733.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497735.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i10.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497737.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497739.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497741.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497743.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497745.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i6.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497747.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497749.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/hanasaku-iroha/6/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 539,
+        "imageUrl" : "http://i8.mangareader.net/hanasaku-iroha/6/hanasaku-iroha-3497751.jpg",
+        "imageAlt" : "Hanasaku Iroha 6 - Page 40"
+      } ]
+    } ]
+  } ]
+}

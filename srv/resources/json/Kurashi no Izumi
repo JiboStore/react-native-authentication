@@ -1,0 +1,938 @@
+{
+  "mangaTitle" : "Kurashi no Izumi",
+  "mangaUrl" : "http://www.mangareader.net/kurashi-no-izumi",
+  "mangaThumbUrl" : "http://s1.mangareader.net/cover/kurashi-no-izumi/kurashi-no-izumi-r0.jpg",
+  "mangaChaptersInfo" : "4 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Romance, Seinen, Slice of Life",
+  "chapterCount" : 4,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/kurashi-no-izumi/1",
+    "chapterTitle" : "Kurashi no Izumi 1",
+    "chapterDescription" : "",
+    "chapterDate" : "09/04/2013",
+    "pageCount" : 22,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1067,
+        "imageUrl" : "http://i2.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431915.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i8.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431917.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i4.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431919.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i1.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431921.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431923.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i3.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431925.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i1.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431927.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431929.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i3.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431931.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431933.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i7.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431935.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431937.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431939.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431941.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i7.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431943.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i1.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431945.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431947.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431949.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431951.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i3.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431953.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431955.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1024,
+        "imageUrl" : "http://i5.mangareader.net/kurashi-no-izumi/1/kurashi-no-izumi-4431957.jpg",
+        "imageAlt" : "Kurashi no Izumi 1 - Page 22"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kurashi-no-izumi/2",
+    "chapterTitle" : "Kurashi no Izumi 2",
+    "chapterDescription" : "",
+    "chapterDate" : "09/04/2013",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 936,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431959.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1024,
+        "imageUrl" : "http://i6.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431961.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i8.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431963.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i8.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431965.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i10.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431967.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i10.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431969.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431971.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i4.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431973.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i2.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431975.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i4.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431977.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i4.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431979.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i10.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431981.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i2.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431983.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i6.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431985.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i4.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431987.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i8.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431989.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i4.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431991.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i2.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431993.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431995.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i2.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431997.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i8.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4431999.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i8.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4432001.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i8.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4432003.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i6.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4432005.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i8.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4432007.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i2.mangareader.net/kurashi-no-izumi/2/kurashi-no-izumi-4432009.jpg",
+        "imageAlt" : "Kurashi no Izumi 2 - Page 26"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kurashi-no-izumi/3",
+    "chapterTitle" : "Kurashi no Izumi 3",
+    "chapterDescription" : "",
+    "chapterDate" : "09/04/2013",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 936,
+        "imageUrl" : "http://i2.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432011.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1024,
+        "imageUrl" : "http://i8.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432013.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i6.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432015.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432017.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i6.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432019.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432021.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i1.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432023.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i7.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432025.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432027.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432029.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i5.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432031.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i5.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432033.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432035.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i5.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432037.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432039.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432041.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i5.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432043.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432045.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432047.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i1.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432049.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i5.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432051.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i3.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432053.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i7.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432055.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i3.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432057.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432059.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i4.mangareader.net/kurashi-no-izumi/3/kurashi-no-izumi-4432061.jpg",
+        "imageAlt" : "Kurashi no Izumi 3 - Page 26"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kurashi-no-izumi/4",
+    "chapterTitle" : "Kurashi no Izumi 4",
+    "chapterDescription" : "",
+    "chapterDate" : "09/22/2013",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 936,
+        "imageUrl" : "http://i5.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469357.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1024,
+        "imageUrl" : "http://i3.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469359.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i6.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469361.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i2.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469363.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469365.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469367.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469369.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i2.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469371.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i4.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469373.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i2.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469375.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i4.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469377.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i4.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469379.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i8.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469381.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i8.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469383.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i4.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469385.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i8.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469387.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469389.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469391.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i8.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469393.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i2.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469395.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469397.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i4.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469399.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i3.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469401.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i7.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469403.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i7.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469405.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kurashi-no-izumi/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/kurashi-no-izumi/4/kurashi-no-izumi-4469407.jpg",
+        "imageAlt" : "Kurashi no Izumi 4 - Page 26"
+      } ]
+    } ]
+  } ]
+}

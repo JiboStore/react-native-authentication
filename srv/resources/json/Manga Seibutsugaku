@@ -1,0 +1,105 @@
+{
+  "mangaTitle" : "Manga Seibutsugaku",
+  "mangaUrl" : "http://www.mangareader.net/manga-seibutsugaku",
+  "mangaThumbUrl" : "http://s2.mangareader.net/cover/manga-seibutsugaku/manga-seibutsugaku-r0.jpg",
+  "mangaChaptersInfo" : "2 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Adventure, Comedy, School Life, Sci-Fi, Slice of Life",
+  "chapterCount" : 2,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/manga-seibutsugaku/1",
+    "chapterTitle" : "Manga Seibutsugaku 1",
+    "chapterDescription" : "",
+    "chapterDate" : "09/01/2011",
+    "pageCount" : 5,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/manga-seibutsugaku/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i6.mangareader.net/manga-seibutsugaku/1/manga-seibutsugaku-2604207.jpg",
+        "imageAlt" : "Manga Seibutsugaku 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/manga-seibutsugaku/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i8.mangareader.net/manga-seibutsugaku/1/manga-seibutsugaku-2604209.jpg",
+        "imageAlt" : "Manga Seibutsugaku 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/manga-seibutsugaku/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i2.mangareader.net/manga-seibutsugaku/1/manga-seibutsugaku-2604211.jpg",
+        "imageAlt" : "Manga Seibutsugaku 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/manga-seibutsugaku/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i2.mangareader.net/manga-seibutsugaku/1/manga-seibutsugaku-2604213.jpg",
+        "imageAlt" : "Manga Seibutsugaku 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/manga-seibutsugaku/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i6.mangareader.net/manga-seibutsugaku/1/manga-seibutsugaku-2604215.jpg",
+        "imageAlt" : "Manga Seibutsugaku 1 - Page 5"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/manga-seibutsugaku/2",
+    "chapterTitle" : "Manga Seibutsugaku 2",
+    "chapterDescription" : "",
+    "chapterDate" : "09/24/2011",
+    "pageCount" : 4,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/manga-seibutsugaku/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i10.mangareader.net/manga-seibutsugaku/2/manga-seibutsugaku-2666543.jpg",
+        "imageAlt" : "Manga Seibutsugaku 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/manga-seibutsugaku/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i4.mangareader.net/manga-seibutsugaku/2/manga-seibutsugaku-2666545.jpg",
+        "imageAlt" : "Manga Seibutsugaku 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/manga-seibutsugaku/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i4.mangareader.net/manga-seibutsugaku/2/manga-seibutsugaku-2666547.jpg",
+        "imageAlt" : "Manga Seibutsugaku 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/manga-seibutsugaku/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i10.mangareader.net/manga-seibutsugaku/2/manga-seibutsugaku-2666549.jpg",
+        "imageAlt" : "Manga Seibutsugaku 2 - Page 4"
+      } ]
+    } ]
+  } ]
+}

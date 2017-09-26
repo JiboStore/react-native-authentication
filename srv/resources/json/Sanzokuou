@@ -1,0 +1,4251 @@
+{
+  "mangaTitle" : "Sanzokuou",
+  "mangaUrl" : "http://www.mangareader.net/sanzokuou",
+  "mangaThumbUrl" : "http://s3.mangareader.net/cover/sanzokuou/sanzokuou-r0.jpg",
+  "mangaChaptersInfo" : "8 Chapters Published. (Completed)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Action, Comedy, Historical, Shounen",
+  "chapterCount" : 8,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/sanzokuou/1",
+    "chapterTitle" : "Sanzokuou 1",
+    "chapterDescription" : "",
+    "chapterDate" : "05/15/2012",
+    "pageCount" : 74,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/1/sanzokuou-3292835.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/1/sanzokuou-3292837.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/1/sanzokuou-3292839.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/1/sanzokuou-3292841.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/1/sanzokuou-3292843.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/1/sanzokuou-3292845.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/1/sanzokuou-3292847.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/1/sanzokuou-3292849.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/1/sanzokuou-3292851.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/1/sanzokuou-3292853.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/1/sanzokuou-3292855.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/1/sanzokuou-3292857.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/1/sanzokuou-3292859.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/1/sanzokuou-3292861.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/1/sanzokuou-3292863.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/1/sanzokuou-3292865.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/1/sanzokuou-3292867.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/1/sanzokuou-3292869.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/1/sanzokuou-3292871.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/1/sanzokuou-3292873.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/1/sanzokuou-3292875.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/1/sanzokuou-3292877.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/1/sanzokuou-3292879.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/1/sanzokuou-3292881.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/1/sanzokuou-3292883.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/1/sanzokuou-3292885.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/1/sanzokuou-3292887.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/1/sanzokuou-3292889.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/1/sanzokuou-3292891.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/1/sanzokuou-3292893.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/1/sanzokuou-3292895.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/1/sanzokuou-3292897.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/1/sanzokuou-3292899.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/1/sanzokuou-3292901.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/1/sanzokuou-3292903.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/1/sanzokuou-3292905.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/1/sanzokuou-3292907.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/1/sanzokuou-3292909.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/1/sanzokuou-3292911.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/1/sanzokuou-3292913.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/1/sanzokuou-3292915.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/1/sanzokuou-3292917.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/1/sanzokuou-3292919.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/1/sanzokuou-3292921.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/1/sanzokuou-3292923.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/1/sanzokuou-3292925.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/1/sanzokuou-3292927.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/1/sanzokuou-3292929.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/1/sanzokuou-3292931.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/1/sanzokuou-3292933.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/1/sanzokuou-3292935.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/1/sanzokuou-3292937.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/1/sanzokuou-3292939.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/1/sanzokuou-3292941.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/1/sanzokuou-3292943.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/1/sanzokuou-3292945.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/1/sanzokuou-3292947.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/1/sanzokuou-3292949.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/1/sanzokuou-3292951.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/1/sanzokuou-3292953.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/1/sanzokuou-3292955.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/1/sanzokuou-3292957.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 62"
+      } ]
+    }, {
+      "pageNumber" : 63,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/63",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/1/sanzokuou-3292959.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 63"
+      } ]
+    }, {
+      "pageNumber" : 64,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/64",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/1/sanzokuou-3292961.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 64"
+      } ]
+    }, {
+      "pageNumber" : 65,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/65",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/1/sanzokuou-3292963.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 65"
+      } ]
+    }, {
+      "pageNumber" : 66,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/66",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/1/sanzokuou-3292965.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 66"
+      } ]
+    }, {
+      "pageNumber" : 67,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/67",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/1/sanzokuou-3292967.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 67"
+      } ]
+    }, {
+      "pageNumber" : 68,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/68",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/1/sanzokuou-3292969.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 68"
+      } ]
+    }, {
+      "pageNumber" : 69,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/69",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/1/sanzokuou-3292971.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 69"
+      } ]
+    }, {
+      "pageNumber" : 70,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/70",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/1/sanzokuou-3292973.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 70"
+      } ]
+    }, {
+      "pageNumber" : 71,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/71",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/1/sanzokuou-3292975.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 71"
+      } ]
+    }, {
+      "pageNumber" : 72,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/72",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/1/sanzokuou-3292977.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 72"
+      } ]
+    }, {
+      "pageNumber" : 73,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/73",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 718,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/1/sanzokuou-3292979.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 73"
+      } ]
+    }, {
+      "pageNumber" : 74,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/1/74",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1093,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/1/sanzokuou-3292981.jpg",
+        "imageAlt" : "Sanzokuou 1 - Page 74"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/sanzokuou/2",
+    "chapterTitle" : "Sanzokuou 2",
+    "chapterDescription" : "",
+    "chapterDate" : "05/15/2012",
+    "pageCount" : 62,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/2/sanzokuou-3292983.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/2/sanzokuou-3292985.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/2/sanzokuou-3292987.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/2/sanzokuou-3292989.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/2/sanzokuou-3292991.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/2/sanzokuou-3292993.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/2/sanzokuou-3292995.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/2/sanzokuou-3292997.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/2/sanzokuou-3292999.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/2/sanzokuou-3293001.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/2/sanzokuou-3293003.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/2/sanzokuou-3293005.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/2/sanzokuou-3293007.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/2/sanzokuou-3293009.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/2/sanzokuou-3293011.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/2/sanzokuou-3293013.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/2/sanzokuou-3293015.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/2/sanzokuou-3293017.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/2/sanzokuou-3293019.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/2/sanzokuou-3293021.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/2/sanzokuou-3293023.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/2/sanzokuou-3293025.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/2/sanzokuou-3293027.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/2/sanzokuou-3293029.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/2/sanzokuou-3293031.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/2/sanzokuou-3293033.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/2/sanzokuou-3293035.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/2/sanzokuou-3293037.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/2/sanzokuou-3293039.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/2/sanzokuou-3293041.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/2/sanzokuou-3293043.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/2/sanzokuou-3293045.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/2/sanzokuou-3293047.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/2/sanzokuou-3293049.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/2/sanzokuou-3293051.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/2/sanzokuou-3293053.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/2/sanzokuou-3293055.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/2/sanzokuou-3293057.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/2/sanzokuou-3293059.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/2/sanzokuou-3293061.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/2/sanzokuou-3293063.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/2/sanzokuou-3293065.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/2/sanzokuou-3293067.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/2/sanzokuou-3293069.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/2/sanzokuou-3293071.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/2/sanzokuou-3293073.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/2/sanzokuou-3293075.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/2/sanzokuou-3293077.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/2/sanzokuou-3293079.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/2/sanzokuou-3293081.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/2/sanzokuou-3293083.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/2/sanzokuou-3293085.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/2/sanzokuou-3293087.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/2/sanzokuou-3293089.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/2/sanzokuou-3293091.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/2/sanzokuou-3293093.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/2/sanzokuou-3293095.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/2/sanzokuou-3293097.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1228,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/2/sanzokuou-3293099.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 603,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/2/sanzokuou-3293101.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 718,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/2/sanzokuou-3293103.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/2/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1093,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/2/sanzokuou-3293105.jpg",
+        "imageAlt" : "Sanzokuou 2 - Page 62"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/sanzokuou/3",
+    "chapterTitle" : "Sanzokuou 3",
+    "chapterDescription" : "",
+    "chapterDate" : "05/27/2012",
+    "pageCount" : 62,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 724,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/3/sanzokuou-3332219.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1000,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/3/sanzokuou-3332221.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/3/sanzokuou-3332223.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/3/sanzokuou-3332225.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/3/sanzokuou-3332227.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1221,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/3/sanzokuou-3332229.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/3/sanzokuou-3332231.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/3/sanzokuou-3332233.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/3/sanzokuou-3332235.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/3/sanzokuou-3332237.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/3/sanzokuou-3332239.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/3/sanzokuou-3332241.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/3/sanzokuou-3332243.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/3/sanzokuou-3332245.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/3/sanzokuou-3332247.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/3/sanzokuou-3332249.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/3/sanzokuou-3332251.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/3/sanzokuou-3332253.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/3/sanzokuou-3332255.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/3/sanzokuou-3332257.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/3/sanzokuou-3332259.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/3/sanzokuou-3332261.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/3/sanzokuou-3332263.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/3/sanzokuou-3332265.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/3/sanzokuou-3332267.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/3/sanzokuou-3332269.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/3/sanzokuou-3332271.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/3/sanzokuou-3332273.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/3/sanzokuou-3332275.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/3/sanzokuou-3332277.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/3/sanzokuou-3332279.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/3/sanzokuou-3332281.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/3/sanzokuou-3332283.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/3/sanzokuou-3332285.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/3/sanzokuou-3332287.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/3/sanzokuou-3332289.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/3/sanzokuou-3332291.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/3/sanzokuou-3332293.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/3/sanzokuou-3332295.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/3/sanzokuou-3332297.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/3/sanzokuou-3332299.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/3/sanzokuou-3332301.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/3/sanzokuou-3332303.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/3/sanzokuou-3332305.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/3/sanzokuou-3332307.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/3/sanzokuou-3332309.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/3/sanzokuou-3332311.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/3/sanzokuou-3332313.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/3/sanzokuou-3332315.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/3/sanzokuou-3332317.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/3/sanzokuou-3332319.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/3/sanzokuou-3332321.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/3/sanzokuou-3332323.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/3/sanzokuou-3332325.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/3/sanzokuou-3332327.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/3/sanzokuou-3332329.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/3/sanzokuou-3332331.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/3/sanzokuou-3332333.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/3/sanzokuou-3332335.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/3/sanzokuou-3332337.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/3/sanzokuou-3332339.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/3/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 718,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/3/sanzokuou-3332341.jpg",
+        "imageAlt" : "Sanzokuou 3 - Page 62"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/sanzokuou/4",
+    "chapterTitle" : "Sanzokuou 4",
+    "chapterDescription" : "",
+    "chapterDate" : "06/14/2012",
+    "pageCount" : 56,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1062,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/4/sanzokuou-3373849.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 367,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/4/sanzokuou-3373851.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/4/sanzokuou-3373853.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/4/sanzokuou-3373855.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/4/sanzokuou-3373857.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/4/sanzokuou-3373859.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/4/sanzokuou-3373861.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/4/sanzokuou-3373863.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/4/sanzokuou-3373865.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/4/sanzokuou-3373867.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/4/sanzokuou-3373869.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/4/sanzokuou-3373871.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/4/sanzokuou-3373873.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/4/sanzokuou-3373875.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/4/sanzokuou-3373877.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/4/sanzokuou-3373879.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/4/sanzokuou-3373881.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/4/sanzokuou-3373883.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/4/sanzokuou-3373885.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/4/sanzokuou-3373887.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/4/sanzokuou-3373889.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/4/sanzokuou-3373891.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/4/sanzokuou-3373893.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/4/sanzokuou-3373895.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/4/sanzokuou-3373897.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/4/sanzokuou-3373899.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/4/sanzokuou-3373901.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/4/sanzokuou-3373903.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/4/sanzokuou-3373905.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/4/sanzokuou-3373907.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/4/sanzokuou-3373909.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/4/sanzokuou-3373911.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/4/sanzokuou-3373913.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/4/sanzokuou-3373915.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/4/sanzokuou-3373917.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/4/sanzokuou-3373919.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/4/sanzokuou-3373921.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/4/sanzokuou-3373923.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/4/sanzokuou-3373925.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/4/sanzokuou-3373927.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/4/sanzokuou-3373929.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/4/sanzokuou-3373931.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/4/sanzokuou-3373933.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/4/sanzokuou-3373935.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/4/sanzokuou-3373937.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/4/sanzokuou-3373939.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/4/sanzokuou-3373941.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/4/sanzokuou-3373943.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/4/sanzokuou-3373945.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/4/sanzokuou-3373947.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/4/sanzokuou-3373949.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/4/sanzokuou-3373951.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/4/sanzokuou-3373953.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/4/sanzokuou-3373955.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/4/sanzokuou-3373957.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/4/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/4/sanzokuou-3373959.jpg",
+        "imageAlt" : "Sanzokuou 4 - Page 56"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/sanzokuou/5",
+    "chapterTitle" : "Sanzokuou 5",
+    "chapterDescription" : "",
+    "chapterDate" : "11/28/2013",
+    "pageCount" : 49,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 844,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/5/sanzokuou-4601173.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/5/sanzokuou-4601175.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/5/sanzokuou-4601177.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/5/sanzokuou-4601179.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/5/sanzokuou-4601181.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/5/sanzokuou-4601183.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/5/sanzokuou-4601185.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/5/sanzokuou-4601187.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/5/sanzokuou-4601189.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/5/sanzokuou-4601191.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/5/sanzokuou-4601193.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/5/sanzokuou-4601195.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/5/sanzokuou-4601197.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/5/sanzokuou-4601199.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/5/sanzokuou-4601201.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/5/sanzokuou-4601203.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/5/sanzokuou-4601205.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/5/sanzokuou-4601207.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/5/sanzokuou-4601209.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/5/sanzokuou-4601211.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/5/sanzokuou-4601213.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/5/sanzokuou-4601215.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/5/sanzokuou-4601217.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/5/sanzokuou-4601219.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/5/sanzokuou-4601221.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/5/sanzokuou-4601223.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/5/sanzokuou-4601225.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/5/sanzokuou-4601227.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/5/sanzokuou-4601229.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/5/sanzokuou-4601231.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/5/sanzokuou-4601233.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/5/sanzokuou-4601235.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 598,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/5/sanzokuou-4601237.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/5/sanzokuou-4601239.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/5/sanzokuou-4601241.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/5/sanzokuou-4601243.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/5/sanzokuou-4601245.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/5/sanzokuou-4601247.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/5/sanzokuou-4601249.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/5/sanzokuou-4601251.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/5/sanzokuou-4601253.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/5/sanzokuou-4601255.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/5/sanzokuou-4601257.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/5/sanzokuou-4601259.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/5/sanzokuou-4601261.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/5/sanzokuou-4601263.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/5/sanzokuou-4601265.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/5/sanzokuou-4601267.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/5/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/5/sanzokuou-4601269.jpg",
+        "imageAlt" : "Sanzokuou 5 - Page 49"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/sanzokuou/6",
+    "chapterTitle" : "Sanzokuou 6",
+    "chapterDescription" : "",
+    "chapterDate" : "12/25/2013",
+    "pageCount" : 51,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 844,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/6/sanzokuou-4661775.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/6/sanzokuou-4661779.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/6/sanzokuou-4661783.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/6/sanzokuou-4661787.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/6/sanzokuou-4661791.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/6/sanzokuou-4661795.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/6/sanzokuou-4661797.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/6/sanzokuou-4661799.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/6/sanzokuou-4661801.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/6/sanzokuou-4661803.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 607,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/6/sanzokuou-4661805.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/6/sanzokuou-4661807.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/6/sanzokuou-4661809.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/6/sanzokuou-4661811.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/6/sanzokuou-4661813.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/6/sanzokuou-4661815.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/6/sanzokuou-4661817.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/6/sanzokuou-4661819.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/6/sanzokuou-4661821.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/6/sanzokuou-4661823.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/6/sanzokuou-4661825.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/6/sanzokuou-4661827.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/6/sanzokuou-4661829.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/6/sanzokuou-4661831.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/6/sanzokuou-4661833.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/6/sanzokuou-4661835.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/6/sanzokuou-4661837.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/6/sanzokuou-4661839.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/6/sanzokuou-4661841.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/6/sanzokuou-4661843.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/6/sanzokuou-4661845.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/6/sanzokuou-4661847.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/6/sanzokuou-4661849.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/6/sanzokuou-4661851.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/6/sanzokuou-4661853.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/6/sanzokuou-4661855.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/6/sanzokuou-4661857.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/6/sanzokuou-4661859.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/6/sanzokuou-4661861.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/6/sanzokuou-4661863.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/6/sanzokuou-4661865.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/6/sanzokuou-4661867.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/6/sanzokuou-4661869.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/6/sanzokuou-4661871.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/6/sanzokuou-4661873.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/6/sanzokuou-4661875.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/6/sanzokuou-4661877.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/6/sanzokuou-4661879.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/6/sanzokuou-4661881.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/6/sanzokuou-4661883.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/6/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 855,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/6/sanzokuou-4661885.jpg",
+        "imageAlt" : "Sanzokuou 6 - Page 51"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/sanzokuou/7",
+    "chapterTitle" : "Sanzokuou 7",
+    "chapterDescription" : "",
+    "chapterDate" : "03/08/2014",
+    "pageCount" : 54,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/7/sanzokuou-4831469.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/7/sanzokuou-4831471.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/7/sanzokuou-4831473.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/7/sanzokuou-4831475.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/7/sanzokuou-4831477.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/7/sanzokuou-4831479.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/7/sanzokuou-4831481.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/7/sanzokuou-4831483.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/7/sanzokuou-4831485.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/7/sanzokuou-4831487.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/7/sanzokuou-4831489.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/7/sanzokuou-4831491.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/7/sanzokuou-4831493.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/7/sanzokuou-4831495.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/7/sanzokuou-4831497.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/7/sanzokuou-4831499.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/7/sanzokuou-4831501.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/7/sanzokuou-4831503.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/7/sanzokuou-4831505.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/7/sanzokuou-4831507.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/7/sanzokuou-4831509.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/7/sanzokuou-4831511.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/7/sanzokuou-4831513.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/7/sanzokuou-4831515.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/7/sanzokuou-4831517.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/7/sanzokuou-4831519.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/7/sanzokuou-4831521.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/7/sanzokuou-4831523.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/7/sanzokuou-4831525.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/7/sanzokuou-4831527.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/7/sanzokuou-4831529.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/7/sanzokuou-4831531.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/7/sanzokuou-4831533.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/7/sanzokuou-4831535.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/7/sanzokuou-4831537.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/7/sanzokuou-4831539.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/7/sanzokuou-4831541.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/7/sanzokuou-4831543.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/7/sanzokuou-4831545.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/7/sanzokuou-4831547.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/7/sanzokuou-4831549.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/7/sanzokuou-4831551.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/7/sanzokuou-4831553.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/7/sanzokuou-4831555.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/7/sanzokuou-4831557.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/7/sanzokuou-4831559.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/7/sanzokuou-4831561.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/7/sanzokuou-4831563.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/7/sanzokuou-4831565.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/7/sanzokuou-4831567.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/7/sanzokuou-4831569.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/7/sanzokuou-4831571.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/7/sanzokuou-4831573.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/7/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1221,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/7/sanzokuou-4831575.jpg",
+        "imageAlt" : "Sanzokuou 7 - Page 54"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/sanzokuou/8",
+    "chapterTitle" : "Sanzokuou 8",
+    "chapterDescription" : "",
+    "chapterDate" : "09/04/2014",
+    "pageCount" : 57,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 361,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/8/sanzokuou-5174095.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/8/sanzokuou-5174097.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/8/sanzokuou-5174099.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/8/sanzokuou-5174101.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/8/sanzokuou-5174103.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/8/sanzokuou-5174105.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/8/sanzokuou-5174107.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/8/sanzokuou-5174109.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/8/sanzokuou-5174111.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/8/sanzokuou-5174113.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/8/sanzokuou-5174115.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/8/sanzokuou-5174117.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/8/sanzokuou-5174119.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/8/sanzokuou-5174121.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/8/sanzokuou-5174123.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/8/sanzokuou-5174125.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/8/sanzokuou-5174127.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/8/sanzokuou-5174129.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/8/sanzokuou-5174131.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/8/sanzokuou-5174133.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/8/sanzokuou-5174135.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/8/sanzokuou-5174137.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/8/sanzokuou-5174139.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/8/sanzokuou-5174141.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/8/sanzokuou-5174143.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/8/sanzokuou-5174145.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/8/sanzokuou-5174147.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i8.mangareader.net/sanzokuou/8/sanzokuou-5174149.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i4.mangareader.net/sanzokuou/8/sanzokuou-5174151.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/8/sanzokuou-5174153.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i6.mangareader.net/sanzokuou/8/sanzokuou-5174155.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i10.mangareader.net/sanzokuou/8/sanzokuou-5174157.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/sanzokuou/8/sanzokuou-5174159.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/8/sanzokuou-5174161.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/8/sanzokuou-5174163.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/8/sanzokuou-5174165.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/8/sanzokuou-5174167.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/8/sanzokuou-5174169.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/8/sanzokuou-5174171.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/8/sanzokuou-5174173.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/8/sanzokuou-5174175.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/8/sanzokuou-5174177.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/8/sanzokuou-5174179.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/8/sanzokuou-5174181.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/sanzokuou/8/sanzokuou-5174183.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/8/sanzokuou-5174185.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/8/sanzokuou-5174187.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/8/sanzokuou-5174189.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/8/sanzokuou-5174191.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/8/sanzokuou-5174193.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/8/sanzokuou-5174195.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/8/sanzokuou-5174197.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/sanzokuou/8/sanzokuou-5174199.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/8/sanzokuou-5174201.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/sanzokuou/8/sanzokuou-5174203.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/sanzokuou/8/sanzokuou-5174205.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/sanzokuou/8/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/sanzokuou/8/sanzokuou-5174207.jpg",
+        "imageAlt" : "Sanzokuou 8 - Page 57"
+      } ]
+    } ]
+  } ]
+}

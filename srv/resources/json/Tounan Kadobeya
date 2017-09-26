@@ -1,0 +1,476 @@
+{
+  "mangaTitle" : "Tounan Kadobeya",
+  "mangaUrl" : "http://www.mangareader.net/tounan-kadobeya",
+  "mangaThumbUrl" : "http://s4.mangareader.net/cover/tounan-kadobeya/tounan-kadobeya-r0.jpg",
+  "mangaChaptersInfo" : "1 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Drama, Josei, Romance",
+  "chapterCount" : 1,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/tounan-kadobeya/1",
+    "chapterTitle" : "Tounan Kadobeya 1",
+    "chapterDescription" : "",
+    "chapterDate" : "04/18/2014",
+    "pageCount" : 51,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i1.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912349.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i3.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912351.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912353.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912355.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912357.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i1.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912359.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i8.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912361.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912363.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i2.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912365.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i2.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912367.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i8.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912369.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912371.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i10.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912373.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912375.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i2.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912377.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i2.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912379.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912381.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i6.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912383.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i8.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912385.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i6.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912387.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i4.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912389.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i2.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912391.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i10.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912393.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912395.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912397.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912399.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912401.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912403.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912405.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912407.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912409.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912411.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912413.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912415.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912417.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912419.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912421.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912423.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i2.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912425.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912427.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i8.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912429.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i4.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912431.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912433.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912435.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912437.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i6.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912439.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912441.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912443.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912445.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912447.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/tounan-kadobeya/1/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i8.mangareader.net/tounan-kadobeya/1/tounan-kadobeya-4912449.jpg",
+        "imageAlt" : "Tounan Kadobeya 1 - Page 51"
+      } ]
+    } ]
+  } ]
+}

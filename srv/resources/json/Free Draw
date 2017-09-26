@@ -1,0 +1,1816 @@
+{
+  "mangaTitle" : "Free Draw",
+  "mangaUrl" : "http://www.mangareader.net/free-draw",
+  "mangaThumbUrl" : "http://s2.mangareader.net/cover/free-draw/free-draw-r0.jpg",
+  "mangaChaptersInfo" : "6 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manhwa (Read Left to Right)",
+  "mangaGenre" : "Comedy, Drama, School Life, Shounen",
+  "chapterCount" : 6,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/free-draw/1",
+    "chapterTitle" : "Free Draw 1",
+    "chapterDescription" : "",
+    "chapterDate" : "05/06/2014",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 760,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/1/free-draw-4944035.jpg",
+        "imageAlt" : "Free Draw 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1548,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/1/free-draw-4944037.jpg",
+        "imageAlt" : "Free Draw 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/1/free-draw-4944039.jpg",
+        "imageAlt" : "Free Draw 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/1/free-draw-4944041.jpg",
+        "imageAlt" : "Free Draw 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1623,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/1/free-draw-4944043.jpg",
+        "imageAlt" : "Free Draw 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1312,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/1/free-draw-4944045.jpg",
+        "imageAlt" : "Free Draw 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1351,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/1/free-draw-4944047.jpg",
+        "imageAlt" : "Free Draw 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1533,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/1/free-draw-4944049.jpg",
+        "imageAlt" : "Free Draw 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i10.mangareader.net/free-draw/1/free-draw-4944051.jpg",
+        "imageAlt" : "Free Draw 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1339,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/1/free-draw-4944053.jpg",
+        "imageAlt" : "Free Draw 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1346,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/1/free-draw-4944055.jpg",
+        "imageAlt" : "Free Draw 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1396,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/1/free-draw-4944057.jpg",
+        "imageAlt" : "Free Draw 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/1/free-draw-4944059.jpg",
+        "imageAlt" : "Free Draw 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1104,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/1/free-draw-4944061.jpg",
+        "imageAlt" : "Free Draw 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1337,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/1/free-draw-4944063.jpg",
+        "imageAlt" : "Free Draw 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1546,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/1/free-draw-4944065.jpg",
+        "imageAlt" : "Free Draw 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/1/free-draw-4944067.jpg",
+        "imageAlt" : "Free Draw 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1626,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/1/free-draw-4944069.jpg",
+        "imageAlt" : "Free Draw 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1835,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/1/free-draw-4944071.jpg",
+        "imageAlt" : "Free Draw 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/1/free-draw-4944073.jpg",
+        "imageAlt" : "Free Draw 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1047,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/1/free-draw-4944075.jpg",
+        "imageAlt" : "Free Draw 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1665,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/1/free-draw-4944077.jpg",
+        "imageAlt" : "Free Draw 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1745,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/1/free-draw-4944079.jpg",
+        "imageAlt" : "Free Draw 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2117,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/1/free-draw-4944081.jpg",
+        "imageAlt" : "Free Draw 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1950,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/1/free-draw-4944083.jpg",
+        "imageAlt" : "Free Draw 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2346,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/1/free-draw-4944085.jpg",
+        "imageAlt" : "Free Draw 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/1/free-draw-4944087.jpg",
+        "imageAlt" : "Free Draw 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1915,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/1/free-draw-4944089.jpg",
+        "imageAlt" : "Free Draw 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1619,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/1/free-draw-4944091.jpg",
+        "imageAlt" : "Free Draw 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/1/free-draw-4944093.jpg",
+        "imageAlt" : "Free Draw 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/free-draw/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/1/free-draw-4944095.jpg",
+        "imageAlt" : "Free Draw 1 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/free-draw/2",
+    "chapterTitle" : "Free Draw 2",
+    "chapterDescription" : "",
+    "chapterDate" : "05/06/2014",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 760,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/2/free-draw-4944097.jpg",
+        "imageAlt" : "Free Draw 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2165,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/2/free-draw-4944099.jpg",
+        "imageAlt" : "Free Draw 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1387,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/2/free-draw-4944101.jpg",
+        "imageAlt" : "Free Draw 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2109,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/2/free-draw-4944103.jpg",
+        "imageAlt" : "Free Draw 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2640,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/2/free-draw-4944105.jpg",
+        "imageAlt" : "Free Draw 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1048,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/2/free-draw-4944107.jpg",
+        "imageAlt" : "Free Draw 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2253,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/2/free-draw-4944109.jpg",
+        "imageAlt" : "Free Draw 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2311,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/2/free-draw-4944111.jpg",
+        "imageAlt" : "Free Draw 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2139,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/2/free-draw-4944113.jpg",
+        "imageAlt" : "Free Draw 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2289,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/2/free-draw-4944115.jpg",
+        "imageAlt" : "Free Draw 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2143,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/2/free-draw-4944117.jpg",
+        "imageAlt" : "Free Draw 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2642,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/2/free-draw-4944119.jpg",
+        "imageAlt" : "Free Draw 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1716,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/2/free-draw-4944121.jpg",
+        "imageAlt" : "Free Draw 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2137,
+        "imageUrl" : "http://i10.mangareader.net/free-draw/2/free-draw-4944123.jpg",
+        "imageAlt" : "Free Draw 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1368,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/2/free-draw-4944127.jpg",
+        "imageAlt" : "Free Draw 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1952,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/2/free-draw-4944131.jpg",
+        "imageAlt" : "Free Draw 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1599,
+        "imageUrl" : "http://i10.mangareader.net/free-draw/2/free-draw-4944135.jpg",
+        "imageAlt" : "Free Draw 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1850,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/2/free-draw-4944139.jpg",
+        "imageAlt" : "Free Draw 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2240,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/2/free-draw-4944145.jpg",
+        "imageAlt" : "Free Draw 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1734,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/2/free-draw-4944149.jpg",
+        "imageAlt" : "Free Draw 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1786,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/2/free-draw-4944153.jpg",
+        "imageAlt" : "Free Draw 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1943,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/2/free-draw-4944159.jpg",
+        "imageAlt" : "Free Draw 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1823,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/2/free-draw-4944163.jpg",
+        "imageAlt" : "Free Draw 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1050,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/2/free-draw-4944167.jpg",
+        "imageAlt" : "Free Draw 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2243,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/2/free-draw-4944171.jpg",
+        "imageAlt" : "Free Draw 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1726,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/2/free-draw-4944175.jpg",
+        "imageAlt" : "Free Draw 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/free-draw/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1104,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/2/free-draw-4944181.jpg",
+        "imageAlt" : "Free Draw 2 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/free-draw/3",
+    "chapterTitle" : "Free Draw 3",
+    "chapterDescription" : "",
+    "chapterDate" : "05/06/2014",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 760,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/3/free-draw-4944125.jpg",
+        "imageAlt" : "Free Draw 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1092,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/3/free-draw-4944129.jpg",
+        "imageAlt" : "Free Draw 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1692,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/3/free-draw-4944133.jpg",
+        "imageAlt" : "Free Draw 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2240,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/3/free-draw-4944137.jpg",
+        "imageAlt" : "Free Draw 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/3/free-draw-4944141.jpg",
+        "imageAlt" : "Free Draw 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1096,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/3/free-draw-4944143.jpg",
+        "imageAlt" : "Free Draw 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1423,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/3/free-draw-4944147.jpg",
+        "imageAlt" : "Free Draw 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1078,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/3/free-draw-4944151.jpg",
+        "imageAlt" : "Free Draw 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1357,
+        "imageUrl" : "http://i10.mangareader.net/free-draw/3/free-draw-4944155.jpg",
+        "imageAlt" : "Free Draw 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/3/free-draw-4944157.jpg",
+        "imageAlt" : "Free Draw 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/3/free-draw-4944161.jpg",
+        "imageAlt" : "Free Draw 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1617,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/3/free-draw-4944165.jpg",
+        "imageAlt" : "Free Draw 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/3/free-draw-4944169.jpg",
+        "imageAlt" : "Free Draw 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2163,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/3/free-draw-4944173.jpg",
+        "imageAlt" : "Free Draw 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2289,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/3/free-draw-4944177.jpg",
+        "imageAlt" : "Free Draw 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1607,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/3/free-draw-4944179.jpg",
+        "imageAlt" : "Free Draw 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/3/free-draw-4944183.jpg",
+        "imageAlt" : "Free Draw 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1325,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/3/free-draw-4944185.jpg",
+        "imageAlt" : "Free Draw 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1231,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/3/free-draw-4944187.jpg",
+        "imageAlt" : "Free Draw 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2230,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/3/free-draw-4944189.jpg",
+        "imageAlt" : "Free Draw 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1831,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/3/free-draw-4944191.jpg",
+        "imageAlt" : "Free Draw 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/3/free-draw-4944193.jpg",
+        "imageAlt" : "Free Draw 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/3/free-draw-4944195.jpg",
+        "imageAlt" : "Free Draw 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1279,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/3/free-draw-4944197.jpg",
+        "imageAlt" : "Free Draw 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/3/free-draw-4944199.jpg",
+        "imageAlt" : "Free Draw 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1656,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/3/free-draw-4944201.jpg",
+        "imageAlt" : "Free Draw 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1672,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/3/free-draw-4944203.jpg",
+        "imageAlt" : "Free Draw 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/3/free-draw-4944205.jpg",
+        "imageAlt" : "Free Draw 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1683,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/3/free-draw-4944207.jpg",
+        "imageAlt" : "Free Draw 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1217,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/3/free-draw-4944209.jpg",
+        "imageAlt" : "Free Draw 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/free-draw/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1000,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/3/free-draw-4944211.jpg",
+        "imageAlt" : "Free Draw 3 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/free-draw/4",
+    "chapterTitle" : "Free Draw 4",
+    "chapterDescription" : "",
+    "chapterDate" : "11/25/2014",
+    "pageCount" : 29,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 760,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/4/free-draw-5321727.jpg",
+        "imageAlt" : "Free Draw 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1665,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/4/free-draw-5321729.jpg",
+        "imageAlt" : "Free Draw 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1234,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/4/free-draw-5321731.jpg",
+        "imageAlt" : "Free Draw 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1723,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/4/free-draw-5321733.jpg",
+        "imageAlt" : "Free Draw 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2307,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/4/free-draw-5321735.jpg",
+        "imageAlt" : "Free Draw 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1118,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/4/free-draw-5321737.jpg",
+        "imageAlt" : "Free Draw 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1443,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/4/free-draw-5321739.jpg",
+        "imageAlt" : "Free Draw 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1907,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/4/free-draw-5321741.jpg",
+        "imageAlt" : "Free Draw 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2306,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/4/free-draw-5321743.jpg",
+        "imageAlt" : "Free Draw 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2275,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/4/free-draw-5321745.jpg",
+        "imageAlt" : "Free Draw 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/4/free-draw-5321747.jpg",
+        "imageAlt" : "Free Draw 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2313,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/4/free-draw-5321749.jpg",
+        "imageAlt" : "Free Draw 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2311,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/4/free-draw-5321751.jpg",
+        "imageAlt" : "Free Draw 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1861,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/4/free-draw-5321753.jpg",
+        "imageAlt" : "Free Draw 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1281,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/4/free-draw-5321755.jpg",
+        "imageAlt" : "Free Draw 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/4/free-draw-5321757.jpg",
+        "imageAlt" : "Free Draw 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2211,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/4/free-draw-5321759.jpg",
+        "imageAlt" : "Free Draw 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/4/free-draw-5321761.jpg",
+        "imageAlt" : "Free Draw 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/4/free-draw-5321763.jpg",
+        "imageAlt" : "Free Draw 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i10.mangareader.net/free-draw/4/free-draw-5321765.jpg",
+        "imageAlt" : "Free Draw 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2270,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/4/free-draw-5321767.jpg",
+        "imageAlt" : "Free Draw 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1849,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/4/free-draw-5321769.jpg",
+        "imageAlt" : "Free Draw 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/4/free-draw-5321771.jpg",
+        "imageAlt" : "Free Draw 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2233,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/4/free-draw-5321773.jpg",
+        "imageAlt" : "Free Draw 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2180,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/4/free-draw-5321775.jpg",
+        "imageAlt" : "Free Draw 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2293,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/4/free-draw-5321777.jpg",
+        "imageAlt" : "Free Draw 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1723,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/4/free-draw-5321779.jpg",
+        "imageAlt" : "Free Draw 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/4/free-draw-5321781.jpg",
+        "imageAlt" : "Free Draw 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/free-draw/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/4/free-draw-5321783.jpg",
+        "imageAlt" : "Free Draw 4 - Page 29"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/free-draw/5",
+    "chapterTitle" : "Free Draw 5",
+    "chapterDescription" : "",
+    "chapterDate" : "11/25/2014",
+    "pageCount" : 43,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 760,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/5/free-draw-5321785.jpg",
+        "imageAlt" : "Free Draw 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2281,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/5/free-draw-5321787.jpg",
+        "imageAlt" : "Free Draw 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1607,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/5/free-draw-5321789.jpg",
+        "imageAlt" : "Free Draw 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1097,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/5/free-draw-5321791.jpg",
+        "imageAlt" : "Free Draw 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1759,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/5/free-draw-5321793.jpg",
+        "imageAlt" : "Free Draw 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1285,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/5/free-draw-5321795.jpg",
+        "imageAlt" : "Free Draw 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2380,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/5/free-draw-5321797.jpg",
+        "imageAlt" : "Free Draw 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2290,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/5/free-draw-5321799.jpg",
+        "imageAlt" : "Free Draw 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/5/free-draw-5321801.jpg",
+        "imageAlt" : "Free Draw 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2296,
+        "imageUrl" : "http://i10.mangareader.net/free-draw/5/free-draw-5321803.jpg",
+        "imageAlt" : "Free Draw 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2283,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/5/free-draw-5321805.jpg",
+        "imageAlt" : "Free Draw 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/5/free-draw-5321807.jpg",
+        "imageAlt" : "Free Draw 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/5/free-draw-5321809.jpg",
+        "imageAlt" : "Free Draw 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/5/free-draw-5321811.jpg",
+        "imageAlt" : "Free Draw 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1322,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/5/free-draw-5321813.jpg",
+        "imageAlt" : "Free Draw 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2003,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/5/free-draw-5321815.jpg",
+        "imageAlt" : "Free Draw 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2294,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/5/free-draw-5321817.jpg",
+        "imageAlt" : "Free Draw 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1733,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/5/free-draw-5321819.jpg",
+        "imageAlt" : "Free Draw 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/5/free-draw-5321821.jpg",
+        "imageAlt" : "Free Draw 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1636,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/5/free-draw-5321823.jpg",
+        "imageAlt" : "Free Draw 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1424,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/5/free-draw-5321825.jpg",
+        "imageAlt" : "Free Draw 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2288,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/5/free-draw-5321827.jpg",
+        "imageAlt" : "Free Draw 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1623,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/5/free-draw-5321829.jpg",
+        "imageAlt" : "Free Draw 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1096,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/5/free-draw-5321831.jpg",
+        "imageAlt" : "Free Draw 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2194,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/5/free-draw-5321833.jpg",
+        "imageAlt" : "Free Draw 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1958,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/5/free-draw-5321835.jpg",
+        "imageAlt" : "Free Draw 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1409,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/5/free-draw-5321837.jpg",
+        "imageAlt" : "Free Draw 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1312,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/5/free-draw-5321839.jpg",
+        "imageAlt" : "Free Draw 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2268,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/5/free-draw-5321841.jpg",
+        "imageAlt" : "Free Draw 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1318,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/5/free-draw-5321843.jpg",
+        "imageAlt" : "Free Draw 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1437,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/5/free-draw-5321845.jpg",
+        "imageAlt" : "Free Draw 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1760,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/5/free-draw-5321847.jpg",
+        "imageAlt" : "Free Draw 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/5/free-draw-5321849.jpg",
+        "imageAlt" : "Free Draw 5 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2297,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/5/free-draw-5321851.jpg",
+        "imageAlt" : "Free Draw 5 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2319,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/5/free-draw-5321853.jpg",
+        "imageAlt" : "Free Draw 5 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/5/free-draw-5321855.jpg",
+        "imageAlt" : "Free Draw 5 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/5/free-draw-5321857.jpg",
+        "imageAlt" : "Free Draw 5 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1316,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/5/free-draw-5321859.jpg",
+        "imageAlt" : "Free Draw 5 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/5/free-draw-5321861.jpg",
+        "imageAlt" : "Free Draw 5 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/5/free-draw-5321863.jpg",
+        "imageAlt" : "Free Draw 5 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/5/free-draw-5321865.jpg",
+        "imageAlt" : "Free Draw 5 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/5/free-draw-5321867.jpg",
+        "imageAlt" : "Free Draw 5 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/free-draw/5/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/5/free-draw-5321869.jpg",
+        "imageAlt" : "Free Draw 5 - Page 43"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/free-draw/6",
+    "chapterTitle" : "Free Draw 6",
+    "chapterDescription" : "",
+    "chapterDate" : "12/25/2014",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1681,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/6/free-draw-5389821.jpg",
+        "imageAlt" : "Free Draw 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/6/free-draw-5389823.jpg",
+        "imageAlt" : "Free Draw 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2222,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/6/free-draw-5389825.jpg",
+        "imageAlt" : "Free Draw 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2320,
+        "imageUrl" : "http://i10.mangareader.net/free-draw/6/free-draw-5389827.jpg",
+        "imageAlt" : "Free Draw 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2320,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/6/free-draw-5389829.jpg",
+        "imageAlt" : "Free Draw 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/6/free-draw-5389831.jpg",
+        "imageAlt" : "Free Draw 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i10.mangareader.net/free-draw/6/free-draw-5389833.jpg",
+        "imageAlt" : "Free Draw 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2320,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/6/free-draw-5389835.jpg",
+        "imageAlt" : "Free Draw 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2320,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/6/free-draw-5389837.jpg",
+        "imageAlt" : "Free Draw 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1121,
+        "imageUrl" : "http://i10.mangareader.net/free-draw/6/free-draw-5389839.jpg",
+        "imageAlt" : "Free Draw 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1718,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/6/free-draw-5389841.jpg",
+        "imageAlt" : "Free Draw 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2320,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/6/free-draw-5389843.jpg",
+        "imageAlt" : "Free Draw 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1531,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/6/free-draw-5389845.jpg",
+        "imageAlt" : "Free Draw 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1234,
+        "imageUrl" : "http://i8.mangareader.net/free-draw/6/free-draw-5389847.jpg",
+        "imageAlt" : "Free Draw 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/6/free-draw-5389849.jpg",
+        "imageAlt" : "Free Draw 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1643,
+        "imageUrl" : "http://i4.mangareader.net/free-draw/6/free-draw-5389851.jpg",
+        "imageAlt" : "Free Draw 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1100,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/6/free-draw-5389853.jpg",
+        "imageAlt" : "Free Draw 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2243,
+        "imageUrl" : "http://i2.mangareader.net/free-draw/6/free-draw-5389855.jpg",
+        "imageAlt" : "Free Draw 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2206,
+        "imageUrl" : "http://i10.mangareader.net/free-draw/6/free-draw-5389857.jpg",
+        "imageAlt" : "Free Draw 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 938,
+        "imageUrl" : "http://i6.mangareader.net/free-draw/6/free-draw-5389859.jpg",
+        "imageAlt" : "Free Draw 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2296,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/6/free-draw-5389861.jpg",
+        "imageAlt" : "Free Draw 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2320,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/6/free-draw-5389863.jpg",
+        "imageAlt" : "Free Draw 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1770,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/6/free-draw-5389865.jpg",
+        "imageAlt" : "Free Draw 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/6/free-draw-5389867.jpg",
+        "imageAlt" : "Free Draw 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2320,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/6/free-draw-5389869.jpg",
+        "imageAlt" : "Free Draw 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2320,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/6/free-draw-5389871.jpg",
+        "imageAlt" : "Free Draw 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1701,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/6/free-draw-5389873.jpg",
+        "imageAlt" : "Free Draw 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2320,
+        "imageUrl" : "http://i5.mangareader.net/free-draw/6/free-draw-5389875.jpg",
+        "imageAlt" : "Free Draw 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2233,
+        "imageUrl" : "http://i9.mangareader.net/free-draw/6/free-draw-5389877.jpg",
+        "imageAlt" : "Free Draw 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2320,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/6/free-draw-5389879.jpg",
+        "imageAlt" : "Free Draw 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2320,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/6/free-draw-5389881.jpg",
+        "imageAlt" : "Free Draw 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2320,
+        "imageUrl" : "http://i3.mangareader.net/free-draw/6/free-draw-5389883.jpg",
+        "imageAlt" : "Free Draw 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1831,
+        "imageUrl" : "http://i7.mangareader.net/free-draw/6/free-draw-5389885.jpg",
+        "imageAlt" : "Free Draw 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1118,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/6/free-draw-5389887.jpg",
+        "imageAlt" : "Free Draw 6 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/free-draw/6/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 743,
+        "imageUrl" : "http://i1.mangareader.net/free-draw/6/free-draw-5389889.jpg",
+        "imageAlt" : "Free Draw 6 - Page 35"
+      } ]
+    } ]
+  } ]
+}

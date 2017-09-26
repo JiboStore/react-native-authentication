@@ -1,0 +1,2251 @@
+{
+  "mangaTitle" : "Shimanami Tasogare",
+  "mangaUrl" : "http://www.mangareader.net/shimanami-tasogare",
+  "mangaThumbUrl" : "http://s4.mangareader.net/cover/shimanami-tasogare/shimanami-tasogare-r0.jpg",
+  "mangaChaptersInfo" : "9 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Drama, School Life, Seinen",
+  "chapterCount" : 9,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/shimanami-tasogare/1",
+    "chapterTitle" : "Shimanami Tasogare 1",
+    "chapterDescription" : "",
+    "chapterDate" : "10/23/2016",
+    "pageCount" : 36,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443051.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443057.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443063.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443069.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443075.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443081.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443087.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443093.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443099.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443105.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443111.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443117.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443123.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443129.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443135.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443141.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443147.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443153.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443159.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443165.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443171.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443177.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443183.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443189.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443195.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443201.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443207.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443213.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443219.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443225.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443231.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443237.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443243.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443249.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 333,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443255.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 547,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/1/shimanami-tasogare-8443261.jpg",
+        "imageAlt" : "Shimanami Tasogare 1 - Page 36"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/shimanami-tasogare/2",
+    "chapterTitle" : "Shimanami Tasogare 2",
+    "chapterDescription" : "",
+    "chapterDate" : "10/23/2016",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443267.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443273.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443279.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443285.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443291.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443297.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443303.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443309.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443315.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443321.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443327.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443333.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443339.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443345.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443351.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443357.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443363.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443369.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443375.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443381.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443387.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443393.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443399.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443405.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443411.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443417.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443423.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443429.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443435.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443441.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443447.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443453.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/2/shimanami-tasogare-8443459.jpg",
+        "imageAlt" : "Shimanami Tasogare 2 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/shimanami-tasogare/3",
+    "chapterTitle" : "Shimanami Tasogare 3",
+    "chapterDescription" : "",
+    "chapterDate" : "10/23/2016",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443465.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443471.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443477.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443483.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443489.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443495.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443501.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443507.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443513.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443519.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443525.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443531.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443537.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443543.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443549.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443555.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443561.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443567.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443573.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443579.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443585.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443591.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443597.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443603.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443609.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443615.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 579,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443621.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443627.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443633.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443639.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443645.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443651.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443657.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/3/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/3/shimanami-tasogare-8443663.jpg",
+        "imageAlt" : "Shimanami Tasogare 3 - Page 34"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/shimanami-tasogare/4",
+    "chapterTitle" : "Shimanami Tasogare 4",
+    "chapterDescription" : "",
+    "chapterDate" : "10/23/2016",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443669.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443675.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443681.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443687.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443693.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443699.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443705.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443711.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443717.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443723.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443729.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443735.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443741.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443747.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443753.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443759.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443765.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443771.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443777.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443783.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443789.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443795.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443801.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443807.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443813.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443819.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443825.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443831.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443837.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443843.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443849.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443855.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443861.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/4/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/4/shimanami-tasogare-8443867.jpg",
+        "imageAlt" : "Shimanami Tasogare 4 - Page 34"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/shimanami-tasogare/5",
+    "chapterTitle" : "Shimanami Tasogare 5",
+    "chapterDescription" : "",
+    "chapterDate" : "10/23/2016",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443873.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443879.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443885.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443891.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443897.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443903.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443909.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443915.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443921.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443927.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443933.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443939.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443945.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443951.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443957.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443963.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443969.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443975.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443981.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443987.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443993.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8443999.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8444005.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8444011.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8444017.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8444023.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8444029.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8444035.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8444041.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8444047.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8444053.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/5/shimanami-tasogare-8444059.jpg",
+        "imageAlt" : "Shimanami Tasogare 5 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/shimanami-tasogare/6",
+    "chapterTitle" : "Shimanami Tasogare 6",
+    "chapterDescription" : "",
+    "chapterDate" : "10/23/2016",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444065.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444071.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444077.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444083.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444089.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444095.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444101.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444107.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444113.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444119.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444125.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444131.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444137.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444143.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444149.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444155.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444161.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444167.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444173.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444179.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444185.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444191.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444197.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444203.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444209.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444221.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444233.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444245.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444257.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444269.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444275.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444281.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 333,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444287.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 548,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/6/shimanami-tasogare-8444293.jpg",
+        "imageAlt" : "Shimanami Tasogare 6 - Page 34"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/shimanami-tasogare/7",
+    "chapterTitle" : "Shimanami Tasogare 7",
+    "chapterDescription" : "",
+    "chapterDate" : "10/23/2016",
+    "pageCount" : 5,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/7/shimanami-tasogare-8444215.jpg",
+        "imageAlt" : "Shimanami Tasogare 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/7/shimanami-tasogare-8444227.jpg",
+        "imageAlt" : "Shimanami Tasogare 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/7/shimanami-tasogare-8444239.jpg",
+        "imageAlt" : "Shimanami Tasogare 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/7/shimanami-tasogare-8444251.jpg",
+        "imageAlt" : "Shimanami Tasogare 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/7/shimanami-tasogare-8444263.jpg",
+        "imageAlt" : "Shimanami Tasogare 7 - Page 5"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/shimanami-tasogare/8",
+    "chapterTitle" : "Shimanami Tasogare 8",
+    "chapterDescription" : "",
+    "chapterDate" : "10/23/2016",
+    "pageCount" : 0,
+    "pages" : [ ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/shimanami-tasogare/9",
+    "chapterTitle" : "Shimanami Tasogare 9",
+    "chapterDescription" : "",
+    "chapterDate" : "05/13/2017",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281353.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281359.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281365.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281371.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281377.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281383.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281389.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281395.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281401.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281407.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281413.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281419.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281425.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281431.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281437.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281443.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281449.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281455.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281461.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281467.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281473.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281479.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281485.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281491.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281497.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i7.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281503.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281509.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i3.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281515.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281521.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i2.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281527.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i8.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281533.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281539.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281545.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/shimanami-tasogare/9/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/shimanami-tasogare/9/shimanami-tasogare-9281551.jpg",
+        "imageAlt" : "Shimanami Tasogare 9 - Page 34"
+      } ]
+    } ]
+  } ]
+}

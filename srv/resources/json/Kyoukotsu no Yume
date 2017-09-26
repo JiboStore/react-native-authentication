@@ -1,0 +1,4401 @@
+{
+  "mangaTitle" : "Kyoukotsu no Yume",
+  "mangaUrl" : "http://www.mangareader.net/kyoukotsu-no-yume",
+  "mangaThumbUrl" : "http://s4.mangareader.net/cover/kyoukotsu-no-yume/kyoukotsu-no-yume-r0.jpg",
+  "mangaChaptersInfo" : "5 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Drama, Horror, Mystery, Psychological, Shounen, Supernatural",
+  "chapterCount" : 5,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1",
+    "chapterTitle" : "Kyoukotsu no Yume 1",
+    "chapterDescription" : "",
+    "chapterDate" : "03/05/2017",
+    "pageCount" : 100,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027007.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027013.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027019.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027025.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027031.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027037.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027043.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027049.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027055.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027061.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027067.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 584,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027073.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027079.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027085.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027091.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027097.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027103.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027109.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027115.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027121.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027127.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027133.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027139.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027145.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027151.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027157.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027163.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027169.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027175.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027181.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027187.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027193.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027199.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027205.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027211.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027217.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027223.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027229.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027235.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027241.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027247.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027253.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027259.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027265.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027271.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027277.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027283.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027289.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027295.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027301.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027307.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027313.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027319.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027325.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027331.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027337.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027343.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027349.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027355.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027361.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027367.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027373.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 62"
+      } ]
+    }, {
+      "pageNumber" : 63,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/63",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027379.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 63"
+      } ]
+    }, {
+      "pageNumber" : 64,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/64",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027385.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 64"
+      } ]
+    }, {
+      "pageNumber" : 65,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/65",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027391.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 65"
+      } ]
+    }, {
+      "pageNumber" : 66,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/66",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027397.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 66"
+      } ]
+    }, {
+      "pageNumber" : 67,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/67",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027403.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 67"
+      } ]
+    }, {
+      "pageNumber" : 68,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/68",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027409.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 68"
+      } ]
+    }, {
+      "pageNumber" : 69,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/69",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027415.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 69"
+      } ]
+    }, {
+      "pageNumber" : 70,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/70",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027421.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 70"
+      } ]
+    }, {
+      "pageNumber" : 71,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/71",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027427.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 71"
+      } ]
+    }, {
+      "pageNumber" : 72,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/72",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027433.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 72"
+      } ]
+    }, {
+      "pageNumber" : 73,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/73",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027439.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 73"
+      } ]
+    }, {
+      "pageNumber" : 74,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/74",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027445.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 74"
+      } ]
+    }, {
+      "pageNumber" : 75,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/75",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027451.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 75"
+      } ]
+    }, {
+      "pageNumber" : 76,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/76",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027457.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 76"
+      } ]
+    }, {
+      "pageNumber" : 77,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/77",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027463.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 77"
+      } ]
+    }, {
+      "pageNumber" : 78,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/78",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027469.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 78"
+      } ]
+    }, {
+      "pageNumber" : 79,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/79",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027475.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 79"
+      } ]
+    }, {
+      "pageNumber" : 80,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/80",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027481.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 80"
+      } ]
+    }, {
+      "pageNumber" : 81,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/81",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027487.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 81"
+      } ]
+    }, {
+      "pageNumber" : 82,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/82",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027493.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 82"
+      } ]
+    }, {
+      "pageNumber" : 83,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/83",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027499.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 83"
+      } ]
+    }, {
+      "pageNumber" : 84,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/84",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027505.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 84"
+      } ]
+    }, {
+      "pageNumber" : 85,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/85",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027511.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 85"
+      } ]
+    }, {
+      "pageNumber" : 86,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/86",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027517.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 86"
+      } ]
+    }, {
+      "pageNumber" : 87,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/87",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 581,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027523.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 87"
+      } ]
+    }, {
+      "pageNumber" : 88,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/88",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027529.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 88"
+      } ]
+    }, {
+      "pageNumber" : 89,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/89",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027535.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 89"
+      } ]
+    }, {
+      "pageNumber" : 90,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/90",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027541.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 90"
+      } ]
+    }, {
+      "pageNumber" : 91,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/91",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027547.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 91"
+      } ]
+    }, {
+      "pageNumber" : 92,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/92",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027553.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 92"
+      } ]
+    }, {
+      "pageNumber" : 93,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/93",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027559.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 93"
+      } ]
+    }, {
+      "pageNumber" : 94,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/94",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027565.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 94"
+      } ]
+    }, {
+      "pageNumber" : 95,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/95",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027571.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 95"
+      } ]
+    }, {
+      "pageNumber" : 96,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/96",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027577.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 96"
+      } ]
+    }, {
+      "pageNumber" : 97,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/97",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027583.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 97"
+      } ]
+    }, {
+      "pageNumber" : 98,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/98",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027589.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 98"
+      } ]
+    }, {
+      "pageNumber" : 99,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/99",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027595.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 99"
+      } ]
+    }, {
+      "pageNumber" : 100,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/1/100",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/1/kyoukotsu-no-yume-9027601.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 1 - Page 100"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2",
+    "chapterTitle" : "Kyoukotsu no Yume 2",
+    "chapterDescription" : "",
+    "chapterDate" : "03/05/2017",
+    "pageCount" : 101,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027607.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027613.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027619.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027625.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027631.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027637.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027643.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027649.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027655.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027661.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027667.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027673.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027679.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027685.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027691.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027697.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027703.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027709.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027715.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027721.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027727.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027733.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027739.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027745.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027751.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027757.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027763.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027769.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027775.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027781.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027787.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027793.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027799.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027805.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027811.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027817.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027823.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027829.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027835.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027841.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027847.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027853.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027859.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027865.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027871.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027877.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027883.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027889.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027895.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027901.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027907.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027913.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027919.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027925.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027931.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027937.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027943.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027949.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027955.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027961.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027967.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027973.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 62"
+      } ]
+    }, {
+      "pageNumber" : 63,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/63",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027979.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 63"
+      } ]
+    }, {
+      "pageNumber" : 64,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/64",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027985.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 64"
+      } ]
+    }, {
+      "pageNumber" : 65,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/65",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027991.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 65"
+      } ]
+    }, {
+      "pageNumber" : 66,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/66",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9027997.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 66"
+      } ]
+    }, {
+      "pageNumber" : 67,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/67",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028003.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 67"
+      } ]
+    }, {
+      "pageNumber" : 68,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/68",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028009.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 68"
+      } ]
+    }, {
+      "pageNumber" : 69,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/69",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028015.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 69"
+      } ]
+    }, {
+      "pageNumber" : 70,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/70",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028021.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 70"
+      } ]
+    }, {
+      "pageNumber" : 71,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/71",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028027.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 71"
+      } ]
+    }, {
+      "pageNumber" : 72,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/72",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028033.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 72"
+      } ]
+    }, {
+      "pageNumber" : 73,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/73",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028039.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 73"
+      } ]
+    }, {
+      "pageNumber" : 74,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/74",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028045.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 74"
+      } ]
+    }, {
+      "pageNumber" : 75,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/75",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028051.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 75"
+      } ]
+    }, {
+      "pageNumber" : 76,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/76",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028057.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 76"
+      } ]
+    }, {
+      "pageNumber" : 77,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/77",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028063.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 77"
+      } ]
+    }, {
+      "pageNumber" : 78,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/78",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028069.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 78"
+      } ]
+    }, {
+      "pageNumber" : 79,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/79",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028075.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 79"
+      } ]
+    }, {
+      "pageNumber" : 80,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/80",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028081.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 80"
+      } ]
+    }, {
+      "pageNumber" : 81,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/81",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028087.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 81"
+      } ]
+    }, {
+      "pageNumber" : 82,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/82",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028093.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 82"
+      } ]
+    }, {
+      "pageNumber" : 83,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/83",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028099.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 83"
+      } ]
+    }, {
+      "pageNumber" : 84,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/84",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028105.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 84"
+      } ]
+    }, {
+      "pageNumber" : 85,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/85",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028111.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 85"
+      } ]
+    }, {
+      "pageNumber" : 86,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/86",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028117.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 86"
+      } ]
+    }, {
+      "pageNumber" : 87,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/87",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028123.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 87"
+      } ]
+    }, {
+      "pageNumber" : 88,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/88",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028129.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 88"
+      } ]
+    }, {
+      "pageNumber" : 89,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/89",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028135.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 89"
+      } ]
+    }, {
+      "pageNumber" : 90,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/90",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028141.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 90"
+      } ]
+    }, {
+      "pageNumber" : 91,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/91",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028147.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 91"
+      } ]
+    }, {
+      "pageNumber" : 92,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/92",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028153.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 92"
+      } ]
+    }, {
+      "pageNumber" : 93,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/93",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028159.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 93"
+      } ]
+    }, {
+      "pageNumber" : 94,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/94",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028165.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 94"
+      } ]
+    }, {
+      "pageNumber" : 95,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/95",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028171.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 95"
+      } ]
+    }, {
+      "pageNumber" : 96,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/96",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028177.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 96"
+      } ]
+    }, {
+      "pageNumber" : 97,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/97",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028183.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 97"
+      } ]
+    }, {
+      "pageNumber" : 98,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/98",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028189.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 98"
+      } ]
+    }, {
+      "pageNumber" : 99,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/99",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028195.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 99"
+      } ]
+    }, {
+      "pageNumber" : 100,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/100",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028201.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 100"
+      } ]
+    }, {
+      "pageNumber" : 101,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/2/101",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/2/kyoukotsu-no-yume-9028207.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 2 - Page 101"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3",
+    "chapterTitle" : "Kyoukotsu no Yume 3",
+    "chapterDescription" : "",
+    "chapterDate" : "03/05/2017",
+    "pageCount" : 87,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028213.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028219.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028225.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028231.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 560,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028237.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028243.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028249.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028255.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028261.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028267.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028273.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028279.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028285.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028291.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028297.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028303.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028309.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028315.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028321.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028327.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028333.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028339.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028345.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028351.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028357.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028363.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028369.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028375.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028381.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028387.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028393.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028399.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028405.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028411.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028417.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028423.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028429.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028435.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028441.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028447.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028453.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028459.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028465.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028471.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028477.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028483.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028489.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028495.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028501.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028507.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028513.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028519.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028525.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028531.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028537.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028543.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028549.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028555.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028561.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028567.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028573.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028579.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 62"
+      } ]
+    }, {
+      "pageNumber" : 63,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/63",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028585.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 63"
+      } ]
+    }, {
+      "pageNumber" : 64,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/64",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028591.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 64"
+      } ]
+    }, {
+      "pageNumber" : 65,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/65",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028597.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 65"
+      } ]
+    }, {
+      "pageNumber" : 66,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/66",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028603.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 66"
+      } ]
+    }, {
+      "pageNumber" : 67,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/67",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028609.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 67"
+      } ]
+    }, {
+      "pageNumber" : 68,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/68",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028615.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 68"
+      } ]
+    }, {
+      "pageNumber" : 69,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/69",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028621.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 69"
+      } ]
+    }, {
+      "pageNumber" : 70,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/70",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028627.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 70"
+      } ]
+    }, {
+      "pageNumber" : 71,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/71",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028633.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 71"
+      } ]
+    }, {
+      "pageNumber" : 72,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/72",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028639.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 72"
+      } ]
+    }, {
+      "pageNumber" : 73,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/73",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028645.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 73"
+      } ]
+    }, {
+      "pageNumber" : 74,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/74",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 557,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028651.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 74"
+      } ]
+    }, {
+      "pageNumber" : 75,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/75",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028657.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 75"
+      } ]
+    }, {
+      "pageNumber" : 76,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/76",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028663.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 76"
+      } ]
+    }, {
+      "pageNumber" : 77,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/77",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028669.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 77"
+      } ]
+    }, {
+      "pageNumber" : 78,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/78",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028675.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 78"
+      } ]
+    }, {
+      "pageNumber" : 79,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/79",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028681.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 79"
+      } ]
+    }, {
+      "pageNumber" : 80,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/80",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028687.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 80"
+      } ]
+    }, {
+      "pageNumber" : 81,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/81",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028693.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 81"
+      } ]
+    }, {
+      "pageNumber" : 82,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/82",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028699.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 82"
+      } ]
+    }, {
+      "pageNumber" : 83,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/83",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028705.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 83"
+      } ]
+    }, {
+      "pageNumber" : 84,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/84",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028711.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 84"
+      } ]
+    }, {
+      "pageNumber" : 85,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/85",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028717.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 85"
+      } ]
+    }, {
+      "pageNumber" : 86,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/86",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028723.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 86"
+      } ]
+    }, {
+      "pageNumber" : 87,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/3/87",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/3/kyoukotsu-no-yume-9028729.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 3 - Page 87"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4",
+    "chapterTitle" : "Kyoukotsu no Yume 4",
+    "chapterDescription" : "",
+    "chapterDate" : "03/05/2017",
+    "pageCount" : 93,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028735.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028741.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028747.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028753.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028759.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028765.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028771.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028777.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028783.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028789.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028795.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028801.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028807.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028813.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028819.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028825.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028831.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028837.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028843.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028849.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028855.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028861.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028867.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028873.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028879.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028885.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028891.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028897.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028903.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028909.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028915.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028921.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028927.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028933.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028939.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028945.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028951.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028957.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028963.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028969.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028975.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028981.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028987.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028993.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9028999.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029005.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029011.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029017.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029023.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029029.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029035.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029041.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029047.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029053.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029059.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029065.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029071.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029077.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029083.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029089.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029095.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029101.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 62"
+      } ]
+    }, {
+      "pageNumber" : 63,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/63",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029107.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 63"
+      } ]
+    }, {
+      "pageNumber" : 64,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/64",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029113.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 64"
+      } ]
+    }, {
+      "pageNumber" : 65,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/65",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029119.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 65"
+      } ]
+    }, {
+      "pageNumber" : 66,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/66",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029125.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 66"
+      } ]
+    }, {
+      "pageNumber" : 67,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/67",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029131.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 67"
+      } ]
+    }, {
+      "pageNumber" : 68,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/68",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029137.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 68"
+      } ]
+    }, {
+      "pageNumber" : 69,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/69",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029143.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 69"
+      } ]
+    }, {
+      "pageNumber" : 70,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/70",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029149.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 70"
+      } ]
+    }, {
+      "pageNumber" : 71,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/71",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029155.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 71"
+      } ]
+    }, {
+      "pageNumber" : 72,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/72",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029161.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 72"
+      } ]
+    }, {
+      "pageNumber" : 73,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/73",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029167.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 73"
+      } ]
+    }, {
+      "pageNumber" : 74,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/74",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029173.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 74"
+      } ]
+    }, {
+      "pageNumber" : 75,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/75",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029179.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 75"
+      } ]
+    }, {
+      "pageNumber" : 76,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/76",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029185.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 76"
+      } ]
+    }, {
+      "pageNumber" : 77,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/77",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029191.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 77"
+      } ]
+    }, {
+      "pageNumber" : 78,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/78",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029197.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 78"
+      } ]
+    }, {
+      "pageNumber" : 79,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/79",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029203.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 79"
+      } ]
+    }, {
+      "pageNumber" : 80,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/80",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029209.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 80"
+      } ]
+    }, {
+      "pageNumber" : 81,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/81",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029215.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 81"
+      } ]
+    }, {
+      "pageNumber" : 82,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/82",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029221.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 82"
+      } ]
+    }, {
+      "pageNumber" : 83,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/83",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029227.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 83"
+      } ]
+    }, {
+      "pageNumber" : 84,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/84",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029233.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 84"
+      } ]
+    }, {
+      "pageNumber" : 85,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/85",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029239.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 85"
+      } ]
+    }, {
+      "pageNumber" : 86,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/86",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029245.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 86"
+      } ]
+    }, {
+      "pageNumber" : 87,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/87",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029251.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 87"
+      } ]
+    }, {
+      "pageNumber" : 88,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/88",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 559,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029257.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 88"
+      } ]
+    }, {
+      "pageNumber" : 89,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/89",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029263.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 89"
+      } ]
+    }, {
+      "pageNumber" : 90,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/90",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029269.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 90"
+      } ]
+    }, {
+      "pageNumber" : 91,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/91",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029275.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 91"
+      } ]
+    }, {
+      "pageNumber" : 92,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/92",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029281.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 92"
+      } ]
+    }, {
+      "pageNumber" : 93,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/4/93",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/4/kyoukotsu-no-yume-9029287.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 4 - Page 93"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5",
+    "chapterTitle" : "Kyoukotsu no Yume 5",
+    "chapterDescription" : "",
+    "chapterDate" : "03/05/2017",
+    "pageCount" : 103,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029293.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029299.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029305.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029311.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 569,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029317.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029323.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029329.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029335.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029341.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029347.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029353.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029359.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029365.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029371.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029377.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029383.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029389.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029395.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029401.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029407.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029413.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029419.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029425.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029431.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029437.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029443.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029449.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029455.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029461.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029467.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029473.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029479.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029485.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029491.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029497.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029503.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029509.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029515.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029521.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029527.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029533.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029539.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029545.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029551.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029557.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029563.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029569.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029575.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029581.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029587.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029593.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029599.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029605.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029611.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029617.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029623.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029629.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029635.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029641.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029647.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029653.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029659.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 62"
+      } ]
+    }, {
+      "pageNumber" : 63,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/63",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029665.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 63"
+      } ]
+    }, {
+      "pageNumber" : 64,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/64",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029671.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 64"
+      } ]
+    }, {
+      "pageNumber" : 65,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/65",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029677.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 65"
+      } ]
+    }, {
+      "pageNumber" : 66,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/66",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029683.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 66"
+      } ]
+    }, {
+      "pageNumber" : 67,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/67",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029689.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 67"
+      } ]
+    }, {
+      "pageNumber" : 68,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/68",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029695.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 68"
+      } ]
+    }, {
+      "pageNumber" : 69,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/69",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029701.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 69"
+      } ]
+    }, {
+      "pageNumber" : 70,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/70",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029707.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 70"
+      } ]
+    }, {
+      "pageNumber" : 71,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/71",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029713.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 71"
+      } ]
+    }, {
+      "pageNumber" : 72,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/72",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029719.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 72"
+      } ]
+    }, {
+      "pageNumber" : 73,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/73",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029725.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 73"
+      } ]
+    }, {
+      "pageNumber" : 74,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/74",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029731.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 74"
+      } ]
+    }, {
+      "pageNumber" : 75,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/75",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029737.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 75"
+      } ]
+    }, {
+      "pageNumber" : 76,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/76",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029743.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 76"
+      } ]
+    }, {
+      "pageNumber" : 77,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/77",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029749.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 77"
+      } ]
+    }, {
+      "pageNumber" : 78,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/78",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029755.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 78"
+      } ]
+    }, {
+      "pageNumber" : 79,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/79",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029761.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 79"
+      } ]
+    }, {
+      "pageNumber" : 80,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/80",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029767.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 80"
+      } ]
+    }, {
+      "pageNumber" : 81,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/81",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029773.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 81"
+      } ]
+    }, {
+      "pageNumber" : 82,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/82",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029779.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 82"
+      } ]
+    }, {
+      "pageNumber" : 83,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/83",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029785.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 83"
+      } ]
+    }, {
+      "pageNumber" : 84,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/84",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029791.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 84"
+      } ]
+    }, {
+      "pageNumber" : 85,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/85",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029797.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 85"
+      } ]
+    }, {
+      "pageNumber" : 86,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/86",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029803.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 86"
+      } ]
+    }, {
+      "pageNumber" : 87,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/87",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029809.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 87"
+      } ]
+    }, {
+      "pageNumber" : 88,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/88",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029815.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 88"
+      } ]
+    }, {
+      "pageNumber" : 89,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/89",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029821.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 89"
+      } ]
+    }, {
+      "pageNumber" : 90,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/90",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029827.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 90"
+      } ]
+    }, {
+      "pageNumber" : 91,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/91",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029833.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 91"
+      } ]
+    }, {
+      "pageNumber" : 92,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/92",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029839.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 92"
+      } ]
+    }, {
+      "pageNumber" : 93,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/93",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029845.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 93"
+      } ]
+    }, {
+      "pageNumber" : 94,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/94",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029851.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 94"
+      } ]
+    }, {
+      "pageNumber" : 95,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/95",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029857.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 95"
+      } ]
+    }, {
+      "pageNumber" : 96,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/96",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 570,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029863.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 96"
+      } ]
+    }, {
+      "pageNumber" : 97,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/97",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029869.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 97"
+      } ]
+    }, {
+      "pageNumber" : 98,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/98",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029875.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 98"
+      } ]
+    }, {
+      "pageNumber" : 99,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/99",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029881.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 99"
+      } ]
+    }, {
+      "pageNumber" : 100,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/100",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029887.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 100"
+      } ]
+    }, {
+      "pageNumber" : 101,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/101",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029893.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 101"
+      } ]
+    }, {
+      "pageNumber" : 102,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/102",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029899.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 102"
+      } ]
+    }, {
+      "pageNumber" : 103,
+      "pageUrl" : "http://www.mangareader.net/kyoukotsu-no-yume/5/103",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/kyoukotsu-no-yume/5/kyoukotsu-no-yume-9029905.jpg",
+        "imageAlt" : "Kyoukotsu no Yume 5 - Page 103"
+      } ]
+    } ]
+  } ]
+}

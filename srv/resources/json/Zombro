@@ -1,0 +1,891 @@
+{
+  "mangaTitle" : "Zombro",
+  "mangaUrl" : "http://www.mangareader.net/zombro",
+  "mangaThumbUrl" : "http://s2.mangareader.net/cover/zombro/zombro-r0.jpg",
+  "mangaChaptersInfo" : "5 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manhwa (Read Left to Right)",
+  "mangaGenre" : "Action, Comedy, Horror",
+  "chapterCount" : 5,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/zombro/1",
+    "chapterTitle" : "Zombro 1",
+    "chapterDescription" : "",
+    "chapterDate" : "08/05/2014",
+    "pageCount" : 22,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zombro/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 533,
+        "imageUrl" : "http://i4.mangareader.net/zombro/1/zombro-5099499.jpg",
+        "imageAlt" : "Zombro 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zombro/1/zombro-5099501.jpg",
+        "imageAlt" : "Zombro 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/zombro/1/zombro-5099503.jpg",
+        "imageAlt" : "Zombro 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/zombro/1/zombro-5099505.jpg",
+        "imageAlt" : "Zombro 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/zombro/1/zombro-5099507.jpg",
+        "imageAlt" : "Zombro 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/zombro/1/zombro-5099509.jpg",
+        "imageAlt" : "Zombro 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/zombro/1/zombro-5099511.jpg",
+        "imageAlt" : "Zombro 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/zombro/1/zombro-5099513.jpg",
+        "imageAlt" : "Zombro 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/zombro/1/zombro-5099515.jpg",
+        "imageAlt" : "Zombro 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/zombro/1/zombro-5099517.jpg",
+        "imageAlt" : "Zombro 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/zombro/1/zombro-5099519.jpg",
+        "imageAlt" : "Zombro 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/zombro/1/zombro-5099521.jpg",
+        "imageAlt" : "Zombro 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/zombro/1/zombro-5099523.jpg",
+        "imageAlt" : "Zombro 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/zombro/1/zombro-5099525.jpg",
+        "imageAlt" : "Zombro 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/zombro/1/zombro-5099527.jpg",
+        "imageAlt" : "Zombro 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/zombro/1/zombro-5099529.jpg",
+        "imageAlt" : "Zombro 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/zombro/1/zombro-5099531.jpg",
+        "imageAlt" : "Zombro 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/zombro/1/zombro-5099533.jpg",
+        "imageAlt" : "Zombro 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/zombro/1/zombro-5099535.jpg",
+        "imageAlt" : "Zombro 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/zombro/1/zombro-5099537.jpg",
+        "imageAlt" : "Zombro 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/zombro/1/zombro-5099539.jpg",
+        "imageAlt" : "Zombro 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zombro/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i1.mangareader.net/zombro/1/zombro-5099541.jpg",
+        "imageAlt" : "Zombro 1 - Page 22"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zombro/2",
+    "chapterTitle" : "Zombro 2",
+    "chapterDescription" : "",
+    "chapterDate" : "08/05/2014",
+    "pageCount" : 21,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zombro/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/zombro/2/zombro-5099543.jpg",
+        "imageAlt" : "Zombro 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/zombro/2/zombro-5099545.jpg",
+        "imageAlt" : "Zombro 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i10.mangareader.net/zombro/2/zombro-5099547.jpg",
+        "imageAlt" : "Zombro 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/zombro/2/zombro-5099549.jpg",
+        "imageAlt" : "Zombro 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zombro/2/zombro-5099551.jpg",
+        "imageAlt" : "Zombro 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/zombro/2/zombro-5099553.jpg",
+        "imageAlt" : "Zombro 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/zombro/2/zombro-5099555.jpg",
+        "imageAlt" : "Zombro 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/zombro/2/zombro-5099557.jpg",
+        "imageAlt" : "Zombro 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/zombro/2/zombro-5099559.jpg",
+        "imageAlt" : "Zombro 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/zombro/2/zombro-5099561.jpg",
+        "imageAlt" : "Zombro 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/zombro/2/zombro-5099563.jpg",
+        "imageAlt" : "Zombro 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/zombro/2/zombro-5099565.jpg",
+        "imageAlt" : "Zombro 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i3.mangareader.net/zombro/2/zombro-5099567.jpg",
+        "imageAlt" : "Zombro 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/zombro/2/zombro-5099569.jpg",
+        "imageAlt" : "Zombro 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/zombro/2/zombro-5099571.jpg",
+        "imageAlt" : "Zombro 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i1.mangareader.net/zombro/2/zombro-5099573.jpg",
+        "imageAlt" : "Zombro 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/zombro/2/zombro-5099575.jpg",
+        "imageAlt" : "Zombro 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i7.mangareader.net/zombro/2/zombro-5099577.jpg",
+        "imageAlt" : "Zombro 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i5.mangareader.net/zombro/2/zombro-5099579.jpg",
+        "imageAlt" : "Zombro 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i9.mangareader.net/zombro/2/zombro-5099581.jpg",
+        "imageAlt" : "Zombro 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zombro/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i7.mangareader.net/zombro/2/zombro-5099583.jpg",
+        "imageAlt" : "Zombro 2 - Page 21"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zombro/3",
+    "chapterTitle" : "Zombro 3",
+    "chapterDescription" : "",
+    "chapterDate" : "08/05/2014",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zombro/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/zombro/3/zombro-5099585.jpg",
+        "imageAlt" : "Zombro 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/zombro/3/zombro-5099587.jpg",
+        "imageAlt" : "Zombro 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/zombro/3/zombro-5099589.jpg",
+        "imageAlt" : "Zombro 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/zombro/3/zombro-5099591.jpg",
+        "imageAlt" : "Zombro 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/zombro/3/zombro-5099593.jpg",
+        "imageAlt" : "Zombro 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/zombro/3/zombro-5099595.jpg",
+        "imageAlt" : "Zombro 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/zombro/3/zombro-5099597.jpg",
+        "imageAlt" : "Zombro 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/zombro/3/zombro-5099599.jpg",
+        "imageAlt" : "Zombro 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/zombro/3/zombro-5099601.jpg",
+        "imageAlt" : "Zombro 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i8.mangareader.net/zombro/3/zombro-5099603.jpg",
+        "imageAlt" : "Zombro 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i2.mangareader.net/zombro/3/zombro-5099605.jpg",
+        "imageAlt" : "Zombro 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/zombro/3/zombro-5099607.jpg",
+        "imageAlt" : "Zombro 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/zombro/3/zombro-5099609.jpg",
+        "imageAlt" : "Zombro 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i6.mangareader.net/zombro/3/zombro-5099611.jpg",
+        "imageAlt" : "Zombro 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/zombro/3/zombro-5099613.jpg",
+        "imageAlt" : "Zombro 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1200,
+        "imageUrl" : "http://i4.mangareader.net/zombro/3/zombro-5099615.jpg",
+        "imageAlt" : "Zombro 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zombro/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i8.mangareader.net/zombro/3/zombro-5099617.jpg",
+        "imageAlt" : "Zombro 3 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zombro/4",
+    "chapterTitle" : "Zombro 4",
+    "chapterDescription" : "",
+    "chapterDate" : "08/05/2014",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zombro/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i1.mangareader.net/zombro/4/zombro-5099619.jpg",
+        "imageAlt" : "Zombro 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/zombro/4/zombro-5099621.jpg",
+        "imageAlt" : "Zombro 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/zombro/4/zombro-5099623.jpg",
+        "imageAlt" : "Zombro 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/zombro/4/zombro-5099625.jpg",
+        "imageAlt" : "Zombro 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/zombro/4/zombro-5099627.jpg",
+        "imageAlt" : "Zombro 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/zombro/4/zombro-5099629.jpg",
+        "imageAlt" : "Zombro 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/zombro/4/zombro-5099631.jpg",
+        "imageAlt" : "Zombro 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i10.mangareader.net/zombro/4/zombro-5099633.jpg",
+        "imageAlt" : "Zombro 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/zombro/4/zombro-5099635.jpg",
+        "imageAlt" : "Zombro 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/zombro/4/zombro-5099637.jpg",
+        "imageAlt" : "Zombro 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/zombro/4/zombro-5099639.jpg",
+        "imageAlt" : "Zombro 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/zombro/4/zombro-5099641.jpg",
+        "imageAlt" : "Zombro 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/zombro/4/zombro-5099643.jpg",
+        "imageAlt" : "Zombro 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/zombro/4/zombro-5099645.jpg",
+        "imageAlt" : "Zombro 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/zombro/4/zombro-5099647.jpg",
+        "imageAlt" : "Zombro 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/zombro/4/zombro-5099649.jpg",
+        "imageAlt" : "Zombro 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/zombro/4/zombro-5099651.jpg",
+        "imageAlt" : "Zombro 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/zombro/4/zombro-5099653.jpg",
+        "imageAlt" : "Zombro 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zombro/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/zombro/4/zombro-5099655.jpg",
+        "imageAlt" : "Zombro 4 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zombro/5",
+    "chapterTitle" : "Zombro 5",
+    "chapterDescription" : "",
+    "chapterDate" : "06/04/2015",
+    "pageCount" : 15,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zombro/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i6.mangareader.net/zombro/5/zombro-5722428.jpg",
+        "imageAlt" : "Zombro 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zombro/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/zombro/5/zombro-5722430.jpg",
+        "imageAlt" : "Zombro 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zombro/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i8.mangareader.net/zombro/5/zombro-5722432.jpg",
+        "imageAlt" : "Zombro 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zombro/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i8.mangareader.net/zombro/5/zombro-5722434.jpg",
+        "imageAlt" : "Zombro 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zombro/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i10.mangareader.net/zombro/5/zombro-5722436.jpg",
+        "imageAlt" : "Zombro 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zombro/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i6.mangareader.net/zombro/5/zombro-5722438.jpg",
+        "imageAlt" : "Zombro 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zombro/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/zombro/5/zombro-5722440.jpg",
+        "imageAlt" : "Zombro 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zombro/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i10.mangareader.net/zombro/5/zombro-5722442.jpg",
+        "imageAlt" : "Zombro 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zombro/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i4.mangareader.net/zombro/5/zombro-5722444.jpg",
+        "imageAlt" : "Zombro 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zombro/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i2.mangareader.net/zombro/5/zombro-5722446.jpg",
+        "imageAlt" : "Zombro 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zombro/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i6.mangareader.net/zombro/5/zombro-5722448.jpg",
+        "imageAlt" : "Zombro 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zombro/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/zombro/5/zombro-5722450.jpg",
+        "imageAlt" : "Zombro 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zombro/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i10.mangareader.net/zombro/5/zombro-5722452.jpg",
+        "imageAlt" : "Zombro 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zombro/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i4.mangareader.net/zombro/5/zombro-5722454.jpg",
+        "imageAlt" : "Zombro 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zombro/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/zombro/5/zombro-5722456.jpg",
+        "imageAlt" : "Zombro 5 - Page 15"
+      } ]
+    } ]
+  } ]
+}

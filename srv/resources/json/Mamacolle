@@ -1,0 +1,5158 @@
+{
+  "mangaTitle" : "Mamacolle",
+  "mangaUrl" : "http://www.mangareader.net/mamacolle",
+  "mangaThumbUrl" : "http://s5.mangareader.net/cover/mamacolle/mamacolle-r0.jpg",
+  "mangaChaptersInfo" : "18 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Comedy, Romance, Shoujo",
+  "chapterCount" : 18,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/1",
+    "chapterTitle" : "Mamacolle 1",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 38,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/1/mamacolle-1155575.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 637,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/1/mamacolle-1155576.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/1/mamacolle-1155577.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 613,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/1/mamacolle-1155578.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/1/mamacolle-1155579.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/1/mamacolle-1155580.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 618,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/1/mamacolle-1155581.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1275,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/1/mamacolle-1155582.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/1/mamacolle-1155583.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/1/mamacolle-1155584.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1248,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/1/mamacolle-1155585.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/1/mamacolle-1155586.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/1/mamacolle-1155587.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1271,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/1/mamacolle-1155588.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/1/mamacolle-1155589.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/1/mamacolle-1155590.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/1/mamacolle-1155591.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/1/mamacolle-1155592.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/1/mamacolle-1155593.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/1/mamacolle-1155594.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/1/mamacolle-1155595.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/1/mamacolle-1155596.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/1/mamacolle-1155597.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 613,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/1/mamacolle-1155598.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1217,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/1/mamacolle-1155599.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/1/mamacolle-1155600.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/1/mamacolle-1155601.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/1/mamacolle-1155602.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/1/mamacolle-1155603.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/1/mamacolle-1155604.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/1/mamacolle-1155605.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1228,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/1/mamacolle-1155606.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/1/mamacolle-1155607.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/1/mamacolle-1155608.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1278,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/1/mamacolle-1155609.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/1/mamacolle-1155610.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 613,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/1/mamacolle-1155611.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 400,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/1/mamacolle-1155612.jpg",
+        "imageAlt" : "Mamacolle 1 - Page 38"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/2",
+    "chapterTitle" : "Mamacolle 2",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/2/mamacolle-1155613.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/2/mamacolle-1155614.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/2/mamacolle-1155615.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/2/mamacolle-1155616.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/2/mamacolle-1155617.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/2/mamacolle-1155618.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1243,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/2/mamacolle-1155619.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/2/mamacolle-1155620.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/2/mamacolle-1155621.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1303,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/2/mamacolle-1155622.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1235,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/2/mamacolle-1155623.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/2/mamacolle-1155624.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1245,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/2/mamacolle-1155625.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1284,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/2/mamacolle-1155626.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1235,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/2/mamacolle-1155627.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 629,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/2/mamacolle-1155628.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/2/mamacolle-1155629.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1248,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/2/mamacolle-1155630.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1279,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/2/mamacolle-1155631.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/2/mamacolle-1155632.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/2/mamacolle-1155633.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/2/mamacolle-1155634.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/2/mamacolle-1155635.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/2/mamacolle-1155636.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1291,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/2/mamacolle-1155637.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/2/mamacolle-1155638.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 627,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/2/mamacolle-1155639.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/2/mamacolle-1155640.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/2/mamacolle-1155641.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 629,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/2/mamacolle-1155642.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 629,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/2/mamacolle-1155643.jpg",
+        "imageAlt" : "Mamacolle 2 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/3",
+    "chapterTitle" : "Mamacolle 3",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 29,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 686,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/3/mamacolle-1548350.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1228,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/3/mamacolle-1548351.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1302,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/3/mamacolle-1548352.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/3/mamacolle-1548354.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/3/mamacolle-1548356.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1232,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/3/mamacolle-1548359.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/3/mamacolle-1548361.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1234,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/3/mamacolle-1548363.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/3/mamacolle-1548364.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1235,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/3/mamacolle-1548365.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/3/mamacolle-1548367.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1244,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/3/mamacolle-1548370.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 634,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/3/mamacolle-1548371.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/3/mamacolle-1548374.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1245,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/3/mamacolle-1548376.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1306,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/3/mamacolle-1548377.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/3/mamacolle-1548379.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/3/mamacolle-1548380.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/3/mamacolle-1548382.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1297,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/3/mamacolle-1548384.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1251,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/3/mamacolle-1548385.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/3/mamacolle-1548386.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1234,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/3/mamacolle-1548387.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/3/mamacolle-1548388.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/3/mamacolle-1548390.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/3/mamacolle-1548392.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/3/mamacolle-1548393.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 634,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/3/mamacolle-1548399.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 634,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/3/mamacolle-1548401.jpg",
+        "imageAlt" : "Mamacolle 3 - Page 29"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/4",
+    "chapterTitle" : "Mamacolle 4",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/4/mamacolle-1155644.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/4/mamacolle-1155645.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/4/mamacolle-1155646.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/4/mamacolle-1155647.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/4/mamacolle-1155648.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/4/mamacolle-1155649.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/4/mamacolle-1155650.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1294,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/4/mamacolle-1155651.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/4/mamacolle-1155652.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1275,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/4/mamacolle-1155653.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/4/mamacolle-1155654.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/4/mamacolle-1155655.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/4/mamacolle-1155656.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1328,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/4/mamacolle-1155657.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/4/mamacolle-1155658.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1297,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/4/mamacolle-1155659.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/4/mamacolle-1155660.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1316,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/4/mamacolle-1155661.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/4/mamacolle-1155662.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/4/mamacolle-1155663.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/4/mamacolle-1155664.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/4/mamacolle-1155665.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/4/mamacolle-1155666.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 627,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/4/mamacolle-1155667.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/4/mamacolle-1155668.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/4/mamacolle-1155669.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/4/mamacolle-1155670.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1245,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/4/mamacolle-1155671.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 615,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/4/mamacolle-1155672.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/4/mamacolle-1155673.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/4/mamacolle-1155674.jpg",
+        "imageAlt" : "Mamacolle 4 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/5",
+    "chapterTitle" : "Mamacolle 5",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/5/mamacolle-1155675.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1304,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/5/mamacolle-1155676.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/5/mamacolle-1155677.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1279,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/5/mamacolle-1155678.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/5/mamacolle-1155679.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1306,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/5/mamacolle-1155680.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1304,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/5/mamacolle-1155681.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1276,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/5/mamacolle-1155682.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1293,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/5/mamacolle-1155683.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/5/mamacolle-1155684.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1332,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/5/mamacolle-1155685.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/5/mamacolle-1155686.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1304,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/5/mamacolle-1155687.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/5/mamacolle-1155688.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1301,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/5/mamacolle-1155689.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1276,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/5/mamacolle-1155690.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1310,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/5/mamacolle-1155691.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/5/mamacolle-1155692.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1309,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/5/mamacolle-1155693.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1283,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/5/mamacolle-1155694.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1310,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/5/mamacolle-1155695.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 639,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/5/mamacolle-1155696.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/5/mamacolle-1155697.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1306,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/5/mamacolle-1155698.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/5/mamacolle-1155699.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1325,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/5/mamacolle-1155700.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 639,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/5/mamacolle-1155701.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1276,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/5/mamacolle-1155702.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/5/mamacolle-1155703.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/5/mamacolle-1155704.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1341,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/5/mamacolle-1155705.jpg",
+        "imageAlt" : "Mamacolle 5 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/6",
+    "chapterTitle" : "Mamacolle 6",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 686,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/6/mamacolle-1874639.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/6/mamacolle-1874641.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/6/mamacolle-1874643.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/6/mamacolle-1874645.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1284,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/6/mamacolle-1874647.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1293,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/6/mamacolle-1874649.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/6/mamacolle-1874651.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/6/mamacolle-1874653.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/6/mamacolle-1874655.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/6/mamacolle-1874657.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/6/mamacolle-1874659.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/6/mamacolle-1874661.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1251,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/6/mamacolle-1874663.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1293,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/6/mamacolle-1874665.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/6/mamacolle-1874667.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1291,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/6/mamacolle-1874669.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1248,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/6/mamacolle-1874671.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/6/mamacolle-1874673.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1243,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/6/mamacolle-1874675.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1293,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/6/mamacolle-1874677.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/6/mamacolle-1874679.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1298,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/6/mamacolle-1874681.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/6/mamacolle-1874683.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 631,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/6/mamacolle-1874685.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/6/mamacolle-1874687.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/6/mamacolle-1874689.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/6/mamacolle-1874691.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1251,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/6/mamacolle-1874693.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/6/mamacolle-1874695.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/6/mamacolle-1874697.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 623,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/6/mamacolle-1874699.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/6/mamacolle-1874701.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/6/mamacolle-1874703.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1284,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/6/mamacolle-1874705.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/6/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/6/mamacolle-1874707.jpg",
+        "imageAlt" : "Mamacolle 6 - Page 35"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/7",
+    "chapterTitle" : "Mamacolle 7",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/7/mamacolle-1155741.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/7/mamacolle-1155742.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/7/mamacolle-1155743.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 627,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/7/mamacolle-1155744.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1281,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/7/mamacolle-1155745.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/7/mamacolle-1155746.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1297,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/7/mamacolle-1155747.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/7/mamacolle-1155748.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/7/mamacolle-1155749.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/7/mamacolle-1155750.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1284,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/7/mamacolle-1155751.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/7/mamacolle-1155752.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/7/mamacolle-1155753.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/7/mamacolle-1155754.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/7/mamacolle-1155755.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/7/mamacolle-1155756.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/7/mamacolle-1155757.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1248,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/7/mamacolle-1155758.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/7/mamacolle-1155759.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/7/mamacolle-1155760.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1284,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/7/mamacolle-1155761.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/7/mamacolle-1155762.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 616,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/7/mamacolle-1155763.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/7/mamacolle-1155764.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/7/mamacolle-1155765.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 621,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/7/mamacolle-1155766.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 605,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/7/mamacolle-1155767.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 624,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/7/mamacolle-1155768.jpg",
+        "imageAlt" : "Mamacolle 7 - Page 28"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/8",
+    "chapterTitle" : "Mamacolle 8",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 686,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/8/mamacolle-1155769.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/8/mamacolle-1155770.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/8/mamacolle-1155771.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1235,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/8/mamacolle-1155772.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/8/mamacolle-1155773.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1226,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/8/mamacolle-1155774.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1284,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/8/mamacolle-1155775.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/8/mamacolle-1155776.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/8/mamacolle-1155777.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/8/mamacolle-1155778.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1281,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/8/mamacolle-1155779.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/8/mamacolle-1155780.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/8/mamacolle-1155781.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/8/mamacolle-1155782.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1279,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/8/mamacolle-1155783.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/8/mamacolle-1155784.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/8/mamacolle-1155785.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1235,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/8/mamacolle-1155786.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1297,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/8/mamacolle-1155787.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1243,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/8/mamacolle-1155788.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/8/mamacolle-1155789.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/8/mamacolle-1155790.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/8/mamacolle-1155791.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/8/mamacolle-1155792.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/8/mamacolle-1155793.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/8/mamacolle-1155794.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/8/mamacolle-1155795.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1239,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/8/mamacolle-1155796.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 619,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/8/mamacolle-1155797.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/8/mamacolle-1155798.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/8/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1234,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/8/mamacolle-1155799.jpg",
+        "imageAlt" : "Mamacolle 8 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/9",
+    "chapterTitle" : "Mamacolle 9",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 686,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/9/mamacolle-1155800.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/9/mamacolle-1155801.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/9/mamacolle-1155802.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/9/mamacolle-1155803.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/9/mamacolle-1155804.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/9/mamacolle-1155805.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/9/mamacolle-1155806.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/9/mamacolle-1155807.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/9/mamacolle-1155808.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1301,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/9/mamacolle-1155809.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/9/mamacolle-1155810.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/9/mamacolle-1155811.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/9/mamacolle-1155812.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1293,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/9/mamacolle-1155813.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/9/mamacolle-1155814.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/9/mamacolle-1155815.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/9/mamacolle-1155816.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/9/mamacolle-1155817.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/9/mamacolle-1155818.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/9/mamacolle-1155819.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/9/mamacolle-1155820.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/9/mamacolle-1155821.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/9/mamacolle-1155822.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/9/mamacolle-1155823.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1245,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/9/mamacolle-1155824.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/9/mamacolle-1155825.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/9/mamacolle-1155826.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/9/mamacolle-1155827.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/9/mamacolle-1155828.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/9/mamacolle-1155829.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/9/mamacolle-1155830.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/9/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 627,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/9/mamacolle-1155831.jpg",
+        "imageAlt" : "Mamacolle 9 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/10",
+    "chapterTitle" : "Mamacolle 10",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 36,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 686,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/10/mamacolle-1155832.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1235,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/10/mamacolle-1155833.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/10/mamacolle-1155834.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/10/mamacolle-1155835.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1302,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/10/mamacolle-1155836.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1303,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/10/mamacolle-1155837.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/10/mamacolle-1155838.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/10/mamacolle-1155839.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/10/mamacolle-1155840.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/10/mamacolle-1155841.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/10/mamacolle-1155842.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/10/mamacolle-1155843.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/10/mamacolle-1155844.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1276,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/10/mamacolle-1155845.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/10/mamacolle-1155846.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1275,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/10/mamacolle-1155847.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/10/mamacolle-1155848.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/10/mamacolle-1155849.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/10/mamacolle-1155850.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1275,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/10/mamacolle-1155851.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/10/mamacolle-1155852.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/10/mamacolle-1155853.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/10/mamacolle-1155854.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/10/mamacolle-1155855.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/10/mamacolle-1155856.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/10/mamacolle-1155857.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1248,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/10/mamacolle-1155858.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1283,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/10/mamacolle-1155859.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/10/mamacolle-1155860.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/10/mamacolle-1155861.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/10/mamacolle-1155862.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/10/mamacolle-1155863.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/10/mamacolle-1155864.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/10/mamacolle-1155865.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1243,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/10/mamacolle-1155866.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/10/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/10/mamacolle-1155867.jpg",
+        "imageAlt" : "Mamacolle 10 - Page 36"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/11",
+    "chapterTitle" : "Mamacolle 11",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 686,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/11/mamacolle-1874709.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/11/mamacolle-1874711.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/11/mamacolle-1874713.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/11/mamacolle-1874715.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/11/mamacolle-1874717.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/11/mamacolle-1874719.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/11/mamacolle-1874721.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/11/mamacolle-1874723.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/11/mamacolle-1874725.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1251,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/11/mamacolle-1874727.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/11/mamacolle-1874729.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1271,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/11/mamacolle-1874731.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/11/mamacolle-1874733.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/11/mamacolle-1874735.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/11/mamacolle-1874737.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/11/mamacolle-1874739.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/11/mamacolle-1874741.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/11/mamacolle-1874743.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1306,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/11/mamacolle-1874745.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/11/mamacolle-1874747.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1305,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/11/mamacolle-1874749.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/11/mamacolle-1874751.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1279,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/11/mamacolle-1874753.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/11/mamacolle-1874755.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/11/mamacolle-1874757.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/11/mamacolle-1874759.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 629,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/11/mamacolle-1874761.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1297,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/11/mamacolle-1874763.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/11/mamacolle-1874765.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1306,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/11/mamacolle-1874767.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/11/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/11/mamacolle-1874769.jpg",
+        "imageAlt" : "Mamacolle 11 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/12",
+    "chapterTitle" : "Mamacolle 12",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 686,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/12/mamacolle-1155900.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/12/mamacolle-1155901.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/12/mamacolle-1155902.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/12/mamacolle-1155903.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/12/mamacolle-1155904.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/12/mamacolle-1155905.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/12/mamacolle-1155906.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/12/mamacolle-1155907.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/12/mamacolle-1155908.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1248,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/12/mamacolle-1155909.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/12/mamacolle-1155910.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/12/mamacolle-1155911.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/12/mamacolle-1155912.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/12/mamacolle-1155913.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/12/mamacolle-1155914.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1248,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/12/mamacolle-1155915.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1293,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/12/mamacolle-1155916.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/12/mamacolle-1155917.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/12/mamacolle-1155918.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/12/mamacolle-1155919.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1297,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/12/mamacolle-1155920.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/12/mamacolle-1155921.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/12/mamacolle-1155922.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/12/mamacolle-1155923.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/12/mamacolle-1155924.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/12/mamacolle-1155925.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1306,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/12/mamacolle-1155926.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/12/mamacolle-1155927.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/12/mamacolle-1155928.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/12/mamacolle-1155929.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1314,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/12/mamacolle-1155930.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/12/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/12/mamacolle-1155931.jpg",
+        "imageAlt" : "Mamacolle 12 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/13",
+    "chapterTitle" : "Mamacolle 13",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 686,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/13/mamacolle-1155932.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1283,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/13/mamacolle-1155933.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1305,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/13/mamacolle-1155934.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1306,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/13/mamacolle-1155935.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1297,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/13/mamacolle-1155936.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/13/mamacolle-1155937.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1321,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/13/mamacolle-1155938.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/13/mamacolle-1155939.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/13/mamacolle-1155940.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/13/mamacolle-1155941.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/13/mamacolle-1155942.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/13/mamacolle-1155943.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/13/mamacolle-1155944.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/13/mamacolle-1155945.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1281,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/13/mamacolle-1155946.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1319,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/13/mamacolle-1155947.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1303,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/13/mamacolle-1155948.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1301,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/13/mamacolle-1155949.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/13/mamacolle-1155950.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/13/mamacolle-1155951.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1294,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/13/mamacolle-1155952.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1331,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/13/mamacolle-1155953.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1310,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/13/mamacolle-1155954.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/13/mamacolle-1155955.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/13/mamacolle-1155956.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 636,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/13/mamacolle-1155957.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1318,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/13/mamacolle-1155958.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/13/mamacolle-1155959.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1322,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/13/mamacolle-1155960.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1294,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/13/mamacolle-1155961.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/13/mamacolle-1155962.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/13/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/13/mamacolle-1155963.jpg",
+        "imageAlt" : "Mamacolle 13 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/14",
+    "chapterTitle" : "Mamacolle 14",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 686,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/14/mamacolle-1155964.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/14/mamacolle-1155965.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/14/mamacolle-1155966.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1293,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/14/mamacolle-1155967.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/14/mamacolle-1155968.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/14/mamacolle-1155969.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/14/mamacolle-1155970.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/14/mamacolle-1155971.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1301,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/14/mamacolle-1155972.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/14/mamacolle-1155973.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/14/mamacolle-1155974.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/14/mamacolle-1155975.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/14/mamacolle-1155976.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/14/mamacolle-1155977.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/14/mamacolle-1155978.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1275,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/14/mamacolle-1155979.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1310,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/14/mamacolle-1155980.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/14/mamacolle-1155981.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1306,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/14/mamacolle-1155982.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/14/mamacolle-1155983.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1310,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/14/mamacolle-1155984.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/14/mamacolle-1155985.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1310,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/14/mamacolle-1155986.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/14/mamacolle-1155987.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1310,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/14/mamacolle-1155988.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/14/mamacolle-1155989.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1306,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/14/mamacolle-1155990.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/14/mamacolle-1155991.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1306,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/14/mamacolle-1155992.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/14/mamacolle-1155993.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/14/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 661,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/14/mamacolle-1155994.jpg",
+        "imageAlt" : "Mamacolle 14 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/15",
+    "chapterTitle" : "Mamacolle 15",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 5,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 686,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/15/mamacolle-1155995.jpg",
+        "imageAlt" : "Mamacolle 15 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/15/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1226,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/15/mamacolle-1155996.jpg",
+        "imageAlt" : "Mamacolle 15 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/15/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/15/mamacolle-1155997.jpg",
+        "imageAlt" : "Mamacolle 15 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/15/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/15/mamacolle-1155998.jpg",
+        "imageAlt" : "Mamacolle 15 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/15/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/15/mamacolle-1155999.jpg",
+        "imageAlt" : "Mamacolle 15 - Page 5"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/16",
+    "chapterTitle" : "Mamacolle 16",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 32,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 984,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/16/mamacolle-1874771.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/16/mamacolle-1874773.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1278,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/16/mamacolle-1874775.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/16/mamacolle-1874777.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/16/mamacolle-1874779.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/16/mamacolle-1874781.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/16/mamacolle-1874783.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/16/mamacolle-1874785.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1278,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/16/mamacolle-1874787.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/16/mamacolle-1874789.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/16/mamacolle-1874791.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/16/mamacolle-1874793.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1278,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/16/mamacolle-1874795.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/16/mamacolle-1874797.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1278,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/16/mamacolle-1874799.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/16/mamacolle-1874801.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/16/mamacolle-1874803.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/16/mamacolle-1874805.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/16/mamacolle-1874807.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/16/mamacolle-1874809.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/16/mamacolle-1874811.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/16/mamacolle-1874813.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1291,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/16/mamacolle-1874815.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/16/mamacolle-1874817.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/16/mamacolle-1874819.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/16/mamacolle-1874821.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 625,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/16/mamacolle-1874823.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/16/mamacolle-1874825.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/16/mamacolle-1874827.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/16/mamacolle-1874829.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/16/mamacolle-1874831.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/16/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/16/mamacolle-1874833.jpg",
+        "imageAlt" : "Mamacolle 16 - Page 32"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/17",
+    "chapterTitle" : "Mamacolle 17",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 37,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1290,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/17/mamacolle-1156032.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1248,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/17/mamacolle-1156033.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/17/mamacolle-1156034.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1245,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/17/mamacolle-1156035.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/17/mamacolle-1156036.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/17/mamacolle-1156037.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1281,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/17/mamacolle-1156038.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1248,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/17/mamacolle-1156039.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/17/mamacolle-1156040.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/17/mamacolle-1156041.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/17/mamacolle-1156042.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/17/mamacolle-1156043.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1327,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/17/mamacolle-1156044.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/17/mamacolle-1156045.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1287,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/17/mamacolle-1156046.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/17/mamacolle-1156047.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/17/mamacolle-1156048.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/17/mamacolle-1156049.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1310,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/17/mamacolle-1156050.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1248,
+        "imageUrl" : "http://i5.mangareader.net/mamacolle/17/mamacolle-1156051.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/17/mamacolle-1156052.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i1.mangareader.net/mamacolle/17/mamacolle-1156053.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/17/mamacolle-1156054.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i9.mangareader.net/mamacolle/17/mamacolle-1156055.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/17/mamacolle-1156056.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/17/mamacolle-1156057.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i3.mangareader.net/mamacolle/17/mamacolle-1156058.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i7.mangareader.net/mamacolle/17/mamacolle-1156059.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/17/mamacolle-1156060.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/17/mamacolle-1156061.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1300,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/17/mamacolle-1156062.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/17/mamacolle-1156063.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/17/mamacolle-1156064.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/17/mamacolle-1156065.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/17/mamacolle-1156066.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1252,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/17/mamacolle-1156067.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/17/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/17/mamacolle-1156068.jpg",
+        "imageAlt" : "Mamacolle 17 - Page 37"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mamacolle/18",
+    "chapterTitle" : "Mamacolle 18",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2010",
+    "pageCount" : 36,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/18/mamacolle-1156069.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1295,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/18/mamacolle-1156070.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/18/mamacolle-1156071.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1275,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/18/mamacolle-1156072.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/18/mamacolle-1156073.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/18/mamacolle-1156074.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1253,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/18/mamacolle-1156075.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1281,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/18/mamacolle-1156076.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1296,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/18/mamacolle-1156077.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1292,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/18/mamacolle-1156078.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/18/mamacolle-1156079.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 625,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/18/mamacolle-1156080.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/18/mamacolle-1156081.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/18/mamacolle-1156082.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/18/mamacolle-1156083.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/18/mamacolle-1156084.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 628,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/18/mamacolle-1156085.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/18/mamacolle-1156086.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/18/mamacolle-1156087.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/18/mamacolle-1156088.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/18/mamacolle-1156089.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/18/mamacolle-1156090.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/18/mamacolle-1156091.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1302,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/18/mamacolle-1156092.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/18/mamacolle-1156093.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1279,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/18/mamacolle-1156094.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/18/mamacolle-1156095.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 628,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/18/mamacolle-1156096.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 619,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/18/mamacolle-1156097.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1279,
+        "imageUrl" : "http://i6.mangareader.net/mamacolle/18/mamacolle-1156098.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1279,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/18/mamacolle-1156099.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i10.mangareader.net/mamacolle/18/mamacolle-1156100.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i2.mangareader.net/mamacolle/18/mamacolle-1156101.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1286,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/18/mamacolle-1156102.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1248,
+        "imageUrl" : "http://i4.mangareader.net/mamacolle/18/mamacolle-1156103.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/mamacolle/18/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i8.mangareader.net/mamacolle/18/mamacolle-1156104.jpg",
+        "imageAlt" : "Mamacolle 18 - Page 36"
+      } ]
+    } ]
+  } ]
+}

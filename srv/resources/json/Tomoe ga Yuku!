@@ -1,0 +1,2770 @@
+{
+  "mangaTitle" : "Tomoe ga Yuku!",
+  "mangaUrl" : "http://www.mangareader.net/tomoe-ga-yuku",
+  "mangaThumbUrl" : "http://s1.mangareader.net/cover/tomoe-ga-yuku/tomoe-ga-yuku-r0.jpg",
+  "mangaChaptersInfo" : "6 Chapters Published. (Completed)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Action, Drama, Romance, Shoujo",
+  "chapterCount" : 6,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1",
+    "chapterTitle" : "Tomoe ga Yuku! 1",
+    "chapterDescription" : "",
+    "chapterDate" : "12/26/2012",
+    "pageCount" : 64,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 621,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779389.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 549,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779391.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779393.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779395.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779397.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779399.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779401.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779403.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779405.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779407.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779409.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779411.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779413.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779415.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779417.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779419.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779421.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779423.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779425.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779427.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779429.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779431.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779433.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779435.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779437.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779439.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779441.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779443.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779445.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779447.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779449.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779451.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779453.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779455.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779457.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1280,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779459.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779461.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779463.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779465.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779467.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779469.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779471.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779473.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779475.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779477.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779479.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779481.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779483.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779485.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779487.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1272,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779489.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779491.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779493.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1270,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779495.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1263,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779497.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779499.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1261,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779501.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779503.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779505.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779507.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779509.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779511.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 62"
+      } ]
+    }, {
+      "pageNumber" : 63,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/63",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779513.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 63"
+      } ]
+    }, {
+      "pageNumber" : 64,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/1/64",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1077,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/1/tomoe-ga-yuku-3779515.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 1 - Page 64"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2",
+    "chapterTitle" : "Tomoe ga Yuku! 2",
+    "chapterDescription" : "",
+    "chapterDate" : "07/17/2013",
+    "pageCount" : 53,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300089.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300091.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300093.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300095.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300097.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300099.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300101.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300103.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300105.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300107.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300109.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300111.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300113.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300115.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300117.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300119.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300121.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300123.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300125.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300127.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300129.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1226,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300131.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300133.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1276,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300135.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1244,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300137.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300139.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300141.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300143.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1207,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300145.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300147.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1283,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300149.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300151.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300153.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300155.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1306,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300157.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300159.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300161.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300163.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300165.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300167.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300169.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300171.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300173.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300175.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300177.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300179.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1250,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300181.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300183.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300185.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300187.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 547,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300189.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300191.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/2/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 567,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/2/tomoe-ga-yuku-4300193.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 2 - Page 53"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3",
+    "chapterTitle" : "Tomoe ga Yuku! 3",
+    "chapterDescription" : "",
+    "chapterDate" : "08/04/2014",
+    "pageCount" : 47,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 547,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097357.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097359.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097361.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097363.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097365.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097367.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097369.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097371.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097373.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097375.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097377.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097379.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097381.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097383.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097385.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097387.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097389.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097391.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097393.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1244,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097395.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097397.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097399.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1232,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097401.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1226,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097403.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097405.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097407.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1277,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097409.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097411.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097413.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097415.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1258,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097417.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1251,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097419.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097421.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097423.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097425.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097427.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097429.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097431.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097433.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097435.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097437.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1274,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097439.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097441.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097443.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1273,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097445.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097447.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/3/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/3/tomoe-ga-yuku-5097449.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 3 - Page 47"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4",
+    "chapterTitle" : "Tomoe ga Yuku! 4",
+    "chapterDescription" : "",
+    "chapterDate" : "08/04/2014",
+    "pageCount" : 41,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 547,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097451.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097453.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 531,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097455.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097457.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097459.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097461.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1282,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097463.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097465.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097467.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097469.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097471.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097473.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097475.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097477.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097479.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097481.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097483.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097485.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1312,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097487.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097489.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097491.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097493.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097495.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097497.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097499.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097501.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097503.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097505.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097507.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097509.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097511.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1255,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097513.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097515.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097517.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097519.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097521.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097523.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097525.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1265,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097527.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1260,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097529.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/4/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 779,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/4/tomoe-ga-yuku-5097531.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 4 - Page 41"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5",
+    "chapterTitle" : "Tomoe ga Yuku! 5",
+    "chapterDescription" : "",
+    "chapterDate" : "08/04/2014",
+    "pageCount" : 50,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1198,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097533.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097535.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097537.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097539.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097541.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097543.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097545.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097547.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097549.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097551.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097553.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097555.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097557.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097559.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097561.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097563.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097565.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097567.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097569.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097571.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097573.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097575.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097577.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097579.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1207,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097581.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097583.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097585.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097587.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097589.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097591.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097593.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097595.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097597.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097599.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097601.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097603.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097605.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097607.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097609.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097611.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i9.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097613.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1237,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097615.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097617.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097619.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097621.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097623.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1268,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097625.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 551,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097627.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097629.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/5/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/5/tomoe-ga-yuku-5097631.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 5 - Page 50"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6",
+    "chapterTitle" : "Tomoe ga Yuku! 6",
+    "chapterDescription" : "",
+    "chapterDate" : "11/25/2014",
+    "pageCount" : 47,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318339.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318341.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 601,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318343.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318345.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318347.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318349.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318351.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318353.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318355.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318357.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318359.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318361.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318363.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318365.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318367.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318369.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318371.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318373.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318375.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318377.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318379.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318381.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i2.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318383.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318385.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318387.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318389.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318391.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318393.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318395.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1259,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318397.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318399.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318401.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318403.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318405.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318407.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318409.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i7.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318411.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318413.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i5.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318415.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1264,
+        "imageUrl" : "http://i3.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318417.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1269,
+        "imageUrl" : "http://i1.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318419.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318421.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318423.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i8.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318425.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i10.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318427.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i4.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318429.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/tomoe-ga-yuku/6/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1267,
+        "imageUrl" : "http://i6.mangareader.net/tomoe-ga-yuku/6/tomoe-ga-yuku-5318431.jpg",
+        "imageAlt" : "Tomoe ga Yuku! 6 - Page 47"
+      } ]
+    } ]
+  } ]
+}

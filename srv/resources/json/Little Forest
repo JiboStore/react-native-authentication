@@ -1,0 +1,533 @@
+{
+  "mangaTitle" : "Little Forest",
+  "mangaUrl" : "http://www.mangareader.net/little-forest",
+  "mangaThumbUrl" : "http://s2.mangareader.net/cover/little-forest/little-forest-r0.jpg",
+  "mangaChaptersInfo" : "4 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Drama, Seinen, Slice of Life",
+  "chapterCount" : 4,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/little-forest/1",
+    "chapterTitle" : "Little Forest 1",
+    "chapterDescription" : "",
+    "chapterDate" : "01/18/2010",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/little-forest/1/little-forest-1152236.jpg",
+        "imageAlt" : "Little Forest 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 435,
+        "imageUrl" : "http://i6.mangareader.net/little-forest/1/little-forest-1152237.jpg",
+        "imageAlt" : "Little Forest 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 693,
+        "imageUrl" : "http://i10.mangareader.net/little-forest/1/little-forest-1152238.jpg",
+        "imageAlt" : "Little Forest 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 743,
+        "imageUrl" : "http://i4.mangareader.net/little-forest/1/little-forest-1152239.jpg",
+        "imageAlt" : "Little Forest 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/little-forest/1/little-forest-1152240.jpg",
+        "imageAlt" : "Little Forest 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i10.mangareader.net/little-forest/1/little-forest-1152241.jpg",
+        "imageAlt" : "Little Forest 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/little-forest/1/little-forest-1152242.jpg",
+        "imageAlt" : "Little Forest 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i10.mangareader.net/little-forest/1/little-forest-1152243.jpg",
+        "imageAlt" : "Little Forest 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/little-forest/1/little-forest-1152244.jpg",
+        "imageAlt" : "Little Forest 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/little-forest/1/little-forest-1152245.jpg",
+        "imageAlt" : "Little Forest 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/little-forest/1/little-forest-1152246.jpg",
+        "imageAlt" : "Little Forest 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/little-forest/1/little-forest-1152247.jpg",
+        "imageAlt" : "Little Forest 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/little-forest/1/little-forest-1152248.jpg",
+        "imageAlt" : "Little Forest 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/little-forest/1/little-forest-1152249.jpg",
+        "imageAlt" : "Little Forest 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/little-forest/1/little-forest-1152250.jpg",
+        "imageAlt" : "Little Forest 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/little-forest/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/little-forest/1/little-forest-1152251.jpg",
+        "imageAlt" : "Little Forest 1 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/little-forest/2",
+    "chapterTitle" : "Little Forest 2",
+    "chapterDescription" : "",
+    "chapterDate" : "01/18/2010",
+    "pageCount" : 13,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/little-forest/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/little-forest/2/little-forest-1152252.jpg",
+        "imageAlt" : "Little Forest 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/little-forest/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 435,
+        "imageUrl" : "http://i3.mangareader.net/little-forest/2/little-forest-1152253.jpg",
+        "imageAlt" : "Little Forest 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/little-forest/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 380,
+        "imageUrl" : "http://i3.mangareader.net/little-forest/2/little-forest-1152254.jpg",
+        "imageAlt" : "Little Forest 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/little-forest/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/little-forest/2/little-forest-1152255.jpg",
+        "imageAlt" : "Little Forest 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/little-forest/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/little-forest/2/little-forest-1152256.jpg",
+        "imageAlt" : "Little Forest 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/little-forest/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/little-forest/2/little-forest-1152257.jpg",
+        "imageAlt" : "Little Forest 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/little-forest/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/little-forest/2/little-forest-1152258.jpg",
+        "imageAlt" : "Little Forest 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/little-forest/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/little-forest/2/little-forest-1152259.jpg",
+        "imageAlt" : "Little Forest 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/little-forest/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/little-forest/2/little-forest-1152260.jpg",
+        "imageAlt" : "Little Forest 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/little-forest/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/little-forest/2/little-forest-1152261.jpg",
+        "imageAlt" : "Little Forest 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/little-forest/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/little-forest/2/little-forest-1152262.jpg",
+        "imageAlt" : "Little Forest 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/little-forest/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/little-forest/2/little-forest-1152263.jpg",
+        "imageAlt" : "Little Forest 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/little-forest/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/little-forest/2/little-forest-1152264.jpg",
+        "imageAlt" : "Little Forest 2 - Page 13"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/little-forest/3",
+    "chapterTitle" : "Little Forest 3",
+    "chapterDescription" : "",
+    "chapterDate" : "01/18/2010",
+    "pageCount" : 14,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/little-forest/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/little-forest/3/little-forest-1152265.jpg",
+        "imageAlt" : "Little Forest 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/little-forest/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 435,
+        "imageUrl" : "http://i4.mangareader.net/little-forest/3/little-forest-1152266.jpg",
+        "imageAlt" : "Little Forest 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/little-forest/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 970,
+        "imageUrl" : "http://i8.mangareader.net/little-forest/3/little-forest-1152267.jpg",
+        "imageAlt" : "Little Forest 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/little-forest/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i2.mangareader.net/little-forest/3/little-forest-1152268.jpg",
+        "imageAlt" : "Little Forest 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/little-forest/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i4.mangareader.net/little-forest/3/little-forest-1152269.jpg",
+        "imageAlt" : "Little Forest 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/little-forest/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/little-forest/3/little-forest-1152270.jpg",
+        "imageAlt" : "Little Forest 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/little-forest/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/little-forest/3/little-forest-1152271.jpg",
+        "imageAlt" : "Little Forest 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/little-forest/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/little-forest/3/little-forest-1152272.jpg",
+        "imageAlt" : "Little Forest 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/little-forest/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i8.mangareader.net/little-forest/3/little-forest-1152273.jpg",
+        "imageAlt" : "Little Forest 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/little-forest/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/little-forest/3/little-forest-1152274.jpg",
+        "imageAlt" : "Little Forest 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/little-forest/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i8.mangareader.net/little-forest/3/little-forest-1152275.jpg",
+        "imageAlt" : "Little Forest 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/little-forest/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/little-forest/3/little-forest-1152276.jpg",
+        "imageAlt" : "Little Forest 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/little-forest/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/little-forest/3/little-forest-1152277.jpg",
+        "imageAlt" : "Little Forest 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/little-forest/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/little-forest/3/little-forest-1152278.jpg",
+        "imageAlt" : "Little Forest 3 - Page 14"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/little-forest/4",
+    "chapterTitle" : "Little Forest 4",
+    "chapterDescription" : "",
+    "chapterDate" : "02/12/2010",
+    "pageCount" : 12,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/little-forest/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/little-forest/4/little-forest-1202573.jpg",
+        "imageAlt" : "Little Forest 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/little-forest/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 435,
+        "imageUrl" : "http://i10.mangareader.net/little-forest/4/little-forest-1202574.jpg",
+        "imageAlt" : "Little Forest 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/little-forest/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 669,
+        "imageUrl" : "http://i10.mangareader.net/little-forest/4/little-forest-1202575.jpg",
+        "imageAlt" : "Little Forest 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/little-forest/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i2.mangareader.net/little-forest/4/little-forest-1202576.jpg",
+        "imageAlt" : "Little Forest 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/little-forest/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/little-forest/4/little-forest-1202577.jpg",
+        "imageAlt" : "Little Forest 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/little-forest/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/little-forest/4/little-forest-1202578.jpg",
+        "imageAlt" : "Little Forest 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/little-forest/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i8.mangareader.net/little-forest/4/little-forest-1202579.jpg",
+        "imageAlt" : "Little Forest 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/little-forest/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/little-forest/4/little-forest-1202580.jpg",
+        "imageAlt" : "Little Forest 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/little-forest/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i10.mangareader.net/little-forest/4/little-forest-1202581.jpg",
+        "imageAlt" : "Little Forest 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/little-forest/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i6.mangareader.net/little-forest/4/little-forest-1202582.jpg",
+        "imageAlt" : "Little Forest 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/little-forest/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i8.mangareader.net/little-forest/4/little-forest-1202583.jpg",
+        "imageAlt" : "Little Forest 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/little-forest/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/little-forest/4/little-forest-1202584.jpg",
+        "imageAlt" : "Little Forest 4 - Page 12"
+      } ]
+    } ]
+  } ]
+}

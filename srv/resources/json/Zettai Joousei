@@ -1,0 +1,3514 @@
+{
+  "mangaTitle" : "Zettai Joousei",
+  "mangaUrl" : "http://www.mangareader.net/zettai-joousei",
+  "mangaThumbUrl" : "http://s2.mangareader.net/cover/zettai-joousei/zettai-joousei-r0.jpg",
+  "mangaChaptersInfo" : "13 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Comedy, Romance, School Life, Shounen",
+  "chapterCount" : 12,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/zettai-joousei/1",
+    "chapterTitle" : "Zettai Joousei 1",
+    "chapterDescription" : "",
+    "chapterDate" : "12/26/2010",
+    "pageCount" : 53,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 338,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/1/zettai-joousei-1709019.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 613,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/1/zettai-joousei-1709020.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 615,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/1/zettai-joousei-1709021.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/1/zettai-joousei-1709022.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 568,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/1/zettai-joousei-1709023.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/1/zettai-joousei-1709024.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/1/zettai-joousei-1709025.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/1/zettai-joousei-1709026.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/1/zettai-joousei-1709027.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/1/zettai-joousei-1709028.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/1/zettai-joousei-1709029.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/1/zettai-joousei-1709031.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/1/zettai-joousei-1709032.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/1/zettai-joousei-1709035.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/1/zettai-joousei-1709036.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/1/zettai-joousei-1709038.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/1/zettai-joousei-1709039.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/1/zettai-joousei-1709040.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/1/zettai-joousei-1709042.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/1/zettai-joousei-1709043.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/1/zettai-joousei-1709045.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/1/zettai-joousei-1709046.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/1/zettai-joousei-1709049.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/1/zettai-joousei-1709050.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/1/zettai-joousei-1709052.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/1/zettai-joousei-1709054.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/1/zettai-joousei-1709056.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/1/zettai-joousei-1709060.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/1/zettai-joousei-1709064.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/1/zettai-joousei-1709067.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/1/zettai-joousei-1709077.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/1/zettai-joousei-1709079.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/1/zettai-joousei-1709084.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/1/zettai-joousei-1709089.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/1/zettai-joousei-1709090.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/1/zettai-joousei-1709094.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/1/zettai-joousei-1709107.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/1/zettai-joousei-1709118.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/1/zettai-joousei-1709122.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/1/zettai-joousei-1709124.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/1/zettai-joousei-1709126.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/1/zettai-joousei-1709129.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/1/zettai-joousei-1709130.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/1/zettai-joousei-1709137.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/1/zettai-joousei-1709139.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 591,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/1/zettai-joousei-1709144.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/1/zettai-joousei-1709148.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/1/zettai-joousei-1709153.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 585,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/1/zettai-joousei-1709156.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/1/zettai-joousei-1709159.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/1/zettai-joousei-1709161.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/1/zettai-joousei-1709163.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/1/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/1/zettai-joousei-1709164.jpg",
+        "imageAlt" : "Zettai Joousei 1 - Page 53"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-joousei/2",
+    "chapterTitle" : "Zettai Joousei 2",
+    "chapterDescription" : "",
+    "chapterDate" : "12/26/2010",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/2/zettai-joousei-1709030.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/2/zettai-joousei-1709033.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/2/zettai-joousei-1709034.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 593,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/2/zettai-joousei-1709037.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/2/zettai-joousei-1709041.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/2/zettai-joousei-1709044.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/2/zettai-joousei-1709047.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/2/zettai-joousei-1709048.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/2/zettai-joousei-1709051.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/2/zettai-joousei-1709053.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/2/zettai-joousei-1709055.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/2/zettai-joousei-1709057.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/2/zettai-joousei-1709058.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/2/zettai-joousei-1709059.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/2/zettai-joousei-1709061.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/2/zettai-joousei-1709062.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/2/zettai-joousei-1709066.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/2/zettai-joousei-1709070.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/2/zettai-joousei-1709073.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/2/zettai-joousei-1709075.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/2/zettai-joousei-1709080.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/2/zettai-joousei-1709081.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/2/zettai-joousei-1709083.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/2/zettai-joousei-1709086.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/2/zettai-joousei-1709092.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/2/zettai-joousei-1709093.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/2/zettai-joousei-1709096.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/2/zettai-joousei-1709097.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/2/zettai-joousei-1709099.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/2/zettai-joousei-1709102.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/2/zettai-joousei-1709105.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/2/zettai-joousei-1709110.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/2/zettai-joousei-1709112.jpg",
+        "imageAlt" : "Zettai Joousei 2 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-joousei/3",
+    "chapterTitle" : "Zettai Joousei 3",
+    "chapterDescription" : "",
+    "chapterDate" : "12/26/2010",
+    "pageCount" : 24,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/3/zettai-joousei-1709063.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/3/zettai-joousei-1709065.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/3/zettai-joousei-1709068.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/3/zettai-joousei-1709069.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/3/zettai-joousei-1709071.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/3/zettai-joousei-1709072.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/3/zettai-joousei-1709074.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/3/zettai-joousei-1709076.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/3/zettai-joousei-1709078.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/3/zettai-joousei-1709082.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/3/zettai-joousei-1709085.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/3/zettai-joousei-1709087.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/3/zettai-joousei-1709088.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/3/zettai-joousei-1709091.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/3/zettai-joousei-1709095.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/3/zettai-joousei-1709098.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/3/zettai-joousei-1709100.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/3/zettai-joousei-1709101.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/3/zettai-joousei-1709104.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/3/zettai-joousei-1709106.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/3/zettai-joousei-1709111.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/3/zettai-joousei-1709114.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/3/zettai-joousei-1709115.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/3/zettai-joousei-1709120.jpg",
+        "imageAlt" : "Zettai Joousei 3 - Page 24"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-joousei/4",
+    "chapterTitle" : "Zettai Joousei 4",
+    "chapterDescription" : "",
+    "chapterDate" : "12/26/2010",
+    "pageCount" : 30,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/4/zettai-joousei-1709103.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/4/zettai-joousei-1709108.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/4/zettai-joousei-1709109.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/4/zettai-joousei-1709113.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/4/zettai-joousei-1709116.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/4/zettai-joousei-1709117.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/4/zettai-joousei-1709119.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/4/zettai-joousei-1709125.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/4/zettai-joousei-1709128.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/4/zettai-joousei-1709135.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/4/zettai-joousei-1709138.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/4/zettai-joousei-1709141.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/4/zettai-joousei-1709143.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/4/zettai-joousei-1709145.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/4/zettai-joousei-1709147.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/4/zettai-joousei-1709150.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/4/zettai-joousei-1709151.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/4/zettai-joousei-1709154.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/4/zettai-joousei-1709158.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/4/zettai-joousei-1709160.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/4/zettai-joousei-1709165.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/4/zettai-joousei-1709168.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/4/zettai-joousei-1709169.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/4/zettai-joousei-1709172.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/4/zettai-joousei-1709173.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/4/zettai-joousei-1709176.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/4/zettai-joousei-1709179.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/4/zettai-joousei-1709181.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/4/zettai-joousei-1709183.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/4/zettai-joousei-1709184.jpg",
+        "imageAlt" : "Zettai Joousei 4 - Page 30"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-joousei/5",
+    "chapterTitle" : "Zettai Joousei 5",
+    "chapterDescription" : "",
+    "chapterDate" : "01/28/2011",
+    "pageCount" : 50,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/5/zettai-joousei-2080511.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/5/zettai-joousei-2080513.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/5/zettai-joousei-2080515.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/5/zettai-joousei-2080517.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/5/zettai-joousei-2080519.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/5/zettai-joousei-2080521.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/5/zettai-joousei-2080523.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/5/zettai-joousei-2080525.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/5/zettai-joousei-2080527.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/5/zettai-joousei-2080529.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/5/zettai-joousei-2080531.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/5/zettai-joousei-2080533.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/5/zettai-joousei-2080535.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/5/zettai-joousei-2080537.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/5/zettai-joousei-2080539.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/5/zettai-joousei-2080541.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/5/zettai-joousei-2080543.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/5/zettai-joousei-2080545.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/5/zettai-joousei-2080547.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/5/zettai-joousei-2080549.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/5/zettai-joousei-2080551.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/5/zettai-joousei-2080553.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/5/zettai-joousei-2080555.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/5/zettai-joousei-2080557.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/5/zettai-joousei-2080559.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/5/zettai-joousei-2080561.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/5/zettai-joousei-2080563.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/5/zettai-joousei-2080565.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/5/zettai-joousei-2080567.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/5/zettai-joousei-2080569.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/5/zettai-joousei-2080571.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/5/zettai-joousei-2080573.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/5/zettai-joousei-2080575.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/5/zettai-joousei-2080577.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/5/zettai-joousei-2080579.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/5/zettai-joousei-2080581.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/5/zettai-joousei-2080583.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/5/zettai-joousei-2080585.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/5/zettai-joousei-2080587.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/5/zettai-joousei-2080589.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/5/zettai-joousei-2080591.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/5/zettai-joousei-2080593.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/5/zettai-joousei-2080595.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/5/zettai-joousei-2080597.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/5/zettai-joousei-2080599.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/5/zettai-joousei-2080601.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/5/zettai-joousei-2080603.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/5/zettai-joousei-2080605.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/5/zettai-joousei-2080607.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/5/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/5/zettai-joousei-2080609.jpg",
+        "imageAlt" : "Zettai Joousei 5 - Page 50"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-joousei/6",
+    "chapterTitle" : "Zettai Joousei 6",
+    "chapterDescription" : "",
+    "chapterDate" : "01/21/2011",
+    "pageCount" : 30,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/6/zettai-joousei-1775777.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/6/zettai-joousei-1775779.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/6/zettai-joousei-1775781.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/6/zettai-joousei-1775783.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/6/zettai-joousei-1775785.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/6/zettai-joousei-1775787.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/6/zettai-joousei-1775789.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/6/zettai-joousei-1775791.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/6/zettai-joousei-1775793.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/6/zettai-joousei-1775795.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/6/zettai-joousei-1775797.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/6/zettai-joousei-1775799.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/6/zettai-joousei-1775801.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/6/zettai-joousei-1775803.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/6/zettai-joousei-1775805.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/6/zettai-joousei-1775807.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/6/zettai-joousei-1775809.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 557,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/6/zettai-joousei-1775811.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 553,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/6/zettai-joousei-1775813.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/6/zettai-joousei-1775815.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/6/zettai-joousei-1775817.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/6/zettai-joousei-1775819.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/6/zettai-joousei-1775821.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/6/zettai-joousei-1775823.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/6/zettai-joousei-1775825.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/6/zettai-joousei-1775827.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/6/zettai-joousei-1775829.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/6/zettai-joousei-1775831.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1110,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/6/zettai-joousei-1775833.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/6/zettai-joousei-1775835.jpg",
+        "imageAlt" : "Zettai Joousei 6 - Page 30"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-joousei/7",
+    "chapterTitle" : "Zettai Joousei 7",
+    "chapterDescription" : "",
+    "chapterDate" : "03/09/2011",
+    "pageCount" : 25,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/7/zettai-joousei-2080461.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/7/zettai-joousei-2080463.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/7/zettai-joousei-2080465.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/7/zettai-joousei-2080467.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/7/zettai-joousei-2080469.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/7/zettai-joousei-2080471.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/7/zettai-joousei-2080473.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/7/zettai-joousei-2080475.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/7/zettai-joousei-2080477.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/7/zettai-joousei-2080479.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/7/zettai-joousei-2080481.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/7/zettai-joousei-2080483.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/7/zettai-joousei-2080485.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/7/zettai-joousei-2080487.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/7/zettai-joousei-2080489.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/7/zettai-joousei-2080491.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/7/zettai-joousei-2080493.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/7/zettai-joousei-2080495.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/7/zettai-joousei-2080497.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/7/zettai-joousei-2080499.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/7/zettai-joousei-2080501.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/7/zettai-joousei-2080503.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/7/zettai-joousei-2080505.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/7/zettai-joousei-2080507.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 800,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/7/zettai-joousei-2080509.jpg",
+        "imageAlt" : "Zettai Joousei 7 - Page 25"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-joousei/8",
+    "chapterTitle" : "Zettai Joousei 8",
+    "chapterDescription" : "",
+    "chapterDate" : "03/11/2011",
+    "pageCount" : 36,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/8/zettai-joousei-2080611.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/8/zettai-joousei-2080613.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/8/zettai-joousei-2080615.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/8/zettai-joousei-2080617.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/8/zettai-joousei-2080619.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/8/zettai-joousei-2080621.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/8/zettai-joousei-2080623.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/8/zettai-joousei-2080625.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/8/zettai-joousei-2080627.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/8/zettai-joousei-2080629.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/8/zettai-joousei-2080631.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/8/zettai-joousei-2080633.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/8/zettai-joousei-2080635.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/8/zettai-joousei-2080637.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/8/zettai-joousei-2080639.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/8/zettai-joousei-2080641.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/8/zettai-joousei-2080643.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/8/zettai-joousei-2080645.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/8/zettai-joousei-2080647.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/8/zettai-joousei-2080649.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/8/zettai-joousei-2080651.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/8/zettai-joousei-2080653.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/8/zettai-joousei-2080655.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/8/zettai-joousei-2080657.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/8/zettai-joousei-2080659.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/8/zettai-joousei-2080661.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/8/zettai-joousei-2080663.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/8/zettai-joousei-2080665.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/8/zettai-joousei-2080667.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/8/zettai-joousei-2080669.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/8/zettai-joousei-2080671.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/8/zettai-joousei-2080673.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/8/zettai-joousei-2080675.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/8/zettai-joousei-2080677.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/8/zettai-joousei-2080679.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/8/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/8/zettai-joousei-2080681.jpg",
+        "imageAlt" : "Zettai Joousei 8 - Page 36"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-joousei/9",
+    "chapterTitle" : "Zettai Joousei 9",
+    "chapterDescription" : "",
+    "chapterDate" : "03/11/2011",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/9/zettai-joousei-2080683.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/9/zettai-joousei-2080685.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/9/zettai-joousei-2080687.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/9/zettai-joousei-2080689.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/9/zettai-joousei-2080691.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/9/zettai-joousei-2080693.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/9/zettai-joousei-2080695.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/9/zettai-joousei-2080697.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/9/zettai-joousei-2080699.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/9/zettai-joousei-2080701.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/9/zettai-joousei-2080703.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/9/zettai-joousei-2080705.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/9/zettai-joousei-2080707.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/9/zettai-joousei-2080709.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/9/zettai-joousei-2080711.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/9/zettai-joousei-2080713.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/9/zettai-joousei-2080715.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/9/zettai-joousei-2080717.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/9/zettai-joousei-2080719.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/9/zettai-joousei-2080721.jpg",
+        "imageAlt" : "Zettai Joousei 9 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-joousei/10",
+    "chapterTitle" : "Zettai Joousei 10",
+    "chapterDescription" : "",
+    "chapterDate" : "03/22/2011",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/10/zettai-joousei-2108411.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/10/zettai-joousei-2108413.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/10/zettai-joousei-2108415.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/10/zettai-joousei-2108417.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/10/zettai-joousei-2108419.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/10/zettai-joousei-2108421.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/10/zettai-joousei-2108423.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/10/zettai-joousei-2108425.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/10/zettai-joousei-2108427.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/10/zettai-joousei-2108429.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/10/zettai-joousei-2108431.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/10/zettai-joousei-2108433.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/10/zettai-joousei-2108435.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/10/zettai-joousei-2108437.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/10/zettai-joousei-2108439.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/10/zettai-joousei-2108441.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/10/zettai-joousei-2108443.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/10/zettai-joousei-2108445.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/10/zettai-joousei-2108447.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/10/zettai-joousei-2108449.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/10/zettai-joousei-2108451.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/10/zettai-joousei-2108453.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/10/zettai-joousei-2108455.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/zettai-joousei/10/zettai-joousei-2108457.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/10/zettai-joousei-2108459.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 585,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/10/zettai-joousei-2108461.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 587,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/10/zettai-joousei-2108463.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/10/zettai-joousei-2108465.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/10/zettai-joousei-2108467.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/10/zettai-joousei-2108469.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/10/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/10/zettai-joousei-2108471.jpg",
+        "imageAlt" : "Zettai Joousei 10 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-joousei/11",
+    "chapterTitle" : "Zettai Joousei 11",
+    "chapterDescription" : "",
+    "chapterDate" : "04/21/2011",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/11/zettai-joousei-2178943.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/11/zettai-joousei-2178945.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/11/zettai-joousei-2178947.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/11/zettai-joousei-2178949.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/11/zettai-joousei-2178951.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/11/zettai-joousei-2178953.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/11/zettai-joousei-2178955.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/11/zettai-joousei-2178957.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/11/zettai-joousei-2178959.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/11/zettai-joousei-2178961.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/11/zettai-joousei-2178963.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/11/zettai-joousei-2178965.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/11/zettai-joousei-2178967.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/11/zettai-joousei-2178969.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/11/zettai-joousei-2178971.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/11/zettai-joousei-2178973.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/11/zettai-joousei-2178975.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/11/zettai-joousei-2178977.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/11/zettai-joousei-2178979.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/11/zettai-joousei-2178981.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/11/zettai-joousei-2178983.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/11/zettai-joousei-2178985.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/11/zettai-joousei-2178987.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i6.mangareader.net/zettai-joousei/11/zettai-joousei-2178989.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/11/zettai-joousei-2178991.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/11/zettai-joousei-2178993.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/11/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/11/zettai-joousei-2178995.jpg",
+        "imageAlt" : "Zettai Joousei 11 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/zettai-joousei/12",
+    "chapterTitle" : "Zettai Joousei 12",
+    "chapterDescription" : "",
+    "chapterDate" : "04/21/2011",
+    "pageCount" : 21,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/12/zettai-joousei-2178997.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/12/zettai-joousei-2178999.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/12/zettai-joousei-2179001.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/12/zettai-joousei-2179003.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/12/zettai-joousei-2179005.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i7.mangareader.net/zettai-joousei/12/zettai-joousei-2179007.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/zettai-joousei/12/zettai-joousei-2179009.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/12/zettai-joousei-2179011.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/12/zettai-joousei-2179013.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/12/zettai-joousei-2179015.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/zettai-joousei/12/zettai-joousei-2179017.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/zettai-joousei/12/zettai-joousei-2179019.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/12/zettai-joousei-2179021.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/12/zettai-joousei-2179023.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/zettai-joousei/12/zettai-joousei-2179025.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/zettai-joousei/12/zettai-joousei-2179027.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/zettai-joousei/12/zettai-joousei-2179029.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/12/zettai-joousei-2179031.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/12/zettai-joousei-2179033.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/12/zettai-joousei-2179035.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/zettai-joousei/12/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1120,
+        "imageUrl" : "http://i8.mangareader.net/zettai-joousei/12/zettai-joousei-2179037.jpg",
+        "imageAlt" : "Zettai Joousei 12 - Page 21"
+      } ]
+    } ]
+  } ]
+}

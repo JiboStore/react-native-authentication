@@ -1,0 +1,5425 @@
+{
+  "mangaTitle" : "Nakanmon!",
+  "mangaUrl" : "http://www.mangareader.net/nakanmon",
+  "mangaThumbUrl" : "http://s2.mangareader.net/cover/nakanmon/nakanmon-r0.jpg",
+  "mangaChaptersInfo" : "15 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Comedy, Romance, School Life, Shoujo",
+  "chapterCount" : 15,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/nakanmon/1",
+    "chapterTitle" : "Nakanmon! 1",
+    "chapterDescription" : "",
+    "chapterDate" : "06/12/2012",
+    "pageCount" : 47,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1209,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/1/nakanmon-3369341.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/1/nakanmon-3369343.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 492,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/1/nakanmon-3369345.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/1/nakanmon-3369347.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/1/nakanmon-3369349.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/1/nakanmon-3369351.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/1/nakanmon-3369353.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/1/nakanmon-3369355.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1226,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/1/nakanmon-3369357.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/1/nakanmon-3369359.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/1/nakanmon-3369361.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/1/nakanmon-3369363.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/1/nakanmon-3369365.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/1/nakanmon-3369367.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1226,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/1/nakanmon-3369369.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/1/nakanmon-3369371.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/1/nakanmon-3369373.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/1/nakanmon-3369375.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/1/nakanmon-3369377.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/1/nakanmon-3369379.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/1/nakanmon-3369381.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/1/nakanmon-3369383.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/1/nakanmon-3369385.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/1/nakanmon-3369387.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/1/nakanmon-3369389.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/1/nakanmon-3369391.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/1/nakanmon-3369393.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/1/nakanmon-3369395.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/1/nakanmon-3369397.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/1/nakanmon-3369399.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/1/nakanmon-3369401.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/1/nakanmon-3369403.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/1/nakanmon-3369405.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/1/nakanmon-3369407.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/1/nakanmon-3369409.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/1/nakanmon-3369411.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/1/nakanmon-3369413.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/1/nakanmon-3369415.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/1/nakanmon-3369417.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/1/nakanmon-3369419.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/1/nakanmon-3369421.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/1/nakanmon-3369423.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/1/nakanmon-3369425.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/1/nakanmon-3369427.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/1/nakanmon-3369429.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/1/nakanmon-3369431.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/1/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/1/nakanmon-3369433.jpg",
+        "imageAlt" : "Nakanmon! 1 - Page 47"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/nakanmon/2",
+    "chapterTitle" : "Nakanmon! 2",
+    "chapterDescription" : "",
+    "chapterDate" : "07/31/2012",
+    "pageCount" : 40,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/2/nakanmon-3491087.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/2/nakanmon-3491089.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/2/nakanmon-3491091.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/2/nakanmon-3491093.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/2/nakanmon-3491095.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/2/nakanmon-3491097.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/2/nakanmon-3491099.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/2/nakanmon-3491101.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/2/nakanmon-3491103.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/2/nakanmon-3491105.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/2/nakanmon-3491107.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/2/nakanmon-3491109.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/2/nakanmon-3491111.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/2/nakanmon-3491113.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/2/nakanmon-3491115.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/2/nakanmon-3491117.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/2/nakanmon-3491119.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/2/nakanmon-3491121.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/2/nakanmon-3491123.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/2/nakanmon-3491125.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/2/nakanmon-3491127.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/2/nakanmon-3491129.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/2/nakanmon-3491131.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/2/nakanmon-3491133.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/2/nakanmon-3491135.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/2/nakanmon-3491137.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/2/nakanmon-3491139.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/2/nakanmon-3491141.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/2/nakanmon-3491143.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/2/nakanmon-3491145.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/2/nakanmon-3491147.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/2/nakanmon-3491149.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/2/nakanmon-3491151.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/2/nakanmon-3491153.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/2/nakanmon-3491155.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/2/nakanmon-3491157.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/2/nakanmon-3491159.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/2/nakanmon-3491161.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/2/nakanmon-3491163.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/2/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/2/nakanmon-3491165.jpg",
+        "imageAlt" : "Nakanmon! 2 - Page 40"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/nakanmon/3",
+    "chapterTitle" : "Nakanmon! 3",
+    "chapterDescription" : "",
+    "chapterDate" : "08/21/2012",
+    "pageCount" : 40,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/3/nakanmon-3539705.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/3/nakanmon-3539707.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/3/nakanmon-3539709.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/3/nakanmon-3539711.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/3/nakanmon-3539713.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/3/nakanmon-3539715.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/3/nakanmon-3539717.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/3/nakanmon-3539719.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/3/nakanmon-3539721.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/3/nakanmon-3539723.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/3/nakanmon-3539725.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/3/nakanmon-3539727.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/3/nakanmon-3539729.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/3/nakanmon-3539731.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/3/nakanmon-3539733.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/3/nakanmon-3539735.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/3/nakanmon-3539737.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/3/nakanmon-3539739.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/3/nakanmon-3539741.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/3/nakanmon-3539743.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/3/nakanmon-3539745.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/3/nakanmon-3539747.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/3/nakanmon-3539749.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/3/nakanmon-3539751.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/3/nakanmon-3539753.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/3/nakanmon-3539755.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/3/nakanmon-3539757.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/3/nakanmon-3539759.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/3/nakanmon-3539761.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/3/nakanmon-3539763.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/3/nakanmon-3539765.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/3/nakanmon-3539767.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/3/nakanmon-3539769.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/3/nakanmon-3539771.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/3/nakanmon-3539773.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/3/nakanmon-3539775.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/3/nakanmon-3539777.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/3/nakanmon-3539779.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/3/nakanmon-3539781.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/3/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/3/nakanmon-3539783.jpg",
+        "imageAlt" : "Nakanmon! 3 - Page 40"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/nakanmon/4",
+    "chapterTitle" : "Nakanmon! 4",
+    "chapterDescription" : "",
+    "chapterDate" : "12/29/2012",
+    "pageCount" : 39,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 764,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/4/nakanmon-3788023.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/4/nakanmon-3788025.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/4/nakanmon-3788027.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/4/nakanmon-3788029.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1315,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/4/nakanmon-3788031.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/4/nakanmon-3788033.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/4/nakanmon-3788035.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/4/nakanmon-3788037.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/4/nakanmon-3788039.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/4/nakanmon-3788041.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/4/nakanmon-3788043.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/4/nakanmon-3788045.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/4/nakanmon-3788047.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/4/nakanmon-3788049.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/4/nakanmon-3788051.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/4/nakanmon-3788053.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/4/nakanmon-3788055.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/4/nakanmon-3788057.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/4/nakanmon-3788059.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/4/nakanmon-3788061.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/4/nakanmon-3788063.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/4/nakanmon-3788065.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/4/nakanmon-3788067.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/4/nakanmon-3788069.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/4/nakanmon-3788071.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/4/nakanmon-3788073.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/4/nakanmon-3788075.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/4/nakanmon-3788077.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/4/nakanmon-3788079.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/4/nakanmon-3788081.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/4/nakanmon-3788083.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/4/nakanmon-3788085.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/4/nakanmon-3788087.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/4/nakanmon-3788089.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/4/nakanmon-3788091.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/4/nakanmon-3788093.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/4/nakanmon-3788095.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/4/nakanmon-3788097.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/4/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1091,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/4/nakanmon-3788099.jpg",
+        "imageAlt" : "Nakanmon! 4 - Page 39"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/nakanmon/5",
+    "chapterTitle" : "Nakanmon! 5",
+    "chapterDescription" : "",
+    "chapterDate" : "01/20/2013",
+    "pageCount" : 48,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 764,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/5/nakanmon-3852971.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/5/nakanmon-3852973.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 569,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/5/nakanmon-3852975.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/5/nakanmon-3852977.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/5/nakanmon-3852979.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/5/nakanmon-3852981.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/5/nakanmon-3852983.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/5/nakanmon-3852985.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/5/nakanmon-3852987.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/5/nakanmon-3852989.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1222,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/5/nakanmon-3852991.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/5/nakanmon-3852993.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/5/nakanmon-3852995.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/5/nakanmon-3852997.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1235,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/5/nakanmon-3852999.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1222,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/5/nakanmon-3853001.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/5/nakanmon-3853003.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1196,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/5/nakanmon-3853005.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/5/nakanmon-3853007.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/5/nakanmon-3853009.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1217,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/5/nakanmon-3853011.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/5/nakanmon-3853013.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1217,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/5/nakanmon-3853015.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1209,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/5/nakanmon-3853017.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/5/nakanmon-3853019.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/5/nakanmon-3853021.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/5/nakanmon-3853023.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/5/nakanmon-3853025.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1232,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/5/nakanmon-3853027.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1235,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/5/nakanmon-3853029.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/5/nakanmon-3853031.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/5/nakanmon-3853033.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/5/nakanmon-3853035.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/5/nakanmon-3853037.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1235,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/5/nakanmon-3853039.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/5/nakanmon-3853041.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/5/nakanmon-3853043.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/5/nakanmon-3853045.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/5/nakanmon-3853047.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/5/nakanmon-3853049.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/5/nakanmon-3853051.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/5/nakanmon-3853053.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/5/nakanmon-3853055.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/5/nakanmon-3853057.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/5/nakanmon-3853059.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/5/nakanmon-3853061.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/5/nakanmon-3853063.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/5/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1091,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/5/nakanmon-3853065.jpg",
+        "imageAlt" : "Nakanmon! 5 - Page 48"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/nakanmon/6",
+    "chapterTitle" : "Nakanmon! 6",
+    "chapterDescription" : "",
+    "chapterDate" : "05/15/2013",
+    "pageCount" : 39,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/6/nakanmon-4148963.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/6/nakanmon-4148965.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1248,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/6/nakanmon-4148967.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1226,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/6/nakanmon-4148969.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/6/nakanmon-4148971.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1232,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/6/nakanmon-4148973.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/6/nakanmon-4148975.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1226,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/6/nakanmon-4148977.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1243,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/6/nakanmon-4148979.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/6/nakanmon-4148981.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/6/nakanmon-4148983.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1222,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/6/nakanmon-4148985.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/6/nakanmon-4148987.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1243,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/6/nakanmon-4148989.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/6/nakanmon-4148991.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/6/nakanmon-4148993.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/6/nakanmon-4148995.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/6/nakanmon-4148997.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1232,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/6/nakanmon-4148999.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1243,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/6/nakanmon-4149001.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/6/nakanmon-4149003.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/6/nakanmon-4149005.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/6/nakanmon-4149007.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1232,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/6/nakanmon-4149009.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/6/nakanmon-4149011.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/6/nakanmon-4149013.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1244,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/6/nakanmon-4149015.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1244,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/6/nakanmon-4149017.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/6/nakanmon-4149019.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/6/nakanmon-4149021.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/6/nakanmon-4149023.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/6/nakanmon-4149025.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/6/nakanmon-4149027.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/6/nakanmon-4149029.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/6/nakanmon-4149031.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/6/nakanmon-4149033.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/6/nakanmon-4149035.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/6/nakanmon-4149037.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/6/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/6/nakanmon-4149039.jpg",
+        "imageAlt" : "Nakanmon! 6 - Page 39"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/nakanmon/7",
+    "chapterTitle" : "Nakanmon! 7",
+    "chapterDescription" : "",
+    "chapterDate" : "05/15/2013",
+    "pageCount" : 39,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/7/nakanmon-4149041.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1204,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/7/nakanmon-4149043.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1204,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/7/nakanmon-4149045.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/7/nakanmon-4149047.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1218,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/7/nakanmon-4149049.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/7/nakanmon-4149051.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1237,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/7/nakanmon-4149053.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/7/nakanmon-4149055.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/7/nakanmon-4149057.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/7/nakanmon-4149059.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1232,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/7/nakanmon-4149061.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1222,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/7/nakanmon-4149063.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1243,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/7/nakanmon-4149065.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/7/nakanmon-4149067.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/7/nakanmon-4149069.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/7/nakanmon-4149071.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/7/nakanmon-4149073.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/7/nakanmon-4149075.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1232,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/7/nakanmon-4149077.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/7/nakanmon-4149079.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1233,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/7/nakanmon-4149081.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1210,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/7/nakanmon-4149083.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/7/nakanmon-4149085.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/7/nakanmon-4149087.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/7/nakanmon-4149089.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1207,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/7/nakanmon-4149091.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/7/nakanmon-4149093.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/7/nakanmon-4149095.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/7/nakanmon-4149097.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/7/nakanmon-4149099.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1266,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/7/nakanmon-4149101.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/7/nakanmon-4149103.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1247,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/7/nakanmon-4149105.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/7/nakanmon-4149107.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1237,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/7/nakanmon-4149109.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1245,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/7/nakanmon-4149111.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1212,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/7/nakanmon-4149113.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1262,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/7/nakanmon-4149115.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/7/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/7/nakanmon-4149117.jpg",
+        "imageAlt" : "Nakanmon! 7 - Page 39"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/nakanmon/8",
+    "chapterTitle" : "Nakanmon! 8",
+    "chapterDescription" : "",
+    "chapterDate" : "05/28/2013",
+    "pageCount" : 43,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/8/nakanmon-4185335.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/8/nakanmon-4185337.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1256,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/8/nakanmon-4185339.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/8/nakanmon-4185341.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1244,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/8/nakanmon-4185343.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/8/nakanmon-4185345.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1245,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/8/nakanmon-4185347.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1226,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/8/nakanmon-4185349.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/8/nakanmon-4185351.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1222,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/8/nakanmon-4185353.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/8/nakanmon-4185355.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/8/nakanmon-4185357.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1224,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/8/nakanmon-4185359.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/8/nakanmon-4185361.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/8/nakanmon-4185363.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/8/nakanmon-4185365.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/8/nakanmon-4185367.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1218,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/8/nakanmon-4185369.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/8/nakanmon-4185371.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1209,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/8/nakanmon-4185373.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1254,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/8/nakanmon-4185375.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/8/nakanmon-4185377.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/8/nakanmon-4185379.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/8/nakanmon-4185381.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/8/nakanmon-4185383.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/8/nakanmon-4185385.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1246,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/8/nakanmon-4185387.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/8/nakanmon-4185389.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/8/nakanmon-4185391.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1222,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/8/nakanmon-4185393.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1249,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/8/nakanmon-4185395.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1222,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/8/nakanmon-4185397.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1237,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/8/nakanmon-4185399.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1235,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/8/nakanmon-4185401.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/8/nakanmon-4185403.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1222,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/8/nakanmon-4185405.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1235,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/8/nakanmon-4185407.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/8/nakanmon-4185409.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1232,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/8/nakanmon-4185411.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/8/nakanmon-4185413.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1241,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/8/nakanmon-4185415.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1231,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/8/nakanmon-4185417.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/8/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1210,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/8/nakanmon-4185419.jpg",
+        "imageAlt" : "Nakanmon! 8 - Page 43"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/nakanmon/9",
+    "chapterTitle" : "Nakanmon! 9",
+    "chapterDescription" : "",
+    "chapterDate" : "06/21/2013",
+    "pageCount" : 39,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/9/nakanmon-4245075.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/9/nakanmon-4245077.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/9/nakanmon-4245079.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/9/nakanmon-4245081.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/9/nakanmon-4245083.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/9/nakanmon-4245085.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/9/nakanmon-4245087.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/9/nakanmon-4245089.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/9/nakanmon-4245091.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/9/nakanmon-4245093.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/9/nakanmon-4245095.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/9/nakanmon-4245097.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/9/nakanmon-4245099.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/9/nakanmon-4245101.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1204,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/9/nakanmon-4245103.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1198,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/9/nakanmon-4245105.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/9/nakanmon-4245107.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/9/nakanmon-4245109.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/9/nakanmon-4245111.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/9/nakanmon-4245113.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/9/nakanmon-4245115.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/9/nakanmon-4245117.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/9/nakanmon-4245119.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/9/nakanmon-4245121.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/9/nakanmon-4245123.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/9/nakanmon-4245125.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/9/nakanmon-4245127.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/9/nakanmon-4245129.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/9/nakanmon-4245131.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/9/nakanmon-4245133.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/9/nakanmon-4245135.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/9/nakanmon-4245137.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/9/nakanmon-4245139.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/9/nakanmon-4245141.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1226,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/9/nakanmon-4245143.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/9/nakanmon-4245145.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1203,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/9/nakanmon-4245147.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/9/nakanmon-4245149.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/9/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/9/nakanmon-4245151.jpg",
+        "imageAlt" : "Nakanmon! 9 - Page 39"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/nakanmon/10",
+    "chapterTitle" : "Nakanmon! 10",
+    "chapterDescription" : "",
+    "chapterDate" : "06/21/2013",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/10/nakanmon-4245153.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/10/nakanmon-4245155.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1199,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/10/nakanmon-4245157.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1210,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/10/nakanmon-4245159.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/10/nakanmon-4245161.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/10/nakanmon-4245163.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/10/nakanmon-4245165.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/10/nakanmon-4245167.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/10/nakanmon-4245169.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/10/nakanmon-4245171.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/10/nakanmon-4245173.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/10/nakanmon-4245175.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1238,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/10/nakanmon-4245177.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/10/nakanmon-4245179.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1239,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/10/nakanmon-4245181.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/10/nakanmon-4245183.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/10/nakanmon-4245185.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/10/nakanmon-4245187.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/10/nakanmon-4245189.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/10/nakanmon-4245191.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1216,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/10/nakanmon-4245193.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/10/nakanmon-4245195.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/10/nakanmon-4245197.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/10/nakanmon-4245199.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/10/nakanmon-4245201.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/10/nakanmon-4245203.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1211,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/10/nakanmon-4245205.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/10/nakanmon-4245207.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/10/nakanmon-4245209.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/10/nakanmon-4245211.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/10/nakanmon-4245213.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/10/nakanmon-4245215.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/10/nakanmon-4245217.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/10/nakanmon-4245219.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/10/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/10/nakanmon-4245221.jpg",
+        "imageAlt" : "Nakanmon! 10 - Page 35"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/nakanmon/11",
+    "chapterTitle" : "Nakanmon! 11",
+    "chapterDescription" : "",
+    "chapterDate" : "07/19/2013",
+    "pageCount" : 36,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/11/nakanmon-4303551.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/11/nakanmon-4303553.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1232,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/11/nakanmon-4303555.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/11/nakanmon-4303557.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/11/nakanmon-4303559.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/11/nakanmon-4303561.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/11/nakanmon-4303563.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1220,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/11/nakanmon-4303565.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1234,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/11/nakanmon-4303567.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1245,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/11/nakanmon-4303569.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/11/nakanmon-4303571.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/11/nakanmon-4303573.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/11/nakanmon-4303575.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1231,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/11/nakanmon-4303577.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/11/nakanmon-4303579.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1218,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/11/nakanmon-4303581.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/11/nakanmon-4303583.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/11/nakanmon-4303585.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/11/nakanmon-4303587.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/11/nakanmon-4303589.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/11/nakanmon-4303591.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/11/nakanmon-4303593.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1209,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/11/nakanmon-4303595.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1227,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/11/nakanmon-4303597.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1230,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/11/nakanmon-4303599.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1219,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/11/nakanmon-4303601.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/11/nakanmon-4303603.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/11/nakanmon-4303605.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/11/nakanmon-4303607.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/11/nakanmon-4303609.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1242,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/11/nakanmon-4303611.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/11/nakanmon-4303613.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/11/nakanmon-4303615.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/11/nakanmon-4303617.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/11/nakanmon-4303619.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/11/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/11/nakanmon-4303621.jpg",
+        "imageAlt" : "Nakanmon! 11 - Page 36"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/nakanmon/12",
+    "chapterTitle" : "Nakanmon! 12",
+    "chapterDescription" : "",
+    "chapterDate" : "07/19/2013",
+    "pageCount" : 38,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/12/nakanmon-4303623.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/12/nakanmon-4303625.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/12/nakanmon-4303627.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/12/nakanmon-4303629.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/12/nakanmon-4303631.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/12/nakanmon-4303633.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/12/nakanmon-4303635.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/12/nakanmon-4303637.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/12/nakanmon-4303639.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/12/nakanmon-4303641.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/12/nakanmon-4303643.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/12/nakanmon-4303645.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/12/nakanmon-4303647.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/12/nakanmon-4303649.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/12/nakanmon-4303651.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/12/nakanmon-4303653.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/12/nakanmon-4303655.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/12/nakanmon-4303657.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/12/nakanmon-4303659.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/12/nakanmon-4303661.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/12/nakanmon-4303663.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/12/nakanmon-4303665.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/12/nakanmon-4303667.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/12/nakanmon-4303669.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/12/nakanmon-4303671.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/12/nakanmon-4303673.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/12/nakanmon-4303675.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/12/nakanmon-4303677.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/12/nakanmon-4303679.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/12/nakanmon-4303681.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/12/nakanmon-4303683.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/12/nakanmon-4303685.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/12/nakanmon-4303687.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/12/nakanmon-4303689.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/12/nakanmon-4303691.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/12/nakanmon-4303693.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/12/nakanmon-4303695.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/12/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/12/nakanmon-4303697.jpg",
+        "imageAlt" : "Nakanmon! 12 - Page 38"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/nakanmon/14",
+    "chapterTitle" : "Nakanmon! 14",
+    "chapterDescription" : "",
+    "chapterDate" : "07/29/2013",
+    "pageCount" : 38,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/14/nakanmon-4328289.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/14/nakanmon-4328291.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/14/nakanmon-4328293.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/14/nakanmon-4328295.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/14/nakanmon-4328297.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/14/nakanmon-4328299.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/14/nakanmon-4328301.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/14/nakanmon-4328303.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/14/nakanmon-4328305.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/14/nakanmon-4328307.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/14/nakanmon-4328309.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/14/nakanmon-4328311.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/14/nakanmon-4328313.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/14/nakanmon-4328315.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/14/nakanmon-4328317.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/14/nakanmon-4328319.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/14/nakanmon-4328321.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/14/nakanmon-4328323.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/14/nakanmon-4328325.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/14/nakanmon-4328327.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/14/nakanmon-4328329.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/14/nakanmon-4328331.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/14/nakanmon-4328333.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/14/nakanmon-4328335.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/14/nakanmon-4328337.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/14/nakanmon-4328339.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/14/nakanmon-4328341.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/14/nakanmon-4328343.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/14/nakanmon-4328345.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/14/nakanmon-4328347.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/14/nakanmon-4328349.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/14/nakanmon-4328351.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/14/nakanmon-4328353.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/14/nakanmon-4328355.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/14/nakanmon-4328357.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/14/nakanmon-4328359.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/14/nakanmon-4328361.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/14/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/14/nakanmon-4328363.jpg",
+        "imageAlt" : "Nakanmon! 14 - Page 38"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/nakanmon/15",
+    "chapterTitle" : "Nakanmon! 15",
+    "chapterDescription" : "",
+    "chapterDate" : "07/29/2013",
+    "pageCount" : 38,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/15/nakanmon-4328365.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/15/nakanmon-4328367.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/15/nakanmon-4328369.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/15/nakanmon-4328371.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/15/nakanmon-4328373.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/15/nakanmon-4328375.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/15/nakanmon-4328377.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/15/nakanmon-4328379.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/15/nakanmon-4328381.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/15/nakanmon-4328383.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/15/nakanmon-4328385.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/15/nakanmon-4328387.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/15/nakanmon-4328389.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/15/nakanmon-4328391.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/15/nakanmon-4328393.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/15/nakanmon-4328395.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/15/nakanmon-4328397.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/15/nakanmon-4328399.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/15/nakanmon-4328401.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/15/nakanmon-4328403.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/15/nakanmon-4328405.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/15/nakanmon-4328407.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/15/nakanmon-4328409.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/15/nakanmon-4328411.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/15/nakanmon-4328413.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/15/nakanmon-4328415.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/15/nakanmon-4328417.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/15/nakanmon-4328419.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/15/nakanmon-4328421.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/15/nakanmon-4328423.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/15/nakanmon-4328425.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/15/nakanmon-4328427.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/15/nakanmon-4328429.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/15/nakanmon-4328431.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/15/nakanmon-4328433.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/15/nakanmon-4328435.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/15/nakanmon-4328437.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/15/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/15/nakanmon-4328439.jpg",
+        "imageAlt" : "Nakanmon! 15 - Page 38"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/nakanmon/16",
+    "chapterTitle" : "Nakanmon! 16",
+    "chapterDescription" : "",
+    "chapterDate" : "07/29/2013",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/16/nakanmon-4328441.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/16/nakanmon-4328443.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/16/nakanmon-4328445.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/16/nakanmon-4328447.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/16/nakanmon-4328449.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/nakanmon/16/nakanmon-4328451.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i1.mangareader.net/nakanmon/16/nakanmon-4328453.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i3.mangareader.net/nakanmon/16/nakanmon-4328455.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i7.mangareader.net/nakanmon/16/nakanmon-4328457.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i5.mangareader.net/nakanmon/16/nakanmon-4328459.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i2.mangareader.net/nakanmon/16/nakanmon-4328461.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/16/nakanmon-4328463.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/16/nakanmon-4328465.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/16/nakanmon-4328467.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/16/nakanmon-4328469.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/16/nakanmon-4328471.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/16/nakanmon-4328473.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/16/nakanmon-4328475.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/16/nakanmon-4328477.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/16/nakanmon-4328479.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/16/nakanmon-4328481.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i10.mangareader.net/nakanmon/16/nakanmon-4328483.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/16/nakanmon-4328485.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/16/nakanmon-4328487.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/16/nakanmon-4328489.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/16/nakanmon-4328491.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/16/nakanmon-4328493.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i6.mangareader.net/nakanmon/16/nakanmon-4328495.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i8.mangareader.net/nakanmon/16/nakanmon-4328497.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1157,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/16/nakanmon-4328499.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/nakanmon/16/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/nakanmon/16/nakanmon-4328501.jpg",
+        "imageAlt" : "Nakanmon! 16 - Page 31"
+      } ]
+    } ]
+  } ]
+}

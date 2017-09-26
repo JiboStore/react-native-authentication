@@ -1,0 +1,3550 @@
+{
+  "mangaTitle" : "0.0 Mhz",
+  "mangaUrl" : "http://www.mangareader.net/00-mhz",
+  "mangaThumbUrl" : "http://s3.mangareader.net/cover/00-mhz/00-mhz-r0.jpg",
+  "mangaChaptersInfo" : "12 Chapters Published. (Ongoing)",
+  "mangaReadType" : "Manhwa (Read Left to Right)",
+  "mangaGenre" : "Horror",
+  "chapterCount" : 12,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/00-mhz/1",
+    "chapterTitle" : "0.0 Mhz 1",
+    "chapterDescription" : "",
+    "chapterDate" : "05/27/2014",
+    "pageCount" : 37,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 760,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/1/00-mhz-4977173.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1596,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/1/00-mhz-4977175.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1767,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/1/00-mhz-4977177.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/1/00-mhz-4977179.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2020,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/1/00-mhz-4977181.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2182,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/1/00-mhz-4977183.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1593,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/1/00-mhz-4977185.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/1/00-mhz-4977187.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1080,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/1/00-mhz-4977189.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1777,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/1/00-mhz-4977191.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1754,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/1/00-mhz-4977193.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1705,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/1/00-mhz-4977195.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2712,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/1/00-mhz-4977197.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1617,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/1/00-mhz-4977199.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1019,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/1/00-mhz-4977201.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2019,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/1/00-mhz-4977203.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1893,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/1/00-mhz-4977205.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1789,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/1/00-mhz-4977207.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1909,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/1/00-mhz-4977209.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1592,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/1/00-mhz-4977211.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 928,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/1/00-mhz-4977213.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2020,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/1/00-mhz-4977215.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1867,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/1/00-mhz-4977217.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2040,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/1/00-mhz-4977219.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2000,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/1/00-mhz-4977221.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2080,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/1/00-mhz-4977223.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2015,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/1/00-mhz-4977225.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1865,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/1/00-mhz-4977227.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1783,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/1/00-mhz-4977229.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 901,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/1/00-mhz-4977231.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1322,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/1/00-mhz-4977233.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1733,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/1/00-mhz-4977235.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1967,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/1/00-mhz-4977237.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1314,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/1/00-mhz-4977239.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1973,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/1/00-mhz-4977241.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 760,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/1/00-mhz-4977243.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/1/00-mhz-4977245.jpg",
+        "imageAlt" : "0.0 Mhz 1 - Page 37"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/00-mhz/2",
+    "chapterTitle" : "0.0 Mhz 2",
+    "chapterDescription" : "",
+    "chapterDate" : "06/24/2014",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 760,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/2/00-mhz-5017899.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1893,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/2/00-mhz-5017901.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1966,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/2/00-mhz-5017903.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1834,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/2/00-mhz-5017905.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2103,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/2/00-mhz-5017907.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1874,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/2/00-mhz-5017909.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1444,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/2/00-mhz-5017911.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3499,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/2/00-mhz-5017913.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1998,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/2/00-mhz-5017915.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3411,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/2/00-mhz-5017917.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1817,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/2/00-mhz-5017919.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1116,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/2/00-mhz-5017921.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1716,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/2/00-mhz-5017923.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2273,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/2/00-mhz-5017925.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2075,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/2/00-mhz-5017927.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1432,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/2/00-mhz-5017929.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/2/00-mhz-5017931.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1217,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/2/00-mhz-5017933.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2080,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/2/00-mhz-5017935.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1996,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/2/00-mhz-5017937.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1968,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/2/00-mhz-5017939.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1988,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/2/00-mhz-5017941.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1653,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/2/00-mhz-5017943.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1672,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/2/00-mhz-5017945.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1400,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/2/00-mhz-5017947.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1503,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/2/00-mhz-5017949.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1095,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/2/00-mhz-5017951.jpg",
+        "imageAlt" : "0.0 Mhz 2 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/00-mhz/3",
+    "chapterTitle" : "0.0 Mhz 3",
+    "chapterDescription" : "",
+    "chapterDate" : "09/16/2014",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1846,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/3/00-mhz-5198613.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2072,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/3/00-mhz-5198615.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1543,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/3/00-mhz-5198617.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2044,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/3/00-mhz-5198619.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 851,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/3/00-mhz-5198621.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1362,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/3/00-mhz-5198623.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1728,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/3/00-mhz-5198625.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1244,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/3/00-mhz-5198627.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3489,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/3/00-mhz-5198629.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1636,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/3/00-mhz-5198631.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2179,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/3/00-mhz-5198633.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1105,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/3/00-mhz-5198635.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1968,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/3/00-mhz-5198637.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 939,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/3/00-mhz-5198639.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1869,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/3/00-mhz-5198641.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1573,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/3/00-mhz-5198643.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2040,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/3/00-mhz-5198645.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1478,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/3/00-mhz-5198647.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3131,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/3/00-mhz-5198649.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1480,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/3/00-mhz-5198651.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1613,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/3/00-mhz-5198653.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1318,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/3/00-mhz-5198655.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1740,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/3/00-mhz-5198657.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1829,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/3/00-mhz-5198659.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1766,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/3/00-mhz-5198661.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1438,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/3/00-mhz-5198663.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1760,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/3/00-mhz-5198665.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 760,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/3/00-mhz-5198667.jpg",
+        "imageAlt" : "0.0 Mhz 3 - Page 28"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/00-mhz/4",
+    "chapterTitle" : "0.0 Mhz 4",
+    "chapterDescription" : "",
+    "chapterDate" : "12/26/2014",
+    "pageCount" : 29,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 760,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/4/00-mhz-5393265.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2105,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/4/00-mhz-5393267.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1954,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/4/00-mhz-5393269.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1737,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/4/00-mhz-5393271.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2091,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/4/00-mhz-5393273.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1657,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/4/00-mhz-5393275.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1583,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/4/00-mhz-5393277.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1971,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/4/00-mhz-5393279.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1973,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/4/00-mhz-5393281.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1857,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/4/00-mhz-5393283.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2547,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/4/00-mhz-5393285.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1979,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/4/00-mhz-5393287.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1605,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/4/00-mhz-5393289.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1773,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/4/00-mhz-5393291.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2097,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/4/00-mhz-5393293.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2560,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/4/00-mhz-5393295.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1613,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/4/00-mhz-5393297.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1474,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/4/00-mhz-5393299.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1619,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/4/00-mhz-5393301.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1478,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/4/00-mhz-5393303.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2000,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/4/00-mhz-5393305.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/4/00-mhz-5393307.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2007,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/4/00-mhz-5393309.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1909,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/4/00-mhz-5393311.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2240,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/4/00-mhz-5393313.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1691,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/4/00-mhz-5393315.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2234,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/4/00-mhz-5393317.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1500,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/4/00-mhz-5393319.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/4/00-mhz-5393321.jpg",
+        "imageAlt" : "0.0 Mhz 4 - Page 29"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/00-mhz/5",
+    "chapterTitle" : "0.0 Mhz 5",
+    "chapterDescription" : "",
+    "chapterDate" : "04/04/2015",
+    "pageCount" : 26,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 760,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/5/00-mhz-5591841.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1874,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/5/00-mhz-5591843.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1914,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/5/00-mhz-5591845.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1714,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/5/00-mhz-5591847.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1658,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/5/00-mhz-5591849.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2067,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/5/00-mhz-5591851.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/5/00-mhz-5591853.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1806,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/5/00-mhz-5591855.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1472,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/5/00-mhz-5591857.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2027,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/5/00-mhz-5591859.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2093,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/5/00-mhz-5591861.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1293,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/5/00-mhz-5591863.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2084,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/5/00-mhz-5591865.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2008,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/5/00-mhz-5591867.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1863,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/5/00-mhz-5591869.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1088,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/5/00-mhz-5591871.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1552,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/5/00-mhz-5591873.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1705,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/5/00-mhz-5591875.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1731,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/5/00-mhz-5591877.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2000,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/5/00-mhz-5591879.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1853,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/5/00-mhz-5591881.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1592,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/5/00-mhz-5591883.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1602,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/5/00-mhz-5591885.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2042,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/5/00-mhz-5591887.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2091,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/5/00-mhz-5591889.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 565,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/5/00-mhz-5591891.jpg",
+        "imageAlt" : "0.0 Mhz 5 - Page 26"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/00-mhz/6",
+    "chapterTitle" : "0.0 Mhz 6",
+    "chapterDescription" : "",
+    "chapterDate" : "04/04/2015",
+    "pageCount" : 29,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 760,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/6/00-mhz-5591893.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2036,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/6/00-mhz-5591895.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1975,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/6/00-mhz-5591897.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1549,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/6/00-mhz-5591899.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1897,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/6/00-mhz-5591901.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2027,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/6/00-mhz-5591903.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1882,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/6/00-mhz-5591905.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1522,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/6/00-mhz-5591907.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2457,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/6/00-mhz-5591909.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2063,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/6/00-mhz-5591911.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1935,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/6/00-mhz-5591913.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1919,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/6/00-mhz-5591915.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1087,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/6/00-mhz-5591917.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1701,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/6/00-mhz-5591919.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1880,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/6/00-mhz-5591921.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1964,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/6/00-mhz-5591923.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1926,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/6/00-mhz-5591925.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1078,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/6/00-mhz-5591927.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3539,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/6/00-mhz-5591929.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1307,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/6/00-mhz-5591931.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1379,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/6/00-mhz-5591933.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1846,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/6/00-mhz-5591935.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1643,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/6/00-mhz-5591937.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1465,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/6/00-mhz-5591939.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1876,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/6/00-mhz-5591941.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1373,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/6/00-mhz-5591943.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/6/00-mhz-5591945.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1486,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/6/00-mhz-5591947.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1240,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/6/00-mhz-5591949.jpg",
+        "imageAlt" : "0.0 Mhz 6 - Page 29"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/00-mhz/7",
+    "chapterTitle" : "0.0 Mhz 7",
+    "chapterDescription" : "",
+    "chapterDate" : "04/12/2015",
+    "pageCount" : 33,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 761,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/7/00-mhz-5608373.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1512,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/7/00-mhz-5608375.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2007,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/7/00-mhz-5608377.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1365,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/7/00-mhz-5608379.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1729,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/7/00-mhz-5608381.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2449,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/7/00-mhz-5608383.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1449,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/7/00-mhz-5608385.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1501,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/7/00-mhz-5608387.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1735,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/7/00-mhz-5608389.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1552,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/7/00-mhz-5608391.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1392,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/7/00-mhz-5608393.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2064,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/7/00-mhz-5608395.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/7/00-mhz-5608397.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1731,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/7/00-mhz-5608399.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1781,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/7/00-mhz-5608401.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1546,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/7/00-mhz-5608403.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1057,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/7/00-mhz-5608405.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2196,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/7/00-mhz-5608407.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2001,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/7/00-mhz-5608409.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1386,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/7/00-mhz-5608411.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2013,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/7/00-mhz-5608413.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1075,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/7/00-mhz-5608415.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2363,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/7/00-mhz-5608417.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1503,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/7/00-mhz-5608419.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1457,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/7/00-mhz-5608421.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1735,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/7/00-mhz-5608423.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1598,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/7/00-mhz-5608425.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1689,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/7/00-mhz-5608427.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1836,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/7/00-mhz-5608429.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1999,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/7/00-mhz-5608431.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1827,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/7/00-mhz-5608433.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1201,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/7/00-mhz-5608435.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/7/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1229,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/7/00-mhz-5608437.jpg",
+        "imageAlt" : "0.0 Mhz 7 - Page 33"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/00-mhz/8",
+    "chapterTitle" : "0.0 Mhz 8",
+    "chapterDescription" : "",
+    "chapterDate" : "06/29/2015",
+    "pageCount" : 37,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 760,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/8/00-mhz-5769396.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/8/00-mhz-5769398.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1347,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/8/00-mhz-5769400.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1852,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/8/00-mhz-5769402.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2074,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/8/00-mhz-5769404.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1636,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/8/00-mhz-5769406.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1614,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/8/00-mhz-5769408.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1443,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/8/00-mhz-5769410.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1257,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/8/00-mhz-5769412.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2072,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/8/00-mhz-5769414.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2004,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/8/00-mhz-5769416.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1960,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/8/00-mhz-5769418.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2101,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/8/00-mhz-5769420.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1339,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/8/00-mhz-5769422.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1971,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/8/00-mhz-5769424.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2088,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/8/00-mhz-5769426.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1204,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/8/00-mhz-5769428.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/8/00-mhz-5769430.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1218,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/8/00-mhz-5769432.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1322,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/8/00-mhz-5769434.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1303,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/8/00-mhz-5769436.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1400,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/8/00-mhz-5769438.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1676,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/8/00-mhz-5769440.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1940,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/8/00-mhz-5769442.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1564,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/8/00-mhz-5769444.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1952,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/8/00-mhz-5769446.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2459,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/8/00-mhz-5769448.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2046,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/8/00-mhz-5769450.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1799,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/8/00-mhz-5769452.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1619,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/8/00-mhz-5769454.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1728,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/8/00-mhz-5769456.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2063,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/8/00-mhz-5769458.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1579,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/8/00-mhz-5769460.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/8/00-mhz-5769462.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1941,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/8/00-mhz-5769464.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1236,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/8/00-mhz-5769466.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/8/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/8/00-mhz-5769468.jpg",
+        "imageAlt" : "0.0 Mhz 8 - Page 37"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/00-mhz/9",
+    "chapterTitle" : "0.0 Mhz 9",
+    "chapterDescription" : "",
+    "chapterDate" : "06/29/2015",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 760,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/9/00-mhz-5769470.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1637,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/9/00-mhz-5769472.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 3093,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/9/00-mhz-5769474.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1235,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/9/00-mhz-5769476.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1633,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/9/00-mhz-5769478.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1362,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/9/00-mhz-5769480.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1977,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/9/00-mhz-5769482.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1892,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/9/00-mhz-5769484.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1956,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/9/00-mhz-5769486.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1705,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/9/00-mhz-5769488.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1590,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/9/00-mhz-5769490.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1517,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/9/00-mhz-5769492.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1655,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/9/00-mhz-5769494.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1500,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/9/00-mhz-5769496.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1630,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/9/00-mhz-5769498.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/9/00-mhz-5769500.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1096,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/9/00-mhz-5769502.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1429,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/9/00-mhz-5769504.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1523,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/9/00-mhz-5769506.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2353,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/9/00-mhz-5769508.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1709,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/9/00-mhz-5769510.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1820,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/9/00-mhz-5769512.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1214,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/9/00-mhz-5769514.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1059,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/9/00-mhz-5769516.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2213,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/9/00-mhz-5769518.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1445,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/9/00-mhz-5769520.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1737,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/9/00-mhz-5769522.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/9/00-mhz-5769524.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1894,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/9/00-mhz-5769526.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1901,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/9/00-mhz-5769528.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1972,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/9/00-mhz-5769530.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1099,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/9/00-mhz-5769532.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/9/00-mhz-5769534.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/9/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 600,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/9/00-mhz-5769536.jpg",
+        "imageAlt" : "0.0 Mhz 9 - Page 34"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/00-mhz/10",
+    "chapterTitle" : "0.0 Mhz 10",
+    "chapterDescription" : "",
+    "chapterDate" : "06/30/2015",
+    "pageCount" : 36,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 761,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/10/00-mhz-5771734.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1653,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/10/00-mhz-5771736.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1609,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/10/00-mhz-5771738.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1473,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/10/00-mhz-5771740.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1555,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/10/00-mhz-5771742.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1460,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/10/00-mhz-5771744.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1501,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/10/00-mhz-5771746.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1737,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/10/00-mhz-5771748.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1208,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/10/00-mhz-5771750.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1631,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/10/00-mhz-5771752.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1681,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/10/00-mhz-5771754.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2095,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/10/00-mhz-5771756.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1289,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/10/00-mhz-5771758.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1688,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/10/00-mhz-5771760.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1675,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/10/00-mhz-5771762.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1225,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/10/00-mhz-5771764.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1180,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/10/00-mhz-5771766.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2043,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/10/00-mhz-5771768.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1123,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/10/00-mhz-5771770.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1858,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/10/00-mhz-5771772.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1993,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/10/00-mhz-5771774.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1801,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/10/00-mhz-5771776.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/10/00-mhz-5771778.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2126,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/10/00-mhz-5771780.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1551,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/10/00-mhz-5771782.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2035,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/10/00-mhz-5771784.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2102,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/10/00-mhz-5771786.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1833,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/10/00-mhz-5771788.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2003,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/10/00-mhz-5771790.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1925,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/10/00-mhz-5771792.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1738,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/10/00-mhz-5771794.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2232,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/10/00-mhz-5771796.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2218,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/10/00-mhz-5771798.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1357,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/10/00-mhz-5771800.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1418,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/10/00-mhz-5771802.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/10/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/10/00-mhz-5771804.jpg",
+        "imageAlt" : "0.0 Mhz 10 - Page 36"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/00-mhz/11",
+    "chapterTitle" : "0.0 Mhz 11",
+    "chapterDescription" : "",
+    "chapterDate" : "06/30/2015",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 760,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/11/00-mhz-5772146.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1223,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/11/00-mhz-5772148.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2738,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/11/00-mhz-5772150.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1213,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/11/00-mhz-5772152.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1345,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/11/00-mhz-5772154.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/11/00-mhz-5772156.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/11/00-mhz-5772158.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1781,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/11/00-mhz-5772160.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1788,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/11/00-mhz-5772162.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1375,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/11/00-mhz-5772164.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/11/00-mhz-5772166.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1115,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/11/00-mhz-5772168.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1342,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/11/00-mhz-5772170.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1372,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/11/00-mhz-5772172.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2689,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/11/00-mhz-5772174.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1456,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/11/00-mhz-5772176.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1106,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/11/00-mhz-5772178.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/11/00-mhz-5772180.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1429,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/11/00-mhz-5772182.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2032,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/11/00-mhz-5772184.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1449,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/11/00-mhz-5772186.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1666,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/11/00-mhz-5772188.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/11/00-mhz-5772190.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2105,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/11/00-mhz-5772192.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1352,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/11/00-mhz-5772194.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2103,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/11/00-mhz-5772196.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/11/00-mhz-5772198.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/11/00-mhz-5772200.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1294,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/11/00-mhz-5772202.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1198,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/11/00-mhz-5772204.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1460,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/11/00-mhz-5772206.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1763,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/11/00-mhz-5772208.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/11/00-mhz-5772210.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/11/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 568,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/11/00-mhz-5772212.jpg",
+        "imageAlt" : "0.0 Mhz 11 - Page 34"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/00-mhz/12",
+    "chapterTitle" : "0.0 Mhz 12",
+    "chapterDescription" : "",
+    "chapterDate" : "07/02/2015",
+    "pageCount" : 34,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 761,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/12/00-mhz-5777902.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2104,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/12/00-mhz-5777904.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1786,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/12/00-mhz-5777906.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1636,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/12/00-mhz-5777908.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2101,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/12/00-mhz-5777910.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2100,
+        "imageUrl" : "http://i8.mangareader.net/00-mhz/12/00-mhz-5777912.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1516,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/12/00-mhz-5777914.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1900,
+        "imageUrl" : "http://i2.mangareader.net/00-mhz/12/00-mhz-5777916.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1444,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/12/00-mhz-5777918.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1498,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/12/00-mhz-5777920.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1275,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/12/00-mhz-5777922.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/12/00-mhz-5777924.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1625,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/12/00-mhz-5777926.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1690,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/12/00-mhz-5777928.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/12/00-mhz-5777930.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/12/00-mhz-5777932.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1919,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/12/00-mhz-5777934.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1551,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/12/00-mhz-5777936.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1112,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/12/00-mhz-5777938.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2060,
+        "imageUrl" : "http://i9.mangareader.net/00-mhz/12/00-mhz-5777940.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1810,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/12/00-mhz-5777942.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2740,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/12/00-mhz-5777944.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1346,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/12/00-mhz-5777946.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2086,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/12/00-mhz-5777948.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1322,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/12/00-mhz-5777950.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1533,
+        "imageUrl" : "http://i7.mangareader.net/00-mhz/12/00-mhz-5777952.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1288,
+        "imageUrl" : "http://i5.mangareader.net/00-mhz/12/00-mhz-5777954.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1625,
+        "imageUrl" : "http://i3.mangareader.net/00-mhz/12/00-mhz-5777956.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1881,
+        "imageUrl" : "http://i1.mangareader.net/00-mhz/12/00-mhz-5777958.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1551,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/12/00-mhz-5777960.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 2104,
+        "imageUrl" : "http://i10.mangareader.net/00-mhz/12/00-mhz-5777962.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1615,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/12/00-mhz-5777964.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i4.mangareader.net/00-mhz/12/00-mhz-5777966.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/00-mhz/12/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 501,
+        "imageUrl" : "http://i6.mangareader.net/00-mhz/12/00-mhz-5777968.jpg",
+        "imageAlt" : "0.0 Mhz 12 - Page 34"
+      } ]
+    } ]
+  } ]
+}

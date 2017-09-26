@@ -1,0 +1,5574 @@
+{
+  "mangaTitle" : "Damned",
+  "mangaUrl" : "http://www.mangareader.net/damned",
+  "mangaThumbUrl" : "http://s3.mangareader.net/cover/damned/damned-r0.jpg",
+  "mangaChaptersInfo" : "26 Chapters Published. (Completed)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Action, Mature, Sci-Fi, Seinen",
+  "chapterCount" : 26,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/damned/1",
+    "chapterTitle" : "Damned 1",
+    "chapterDescription" : "",
+    "chapterDate" : "06/21/2012",
+    "pageCount" : 39,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 320,
+        "imageUrl" : "http://i8.mangareader.net/damned/1/damned-3391283.jpg",
+        "imageAlt" : "Damned 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 538,
+        "imageUrl" : "http://i8.mangareader.net/damned/1/damned-3391285.jpg",
+        "imageAlt" : "Damned 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i10.mangareader.net/damned/1/damned-3391287.jpg",
+        "imageAlt" : "Damned 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i10.mangareader.net/damned/1/damned-3391289.jpg",
+        "imageAlt" : "Damned 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i2.mangareader.net/damned/1/damned-3391291.jpg",
+        "imageAlt" : "Damned 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/damned/1/damned-3391293.jpg",
+        "imageAlt" : "Damned 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i10.mangareader.net/damned/1/damned-3391295.jpg",
+        "imageAlt" : "Damned 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 574,
+        "imageUrl" : "http://i8.mangareader.net/damned/1/damned-3391297.jpg",
+        "imageAlt" : "Damned 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i4.mangareader.net/damned/1/damned-3391299.jpg",
+        "imageAlt" : "Damned 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/damned/1/damned-3391301.jpg",
+        "imageAlt" : "Damned 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/damned/1/damned-3391303.jpg",
+        "imageAlt" : "Damned 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i4.mangareader.net/damned/1/damned-3391305.jpg",
+        "imageAlt" : "Damned 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/damned/1/damned-3391307.jpg",
+        "imageAlt" : "Damned 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i2.mangareader.net/damned/1/damned-3391309.jpg",
+        "imageAlt" : "Damned 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/damned/1/damned-3391311.jpg",
+        "imageAlt" : "Damned 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/damned/1/damned-3391313.jpg",
+        "imageAlt" : "Damned 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/damned/1/damned-3391315.jpg",
+        "imageAlt" : "Damned 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1163,
+        "imageUrl" : "http://i10.mangareader.net/damned/1/damned-3391317.jpg",
+        "imageAlt" : "Damned 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 577,
+        "imageUrl" : "http://i4.mangareader.net/damned/1/damned-3391319.jpg",
+        "imageAlt" : "Damned 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i1.mangareader.net/damned/1/damned-3391321.jpg",
+        "imageAlt" : "Damned 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/damned/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/damned/1/damned-3391323.jpg",
+        "imageAlt" : "Damned 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/damned/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i1.mangareader.net/damned/1/damned-3391325.jpg",
+        "imageAlt" : "Damned 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/damned/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/damned/1/damned-3391327.jpg",
+        "imageAlt" : "Damned 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/damned/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i5.mangareader.net/damned/1/damned-3391329.jpg",
+        "imageAlt" : "Damned 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/damned/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i7.mangareader.net/damned/1/damned-3391331.jpg",
+        "imageAlt" : "Damned 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/damned/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i3.mangareader.net/damned/1/damned-3391333.jpg",
+        "imageAlt" : "Damned 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/damned/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/damned/1/damned-3391335.jpg",
+        "imageAlt" : "Damned 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/damned/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i1.mangareader.net/damned/1/damned-3391337.jpg",
+        "imageAlt" : "Damned 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/damned/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i7.mangareader.net/damned/1/damned-3391339.jpg",
+        "imageAlt" : "Damned 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/damned/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i3.mangareader.net/damned/1/damned-3391341.jpg",
+        "imageAlt" : "Damned 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/damned/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i7.mangareader.net/damned/1/damned-3391343.jpg",
+        "imageAlt" : "Damned 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/damned/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i3.mangareader.net/damned/1/damned-3391345.jpg",
+        "imageAlt" : "Damned 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/damned/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i9.mangareader.net/damned/1/damned-3391347.jpg",
+        "imageAlt" : "Damned 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/damned/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i9.mangareader.net/damned/1/damned-3391349.jpg",
+        "imageAlt" : "Damned 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/damned/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i3.mangareader.net/damned/1/damned-3391351.jpg",
+        "imageAlt" : "Damned 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/damned/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i3.mangareader.net/damned/1/damned-3391353.jpg",
+        "imageAlt" : "Damned 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/damned/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i3.mangareader.net/damned/1/damned-3391355.jpg",
+        "imageAlt" : "Damned 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/damned/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i3.mangareader.net/damned/1/damned-3391357.jpg",
+        "imageAlt" : "Damned 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/damned/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1600,
+        "imageUrl" : "http://i9.mangareader.net/damned/1/damned-3391359.jpg",
+        "imageAlt" : "Damned 1 - Page 39"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/2",
+    "chapterTitle" : "Damned 2",
+    "chapterDescription" : "",
+    "chapterDate" : "06/22/2012",
+    "pageCount" : 21,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i6.mangareader.net/damned/2/damned-3393517.jpg",
+        "imageAlt" : "Damned 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/damned/2/damned-3393519.jpg",
+        "imageAlt" : "Damned 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i9.mangareader.net/damned/2/damned-3393521.jpg",
+        "imageAlt" : "Damned 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i1.mangareader.net/damned/2/damned-3393523.jpg",
+        "imageAlt" : "Damned 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i1.mangareader.net/damned/2/damned-3393525.jpg",
+        "imageAlt" : "Damned 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i5.mangareader.net/damned/2/damned-3393527.jpg",
+        "imageAlt" : "Damned 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1185,
+        "imageUrl" : "http://i1.mangareader.net/damned/2/damned-3393529.jpg",
+        "imageAlt" : "Damned 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i1.mangareader.net/damned/2/damned-3393531.jpg",
+        "imageAlt" : "Damned 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i5.mangareader.net/damned/2/damned-3393533.jpg",
+        "imageAlt" : "Damned 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1179,
+        "imageUrl" : "http://i3.mangareader.net/damned/2/damned-3393535.jpg",
+        "imageAlt" : "Damned 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i3.mangareader.net/damned/2/damned-3393537.jpg",
+        "imageAlt" : "Damned 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i7.mangareader.net/damned/2/damned-3393539.jpg",
+        "imageAlt" : "Damned 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i7.mangareader.net/damned/2/damned-3393541.jpg",
+        "imageAlt" : "Damned 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1202,
+        "imageUrl" : "http://i5.mangareader.net/damned/2/damned-3393543.jpg",
+        "imageAlt" : "Damned 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i3.mangareader.net/damned/2/damned-3393545.jpg",
+        "imageAlt" : "Damned 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i9.mangareader.net/damned/2/damned-3393547.jpg",
+        "imageAlt" : "Damned 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i5.mangareader.net/damned/2/damned-3393549.jpg",
+        "imageAlt" : "Damned 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1205,
+        "imageUrl" : "http://i1.mangareader.net/damned/2/damned-3393551.jpg",
+        "imageAlt" : "Damned 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i7.mangareader.net/damned/2/damned-3393553.jpg",
+        "imageAlt" : "Damned 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i3.mangareader.net/damned/2/damned-3393555.jpg",
+        "imageAlt" : "Damned 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/damned/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1600,
+        "imageUrl" : "http://i3.mangareader.net/damned/2/damned-3393557.jpg",
+        "imageAlt" : "Damned 2 - Page 21"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/3",
+    "chapterTitle" : "Damned 3",
+    "chapterDescription" : "",
+    "chapterDate" : "06/24/2012",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i7.mangareader.net/damned/3/damned-3400881.jpg",
+        "imageAlt" : "Damned 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 580,
+        "imageUrl" : "http://i1.mangareader.net/damned/3/damned-3400883.jpg",
+        "imageAlt" : "Damned 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i7.mangareader.net/damned/3/damned-3400885.jpg",
+        "imageAlt" : "Damned 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i5.mangareader.net/damned/3/damned-3400887.jpg",
+        "imageAlt" : "Damned 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i9.mangareader.net/damned/3/damned-3400889.jpg",
+        "imageAlt" : "Damned 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1198,
+        "imageUrl" : "http://i5.mangareader.net/damned/3/damned-3400891.jpg",
+        "imageAlt" : "Damned 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1194,
+        "imageUrl" : "http://i9.mangareader.net/damned/3/damned-3400893.jpg",
+        "imageAlt" : "Damned 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i3.mangareader.net/damned/3/damned-3400895.jpg",
+        "imageAlt" : "Damned 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/damned/3/damned-3400897.jpg",
+        "imageAlt" : "Damned 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i7.mangareader.net/damned/3/damned-3400899.jpg",
+        "imageAlt" : "Damned 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i9.mangareader.net/damned/3/damned-3400901.jpg",
+        "imageAlt" : "Damned 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i1.mangareader.net/damned/3/damned-3400903.jpg",
+        "imageAlt" : "Damned 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i7.mangareader.net/damned/3/damned-3400905.jpg",
+        "imageAlt" : "Damned 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i7.mangareader.net/damned/3/damned-3400907.jpg",
+        "imageAlt" : "Damned 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1188,
+        "imageUrl" : "http://i7.mangareader.net/damned/3/damned-3400909.jpg",
+        "imageAlt" : "Damned 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i7.mangareader.net/damned/3/damned-3400911.jpg",
+        "imageAlt" : "Damned 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 569,
+        "imageUrl" : "http://i1.mangareader.net/damned/3/damned-3400913.jpg",
+        "imageAlt" : "Damned 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i5.mangareader.net/damned/3/damned-3400915.jpg",
+        "imageAlt" : "Damned 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1198,
+        "imageUrl" : "http://i9.mangareader.net/damned/3/damned-3400917.jpg",
+        "imageAlt" : "Damned 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1600,
+        "imageUrl" : "http://i3.mangareader.net/damned/3/damned-3400919.jpg",
+        "imageAlt" : "Damned 3 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/4",
+    "chapterTitle" : "Damned 4",
+    "chapterDescription" : "",
+    "chapterDate" : "06/24/2012",
+    "pageCount" : 22,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i5.mangareader.net/damned/4/damned-3400921.jpg",
+        "imageAlt" : "Damned 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/damned/4/damned-3400923.jpg",
+        "imageAlt" : "Damned 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/damned/4/damned-3400925.jpg",
+        "imageAlt" : "Damned 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i9.mangareader.net/damned/4/damned-3400927.jpg",
+        "imageAlt" : "Damned 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/damned/4/damned-3400929.jpg",
+        "imageAlt" : "Damned 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/damned/4/damned-3400931.jpg",
+        "imageAlt" : "Damned 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i7.mangareader.net/damned/4/damned-3400933.jpg",
+        "imageAlt" : "Damned 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i7.mangareader.net/damned/4/damned-3400935.jpg",
+        "imageAlt" : "Damned 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i7.mangareader.net/damned/4/damned-3400937.jpg",
+        "imageAlt" : "Damned 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i1.mangareader.net/damned/4/damned-3400939.jpg",
+        "imageAlt" : "Damned 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/damned/4/damned-3400941.jpg",
+        "imageAlt" : "Damned 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i7.mangareader.net/damned/4/damned-3400943.jpg",
+        "imageAlt" : "Damned 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/damned/4/damned-3400945.jpg",
+        "imageAlt" : "Damned 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 566,
+        "imageUrl" : "http://i5.mangareader.net/damned/4/damned-3400947.jpg",
+        "imageAlt" : "Damned 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/damned/4/damned-3400949.jpg",
+        "imageAlt" : "Damned 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i9.mangareader.net/damned/4/damned-3400951.jpg",
+        "imageAlt" : "Damned 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i1.mangareader.net/damned/4/damned-3400953.jpg",
+        "imageAlt" : "Damned 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i5.mangareader.net/damned/4/damned-3400955.jpg",
+        "imageAlt" : "Damned 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/damned/4/damned-3400957.jpg",
+        "imageAlt" : "Damned 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i7.mangareader.net/damned/4/damned-3400959.jpg",
+        "imageAlt" : "Damned 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/damned/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i10.mangareader.net/damned/4/damned-3400961.jpg",
+        "imageAlt" : "Damned 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/damned/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1600,
+        "imageUrl" : "http://i2.mangareader.net/damned/4/damned-3400963.jpg",
+        "imageAlt" : "Damned 4 - Page 22"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/5",
+    "chapterTitle" : "Damned 5",
+    "chapterDescription" : "",
+    "chapterDate" : "06/25/2012",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/damned/5/damned-3402441.jpg",
+        "imageAlt" : "Damned 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/damned/5/damned-3402443.jpg",
+        "imageAlt" : "Damned 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i8.mangareader.net/damned/5/damned-3402445.jpg",
+        "imageAlt" : "Damned 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i6.mangareader.net/damned/5/damned-3402447.jpg",
+        "imageAlt" : "Damned 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i2.mangareader.net/damned/5/damned-3402449.jpg",
+        "imageAlt" : "Damned 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i4.mangareader.net/damned/5/damned-3402451.jpg",
+        "imageAlt" : "Damned 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/damned/5/damned-3402453.jpg",
+        "imageAlt" : "Damned 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i8.mangareader.net/damned/5/damned-3402455.jpg",
+        "imageAlt" : "Damned 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/damned/5/damned-3402457.jpg",
+        "imageAlt" : "Damned 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/damned/5/damned-3402459.jpg",
+        "imageAlt" : "Damned 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i1.mangareader.net/damned/5/damned-3402461.jpg",
+        "imageAlt" : "Damned 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i1.mangareader.net/damned/5/damned-3402463.jpg",
+        "imageAlt" : "Damned 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i3.mangareader.net/damned/5/damned-3402465.jpg",
+        "imageAlt" : "Damned 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i1.mangareader.net/damned/5/damned-3402467.jpg",
+        "imageAlt" : "Damned 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i3.mangareader.net/damned/5/damned-3402469.jpg",
+        "imageAlt" : "Damned 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i3.mangareader.net/damned/5/damned-3402471.jpg",
+        "imageAlt" : "Damned 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/damned/5/damned-3402473.jpg",
+        "imageAlt" : "Damned 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i5.mangareader.net/damned/5/damned-3402475.jpg",
+        "imageAlt" : "Damned 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i3.mangareader.net/damned/5/damned-3402477.jpg",
+        "imageAlt" : "Damned 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1600,
+        "imageUrl" : "http://i3.mangareader.net/damned/5/damned-3402479.jpg",
+        "imageAlt" : "Damned 5 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/6",
+    "chapterTitle" : "Damned 6",
+    "chapterDescription" : "",
+    "chapterDate" : "06/26/2012",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/damned/6/damned-3405281.jpg",
+        "imageAlt" : "Damned 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i9.mangareader.net/damned/6/damned-3405283.jpg",
+        "imageAlt" : "Damned 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i9.mangareader.net/damned/6/damned-3405285.jpg",
+        "imageAlt" : "Damned 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i7.mangareader.net/damned/6/damned-3405287.jpg",
+        "imageAlt" : "Damned 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i9.mangareader.net/damned/6/damned-3405289.jpg",
+        "imageAlt" : "Damned 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i9.mangareader.net/damned/6/damned-3405291.jpg",
+        "imageAlt" : "Damned 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i5.mangareader.net/damned/6/damned-3405293.jpg",
+        "imageAlt" : "Damned 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i3.mangareader.net/damned/6/damned-3405295.jpg",
+        "imageAlt" : "Damned 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i7.mangareader.net/damned/6/damned-3405297.jpg",
+        "imageAlt" : "Damned 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/damned/6/damned-3405299.jpg",
+        "imageAlt" : "Damned 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i7.mangareader.net/damned/6/damned-3405301.jpg",
+        "imageAlt" : "Damned 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i5.mangareader.net/damned/6/damned-3405303.jpg",
+        "imageAlt" : "Damned 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i3.mangareader.net/damned/6/damned-3405305.jpg",
+        "imageAlt" : "Damned 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i7.mangareader.net/damned/6/damned-3405307.jpg",
+        "imageAlt" : "Damned 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i7.mangareader.net/damned/6/damned-3405309.jpg",
+        "imageAlt" : "Damned 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i1.mangareader.net/damned/6/damned-3405311.jpg",
+        "imageAlt" : "Damned 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/damned/6/damned-3405313.jpg",
+        "imageAlt" : "Damned 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i9.mangareader.net/damned/6/damned-3405315.jpg",
+        "imageAlt" : "Damned 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1600,
+        "imageUrl" : "http://i9.mangareader.net/damned/6/damned-3405317.jpg",
+        "imageAlt" : "Damned 6 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/7",
+    "chapterTitle" : "Damned 7",
+    "chapterDescription" : "",
+    "chapterDate" : "06/27/2012",
+    "pageCount" : 19,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/damned/7/damned-3407067.jpg",
+        "imageAlt" : "Damned 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i10.mangareader.net/damned/7/damned-3407069.jpg",
+        "imageAlt" : "Damned 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i10.mangareader.net/damned/7/damned-3407071.jpg",
+        "imageAlt" : "Damned 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 597,
+        "imageUrl" : "http://i4.mangareader.net/damned/7/damned-3407073.jpg",
+        "imageAlt" : "Damned 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i6.mangareader.net/damned/7/damned-3407075.jpg",
+        "imageAlt" : "Damned 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/damned/7/damned-3407077.jpg",
+        "imageAlt" : "Damned 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i10.mangareader.net/damned/7/damned-3407079.jpg",
+        "imageAlt" : "Damned 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i8.mangareader.net/damned/7/damned-3407081.jpg",
+        "imageAlt" : "Damned 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i8.mangareader.net/damned/7/damned-3407083.jpg",
+        "imageAlt" : "Damned 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i2.mangareader.net/damned/7/damned-3407085.jpg",
+        "imageAlt" : "Damned 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i2.mangareader.net/damned/7/damned-3407087.jpg",
+        "imageAlt" : "Damned 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i8.mangareader.net/damned/7/damned-3407089.jpg",
+        "imageAlt" : "Damned 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 568,
+        "imageUrl" : "http://i6.mangareader.net/damned/7/damned-3407091.jpg",
+        "imageAlt" : "Damned 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i10.mangareader.net/damned/7/damned-3407093.jpg",
+        "imageAlt" : "Damned 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/damned/7/damned-3407095.jpg",
+        "imageAlt" : "Damned 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i2.mangareader.net/damned/7/damned-3407097.jpg",
+        "imageAlt" : "Damned 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/damned/7/damned-3407099.jpg",
+        "imageAlt" : "Damned 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i4.mangareader.net/damned/7/damned-3407101.jpg",
+        "imageAlt" : "Damned 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1600,
+        "imageUrl" : "http://i8.mangareader.net/damned/7/damned-3407103.jpg",
+        "imageAlt" : "Damned 7 - Page 19"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/8",
+    "chapterTitle" : "Damned 8",
+    "chapterDescription" : "",
+    "chapterDate" : "06/28/2012",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1088,
+        "imageUrl" : "http://i3.mangareader.net/damned/8/damned-3409731.jpg",
+        "imageAlt" : "Damned 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i1.mangareader.net/damned/8/damned-3409733.jpg",
+        "imageAlt" : "Damned 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/damned/8/damned-3409735.jpg",
+        "imageAlt" : "Damned 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i9.mangareader.net/damned/8/damned-3409737.jpg",
+        "imageAlt" : "Damned 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i9.mangareader.net/damned/8/damned-3409739.jpg",
+        "imageAlt" : "Damned 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i9.mangareader.net/damned/8/damned-3409741.jpg",
+        "imageAlt" : "Damned 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i5.mangareader.net/damned/8/damned-3409743.jpg",
+        "imageAlt" : "Damned 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i7.mangareader.net/damned/8/damned-3409745.jpg",
+        "imageAlt" : "Damned 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i1.mangareader.net/damned/8/damned-3409747.jpg",
+        "imageAlt" : "Damned 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 569,
+        "imageUrl" : "http://i3.mangareader.net/damned/8/damned-3409749.jpg",
+        "imageAlt" : "Damned 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i7.mangareader.net/damned/8/damned-3409751.jpg",
+        "imageAlt" : "Damned 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i5.mangareader.net/damned/8/damned-3409753.jpg",
+        "imageAlt" : "Damned 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i5.mangareader.net/damned/8/damned-3409755.jpg",
+        "imageAlt" : "Damned 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i7.mangareader.net/damned/8/damned-3409757.jpg",
+        "imageAlt" : "Damned 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i5.mangareader.net/damned/8/damned-3409759.jpg",
+        "imageAlt" : "Damned 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i4.mangareader.net/damned/8/damned-3409761.jpg",
+        "imageAlt" : "Damned 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i2.mangareader.net/damned/8/damned-3409763.jpg",
+        "imageAlt" : "Damned 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i10.mangareader.net/damned/8/damned-3409765.jpg",
+        "imageAlt" : "Damned 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i2.mangareader.net/damned/8/damned-3409767.jpg",
+        "imageAlt" : "Damned 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1600,
+        "imageUrl" : "http://i6.mangareader.net/damned/8/damned-3409769.jpg",
+        "imageAlt" : "Damned 8 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/9",
+    "chapterTitle" : "Damned 9",
+    "chapterDescription" : "",
+    "chapterDate" : "06/29/2012",
+    "pageCount" : 24,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i9.mangareader.net/damned/9/damned-3412781.jpg",
+        "imageAlt" : "Damned 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 576,
+        "imageUrl" : "http://i7.mangareader.net/damned/9/damned-3412783.jpg",
+        "imageAlt" : "Damned 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i7.mangareader.net/damned/9/damned-3412785.jpg",
+        "imageAlt" : "Damned 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i5.mangareader.net/damned/9/damned-3412787.jpg",
+        "imageAlt" : "Damned 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i1.mangareader.net/damned/9/damned-3412789.jpg",
+        "imageAlt" : "Damned 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/damned/9/damned-3412791.jpg",
+        "imageAlt" : "Damned 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i3.mangareader.net/damned/9/damned-3412793.jpg",
+        "imageAlt" : "Damned 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i1.mangareader.net/damned/9/damned-3412795.jpg",
+        "imageAlt" : "Damned 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i5.mangareader.net/damned/9/damned-3412797.jpg",
+        "imageAlt" : "Damned 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/damned/9/damned-3412799.jpg",
+        "imageAlt" : "Damned 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i7.mangareader.net/damned/9/damned-3412801.jpg",
+        "imageAlt" : "Damned 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i9.mangareader.net/damned/9/damned-3412803.jpg",
+        "imageAlt" : "Damned 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i5.mangareader.net/damned/9/damned-3412805.jpg",
+        "imageAlt" : "Damned 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i1.mangareader.net/damned/9/damned-3412807.jpg",
+        "imageAlt" : "Damned 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/damned/9/damned-3412809.jpg",
+        "imageAlt" : "Damned 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/damned/9/damned-3412811.jpg",
+        "imageAlt" : "Damned 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i9.mangareader.net/damned/9/damned-3412813.jpg",
+        "imageAlt" : "Damned 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/damned/9/damned-3412815.jpg",
+        "imageAlt" : "Damned 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/damned/9/damned-3412817.jpg",
+        "imageAlt" : "Damned 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/damned/9/damned-3412819.jpg",
+        "imageAlt" : "Damned 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/damned/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i2.mangareader.net/damned/9/damned-3412821.jpg",
+        "imageAlt" : "Damned 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/damned/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i4.mangareader.net/damned/9/damned-3412823.jpg",
+        "imageAlt" : "Damned 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/damned/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/damned/9/damned-3412825.jpg",
+        "imageAlt" : "Damned 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/damned/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1600,
+        "imageUrl" : "http://i4.mangareader.net/damned/9/damned-3412827.jpg",
+        "imageAlt" : "Damned 9 - Page 24"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/10",
+    "chapterTitle" : "Damned 10",
+    "chapterDescription" : "",
+    "chapterDate" : "06/29/2012",
+    "pageCount" : 28,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 319,
+        "imageUrl" : "http://i7.mangareader.net/damned/10/damned-3415247.jpg",
+        "imageAlt" : "Damned 10 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/10/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 535,
+        "imageUrl" : "http://i3.mangareader.net/damned/10/damned-3415249.jpg",
+        "imageAlt" : "Damned 10 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/10/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i5.mangareader.net/damned/10/damned-3415251.jpg",
+        "imageAlt" : "Damned 10 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/10/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i1.mangareader.net/damned/10/damned-3415253.jpg",
+        "imageAlt" : "Damned 10 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/10/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i5.mangareader.net/damned/10/damned-3415255.jpg",
+        "imageAlt" : "Damned 10 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/10/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 570,
+        "imageUrl" : "http://i7.mangareader.net/damned/10/damned-3415257.jpg",
+        "imageAlt" : "Damned 10 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/10/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i3.mangareader.net/damned/10/damned-3415259.jpg",
+        "imageAlt" : "Damned 10 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/10/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i10.mangareader.net/damned/10/damned-3415261.jpg",
+        "imageAlt" : "Damned 10 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/10/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i6.mangareader.net/damned/10/damned-3415263.jpg",
+        "imageAlt" : "Damned 10 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/10/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/damned/10/damned-3415265.jpg",
+        "imageAlt" : "Damned 10 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/10/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i6.mangareader.net/damned/10/damned-3415267.jpg",
+        "imageAlt" : "Damned 10 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/10/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/damned/10/damned-3415269.jpg",
+        "imageAlt" : "Damned 10 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/10/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1126,
+        "imageUrl" : "http://i8.mangareader.net/damned/10/damned-3415271.jpg",
+        "imageAlt" : "Damned 10 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/10/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/damned/10/damned-3415273.jpg",
+        "imageAlt" : "Damned 10 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/10/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i2.mangareader.net/damned/10/damned-3415275.jpg",
+        "imageAlt" : "Damned 10 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/10/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i10.mangareader.net/damned/10/damned-3415277.jpg",
+        "imageAlt" : "Damned 10 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/10/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1126,
+        "imageUrl" : "http://i6.mangareader.net/damned/10/damned-3415279.jpg",
+        "imageAlt" : "Damned 10 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/10/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i4.mangareader.net/damned/10/damned-3415281.jpg",
+        "imageAlt" : "Damned 10 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/10/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i6.mangareader.net/damned/10/damned-3415283.jpg",
+        "imageAlt" : "Damned 10 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/10/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i2.mangareader.net/damned/10/damned-3415285.jpg",
+        "imageAlt" : "Damned 10 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/damned/10/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i6.mangareader.net/damned/10/damned-3415287.jpg",
+        "imageAlt" : "Damned 10 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/damned/10/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/damned/10/damned-3415289.jpg",
+        "imageAlt" : "Damned 10 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/damned/10/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i4.mangareader.net/damned/10/damned-3415291.jpg",
+        "imageAlt" : "Damned 10 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/damned/10/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i6.mangareader.net/damned/10/damned-3415293.jpg",
+        "imageAlt" : "Damned 10 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/damned/10/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i2.mangareader.net/damned/10/damned-3415295.jpg",
+        "imageAlt" : "Damned 10 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/damned/10/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i4.mangareader.net/damned/10/damned-3415297.jpg",
+        "imageAlt" : "Damned 10 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/damned/10/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i2.mangareader.net/damned/10/damned-3415299.jpg",
+        "imageAlt" : "Damned 10 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/damned/10/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i2.mangareader.net/damned/10/damned-3415301.jpg",
+        "imageAlt" : "Damned 10 - Page 28"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/11",
+    "chapterTitle" : "Damned 11",
+    "chapterDescription" : "",
+    "chapterDate" : "06/30/2012",
+    "pageCount" : 24,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i6.mangareader.net/damned/11/damned-3418137.jpg",
+        "imageAlt" : "Damned 11 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/11/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/damned/11/damned-3418139.jpg",
+        "imageAlt" : "Damned 11 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/11/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 570,
+        "imageUrl" : "http://i10.mangareader.net/damned/11/damned-3418141.jpg",
+        "imageAlt" : "Damned 11 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/11/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i2.mangareader.net/damned/11/damned-3418143.jpg",
+        "imageAlt" : "Damned 11 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/11/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1206,
+        "imageUrl" : "http://i6.mangareader.net/damned/11/damned-3418145.jpg",
+        "imageAlt" : "Damned 11 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/11/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/damned/11/damned-3418147.jpg",
+        "imageAlt" : "Damned 11 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/11/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i4.mangareader.net/damned/11/damned-3418149.jpg",
+        "imageAlt" : "Damned 11 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/11/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/damned/11/damned-3418151.jpg",
+        "imageAlt" : "Damned 11 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/11/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i8.mangareader.net/damned/11/damned-3418153.jpg",
+        "imageAlt" : "Damned 11 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/11/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/damned/11/damned-3418155.jpg",
+        "imageAlt" : "Damned 11 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/11/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/damned/11/damned-3418157.jpg",
+        "imageAlt" : "Damned 11 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/11/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i8.mangareader.net/damned/11/damned-3418159.jpg",
+        "imageAlt" : "Damned 11 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/11/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/damned/11/damned-3418161.jpg",
+        "imageAlt" : "Damned 11 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/11/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/damned/11/damned-3418163.jpg",
+        "imageAlt" : "Damned 11 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/11/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i9.mangareader.net/damned/11/damned-3418165.jpg",
+        "imageAlt" : "Damned 11 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/11/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i7.mangareader.net/damned/11/damned-3418167.jpg",
+        "imageAlt" : "Damned 11 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/11/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i1.mangareader.net/damned/11/damned-3418169.jpg",
+        "imageAlt" : "Damned 11 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/11/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i9.mangareader.net/damned/11/damned-3418171.jpg",
+        "imageAlt" : "Damned 11 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/11/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i9.mangareader.net/damned/11/damned-3418173.jpg",
+        "imageAlt" : "Damned 11 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/11/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i5.mangareader.net/damned/11/damned-3418175.jpg",
+        "imageAlt" : "Damned 11 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/damned/11/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i1.mangareader.net/damned/11/damned-3418177.jpg",
+        "imageAlt" : "Damned 11 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/damned/11/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i7.mangareader.net/damned/11/damned-3418179.jpg",
+        "imageAlt" : "Damned 11 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/damned/11/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/damned/11/damned-3418181.jpg",
+        "imageAlt" : "Damned 11 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/damned/11/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i1.mangareader.net/damned/11/damned-3418183.jpg",
+        "imageAlt" : "Damned 11 - Page 24"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/12",
+    "chapterTitle" : "Damned 12",
+    "chapterDescription" : "",
+    "chapterDate" : "07/02/2012",
+    "pageCount" : 22,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i2.mangareader.net/damned/12/damned-3420549.jpg",
+        "imageAlt" : "Damned 12 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/12/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i4.mangareader.net/damned/12/damned-3420551.jpg",
+        "imageAlt" : "Damned 12 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/12/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i10.mangareader.net/damned/12/damned-3420553.jpg",
+        "imageAlt" : "Damned 12 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/12/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i4.mangareader.net/damned/12/damned-3420555.jpg",
+        "imageAlt" : "Damned 12 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/12/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/damned/12/damned-3420557.jpg",
+        "imageAlt" : "Damned 12 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/12/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i6.mangareader.net/damned/12/damned-3420559.jpg",
+        "imageAlt" : "Damned 12 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/12/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 558,
+        "imageUrl" : "http://i1.mangareader.net/damned/12/damned-3420561.jpg",
+        "imageAlt" : "Damned 12 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/12/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/damned/12/damned-3420563.jpg",
+        "imageAlt" : "Damned 12 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/12/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i5.mangareader.net/damned/12/damned-3420565.jpg",
+        "imageAlt" : "Damned 12 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/12/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 565,
+        "imageUrl" : "http://i7.mangareader.net/damned/12/damned-3420567.jpg",
+        "imageAlt" : "Damned 12 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/12/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i9.mangareader.net/damned/12/damned-3420569.jpg",
+        "imageAlt" : "Damned 12 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/12/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i5.mangareader.net/damned/12/damned-3420571.jpg",
+        "imageAlt" : "Damned 12 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/12/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/damned/12/damned-3420573.jpg",
+        "imageAlt" : "Damned 12 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/12/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i3.mangareader.net/damned/12/damned-3420575.jpg",
+        "imageAlt" : "Damned 12 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/12/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i9.mangareader.net/damned/12/damned-3420577.jpg",
+        "imageAlt" : "Damned 12 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/12/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i7.mangareader.net/damned/12/damned-3420579.jpg",
+        "imageAlt" : "Damned 12 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/12/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/damned/12/damned-3420581.jpg",
+        "imageAlt" : "Damned 12 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/12/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i9.mangareader.net/damned/12/damned-3420583.jpg",
+        "imageAlt" : "Damned 12 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/12/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/damned/12/damned-3420585.jpg",
+        "imageAlt" : "Damned 12 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/12/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i3.mangareader.net/damned/12/damned-3420587.jpg",
+        "imageAlt" : "Damned 12 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/damned/12/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/damned/12/damned-3420589.jpg",
+        "imageAlt" : "Damned 12 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/damned/12/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i1.mangareader.net/damned/12/damned-3420591.jpg",
+        "imageAlt" : "Damned 12 - Page 22"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/13",
+    "chapterTitle" : "Damned 13",
+    "chapterDescription" : "",
+    "chapterDate" : "07/03/2012",
+    "pageCount" : 24,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1184,
+        "imageUrl" : "http://i3.mangareader.net/damned/13/damned-3423597.jpg",
+        "imageAlt" : "Damned 13 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/13/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i7.mangareader.net/damned/13/damned-3423599.jpg",
+        "imageAlt" : "Damned 13 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/13/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i9.mangareader.net/damned/13/damned-3423601.jpg",
+        "imageAlt" : "Damned 13 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/13/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i3.mangareader.net/damned/13/damned-3423603.jpg",
+        "imageAlt" : "Damned 13 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/13/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i3.mangareader.net/damned/13/damned-3423605.jpg",
+        "imageAlt" : "Damned 13 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/13/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i9.mangareader.net/damned/13/damned-3423607.jpg",
+        "imageAlt" : "Damned 13 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/13/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i5.mangareader.net/damned/13/damned-3423609.jpg",
+        "imageAlt" : "Damned 13 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/13/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/damned/13/damned-3423611.jpg",
+        "imageAlt" : "Damned 13 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/13/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i9.mangareader.net/damned/13/damned-3423613.jpg",
+        "imageAlt" : "Damned 13 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/13/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i3.mangareader.net/damned/13/damned-3423615.jpg",
+        "imageAlt" : "Damned 13 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/13/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i5.mangareader.net/damned/13/damned-3423617.jpg",
+        "imageAlt" : "Damned 13 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/13/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i5.mangareader.net/damned/13/damned-3423619.jpg",
+        "imageAlt" : "Damned 13 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/13/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i2.mangareader.net/damned/13/damned-3423621.jpg",
+        "imageAlt" : "Damned 13 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/13/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/damned/13/damned-3423623.jpg",
+        "imageAlt" : "Damned 13 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/13/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i10.mangareader.net/damned/13/damned-3423625.jpg",
+        "imageAlt" : "Damned 13 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/13/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/damned/13/damned-3423627.jpg",
+        "imageAlt" : "Damned 13 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/13/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/damned/13/damned-3423629.jpg",
+        "imageAlt" : "Damned 13 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/13/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/damned/13/damned-3423631.jpg",
+        "imageAlt" : "Damned 13 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/13/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i10.mangareader.net/damned/13/damned-3423633.jpg",
+        "imageAlt" : "Damned 13 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/13/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i10.mangareader.net/damned/13/damned-3423635.jpg",
+        "imageAlt" : "Damned 13 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/damned/13/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/damned/13/damned-3423637.jpg",
+        "imageAlt" : "Damned 13 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/damned/13/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/damned/13/damned-3423639.jpg",
+        "imageAlt" : "Damned 13 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/damned/13/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/damned/13/damned-3423641.jpg",
+        "imageAlt" : "Damned 13 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/damned/13/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i10.mangareader.net/damned/13/damned-3423643.jpg",
+        "imageAlt" : "Damned 13 - Page 24"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/14",
+    "chapterTitle" : "Damned 14",
+    "chapterDescription" : "",
+    "chapterDate" : "07/04/2012",
+    "pageCount" : 30,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/damned/14/damned-3426381.jpg",
+        "imageAlt" : "Damned 14 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/14/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/damned/14/damned-3426383.jpg",
+        "imageAlt" : "Damned 14 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/14/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/damned/14/damned-3426385.jpg",
+        "imageAlt" : "Damned 14 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/14/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/damned/14/damned-3426387.jpg",
+        "imageAlt" : "Damned 14 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/14/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i3.mangareader.net/damned/14/damned-3426389.jpg",
+        "imageAlt" : "Damned 14 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/14/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i7.mangareader.net/damned/14/damned-3426391.jpg",
+        "imageAlt" : "Damned 14 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/14/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/damned/14/damned-3426393.jpg",
+        "imageAlt" : "Damned 14 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/14/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i5.mangareader.net/damned/14/damned-3426395.jpg",
+        "imageAlt" : "Damned 14 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/14/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i7.mangareader.net/damned/14/damned-3426397.jpg",
+        "imageAlt" : "Damned 14 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/14/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1126,
+        "imageUrl" : "http://i7.mangareader.net/damned/14/damned-3426399.jpg",
+        "imageAlt" : "Damned 14 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/14/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/damned/14/damned-3426401.jpg",
+        "imageAlt" : "Damned 14 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/14/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i6.mangareader.net/damned/14/damned-3426403.jpg",
+        "imageAlt" : "Damned 14 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/14/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 566,
+        "imageUrl" : "http://i8.mangareader.net/damned/14/damned-3426405.jpg",
+        "imageAlt" : "Damned 14 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/14/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i4.mangareader.net/damned/14/damned-3426407.jpg",
+        "imageAlt" : "Damned 14 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/14/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1122,
+        "imageUrl" : "http://i6.mangareader.net/damned/14/damned-3426409.jpg",
+        "imageAlt" : "Damned 14 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/14/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i8.mangareader.net/damned/14/damned-3426411.jpg",
+        "imageAlt" : "Damned 14 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/14/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i6.mangareader.net/damned/14/damned-3426413.jpg",
+        "imageAlt" : "Damned 14 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/14/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i2.mangareader.net/damned/14/damned-3426415.jpg",
+        "imageAlt" : "Damned 14 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/14/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i4.mangareader.net/damned/14/damned-3426417.jpg",
+        "imageAlt" : "Damned 14 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/14/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 511,
+        "imageUrl" : "http://i4.mangareader.net/damned/14/damned-3426419.jpg",
+        "imageAlt" : "Damned 14 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/damned/14/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i3.mangareader.net/damned/14/damned-3426421.jpg",
+        "imageAlt" : "Damned 14 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/damned/14/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/damned/14/damned-3426423.jpg",
+        "imageAlt" : "Damned 14 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/damned/14/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i5.mangareader.net/damned/14/damned-3426425.jpg",
+        "imageAlt" : "Damned 14 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/damned/14/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i7.mangareader.net/damned/14/damned-3426427.jpg",
+        "imageAlt" : "Damned 14 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/damned/14/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/damned/14/damned-3426429.jpg",
+        "imageAlt" : "Damned 14 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/damned/14/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/damned/14/damned-3426431.jpg",
+        "imageAlt" : "Damned 14 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/damned/14/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i7.mangareader.net/damned/14/damned-3426433.jpg",
+        "imageAlt" : "Damned 14 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/damned/14/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i7.mangareader.net/damned/14/damned-3426435.jpg",
+        "imageAlt" : "Damned 14 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/damned/14/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i7.mangareader.net/damned/14/damned-3426437.jpg",
+        "imageAlt" : "Damned 14 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/damned/14/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i1.mangareader.net/damned/14/damned-3426439.jpg",
+        "imageAlt" : "Damned 14 - Page 30"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/15",
+    "chapterTitle" : "Damned 15",
+    "chapterDescription" : "",
+    "chapterDate" : "07/04/2012",
+    "pageCount" : 20,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i1.mangareader.net/damned/15/damned-3427633.jpg",
+        "imageAlt" : "Damned 15 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/15/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 569,
+        "imageUrl" : "http://i7.mangareader.net/damned/15/damned-3427635.jpg",
+        "imageAlt" : "Damned 15 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/15/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/damned/15/damned-3427637.jpg",
+        "imageAlt" : "Damned 15 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/15/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i9.mangareader.net/damned/15/damned-3427639.jpg",
+        "imageAlt" : "Damned 15 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/15/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/damned/15/damned-3427641.jpg",
+        "imageAlt" : "Damned 15 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/15/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i3.mangareader.net/damned/15/damned-3427643.jpg",
+        "imageAlt" : "Damned 15 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/15/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i9.mangareader.net/damned/15/damned-3427645.jpg",
+        "imageAlt" : "Damned 15 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/15/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/damned/15/damned-3427647.jpg",
+        "imageAlt" : "Damned 15 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/15/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i7.mangareader.net/damned/15/damned-3427649.jpg",
+        "imageAlt" : "Damned 15 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/15/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i1.mangareader.net/damned/15/damned-3427651.jpg",
+        "imageAlt" : "Damned 15 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/15/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/damned/15/damned-3427653.jpg",
+        "imageAlt" : "Damned 15 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/15/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/damned/15/damned-3427655.jpg",
+        "imageAlt" : "Damned 15 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/15/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/damned/15/damned-3427657.jpg",
+        "imageAlt" : "Damned 15 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/15/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i7.mangareader.net/damned/15/damned-3427659.jpg",
+        "imageAlt" : "Damned 15 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/15/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/damned/15/damned-3427661.jpg",
+        "imageAlt" : "Damned 15 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/15/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/damned/15/damned-3427663.jpg",
+        "imageAlt" : "Damned 15 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/15/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/damned/15/damned-3427665.jpg",
+        "imageAlt" : "Damned 15 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/15/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1096,
+        "imageUrl" : "http://i4.mangareader.net/damned/15/damned-3427667.jpg",
+        "imageAlt" : "Damned 15 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/15/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i8.mangareader.net/damned/15/damned-3427669.jpg",
+        "imageAlt" : "Damned 15 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/15/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i6.mangareader.net/damned/15/damned-3427671.jpg",
+        "imageAlt" : "Damned 15 - Page 20"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/16",
+    "chapterTitle" : "Damned 16",
+    "chapterDescription" : "",
+    "chapterDate" : "07/06/2012",
+    "pageCount" : 22,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i1.mangareader.net/damned/16/damned-3431491.jpg",
+        "imageAlt" : "Damned 16 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/16/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/damned/16/damned-3431493.jpg",
+        "imageAlt" : "Damned 16 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/16/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/damned/16/damned-3431495.jpg",
+        "imageAlt" : "Damned 16 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/16/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i3.mangareader.net/damned/16/damned-3431497.jpg",
+        "imageAlt" : "Damned 16 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/16/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i9.mangareader.net/damned/16/damned-3431499.jpg",
+        "imageAlt" : "Damned 16 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/16/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i9.mangareader.net/damned/16/damned-3431501.jpg",
+        "imageAlt" : "Damned 16 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/16/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i3.mangareader.net/damned/16/damned-3431503.jpg",
+        "imageAlt" : "Damned 16 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/16/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/damned/16/damned-3431505.jpg",
+        "imageAlt" : "Damned 16 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/16/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i3.mangareader.net/damned/16/damned-3431507.jpg",
+        "imageAlt" : "Damned 16 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/16/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/damned/16/damned-3431509.jpg",
+        "imageAlt" : "Damned 16 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/16/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i5.mangareader.net/damned/16/damned-3431511.jpg",
+        "imageAlt" : "Damned 16 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/16/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/damned/16/damned-3431513.jpg",
+        "imageAlt" : "Damned 16 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/16/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i9.mangareader.net/damned/16/damned-3431515.jpg",
+        "imageAlt" : "Damned 16 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/16/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/damned/16/damned-3431517.jpg",
+        "imageAlt" : "Damned 16 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/16/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i5.mangareader.net/damned/16/damned-3431519.jpg",
+        "imageAlt" : "Damned 16 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/16/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i6.mangareader.net/damned/16/damned-3431521.jpg",
+        "imageAlt" : "Damned 16 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/16/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i2.mangareader.net/damned/16/damned-3431523.jpg",
+        "imageAlt" : "Damned 16 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/16/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i4.mangareader.net/damned/16/damned-3431525.jpg",
+        "imageAlt" : "Damned 16 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/16/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/damned/16/damned-3431527.jpg",
+        "imageAlt" : "Damned 16 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/16/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 562,
+        "imageUrl" : "http://i8.mangareader.net/damned/16/damned-3431529.jpg",
+        "imageAlt" : "Damned 16 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/damned/16/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/damned/16/damned-3431531.jpg",
+        "imageAlt" : "Damned 16 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/damned/16/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i8.mangareader.net/damned/16/damned-3431533.jpg",
+        "imageAlt" : "Damned 16 - Page 22"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/17",
+    "chapterTitle" : "Damned 17",
+    "chapterDescription" : "",
+    "chapterDate" : "07/07/2012",
+    "pageCount" : 25,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i1.mangareader.net/damned/17/damned-3434195.jpg",
+        "imageAlt" : "Damned 17 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/17/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i5.mangareader.net/damned/17/damned-3434197.jpg",
+        "imageAlt" : "Damned 17 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/17/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i5.mangareader.net/damned/17/damned-3434199.jpg",
+        "imageAlt" : "Damned 17 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/17/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i3.mangareader.net/damned/17/damned-3434201.jpg",
+        "imageAlt" : "Damned 17 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/17/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i3.mangareader.net/damned/17/damned-3434203.jpg",
+        "imageAlt" : "Damned 17 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/17/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i3.mangareader.net/damned/17/damned-3434205.jpg",
+        "imageAlt" : "Damned 17 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/17/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i3.mangareader.net/damned/17/damned-3434207.jpg",
+        "imageAlt" : "Damned 17 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/17/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/damned/17/damned-3434209.jpg",
+        "imageAlt" : "Damned 17 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/17/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/damned/17/damned-3434211.jpg",
+        "imageAlt" : "Damned 17 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/17/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/damned/17/damned-3434213.jpg",
+        "imageAlt" : "Damned 17 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/17/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i1.mangareader.net/damned/17/damned-3434215.jpg",
+        "imageAlt" : "Damned 17 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/17/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i3.mangareader.net/damned/17/damned-3434217.jpg",
+        "imageAlt" : "Damned 17 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/17/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i3.mangareader.net/damned/17/damned-3434219.jpg",
+        "imageAlt" : "Damned 17 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/17/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i10.mangareader.net/damned/17/damned-3434221.jpg",
+        "imageAlt" : "Damned 17 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/17/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1124,
+        "imageUrl" : "http://i6.mangareader.net/damned/17/damned-3434223.jpg",
+        "imageAlt" : "Damned 17 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/17/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/damned/17/damned-3434225.jpg",
+        "imageAlt" : "Damned 17 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/17/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i8.mangareader.net/damned/17/damned-3434227.jpg",
+        "imageAlt" : "Damned 17 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/17/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/damned/17/damned-3434229.jpg",
+        "imageAlt" : "Damned 17 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/17/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/damned/17/damned-3434231.jpg",
+        "imageAlt" : "Damned 17 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/17/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i4.mangareader.net/damned/17/damned-3434233.jpg",
+        "imageAlt" : "Damned 17 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/damned/17/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1129,
+        "imageUrl" : "http://i10.mangareader.net/damned/17/damned-3434235.jpg",
+        "imageAlt" : "Damned 17 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/damned/17/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/damned/17/damned-3434237.jpg",
+        "imageAlt" : "Damned 17 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/damned/17/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i8.mangareader.net/damned/17/damned-3434239.jpg",
+        "imageAlt" : "Damned 17 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/damned/17/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i8.mangareader.net/damned/17/damned-3434241.jpg",
+        "imageAlt" : "Damned 17 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/damned/17/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1299,
+        "imageUrl" : "http://i2.mangareader.net/damned/17/damned-3434243.jpg",
+        "imageAlt" : "Damned 17 - Page 25"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/18",
+    "chapterTitle" : "Damned 18",
+    "chapterDescription" : "",
+    "chapterDate" : "07/07/2012",
+    "pageCount" : 31,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 322,
+        "imageUrl" : "http://i5.mangareader.net/damned/18/damned-3436639.jpg",
+        "imageAlt" : "Damned 18 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/18/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 537,
+        "imageUrl" : "http://i1.mangareader.net/damned/18/damned-3436641.jpg",
+        "imageAlt" : "Damned 18 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/18/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i3.mangareader.net/damned/18/damned-3436643.jpg",
+        "imageAlt" : "Damned 18 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/18/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i3.mangareader.net/damned/18/damned-3436645.jpg",
+        "imageAlt" : "Damned 18 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/18/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/damned/18/damned-3436647.jpg",
+        "imageAlt" : "Damned 18 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/18/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i5.mangareader.net/damned/18/damned-3436649.jpg",
+        "imageAlt" : "Damned 18 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/18/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i9.mangareader.net/damned/18/damned-3436651.jpg",
+        "imageAlt" : "Damned 18 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/18/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/damned/18/damned-3436653.jpg",
+        "imageAlt" : "Damned 18 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/18/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i1.mangareader.net/damned/18/damned-3436655.jpg",
+        "imageAlt" : "Damned 18 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/18/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i3.mangareader.net/damned/18/damned-3436657.jpg",
+        "imageAlt" : "Damned 18 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/18/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i1.mangareader.net/damned/18/damned-3436659.jpg",
+        "imageAlt" : "Damned 18 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/18/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i6.mangareader.net/damned/18/damned-3436661.jpg",
+        "imageAlt" : "Damned 18 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/18/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/damned/18/damned-3436663.jpg",
+        "imageAlt" : "Damned 18 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/18/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i8.mangareader.net/damned/18/damned-3436665.jpg",
+        "imageAlt" : "Damned 18 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/18/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/damned/18/damned-3436667.jpg",
+        "imageAlt" : "Damned 18 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/18/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i10.mangareader.net/damned/18/damned-3436669.jpg",
+        "imageAlt" : "Damned 18 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/18/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/damned/18/damned-3436671.jpg",
+        "imageAlt" : "Damned 18 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/18/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i4.mangareader.net/damned/18/damned-3436673.jpg",
+        "imageAlt" : "Damned 18 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/18/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i8.mangareader.net/damned/18/damned-3436675.jpg",
+        "imageAlt" : "Damned 18 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/18/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i4.mangareader.net/damned/18/damned-3436677.jpg",
+        "imageAlt" : "Damned 18 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/damned/18/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/damned/18/damned-3436679.jpg",
+        "imageAlt" : "Damned 18 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/damned/18/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i8.mangareader.net/damned/18/damned-3436681.jpg",
+        "imageAlt" : "Damned 18 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/damned/18/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 574,
+        "imageUrl" : "http://i10.mangareader.net/damned/18/damned-3436683.jpg",
+        "imageAlt" : "Damned 18 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/damned/18/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i2.mangareader.net/damned/18/damned-3436685.jpg",
+        "imageAlt" : "Damned 18 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/damned/18/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/damned/18/damned-3436687.jpg",
+        "imageAlt" : "Damned 18 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/damned/18/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 574,
+        "imageUrl" : "http://i10.mangareader.net/damned/18/damned-3436689.jpg",
+        "imageAlt" : "Damned 18 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/damned/18/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i2.mangareader.net/damned/18/damned-3436691.jpg",
+        "imageAlt" : "Damned 18 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/damned/18/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/damned/18/damned-3436693.jpg",
+        "imageAlt" : "Damned 18 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/damned/18/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i10.mangareader.net/damned/18/damned-3436695.jpg",
+        "imageAlt" : "Damned 18 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/damned/18/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i10.mangareader.net/damned/18/damned-3436697.jpg",
+        "imageAlt" : "Damned 18 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/damned/18/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i6.mangareader.net/damned/18/damned-3436699.jpg",
+        "imageAlt" : "Damned 18 - Page 31"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/19",
+    "chapterTitle" : "Damned 19",
+    "chapterDescription" : "",
+    "chapterDate" : "07/07/2012",
+    "pageCount" : 22,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i1.mangareader.net/damned/19/damned-3436701.jpg",
+        "imageAlt" : "Damned 19 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/19/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 565,
+        "imageUrl" : "http://i5.mangareader.net/damned/19/damned-3436703.jpg",
+        "imageAlt" : "Damned 19 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/19/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i1.mangareader.net/damned/19/damned-3436705.jpg",
+        "imageAlt" : "Damned 19 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/19/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i5.mangareader.net/damned/19/damned-3436707.jpg",
+        "imageAlt" : "Damned 19 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/19/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i7.mangareader.net/damned/19/damned-3436709.jpg",
+        "imageAlt" : "Damned 19 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/19/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i9.mangareader.net/damned/19/damned-3436711.jpg",
+        "imageAlt" : "Damned 19 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/19/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/damned/19/damned-3436713.jpg",
+        "imageAlt" : "Damned 19 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/19/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i1.mangareader.net/damned/19/damned-3436715.jpg",
+        "imageAlt" : "Damned 19 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/19/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i3.mangareader.net/damned/19/damned-3436717.jpg",
+        "imageAlt" : "Damned 19 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/19/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/damned/19/damned-3436719.jpg",
+        "imageAlt" : "Damned 19 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/19/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i8.mangareader.net/damned/19/damned-3436721.jpg",
+        "imageAlt" : "Damned 19 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/19/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i8.mangareader.net/damned/19/damned-3436723.jpg",
+        "imageAlt" : "Damned 19 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/19/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i8.mangareader.net/damned/19/damned-3436725.jpg",
+        "imageAlt" : "Damned 19 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/19/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i2.mangareader.net/damned/19/damned-3436727.jpg",
+        "imageAlt" : "Damned 19 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/19/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i4.mangareader.net/damned/19/damned-3436729.jpg",
+        "imageAlt" : "Damned 19 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/19/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/damned/19/damned-3436731.jpg",
+        "imageAlt" : "Damned 19 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/19/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1126,
+        "imageUrl" : "http://i10.mangareader.net/damned/19/damned-3436733.jpg",
+        "imageAlt" : "Damned 19 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/19/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/damned/19/damned-3436735.jpg",
+        "imageAlt" : "Damned 19 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/19/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/damned/19/damned-3436737.jpg",
+        "imageAlt" : "Damned 19 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/19/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i8.mangareader.net/damned/19/damned-3436739.jpg",
+        "imageAlt" : "Damned 19 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/damned/19/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/damned/19/damned-3436741.jpg",
+        "imageAlt" : "Damned 19 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/damned/19/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/damned/19/damned-3436743.jpg",
+        "imageAlt" : "Damned 19 - Page 22"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/20",
+    "chapterTitle" : "Damned 20",
+    "chapterDescription" : "",
+    "chapterDate" : "07/07/2012",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i3.mangareader.net/damned/20/damned-3436745.jpg",
+        "imageAlt" : "Damned 20 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/20/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i5.mangareader.net/damned/20/damned-3436747.jpg",
+        "imageAlt" : "Damned 20 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/20/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/damned/20/damned-3436749.jpg",
+        "imageAlt" : "Damned 20 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/20/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/damned/20/damned-3436751.jpg",
+        "imageAlt" : "Damned 20 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/20/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i9.mangareader.net/damned/20/damned-3436753.jpg",
+        "imageAlt" : "Damned 20 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/20/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i1.mangareader.net/damned/20/damned-3436755.jpg",
+        "imageAlt" : "Damned 20 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/20/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i3.mangareader.net/damned/20/damned-3436757.jpg",
+        "imageAlt" : "Damned 20 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/20/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i3.mangareader.net/damned/20/damned-3436759.jpg",
+        "imageAlt" : "Damned 20 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/20/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i4.mangareader.net/damned/20/damned-3436761.jpg",
+        "imageAlt" : "Damned 20 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/20/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i6.mangareader.net/damned/20/damned-3436763.jpg",
+        "imageAlt" : "Damned 20 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/20/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/damned/20/damned-3436765.jpg",
+        "imageAlt" : "Damned 20 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/20/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 563,
+        "imageUrl" : "http://i6.mangareader.net/damned/20/damned-3436767.jpg",
+        "imageAlt" : "Damned 20 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/20/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i8.mangareader.net/damned/20/damned-3436769.jpg",
+        "imageAlt" : "Damned 20 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/20/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i8.mangareader.net/damned/20/damned-3436771.jpg",
+        "imageAlt" : "Damned 20 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/20/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i6.mangareader.net/damned/20/damned-3436773.jpg",
+        "imageAlt" : "Damned 20 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/20/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/damned/20/damned-3436775.jpg",
+        "imageAlt" : "Damned 20 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/20/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/damned/20/damned-3436777.jpg",
+        "imageAlt" : "Damned 20 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/21",
+    "chapterTitle" : "Damned 21",
+    "chapterDescription" : "",
+    "chapterDate" : "07/07/2012",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i7.mangareader.net/damned/21/damned-3436779.jpg",
+        "imageAlt" : "Damned 21 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/21/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i9.mangareader.net/damned/21/damned-3436781.jpg",
+        "imageAlt" : "Damned 21 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/21/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/damned/21/damned-3436783.jpg",
+        "imageAlt" : "Damned 21 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/21/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i1.mangareader.net/damned/21/damned-3436785.jpg",
+        "imageAlt" : "Damned 21 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/21/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i7.mangareader.net/damned/21/damned-3436787.jpg",
+        "imageAlt" : "Damned 21 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/21/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i3.mangareader.net/damned/21/damned-3436789.jpg",
+        "imageAlt" : "Damned 21 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/21/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i7.mangareader.net/damned/21/damned-3436791.jpg",
+        "imageAlt" : "Damned 21 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/21/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i9.mangareader.net/damned/21/damned-3436793.jpg",
+        "imageAlt" : "Damned 21 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/21/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i9.mangareader.net/damned/21/damned-3436795.jpg",
+        "imageAlt" : "Damned 21 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/21/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i5.mangareader.net/damned/21/damned-3436797.jpg",
+        "imageAlt" : "Damned 21 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/21/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/damned/21/damned-3436799.jpg",
+        "imageAlt" : "Damned 21 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/21/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i1.mangareader.net/damned/21/damned-3436801.jpg",
+        "imageAlt" : "Damned 21 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/21/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i5.mangareader.net/damned/21/damned-3436803.jpg",
+        "imageAlt" : "Damned 21 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/21/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 567,
+        "imageUrl" : "http://i7.mangareader.net/damned/21/damned-3436805.jpg",
+        "imageAlt" : "Damned 21 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/21/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i5.mangareader.net/damned/21/damned-3436807.jpg",
+        "imageAlt" : "Damned 21 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/21/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i5.mangareader.net/damned/21/damned-3436809.jpg",
+        "imageAlt" : "Damned 21 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/21/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i5.mangareader.net/damned/21/damned-3436811.jpg",
+        "imageAlt" : "Damned 21 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/21/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i1.mangareader.net/damned/21/damned-3436813.jpg",
+        "imageAlt" : "Damned 21 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/22",
+    "chapterTitle" : "Damned 22",
+    "chapterDescription" : "",
+    "chapterDate" : "07/07/2012",
+    "pageCount" : 16,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 568,
+        "imageUrl" : "http://i4.mangareader.net/damned/22/damned-3436815.jpg",
+        "imageAlt" : "Damned 22 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/22/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i8.mangareader.net/damned/22/damned-3436817.jpg",
+        "imageAlt" : "Damned 22 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/22/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i10.mangareader.net/damned/22/damned-3436819.jpg",
+        "imageAlt" : "Damned 22 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/22/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i7.mangareader.net/damned/22/damned-3436821.jpg",
+        "imageAlt" : "Damned 22 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/22/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i7.mangareader.net/damned/22/damned-3436823.jpg",
+        "imageAlt" : "Damned 22 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/22/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i9.mangareader.net/damned/22/damned-3436825.jpg",
+        "imageAlt" : "Damned 22 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/22/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i5.mangareader.net/damned/22/damned-3436827.jpg",
+        "imageAlt" : "Damned 22 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/22/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i1.mangareader.net/damned/22/damned-3436829.jpg",
+        "imageAlt" : "Damned 22 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/22/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i7.mangareader.net/damned/22/damned-3436831.jpg",
+        "imageAlt" : "Damned 22 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/22/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i3.mangareader.net/damned/22/damned-3436833.jpg",
+        "imageAlt" : "Damned 22 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/22/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i9.mangareader.net/damned/22/damned-3436835.jpg",
+        "imageAlt" : "Damned 22 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/22/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i7.mangareader.net/damned/22/damned-3436837.jpg",
+        "imageAlt" : "Damned 22 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/22/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/damned/22/damned-3436839.jpg",
+        "imageAlt" : "Damned 22 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/22/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i9.mangareader.net/damned/22/damned-3436841.jpg",
+        "imageAlt" : "Damned 22 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/22/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i9.mangareader.net/damned/22/damned-3436843.jpg",
+        "imageAlt" : "Damned 22 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/22/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i5.mangareader.net/damned/22/damned-3436845.jpg",
+        "imageAlt" : "Damned 22 - Page 16"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/23",
+    "chapterTitle" : "Damned 23",
+    "chapterDescription" : "",
+    "chapterDate" : "07/07/2012",
+    "pageCount" : 17,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i2.mangareader.net/damned/23/damned-3436847.jpg",
+        "imageAlt" : "Damned 23 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/23/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i6.mangareader.net/damned/23/damned-3436849.jpg",
+        "imageAlt" : "Damned 23 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/23/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i6.mangareader.net/damned/23/damned-3436851.jpg",
+        "imageAlt" : "Damned 23 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/23/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1127,
+        "imageUrl" : "http://i2.mangareader.net/damned/23/damned-3436853.jpg",
+        "imageAlt" : "Damned 23 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/23/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i8.mangareader.net/damned/23/damned-3436855.jpg",
+        "imageAlt" : "Damned 23 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/23/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/damned/23/damned-3436857.jpg",
+        "imageAlt" : "Damned 23 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/23/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/damned/23/damned-3436859.jpg",
+        "imageAlt" : "Damned 23 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/23/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i5.mangareader.net/damned/23/damned-3436861.jpg",
+        "imageAlt" : "Damned 23 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/23/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i9.mangareader.net/damned/23/damned-3436863.jpg",
+        "imageAlt" : "Damned 23 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/23/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i1.mangareader.net/damned/23/damned-3436865.jpg",
+        "imageAlt" : "Damned 23 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/23/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i5.mangareader.net/damned/23/damned-3436867.jpg",
+        "imageAlt" : "Damned 23 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/23/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i1.mangareader.net/damned/23/damned-3436869.jpg",
+        "imageAlt" : "Damned 23 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/23/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1126,
+        "imageUrl" : "http://i3.mangareader.net/damned/23/damned-3436871.jpg",
+        "imageAlt" : "Damned 23 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/23/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i3.mangareader.net/damned/23/damned-3436873.jpg",
+        "imageAlt" : "Damned 23 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/23/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 567,
+        "imageUrl" : "http://i5.mangareader.net/damned/23/damned-3436875.jpg",
+        "imageAlt" : "Damned 23 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/23/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i7.mangareader.net/damned/23/damned-3436877.jpg",
+        "imageAlt" : "Damned 23 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/23/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i9.mangareader.net/damned/23/damned-3436879.jpg",
+        "imageAlt" : "Damned 23 - Page 17"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/24",
+    "chapterTitle" : "Damned 24",
+    "chapterDescription" : "",
+    "chapterDate" : "07/07/2012",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i10.mangareader.net/damned/24/damned-3436881.jpg",
+        "imageAlt" : "Damned 24 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/24/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i6.mangareader.net/damned/24/damned-3436883.jpg",
+        "imageAlt" : "Damned 24 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/24/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i8.mangareader.net/damned/24/damned-3436885.jpg",
+        "imageAlt" : "Damned 24 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/24/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i2.mangareader.net/damned/24/damned-3436887.jpg",
+        "imageAlt" : "Damned 24 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/24/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i2.mangareader.net/damned/24/damned-3436889.jpg",
+        "imageAlt" : "Damned 24 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/24/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/damned/24/damned-3436891.jpg",
+        "imageAlt" : "Damned 24 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/24/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i8.mangareader.net/damned/24/damned-3436893.jpg",
+        "imageAlt" : "Damned 24 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/24/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i8.mangareader.net/damned/24/damned-3436895.jpg",
+        "imageAlt" : "Damned 24 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/24/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/damned/24/damned-3436897.jpg",
+        "imageAlt" : "Damned 24 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/24/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/damned/24/damned-3436899.jpg",
+        "imageAlt" : "Damned 24 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/24/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/damned/24/damned-3436901.jpg",
+        "imageAlt" : "Damned 24 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/24/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i2.mangareader.net/damned/24/damned-3436903.jpg",
+        "imageAlt" : "Damned 24 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/24/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i8.mangareader.net/damned/24/damned-3436905.jpg",
+        "imageAlt" : "Damned 24 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/24/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1132,
+        "imageUrl" : "http://i6.mangareader.net/damned/24/damned-3436907.jpg",
+        "imageAlt" : "Damned 24 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/24/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i10.mangareader.net/damned/24/damned-3436909.jpg",
+        "imageAlt" : "Damned 24 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/24/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i10.mangareader.net/damned/24/damned-3436911.jpg",
+        "imageAlt" : "Damned 24 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/24/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i10.mangareader.net/damned/24/damned-3436913.jpg",
+        "imageAlt" : "Damned 24 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/24/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i6.mangareader.net/damned/24/damned-3436915.jpg",
+        "imageAlt" : "Damned 24 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/25",
+    "chapterTitle" : "Damned 25",
+    "chapterDescription" : "",
+    "chapterDate" : "07/07/2012",
+    "pageCount" : 18,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i5.mangareader.net/damned/25/damned-3436917.jpg",
+        "imageAlt" : "Damned 25 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/25/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i1.mangareader.net/damned/25/damned-3436919.jpg",
+        "imageAlt" : "Damned 25 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/25/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/damned/25/damned-3436921.jpg",
+        "imageAlt" : "Damned 25 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/25/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/damned/25/damned-3436923.jpg",
+        "imageAlt" : "Damned 25 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/25/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i6.mangareader.net/damned/25/damned-3436925.jpg",
+        "imageAlt" : "Damned 25 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/25/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i10.mangareader.net/damned/25/damned-3436927.jpg",
+        "imageAlt" : "Damned 25 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/25/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i10.mangareader.net/damned/25/damned-3436929.jpg",
+        "imageAlt" : "Damned 25 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/25/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/damned/25/damned-3436931.jpg",
+        "imageAlt" : "Damned 25 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/25/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/damned/25/damned-3436933.jpg",
+        "imageAlt" : "Damned 25 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/25/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/damned/25/damned-3436935.jpg",
+        "imageAlt" : "Damned 25 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/25/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i4.mangareader.net/damned/25/damned-3436937.jpg",
+        "imageAlt" : "Damned 25 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/25/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i2.mangareader.net/damned/25/damned-3436939.jpg",
+        "imageAlt" : "Damned 25 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/25/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/damned/25/damned-3436941.jpg",
+        "imageAlt" : "Damned 25 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/25/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i2.mangareader.net/damned/25/damned-3436943.jpg",
+        "imageAlt" : "Damned 25 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/25/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i4.mangareader.net/damned/25/damned-3436945.jpg",
+        "imageAlt" : "Damned 25 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/25/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/damned/25/damned-3436947.jpg",
+        "imageAlt" : "Damned 25 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/25/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 572,
+        "imageUrl" : "http://i4.mangareader.net/damned/25/damned-3436949.jpg",
+        "imageAlt" : "Damned 25 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/25/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i4.mangareader.net/damned/25/damned-3436951.jpg",
+        "imageAlt" : "Damned 25 - Page 18"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/damned/26",
+    "chapterTitle" : "Damned 26",
+    "chapterDescription" : "",
+    "chapterDate" : "07/07/2012",
+    "pageCount" : 42,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/damned/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1139,
+        "imageUrl" : "http://i5.mangareader.net/damned/26/damned-3436953.jpg",
+        "imageAlt" : "Damned 26 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/damned/26/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 574,
+        "imageUrl" : "http://i1.mangareader.net/damned/26/damned-3436955.jpg",
+        "imageAlt" : "Damned 26 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/damned/26/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/damned/26/damned-3436957.jpg",
+        "imageAlt" : "Damned 26 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/damned/26/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i7.mangareader.net/damned/26/damned-3436959.jpg",
+        "imageAlt" : "Damned 26 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/damned/26/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i4.mangareader.net/damned/26/damned-3436961.jpg",
+        "imageAlt" : "Damned 26 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/damned/26/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1125,
+        "imageUrl" : "http://i8.mangareader.net/damned/26/damned-3436963.jpg",
+        "imageAlt" : "Damned 26 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/damned/26/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i6.mangareader.net/damned/26/damned-3436965.jpg",
+        "imageAlt" : "Damned 26 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/damned/26/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i10.mangareader.net/damned/26/damned-3436967.jpg",
+        "imageAlt" : "Damned 26 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/damned/26/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i4.mangareader.net/damned/26/damned-3436969.jpg",
+        "imageAlt" : "Damned 26 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/damned/26/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1136,
+        "imageUrl" : "http://i4.mangareader.net/damned/26/damned-3436971.jpg",
+        "imageAlt" : "Damned 26 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/damned/26/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i8.mangareader.net/damned/26/damned-3436973.jpg",
+        "imageAlt" : "Damned 26 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/damned/26/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/damned/26/damned-3436975.jpg",
+        "imageAlt" : "Damned 26 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/damned/26/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/damned/26/damned-3436977.jpg",
+        "imageAlt" : "Damned 26 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/damned/26/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i4.mangareader.net/damned/26/damned-3436979.jpg",
+        "imageAlt" : "Damned 26 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/damned/26/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i2.mangareader.net/damned/26/damned-3436981.jpg",
+        "imageAlt" : "Damned 26 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/damned/26/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/damned/26/damned-3436983.jpg",
+        "imageAlt" : "Damned 26 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/damned/26/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i6.mangareader.net/damned/26/damned-3436985.jpg",
+        "imageAlt" : "Damned 26 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/damned/26/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i8.mangareader.net/damned/26/damned-3436987.jpg",
+        "imageAlt" : "Damned 26 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/damned/26/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/damned/26/damned-3436989.jpg",
+        "imageAlt" : "Damned 26 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/damned/26/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i2.mangareader.net/damned/26/damned-3436991.jpg",
+        "imageAlt" : "Damned 26 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/damned/26/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i8.mangareader.net/damned/26/damned-3436993.jpg",
+        "imageAlt" : "Damned 26 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/damned/26/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1145,
+        "imageUrl" : "http://i2.mangareader.net/damned/26/damned-3436995.jpg",
+        "imageAlt" : "Damned 26 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/damned/26/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/damned/26/damned-3436997.jpg",
+        "imageAlt" : "Damned 26 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/damned/26/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i6.mangareader.net/damned/26/damned-3436999.jpg",
+        "imageAlt" : "Damned 26 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/damned/26/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i6.mangareader.net/damned/26/damned-3437001.jpg",
+        "imageAlt" : "Damned 26 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/damned/26/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i4.mangareader.net/damned/26/damned-3437003.jpg",
+        "imageAlt" : "Damned 26 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/damned/26/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i4.mangareader.net/damned/26/damned-3437005.jpg",
+        "imageAlt" : "Damned 26 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/damned/26/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i6.mangareader.net/damned/26/damned-3437007.jpg",
+        "imageAlt" : "Damned 26 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/damned/26/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1151,
+        "imageUrl" : "http://i8.mangareader.net/damned/26/damned-3437009.jpg",
+        "imageAlt" : "Damned 26 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/damned/26/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1148,
+        "imageUrl" : "http://i2.mangareader.net/damned/26/damned-3437011.jpg",
+        "imageAlt" : "Damned 26 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/damned/26/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 578,
+        "imageUrl" : "http://i4.mangareader.net/damned/26/damned-3437013.jpg",
+        "imageAlt" : "Damned 26 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/damned/26/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i2.mangareader.net/damned/26/damned-3437015.jpg",
+        "imageAlt" : "Damned 26 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/damned/26/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i10.mangareader.net/damned/26/damned-3437017.jpg",
+        "imageAlt" : "Damned 26 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/damned/26/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i8.mangareader.net/damned/26/damned-3437019.jpg",
+        "imageAlt" : "Damned 26 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/damned/26/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i3.mangareader.net/damned/26/damned-3437021.jpg",
+        "imageAlt" : "Damned 26 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/damned/26/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i7.mangareader.net/damned/26/damned-3437023.jpg",
+        "imageAlt" : "Damned 26 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/damned/26/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i9.mangareader.net/damned/26/damned-3437025.jpg",
+        "imageAlt" : "Damned 26 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/damned/26/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i9.mangareader.net/damned/26/damned-3437027.jpg",
+        "imageAlt" : "Damned 26 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/damned/26/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i5.mangareader.net/damned/26/damned-3437029.jpg",
+        "imageAlt" : "Damned 26 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/damned/26/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i7.mangareader.net/damned/26/damned-3437031.jpg",
+        "imageAlt" : "Damned 26 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/damned/26/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i9.mangareader.net/damned/26/damned-3437033.jpg",
+        "imageAlt" : "Damned 26 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/damned/26/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1165,
+        "imageUrl" : "http://i7.mangareader.net/damned/26/damned-3437035.jpg",
+        "imageAlt" : "Damned 26 - Page 42"
+      } ]
+    } ]
+  } ]
+}

@@ -1,0 +1,3421 @@
+{
+  "mangaTitle" : "Mr. Morning",
+  "mangaUrl" : "http://www.mangareader.net/mr-morning",
+  "mangaThumbUrl" : "http://s3.mangareader.net/cover/mr-morning/mr-morning-r0.jpg",
+  "mangaChaptersInfo" : "9 Chapters Published. (Completed)",
+  "mangaReadType" : "Manga (Read Right to Left)",
+  "mangaGenre" : "Comedy, Fantasy, Josei",
+  "chapterCount" : 9,
+  "chapters" : [ {
+    "chapterUrl" : "http://www.mangareader.net/mr-morning/1",
+    "chapterTitle" : "Mr. Morning 1",
+    "chapterDescription" : "",
+    "chapterDate" : "10/09/2011",
+    "pageCount" : 40,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 340,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/1/mr-morning-2705159.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 777,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/1/mr-morning-2705161.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 636,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/1/mr-morning-2705163.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/1/mr-morning-2705165.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/1/mr-morning-2705167.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 584,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/1/mr-morning-2705169.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1189,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/1/mr-morning-2705171.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/1/mr-morning-2705173.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1191,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/1/mr-morning-2705175.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1177,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/1/mr-morning-2705177.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1182,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/1/mr-morning-2705179.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/1/mr-morning-2705181.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1187,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/1/mr-morning-2705183.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/1/mr-morning-2705185.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1190,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/1/mr-morning-2705187.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/1/mr-morning-2705189.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1195,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/1/mr-morning-2705191.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/1/mr-morning-2705193.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1207,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/1/mr-morning-2705195.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/1/mr-morning-2705197.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/1/mr-morning-2705199.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/1/mr-morning-2705201.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1207,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/1/mr-morning-2705203.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/1/mr-morning-2705205.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/1/mr-morning-2705207.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1174,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/1/mr-morning-2705209.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/1/mr-morning-2705211.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/1/mr-morning-2705213.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1197,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/1/mr-morning-2705215.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1193,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/1/mr-morning-2705217.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1192,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/1/mr-morning-2705219.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/1/mr-morning-2705221.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/1/mr-morning-2705223.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/1/mr-morning-2705225.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/1/mr-morning-2705227.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/1/mr-morning-2705229.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1175,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/1/mr-morning-2705231.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/1/mr-morning-2705233.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 557,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/1/mr-morning-2705235.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/1/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 594,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/1/mr-morning-2705237.jpg",
+        "imageAlt" : "Mr. Morning 1 - Page 40"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mr-morning/2",
+    "chapterTitle" : "Mr. Morning 2",
+    "chapterDescription" : "",
+    "chapterDate" : "10/09/2011",
+    "pageCount" : 37,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 897,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/2/mr-morning-2705239.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/2/mr-morning-2705241.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/2/mr-morning-2705243.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/2/mr-morning-2705245.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/2/mr-morning-2705247.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/2/mr-morning-2705249.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/2/mr-morning-2705251.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/2/mr-morning-2705253.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/2/mr-morning-2705255.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/2/mr-morning-2705257.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/2/mr-morning-2705259.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/2/mr-morning-2705261.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/2/mr-morning-2705263.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/2/mr-morning-2705265.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/2/mr-morning-2705267.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/2/mr-morning-2705269.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/2/mr-morning-2705271.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/2/mr-morning-2705273.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/2/mr-morning-2705275.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/2/mr-morning-2705277.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/2/mr-morning-2705279.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1154,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/2/mr-morning-2705281.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/2/mr-morning-2705283.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/2/mr-morning-2705285.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/2/mr-morning-2705287.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/2/mr-morning-2705289.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/2/mr-morning-2705291.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/2/mr-morning-2705293.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/2/mr-morning-2705295.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/2/mr-morning-2705297.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/2/mr-morning-2705299.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/2/mr-morning-2705301.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/2/mr-morning-2705303.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/2/mr-morning-2705305.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/2/mr-morning-2705307.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/2/mr-morning-2705309.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/2/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/2/mr-morning-2705311.jpg",
+        "imageAlt" : "Mr. Morning 2 - Page 37"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mr-morning/3",
+    "chapterTitle" : "Mr. Morning 3",
+    "chapterDescription" : "",
+    "chapterDate" : "10/09/2011",
+    "pageCount" : 37,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 837,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/3/mr-morning-2705313.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/3/mr-morning-2705315.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 568,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/3/mr-morning-2705317.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/3/mr-morning-2705319.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/3/mr-morning-2705321.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/3/mr-morning-2705323.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/3/mr-morning-2705325.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/3/mr-morning-2705327.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/3/mr-morning-2705329.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/3/mr-morning-2705331.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/3/mr-morning-2705333.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/3/mr-morning-2705335.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/3/mr-morning-2705337.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/3/mr-morning-2705339.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/3/mr-morning-2705341.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/3/mr-morning-2705343.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/3/mr-morning-2705345.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/3/mr-morning-2705347.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/3/mr-morning-2705349.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/3/mr-morning-2705351.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/3/mr-morning-2705353.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/3/mr-morning-2705355.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/3/mr-morning-2705357.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/3/mr-morning-2705359.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/3/mr-morning-2705361.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/3/mr-morning-2705363.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/3/mr-morning-2705365.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/3/mr-morning-2705367.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/3/mr-morning-2705369.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/3/mr-morning-2705371.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/3/mr-morning-2705373.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/3/mr-morning-2705375.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/3/mr-morning-2705377.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/3/mr-morning-2705379.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/3/mr-morning-2705381.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/3/mr-morning-2705383.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/3/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/3/mr-morning-2705385.jpg",
+        "imageAlt" : "Mr. Morning 3 - Page 37"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mr-morning/4",
+    "chapterTitle" : "Mr. Morning 4",
+    "chapterDescription" : "",
+    "chapterDate" : "10/16/2011",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 897,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/4/mr-morning-2724989.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/4/mr-morning-2724991.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/4/mr-morning-2724993.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/4/mr-morning-2724995.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/4/mr-morning-2724997.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/4/mr-morning-2724999.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/4/mr-morning-2725001.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/4/mr-morning-2725003.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/4/mr-morning-2725005.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/4/mr-morning-2725007.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/4/mr-morning-2725009.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/4/mr-morning-2725011.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/4/mr-morning-2725013.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/4/mr-morning-2725015.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/4/mr-morning-2725017.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/4/mr-morning-2725019.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/4/mr-morning-2725021.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/4/mr-morning-2725023.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/4/mr-morning-2725025.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/4/mr-morning-2725027.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/4/mr-morning-2725029.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/4/mr-morning-2725031.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/4/mr-morning-2725033.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/4/mr-morning-2725035.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/4/mr-morning-2725037.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/4/mr-morning-2725039.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/4/mr-morning-2725041.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/4/mr-morning-2725043.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/4/mr-morning-2725045.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/4/mr-morning-2725047.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/4/mr-morning-2725049.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/4/mr-morning-2725051.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/4/mr-morning-2725053.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/4/mr-morning-2725055.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/4/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/4/mr-morning-2725057.jpg",
+        "imageAlt" : "Mr. Morning 4 - Page 35"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mr-morning/5",
+    "chapterTitle" : "Mr. Morning 5",
+    "chapterDescription" : "",
+    "chapterDate" : "10/22/2011",
+    "pageCount" : 42,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 897,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/5/mr-morning-2739671.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/5/mr-morning-2739673.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/5/mr-morning-2739675.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/5/mr-morning-2739677.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 557,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/5/mr-morning-2739679.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/5/mr-morning-2739681.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/5/mr-morning-2739683.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/5/mr-morning-2739685.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/5/mr-morning-2739687.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/5/mr-morning-2739689.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/5/mr-morning-2739691.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/5/mr-morning-2739693.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/5/mr-morning-2739695.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/5/mr-morning-2739697.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/5/mr-morning-2739699.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/5/mr-morning-2739701.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/5/mr-morning-2739703.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/5/mr-morning-2739705.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/5/mr-morning-2739707.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/5/mr-morning-2739709.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/5/mr-morning-2739711.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/5/mr-morning-2739713.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/5/mr-morning-2739715.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/5/mr-morning-2739717.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/5/mr-morning-2739719.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 562,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/5/mr-morning-2739721.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/5/mr-morning-2739723.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/5/mr-morning-2739725.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/5/mr-morning-2739727.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/5/mr-morning-2739729.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 568,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/5/mr-morning-2739731.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/5/mr-morning-2739733.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/5/mr-morning-2739735.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/5/mr-morning-2739737.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/5/mr-morning-2739739.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/5/mr-morning-2739741.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/5/mr-morning-2739743.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/5/mr-morning-2739745.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/5/mr-morning-2739747.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/5/mr-morning-2739749.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/5/mr-morning-2739751.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/5/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/5/mr-morning-2739753.jpg",
+        "imageAlt" : "Mr. Morning 5 - Page 42"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mr-morning/6",
+    "chapterTitle" : "Mr. Morning 6",
+    "chapterDescription" : "",
+    "chapterDate" : "11/01/2011",
+    "pageCount" : 49,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 897,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/6/mr-morning-2773043.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 988,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/6/mr-morning-2773045.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1108,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/6/mr-morning-2773047.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 539,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/6/mr-morning-2773049.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1897,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/6/mr-morning-2773051.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 994,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/6/mr-morning-2773053.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/6/mr-morning-2773055.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1217,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/6/mr-morning-2773057.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1344,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/6/mr-morning-2773059.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1183,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/6/mr-morning-2773061.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/6/mr-morning-2773063.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/6/mr-morning-2773065.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/6/mr-morning-2773067.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/6/mr-morning-2773069.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 573,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/6/mr-morning-2773071.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/6/mr-morning-2773073.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1176,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/6/mr-morning-2773075.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1178,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/6/mr-morning-2773077.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1170,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/6/mr-morning-2773079.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 571,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/6/mr-morning-2773081.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1131,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/6/mr-morning-2773083.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/6/mr-morning-2773085.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/6/mr-morning-2773087.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/6/mr-morning-2773089.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/6/mr-morning-2773091.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/6/mr-morning-2773093.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/6/mr-morning-2773095.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/6/mr-morning-2773097.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/6/mr-morning-2773099.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/6/mr-morning-2773101.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/6/mr-morning-2773103.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/6/mr-morning-2773105.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/6/mr-morning-2773107.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/6/mr-morning-2773109.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/6/mr-morning-2773111.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/6/mr-morning-2773113.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 566,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/6/mr-morning-2773115.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/6/mr-morning-2773117.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/6/mr-morning-2773119.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 551,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/6/mr-morning-2773121.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/6/mr-morning-2773123.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1144,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/6/mr-morning-2773125.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1130,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/6/mr-morning-2773127.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/6/mr-morning-2773129.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1138,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/6/mr-morning-2773131.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/6/mr-morning-2773133.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/6/mr-morning-2773135.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/6/mr-morning-2773137.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/6/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/6/mr-morning-2773139.jpg",
+        "imageAlt" : "Mr. Morning 6 - Page 49"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mr-morning/7",
+    "chapterTitle" : "Mr. Morning 7",
+    "chapterDescription" : "",
+    "chapterDate" : "11/10/2011",
+    "pageCount" : 35,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 897,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/7/mr-morning-2792237.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/7/mr-morning-2792239.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/7/mr-morning-2792241.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/7/mr-morning-2792243.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/7/mr-morning-2792245.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/7/mr-morning-2792247.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/7/mr-morning-2792249.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/7/mr-morning-2792251.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/7/mr-morning-2792253.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/7/mr-morning-2792255.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/7/mr-morning-2792257.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/7/mr-morning-2792259.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/7/mr-morning-2792261.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/7/mr-morning-2792263.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/7/mr-morning-2792265.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/7/mr-morning-2792267.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/7/mr-morning-2792269.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/7/mr-morning-2792271.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/7/mr-morning-2792273.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/7/mr-morning-2792275.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/7/mr-morning-2792277.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/7/mr-morning-2792279.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/7/mr-morning-2792281.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/7/mr-morning-2792283.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/7/mr-morning-2792285.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/7/mr-morning-2792287.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/7/mr-morning-2792289.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/7/mr-morning-2792291.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1147,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/7/mr-morning-2792293.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/7/mr-morning-2792295.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/7/mr-morning-2792297.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/7/mr-morning-2792299.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/7/mr-morning-2792301.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/7/mr-morning-2792303.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/7/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/7/mr-morning-2792305.jpg",
+        "imageAlt" : "Mr. Morning 7 - Page 35"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mr-morning/8",
+    "chapterTitle" : "Mr. Morning 8",
+    "chapterDescription" : "",
+    "chapterDate" : "11/21/2011",
+    "pageCount" : 27,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 897,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/8/mr-morning-2822551.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/8/mr-morning-2822553.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/8/mr-morning-2822555.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/8/mr-morning-2822557.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/8/mr-morning-2822559.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/8/mr-morning-2822561.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/8/mr-morning-2822563.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/8/mr-morning-2822565.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/8/mr-morning-2822567.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1142,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/8/mr-morning-2822569.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/8/mr-morning-2822571.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/8/mr-morning-2822573.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/8/mr-morning-2822575.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/8/mr-morning-2822577.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/8/mr-morning-2822579.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1171,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/8/mr-morning-2822581.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/8/mr-morning-2822583.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/8/mr-morning-2822585.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/8/mr-morning-2822587.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/8/mr-morning-2822589.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1173,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/8/mr-morning-2822591.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/8/mr-morning-2822593.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1168,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/8/mr-morning-2822595.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/8/mr-morning-2822597.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1181,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/8/mr-morning-2822599.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/8/mr-morning-2822601.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/8/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1160,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/8/mr-morning-2822603.jpg",
+        "imageAlt" : "Mr. Morning 8 - Page 27"
+      } ]
+    } ]
+  }, {
+    "chapterUrl" : "http://www.mangareader.net/mr-morning/9",
+    "chapterTitle" : "Mr. Morning 9",
+    "chapterDescription" : "",
+    "chapterDate" : "12/06/2011",
+    "pageCount" : 70,
+    "pages" : [ {
+      "pageNumber" : 1,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 897,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/9/mr-morning-2861755.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 1"
+      } ]
+    }, {
+      "pageNumber" : 2,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/2",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/9/mr-morning-2861757.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 2"
+      } ]
+    }, {
+      "pageNumber" : 3,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/3",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 574,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/9/mr-morning-2861759.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 3"
+      } ]
+    }, {
+      "pageNumber" : 4,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/4",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1128,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/9/mr-morning-2861761.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 4"
+      } ]
+    }, {
+      "pageNumber" : 5,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/5",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/9/mr-morning-2861763.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 5"
+      } ]
+    }, {
+      "pageNumber" : 6,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/6",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/9/mr-morning-2861765.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 6"
+      } ]
+    }, {
+      "pageNumber" : 7,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/7",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/9/mr-morning-2861767.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 7"
+      } ]
+    }, {
+      "pageNumber" : 8,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/8",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/9/mr-morning-2861769.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 8"
+      } ]
+    }, {
+      "pageNumber" : 9,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/9",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1135,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/9/mr-morning-2861771.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 9"
+      } ]
+    }, {
+      "pageNumber" : 10,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/10",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/9/mr-morning-2861773.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 10"
+      } ]
+    }, {
+      "pageNumber" : 11,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/11",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/9/mr-morning-2861775.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 11"
+      } ]
+    }, {
+      "pageNumber" : 12,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/12",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/9/mr-morning-2861777.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 12"
+      } ]
+    }, {
+      "pageNumber" : 13,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/13",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/9/mr-morning-2861779.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 13"
+      } ]
+    }, {
+      "pageNumber" : 14,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/14",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/9/mr-morning-2861781.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 14"
+      } ]
+    }, {
+      "pageNumber" : 15,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/15",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/9/mr-morning-2861783.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 15"
+      } ]
+    }, {
+      "pageNumber" : 16,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/16",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/9/mr-morning-2861785.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 16"
+      } ]
+    }, {
+      "pageNumber" : 17,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/17",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/9/mr-morning-2861787.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 17"
+      } ]
+    }, {
+      "pageNumber" : 18,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/18",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/9/mr-morning-2861789.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 18"
+      } ]
+    }, {
+      "pageNumber" : 19,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/19",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/9/mr-morning-2861791.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 19"
+      } ]
+    }, {
+      "pageNumber" : 20,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/20",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/9/mr-morning-2861793.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 20"
+      } ]
+    }, {
+      "pageNumber" : 21,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/21",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/9/mr-morning-2861795.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 21"
+      } ]
+    }, {
+      "pageNumber" : 22,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/22",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/9/mr-morning-2861797.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 22"
+      } ]
+    }, {
+      "pageNumber" : 23,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/23",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/9/mr-morning-2861799.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 23"
+      } ]
+    }, {
+      "pageNumber" : 24,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/24",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/9/mr-morning-2861801.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 24"
+      } ]
+    }, {
+      "pageNumber" : 25,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/25",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/9/mr-morning-2861803.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 25"
+      } ]
+    }, {
+      "pageNumber" : 26,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/26",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1169,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/9/mr-morning-2861805.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 26"
+      } ]
+    }, {
+      "pageNumber" : 27,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/27",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1158,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/9/mr-morning-2861807.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 27"
+      } ]
+    }, {
+      "pageNumber" : 28,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/28",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/9/mr-morning-2861809.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 28"
+      } ]
+    }, {
+      "pageNumber" : 29,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/29",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1167,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/9/mr-morning-2861811.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 29"
+      } ]
+    }, {
+      "pageNumber" : 30,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/30",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/9/mr-morning-2861813.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 30"
+      } ]
+    }, {
+      "pageNumber" : 31,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/31",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1141,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/9/mr-morning-2861815.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 31"
+      } ]
+    }, {
+      "pageNumber" : 32,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/32",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1137,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/9/mr-morning-2861817.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 32"
+      } ]
+    }, {
+      "pageNumber" : 33,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/33",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/9/mr-morning-2861819.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 33"
+      } ]
+    }, {
+      "pageNumber" : 34,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/34",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/9/mr-morning-2861821.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 34"
+      } ]
+    }, {
+      "pageNumber" : 35,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/35",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1140,
+        "imageUrl" : "http://i7.mangareader.net/mr-morning/9/mr-morning-2861823.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 35"
+      } ]
+    }, {
+      "pageNumber" : 36,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/36",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1133,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/9/mr-morning-2861825.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 36"
+      } ]
+    }, {
+      "pageNumber" : 37,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/37",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/9/mr-morning-2861827.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 37"
+      } ]
+    }, {
+      "pageNumber" : 38,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/38",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1143,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/9/mr-morning-2861829.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 38"
+      } ]
+    }, {
+      "pageNumber" : 39,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/39",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/9/mr-morning-2861831.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 39"
+      } ]
+    }, {
+      "pageNumber" : 40,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/40",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1134,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/9/mr-morning-2861833.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 40"
+      } ]
+    }, {
+      "pageNumber" : 41,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/41",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/9/mr-morning-2861835.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 41"
+      } ]
+    }, {
+      "pageNumber" : 42,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/42",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 576,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/9/mr-morning-2861837.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 42"
+      } ]
+    }, {
+      "pageNumber" : 43,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/43",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i5.mangareader.net/mr-morning/9/mr-morning-2861839.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 43"
+      } ]
+    }, {
+      "pageNumber" : 44,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/44",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/9/mr-morning-2861841.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 44"
+      } ]
+    }, {
+      "pageNumber" : 45,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/45",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1150,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/9/mr-morning-2861843.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 45"
+      } ]
+    }, {
+      "pageNumber" : 46,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/46",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/9/mr-morning-2861845.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 46"
+      } ]
+    }, {
+      "pageNumber" : 47,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/47",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 575,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/9/mr-morning-2861847.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 47"
+      } ]
+    }, {
+      "pageNumber" : 48,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/48",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1155,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/9/mr-morning-2861849.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 48"
+      } ]
+    }, {
+      "pageNumber" : 49,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/49",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/9/mr-morning-2861851.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 49"
+      } ]
+    }, {
+      "pageNumber" : 50,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/50",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1152,
+        "imageUrl" : "http://i3.mangareader.net/mr-morning/9/mr-morning-2861853.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 50"
+      } ]
+    }, {
+      "pageNumber" : 51,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/51",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i1.mangareader.net/mr-morning/9/mr-morning-2861855.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 51"
+      } ]
+    }, {
+      "pageNumber" : 52,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/52",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1149,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/9/mr-morning-2861857.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 52"
+      } ]
+    }, {
+      "pageNumber" : 53,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/53",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i9.mangareader.net/mr-morning/9/mr-morning-2861859.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 53"
+      } ]
+    }, {
+      "pageNumber" : 54,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/54",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/9/mr-morning-2861861.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 54"
+      } ]
+    }, {
+      "pageNumber" : 55,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/55",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1159,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/9/mr-morning-2861863.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 55"
+      } ]
+    }, {
+      "pageNumber" : 56,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/56",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1153,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/9/mr-morning-2861865.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 56"
+      } ]
+    }, {
+      "pageNumber" : 57,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/57",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/9/mr-morning-2861867.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 57"
+      } ]
+    }, {
+      "pageNumber" : 58,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/58",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i4.mangareader.net/mr-morning/9/mr-morning-2861869.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 58"
+      } ]
+    }, {
+      "pageNumber" : 59,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/59",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1161,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/9/mr-morning-2861871.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 59"
+      } ]
+    }, {
+      "pageNumber" : 60,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/60",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1172,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/9/mr-morning-2861873.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 60"
+      } ]
+    }, {
+      "pageNumber" : 61,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/61",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i2.mangareader.net/mr-morning/9/mr-morning-2861875.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 61"
+      } ]
+    }, {
+      "pageNumber" : 62,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/62",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 897,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/9/mr-morning-2861877.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 62"
+      } ]
+    }, {
+      "pageNumber" : 63,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/63",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1186,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/9/mr-morning-2861879.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 63"
+      } ]
+    }, {
+      "pageNumber" : 64,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/64",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1146,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/9/mr-morning-2861881.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 64"
+      } ]
+    }, {
+      "pageNumber" : 65,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/65",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1162,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/9/mr-morning-2861883.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 65"
+      } ]
+    }, {
+      "pageNumber" : 66,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/66",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1166,
+        "imageUrl" : "http://i6.mangareader.net/mr-morning/9/mr-morning-2861885.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 66"
+      } ]
+    }, {
+      "pageNumber" : 67,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/67",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1164,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/9/mr-morning-2861887.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 67"
+      } ]
+    }, {
+      "pageNumber" : 68,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/68",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 1156,
+        "imageUrl" : "http://i10.mangareader.net/mr-morning/9/mr-morning-2861889.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 68"
+      } ]
+    }, {
+      "pageNumber" : 69,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/69",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 554,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/9/mr-morning-2861891.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 69"
+      } ]
+    }, {
+      "pageNumber" : 70,
+      "pageUrl" : "http://www.mangareader.net/mr-morning/9/70",
+      "images" : [ {
+        "imageWidth" : 800,
+        "imageHeight" : 561,
+        "imageUrl" : "http://i8.mangareader.net/mr-morning/9/mr-morning-2861893.jpg",
+        "imageAlt" : "Mr. Morning 9 - Page 70"
+      } ]
+    } ]
+  } ]
+}

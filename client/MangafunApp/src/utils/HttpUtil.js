@@ -49,6 +49,7 @@ let Httputil = {
   },
   
   fetchPost: (url, params, successCallback, errorCallback) => {
+    // this is for GET param
     var paramsBody = Object.keys(params)
     .reduce((a, k) => {
         a.push(k + "=" + encodeURIComponent(params[k]));
@@ -57,7 +58,7 @@ let Httputil = {
     .join('&');
     var strParams = JSON.stringify(params);
     console.log('params: ' + strParams)
-    console.log('paramsBody: ' + paramsBody)
+    console.log('paramsBody: ' + paramsBody) // this is for GET params
     fetch(url, {
         method: 'POST',
         headers: {

@@ -33,6 +33,7 @@ import com.google.gson.Gson
 
 import play.twirl.api.Html
 import com.mangafun.repos.MangaRepoImpl
+import com.mangafun.utils._
 import scala.collection.Map
 import scala.collection.Seq
 
@@ -63,10 +64,11 @@ class ReactNativeFetchController @Inject() (reactiveMongoApi: ReactiveMongoApi)(
         str += ", "
         str += v
       }
-      Logger.error(str);
+      LogManager.DebugLog(this, str)
+//      throw new Exception("throwing ioe")
     } catch {
       case t: Throwable => {
-        
+        LogManager.DebugException(this, "force ex: ", t)
       }
     }
     Future {
@@ -75,12 +77,13 @@ class ReactNativeFetchController @Inject() (reactiveMongoApi: ReactiveMongoApi)(
   }
   
   def fetchpost(): Action[AnyContent] = Action.async { implicit request =>
-    var str = "params: "
+//    var str = "params: "
+    var str = ""
     try {
 //      val req = request.body.asText // None
       val oReq = request.body.asJson
       str += oReq.getOrElse("nothing")
-      Logger.error(str)
+      LogManager.DebugLog(this, str)
     } catch {
       case t: Throwable => {
         

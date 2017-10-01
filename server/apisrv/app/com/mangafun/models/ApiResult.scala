@@ -23,8 +23,8 @@ import org.mindrot.jbcrypt.BCrypt
 
 case class ApiResult (
     var code: Int,
-    var message: String,
-    var error: String
+    var error: String,
+    var message: String
 ) {
   
 }
@@ -33,6 +33,6 @@ object ApiResult {
   import play.api.libs.json.Json
   
   // Generates Writes and Reads
-  implicit val trainerJsonFormats = Json.format[ApiResult]
+  implicit val apiJsonFormats = Json.format[ApiResult]
 
 }

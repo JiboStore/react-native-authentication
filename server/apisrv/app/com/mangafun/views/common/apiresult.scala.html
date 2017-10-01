@@ -10,8 +10,7 @@
 
 @(apiRes: ApiResult)
 
-@{Html(new Gson().toJson(apiRes))}
-
-<script lang="text/javascript">
-	var js = @{Html(new Gson().toJson(apiRes))}
-</script>
+{
+	"result": @{Html(new Gson().toJson(apiRes))},
+	"payload": @{Html(new Gson().toJson(apiRes))}	
+}

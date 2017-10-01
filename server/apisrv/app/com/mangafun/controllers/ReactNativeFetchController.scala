@@ -32,7 +32,8 @@ import scala.util.Random
 import com.google.gson.Gson
 
 import play.twirl.api.Html
-import com.mangafun.repos.MangaRepoImpl
+import com.mangafun.repos._
+import com.mangafun.models._
 import com.mangafun.utils._
 import scala.collection.Map
 import scala.collection.Seq
@@ -79,18 +80,35 @@ class ReactNativeFetchController @Inject() (reactiveMongoApi: ReactiveMongoApi)(
   def fetchpost(): Action[AnyContent] = Action.async { implicit request =>
 //    var str = "params: "
     var str = ""
+//    var apiRes: ApiResult = _
+    var apiRes = ApiResult(
+        ReturnCode.TEST_FETCHPOST.id,
+        ReturnCode.TEST_FETCHPOST.toString(),
+        "init"
+    )
     try {
 //      val req = request.body.asText // None
       val oReq = request.body.asJson
       str += oReq.getOrElse("nothing")
+      apiRes = ApiResult(
+          ReturnCode.TEST_FETCHPOST.id,
+          "success",
+          str
+      )
       LogManager.DebugLog(this, str)
+//      throw new Exception("throwing ioe")
     } catch {
       case t: Throwable => {
-        
+        LogManager.DebugException(this, "ex: ", t)
+        apiRes = ApiResult(
+            ReturnCode.TEST_FETCHPOST.id,
+            ReturnCode.TEST_FETCHPOST.toString(),
+            t.getMessage
+        )
       }
     }
     Future {
-      Ok(str)
+      Ok(com.mangafun.views.html.common.apiresult.render(apiRes))
     }
   }
   

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>30</x>
+      <y>20</y>
+      <w>290</w>
+      <h>280</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;SignInController&gt;&gt;
+Package::com.mangafun.controllers
+--
+- MangafunUserRepo
+--
+Responsibilities
+-- createUser(email,
+-- signInUser
+*-- forgetPassword*
+/-- signInThroughFacebook/</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>370</x>
+      <y>20</y>
+      <w>380</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes>_object: MangafunUser_
+--
+firstname: String
+lastname: String
+birthday: Date
+gender: char
+--
+userid: String="generated-sha"
+email: String="user given email"
+pwhash: String="password, secure hashed"
+pwsalt: String="password salt"
+createddate: DateTime
+lastlogin: DateTime
+--
+in the future:
+subscription: List[SubscriptionObject]
+/compoundObjects can refer to playfairy's ProjectRepo/
+[waiting for message]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>370</x>
+      <y>270</y>
+      <w>260</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>_object: MangafunManga_
+--
+id: Int="2940"
+name: String="Is"
+author: String="Masakazu Katsura"
+categories: String="Shonen, Echii"
+status: Int="1, ongoing, finished"
+description: String="shy ichitaka..."
+chapters: Obj</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>370</x>
+      <y>430</y>
+      <w>210</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>_object: MangafunChapter_
+--
+id: String
+name: String
+pages: List[String/url]</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

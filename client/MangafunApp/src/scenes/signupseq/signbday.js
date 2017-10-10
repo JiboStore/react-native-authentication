@@ -22,18 +22,34 @@ import {
 
 import {
   SIGNUP_USER_REQUEST,
-  SIGNUP_USER_RESPONSE
+  SIGNUP_USER_RESPONSE,
+  SIGNUP_USER_NAME,
+  SIGNUP_USER_BDAY,
+  SIGNUP_USER_SEX,
+  SIGNUP_USER_EMAIL,
+  SIGNUP_USER_PWD
 } from '../../constants/type';
 
 import HttpUtil from '../../utils/HttpUtil';
 
-let fetchMyData = (fn, ln) => {
+// let fetchMyData = (fn, ln) => {
+//   return (dispatch) => {
+//     dispatch({
+//       type: SIGNUP_USER_REQUEST,
+//       signup_data: {
+//         birthdate: fn,
+//         birthmonth: ln
+//       }
+//     });
+//   }
+// }
+
+let fetchBday = (signup_data) => {
   return (dispatch) => {
     dispatch({
-      type: SIGNUP_USER_REQUEST,
+      type: SIGNUP_USER_BDAY,
       signup_data: {
-        birthdate: fn,
-        birthmonth: ln
+        bday: signup_data
       }
     });
   }
@@ -44,6 +60,27 @@ let getParam = {
 }
 
 class SignBdayScreen extends Component {
+  static navigationOptions = {
+    title: "Birthday",
+  };
+  render() {
+    return (
+      <View style={{flex: 1, flexDirection: 'column', justifyContent: 'space-around'}}>
+        <Text>Hello {this.props.signup_data.firstname} {this.props.signup_data.lastname}</Text>
+        <TextInput placeholder="bday"
+          onChangeText={(text) => this.bday = text}/>
+      <Button 
+        title="Next"
+        onPress={() => {
+            Alert.alert("Hello: " + this.props.signup_data.firstname + this.props.signup_data.lastname + " : " + this.bday);
+          }}
+      />
+      </View>
+    );
+  }
+}
+
+class SignBdayScreen_Old extends Component {
   static navigationOptions = {
     title: 'Birthday',
   };
@@ -135,9 +172,24 @@ class SignBdayScreen extends Component {
 
 // export default SignBdayScreen;
 
+// export default SignBdayScreen = connect(
+//   (state) => {
+// //     const { firstname, lastname } = state.signupReducer;
+//     const { firstname, lastname } = state.signupReducer.signup_data;
+//     return {
+//       signup_data: {
+//         firstname,
+//         lastname
+//       }
+//     }
+//   },
+//   {
+//     fetchMyData
+//   }
+// )(SignBdayScreen);
+
 export default SignBdayScreen = connect(
   (state) => {
-//     const { firstname, lastname } = state.signupReducer;
     const { firstname, lastname } = state.signupReducer.signup_data;
     return {
       signup_data: {
@@ -147,6 +199,6 @@ export default SignBdayScreen = connect(
     }
   },
   {
-    fetchMyData
+    fetchBday
   }
 )(SignBdayScreen);

@@ -17,11 +17,6 @@ import {
   connect
 } from 'react-redux';
 
-import {
-  SIGNUP_USER_REQUEST,
-  SIGNUP_USER_RESPONSE
-} from './src/constants/type';
-
 import store from './src/store/store';
 
 import LogOrSign from './src/scenes/logorsign/logorsign'

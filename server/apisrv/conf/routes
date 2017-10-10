@@ -31,6 +31,7 @@ GET		/manga/seeder/imagefromto	@com.mangafun.controllers.MangaSeederController.i
 
 GET		/manga/api/rnfetchget		@com.mangafun.controllers.ReactNativeFetchController.fetchget()
 POST	/manga/api/rnfetchpost		@com.mangafun.controllers.ReactNativeFetchController.fetchpost()
+POST	/manga/api/signin/createuser		@com.mangafun.controllers.SignInController.createuser()
 
 GET		/aonhub/seeder/updatemangajson		@com.mangafun.controllers.AonhubSeederController.updatemangajson()
 GET		/aonhub/seeder/getmangainfo			@com.mangafun.controllers.AonhubSeederController.getmangainfo(mangaId: Int ?= 2940)

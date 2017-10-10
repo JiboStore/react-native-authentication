@@ -103,8 +103,8 @@ class SignBdayScreen extends Component {
 //                 console.log(error);
 //               }
 //             )
-            
-            HttpUtil.fetchPost("http://localhost:3005/manga/api/rnfetchpost", getParam,
+            HttpUtil.fetchPost("http://localhost:3005/manga/api/signin/createuser", getParam,
+            //HttpUtil.fetchPost("http://localhost:3005/manga/api/rnfetchpost", getParam,
               (jsonData) => {
               var szMsg = jsonData.result.message;
               Alert.alert(szMsg);

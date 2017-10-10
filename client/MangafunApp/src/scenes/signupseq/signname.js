@@ -17,14 +17,19 @@ import {
 
 import { StackNavigator } from 'react-navigation';
 
-import { 
+import {
   Provider,
   connect
 } from 'react-redux';
 
 import {
   SIGNUP_USER_REQUEST,
-  SIGNUP_USER_RESPONSE
+  SIGNUP_USER_RESPONSE,
+  SIGNUP_USER_NAME,
+  SIGNUP_USER_BDAY,
+  SIGNUP_USER_SEX,
+  SIGNUP_USER_EMAIL,
+  SIGNUP_USER_PWD
 } from '../../constants/type';
 
 import store from '../../store/store';
@@ -69,7 +74,7 @@ class SignNameScreen extends Component {
           onChangeText={(text) => this.firstname = text}/>
         <TextInput placeholder="last name"
           onChangeText={(text) => this.lastname = text}/>
-      <Button 
+      <Button
         title="Next"
 //         onPress={this.handleNext} // this doesnt work, the function cannot access props
         onPress={() => {

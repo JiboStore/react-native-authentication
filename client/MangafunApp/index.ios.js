@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-import { 
+import {
   Provider,
   connect
 } from 'react-redux';
@@ -26,7 +26,7 @@ import store from './src/store/store';
 
 import LogOrSign from './src/scenes/logorsign/logorsign'
 // import SignUpSeq from './src/scenes/signupseq/index'
-import SignUpSeq from './src/scenes/signupseq/testredux'
+import SignUpSeq from './src/scenes/signupseq/index'
 
 export default class MangafunApp extends Component {
   render() {

@@ -36,6 +36,18 @@ import store from '../../store/store';
 
 import SignBdayScreen from './signbday'
 
+let fetchName = (signupdata) => {
+  return (dispatch) => {
+    dispatch({
+      type: SIGNUP_USER_NAME,
+      signup_data: {
+        firstname: signupdata.firstname,
+        lastname: signupdata.lastname
+      }
+    });
+  }
+}
+
 let fetchMyData = (fn, ln) => {
   return (dispatch) => {
     dispatch({
@@ -79,7 +91,9 @@ class SignNameScreen extends Component {
 //         onPress={this.handleNext} // this doesnt work, the function cannot access props
         onPress={() => {
             Alert.alert("hello: " + this.firstname + ", " + this.lastname);
-            this.props.fetchMyData(this.firstname, this.lastname);
+            let obj = {firstname: this.firstname, lastname: this.lastname};
+            this.props.fetchName(obj);
+//             this.props.fetchMyData(this.firstname, this.lastname);
             this.props.navigation.navigate("SignBday");
 //             this.props.navigation.navigate("SignBday", {
 //               "name": { "first": this.firstname, "last": this.lastname}
@@ -105,6 +119,7 @@ export default SignNameScreen = connect(
     }
   },
   {
-    fetchMyData
+//     fetchMyData
+    fetchName
   }
 )(SignNameScreen);

@@ -44,15 +44,11 @@ import HttpUtil from '../../utils/HttpUtil';
 //   }
 // }
 
-let fetchBday = (signup_data) => {
+let fetchBday = (sud) => {
   return (dispatch) => {
     dispatch({
       type: SIGNUP_USER_BDAY,
-      signup_data: {
-        firstname: signup_data.firstname,
-        lastname: signup_data.lastname,
-        bday: signup_data.bday
-      }
+      signup_data: sud
     });
   }
 }
@@ -195,12 +191,9 @@ class SignBdayScreen_Old extends Component {
 
 export default SignBdayScreen = connect(
   (state) => {
-    const { firstname, lastname } = state.signupReducer.signup_data;
+    const { signup_data } = state.signupReducer;
     return {
-      signup_data: {
-        firstname,
-        lastname
-      }
+      signup_data
     }
   },
   {

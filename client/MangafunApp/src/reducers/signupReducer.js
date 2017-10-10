@@ -50,18 +50,30 @@ const signupReducer = (state = initialState, action) => {
     case SIGNUP_USER_SEX:
       return Object.assign({}, state, {
         signup_data: {
+          firstname: action.signup_data.firstname,
+          lastname: action.signup_data.lastname,
+          bday: action.signup_data.bday,
           sex: action.signup_data.sex
         }
       })
     case SIGNUP_USER_EMAIL:
       return Object.assign({}, state, {
         signup_data: {
+          firstname: action.signup_data.firstname,
+          lastname: action.signup_data.lastname,
+          bday: action.signup_data.bday,
+          sex: action.signup_data.sex,
           email: action.signup_data.email
         }
       })
     case SIGNUP_USER_PWD:
       return Object.assign({}, state, {
         signup_data: {
+          firstname: action.signup_data.firstname,
+          lastname: action.signup_data.lastname,
+          bday: action.signup_data.bday,
+          sex: action.signup_data.sex,
+          email: action.signup_data.email,
           pwd: action.signup_data.pwd
         }
       })

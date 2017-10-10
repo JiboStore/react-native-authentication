@@ -15,7 +15,9 @@ import {
   View
 } from 'react-native';
 
-import { 
+import { StackNavigator } from 'react-navigation';
+
+import {
   Provider,
   connect
 } from 'react-redux';
@@ -30,33 +32,37 @@ import {
   SIGNUP_USER_PWD
 } from '../../constants/type';
 
-let fetchSignupSex = (sud) => {
+import store from '../../store/store';
+
+let fetchPwd = (signupdata) => {
   return (dispatch) => {
     dispatch({
-      type: SIGNUP_USER_SEX,
-      signup_data: sud
+      type: SIGNUP_USER_PWD,
+      signupdata
     });
   }
 }
 
-class SignSexScreen extends Component {
+class SignPwdScreen extends Component {
   static navigationOptions = {
-    title: 'Gender',
+    title: 'Password',
   };
   render() {
     return (
       <View style={{flex: 1, flexDirection: 'column', justifyContent: 'space-around'}}>
-        <Text>Hello {this.props.signup_data.firstname}</Text>
-        <TextInput placeholder="gender"
-          onChangeText={(text) => this.sex = text}/>
-      <Button 
+        <TextInput placeholder="password"
+          onChangeText={(text) => this.firstname = text}/>
+        <TextInput placeholder="re-enter password"
+          onChangeText={(text) => this.lastname = text}/>
+      <Button
         title="Next"
         onPress={() => {
-//             Alert.alert("Name: " + this.props.signup_data.firstname + " Bday: " + this.props.signup_data.bday);
             const { signup_data } = this.props;
-            Alert.alert("Name: " + signup_data.firstname + " Bday: " + signup_data.bday);
-            this.props.fetchSignupSex({firstname: signup_data.firstname, lastname: signup_data.lastname, bday: signup_data.bday, sex: this.sex});
-            this.props.navigation.navigate("SignEmail");
+            Alert.alert("hello: " + signup_data.firstname + " your email: " + signup_data.email);
+//             Alert.alert("hello: " + this.firstname + ", " + this.lastname);
+//             let obj = {firstname: this.firstname, lastname: this.lastname};
+//             this.props.fetchPwd(obj);
+//             this.props.navigation.navigate("SignBday");
         }}
       />
       </View>
@@ -64,9 +70,7 @@ class SignSexScreen extends Component {
   }
 }
 
-// export default SignBdayScreen;
-
-export default SignSexScreen = connect(
+export default SignPwdScreen = connect(
   (state) => {
     const { signup_data } = state.signupReducer;
     return {
@@ -74,6 +78,6 @@ export default SignSexScreen = connect(
     }
   },
   {
-    fetchSignupSex
+    fetchPwd
   }
-)(SignSexScreen);
+)(SignPwdScreen);

@@ -49,6 +49,8 @@ let fetchBday = (signup_data) => {
     dispatch({
       type: SIGNUP_USER_BDAY,
       signup_data: {
+        firstname: signup_data.firstname,
+        lastname: signup_data.lastname,
         bday: signup_data.bday
       }
     });
@@ -73,7 +75,8 @@ class SignBdayScreen extends Component {
         title="Next"
         onPress={() => {
             Alert.alert("Hello: " + this.props.signup_data.firstname + this.props.signup_data.lastname + " : " + this.bday);
-            this.props.fetchBday({bday: this.bday});
+            const { firstname, lastname } = this.props.signup_data;
+            this.props.fetchBday({firstname: firstname, lastname: lastname, bday: this.bday});
             this.props.navigation.navigate("SignSex");
           }}
       />

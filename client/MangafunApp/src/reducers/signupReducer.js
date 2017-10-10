@@ -42,6 +42,8 @@ const signupReducer = (state = initialState, action) => {
     case SIGNUP_USER_BDAY:
       return Object.assign({}, state, {
         signup_data: {
+          firstname: action.signup_data.firstname,
+          lastname: action.signup_data.lastname,
           bday: action.signup_data.bday
         }
       })

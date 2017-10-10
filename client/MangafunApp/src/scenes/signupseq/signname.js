@@ -48,17 +48,17 @@ let fetchName = (signupdata) => {
   }
 }
 
-let fetchMyData = (fn, ln) => {
-  return (dispatch) => {
-    dispatch({
-      type: SIGNUP_USER_REQUEST,
-      signup_data: {
-        firstname: fn,
-        lastname: ln
-      }
-    });
-  }
-}
+// let fetchMyData = (fn, ln) => {
+//   return (dispatch) => {
+//     dispatch({
+//       type: SIGNUP_USER_REQUEST,
+//       signup_data: {
+//         firstname: fn,
+//         lastname: ln
+//       }
+//     });
+//   }
+// }
 
 class SignNameScreen extends Component {
   static navigationOptions = {

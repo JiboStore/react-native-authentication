@@ -36,10 +36,12 @@ import store from '../../store/store';
 
 import SignNameScreen from './signname'
 import SignBdayScreen from './signbday'
+import SignSexScreen from './signsex'
 
 const StackNav = StackNavigator({
   SignName: { screen: SignNameScreen},
-  SignBday: { screen: SignBdayScreen}
+  SignBday: { screen: SignBdayScreen},
+  SignSex: { screen: SignSexScreen}
 })
 
 export default StackNav;

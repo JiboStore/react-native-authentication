@@ -104,9 +104,10 @@ class SignBdayScreen extends Component {
       <Button 
         title="Next"
         onPress={() => {
-            Alert.alert("Hello: " + this.props.signup_data.firstname + this.props.signup_data.lastname + " : " + this.bday);
-            const { firstname, lastname } = this.props.signup_data;
-            this.props.fetchBday({firstname: firstname, lastname: lastname, bday: this.bday});
+            Alert.alert("Hello: " + this.props.signup_data.firstname + this.props.signup_data.lastname + " : " + this.props.signup_data.bday);
+//             Alert.alert("Hello: " + this.props.signup_data.firstname + this.props.signup_data.lastname + " : " + this.bday);
+//             const { firstname, lastname } = this.props.signup_data;
+//             this.props.fetchBday({firstname: firstname, lastname: lastname, bday: this.bday});
             this.props.navigation.navigate("SignSex");
           }}
       />

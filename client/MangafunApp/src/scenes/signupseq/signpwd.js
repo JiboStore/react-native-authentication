@@ -43,6 +43,10 @@ let fetchPwd = (signupdata) => {
   }
 }
 
+let validatePwd = (pwd1,pwd2) => {
+  return pwd1 === pwd2
+}
+
 class SignPwdScreen extends Component {
   static navigationOptions = {
     title: 'Password',
@@ -56,11 +60,19 @@ class SignPwdScreen extends Component {
         <TextInput placeholder="new password"
           secureTextEntry={true}
           onChangeText={(text) => this.pwd = text}/>
+        <TextInput placeholder="re-enter new password"
+          secureTextEntry={true}
+          onChangeText={(text) => this.repwd = text}/>
       <Button
         title="Next"
         onPress={() => {
             const { signup_data } = this.props;
-            Alert.alert("hello: " + signup_data.firstname + " your email: " + signup_data.email);
+            if ( validatePwd(this.pwd, this.repwd) ) {
+              Alert.alert("password match");
+            } else {
+              Alert.alert("password mismatch");
+            }
+//             Alert.alert("hello: " + signup_data.firstname + " your email: " + signup_data.email);
 //             Alert.alert("hello: " + this.firstname + ", " + this.lastname);
 //             let obj = {firstname: this.firstname, lastname: this.lastname};
 //             this.props.fetchPwd(obj);

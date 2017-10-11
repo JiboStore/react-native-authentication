@@ -12,8 +12,13 @@ import {
   Button,
   Text,
   TextInput,
+  TouchableOpacity,
   View
 } from 'react-native';
+
+import { DatePickerDialog } from 'react-native-datepicker-dialog'
+
+import moment from 'moment'
 
 import { 
   Provider,
@@ -57,16 +62,42 @@ let getParam = {
   q: "hello"
 }
 
+// let onBdayPicked = (date) => {
+//   this.bdayDate = date;
+// }
+
 class SignBdayScreen extends Component {
   static navigationOptions = {
     title: "Birthday",
   };
+  onBdayPressed = () => {
+    let bdayDate = this.bdayDate;
+    if ( !bdayDate || bdayDate == null ) {
+      bdayDate = new Date();
+    }
+    this.bdayDate = bdayDate;
+    // open the dialog
+    this.refs.bdayDialog.open({
+      date: bdayDate,
+      maxDate: new Date() // to restrict future date
+    });
+  }
+  onBdayPicked = (date) => {
+    this.bdayDate = date;
+    this.bdayText = moment(date).format('DD-MMM-YYYY')
+  }
   render() {
     return (
       <View style={{flex: 1, flexDirection: 'column', justifyContent: 'space-around'}}>
         <Text>Hello {this.props.signup_data.firstname} {this.props.signup_data.lastname}</Text>
         <TextInput placeholder="bday"
           onChangeText={(text) => this.bday = text}/>
+        <TouchableOpacity onPress={this.onBdayPressed.bind(this)} >
+          <View style={styles.datePickerBox}>
+              <Text style={styles.datePickerText}>{this.bdayText}</Text>
+          </View>
+        </TouchableOpacity>
+        <DatePickerDialog ref="bdayDialog" onDatePicked={this.onBdayPicked.bind(this)} />
       <Button 
         title="Next"
         onPress={() => {
@@ -188,6 +219,27 @@ class SignBdayScreen_Old extends Component {
 //     fetchMyData
 //   }
 // )(SignBdayScreen);
+
+const styles = StyleSheet.create({
+  datePickerBox:{
+    marginTop: 9,
+    borderColor: '#ABABAB',
+    borderWidth: 0.5,
+    padding: 0,
+    borderTopLeftRadius: 4,
+    borderTopRightRadius: 4,
+    borderBottomLeftRadius: 4,
+    borderBottomRightRadius: 4,
+    height: 38,
+    justifyContent:'center'
+  },
+  datePickerText: {
+    fontSize: 14,
+    marginLeft: 5,
+    borderWidth: 0,
+    color: '#121212',
+  },
+});
 
 export default SignBdayScreen = connect(
   (state) => {

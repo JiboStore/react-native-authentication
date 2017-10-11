@@ -5,6 +5,7 @@
  */
 
 import React, { Component } from 'react';
+import {RadioGroup, RadioButton} from 'react-native-flexi-radio-button'
 import {
   AppRegistry,
   StyleSheet,
@@ -43,19 +44,33 @@ class SignSexScreen extends Component {
   static navigationOptions = {
     title: 'Gender',
   };
+  onRadioSelected = (index, value) => {
+    const { signup_data } = this.props;
+    let obj = signup_data;
+    obj.sex = value;
+    this.props.fetchSignupSex(obj);
+  }
   render() {
     return (
       <View style={{flex: 1, flexDirection: 'column', justifyContent: 'space-around'}}>
         <Text>Hello {this.props.signup_data.firstname}</Text>
         <TextInput placeholder="gender"
           onChangeText={(text) => this.sex = text}/>
+        <RadioGroup onSelect={(index, value) => this.onRadioSelected(index, value)}>
+          <RadioButton value={'Male'}>
+            <Text>Male</Text>
+          </RadioButton>
+          <RadioButton value={'Female'}>
+            <Text>Female</Text>
+          </RadioButton>
+        </RadioGroup>
       <Button 
         title="Next"
         onPress={() => {
 //             Alert.alert("Name: " + this.props.signup_data.firstname + " Bday: " + this.props.signup_data.bday);
             const { signup_data } = this.props;
-            Alert.alert("Name: " + signup_data.firstname + " Bday: " + signup_data.bday);
-            this.props.fetchSignupSex({firstname: signup_data.firstname, lastname: signup_data.lastname, bday: signup_data.bday, sex: this.sex});
+            Alert.alert("Name: " + signup_data.firstname + " Bday: " + signup_data.bday + " sex: " + signup_data.sex);
+//             this.props.fetchSignupSex({firstname: signup_data.firstname, lastname: signup_data.lastname, bday: signup_data.bday, sex: this.sex});
             this.props.navigation.navigate("SignEmail");
         }}
       />

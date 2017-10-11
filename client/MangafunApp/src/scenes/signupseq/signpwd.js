@@ -50,10 +50,12 @@ class SignPwdScreen extends Component {
   render() {
     return (
       <View style={{flex: 1, flexDirection: 'column', justifyContent: 'space-around'}}>
-        <TextInput placeholder="password"
-          onChangeText={(text) => this.firstname = text}/>
-        <TextInput placeholder="re-enter password"
-          onChangeText={(text) => this.lastname = text}/>
+        <Text>Hello {this.props.signup_data.firstname} {this.props.signup_data.lastname}</Text>
+        <Text>Bday {this.props.signup_data.bday} Gender: {this.props.signup_data.sex}</Text>
+        <Text>Email {this.props.signup_data.email} Pwd: {this.pwd}</Text>
+        <TextInput placeholder="new password"
+          secureTextEntry={true}
+          onChangeText={(text) => this.pwd = text}/>
       <Button
         title="Next"
         onPress={() => {

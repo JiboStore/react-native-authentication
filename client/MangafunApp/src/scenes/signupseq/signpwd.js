@@ -88,6 +88,18 @@ class SignPwdScreen extends Component {
               )
             } else {
               Alert.alert("password mismatch");
+              const { signup_data } = this.props;
+              let obj = signup_data;
+              obj.pwd = this.pwd;
+              HttpUtil.fetchPost("http://localhost:3005/manga/api/signin/signinuser", obj,
+                (jsonData) => {
+                  var szMsg = jsonData.result.message;
+                  console.log(jsonData);
+                },
+                (error) => {
+                  console.log(error);
+                }
+              )
             }
 //             Alert.alert("hello: " + signup_data.firstname + " your email: " + signup_data.email);
 //             Alert.alert("hello: " + this.firstname + ", " + this.lastname);

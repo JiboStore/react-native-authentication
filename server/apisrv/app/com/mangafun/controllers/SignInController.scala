@@ -33,9 +33,90 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
   def userRepo = new MangafunUserRepo(reactiveMongoApi)
   
   def index(): Action[AnyContent] = Action.async { implicit request =>
-    Future {
-      Ok("Hello")
+    var str = ""
+    var apiRes = ApiResult(
+        ReturnCode.TEST_FETCHPOST.id,
+        ReturnCode.TEST_FETCHPOST.toString(),
+        "init"
+    )
+    try {
+      val oReq = request.body.asJson
+      val jsReq = oReq.getOrElse(JsString("null"))
+      str += jsReq
+      apiRes = ApiResult(
+          ReturnCode.TEST_FETCHPOST.id,
+          "success",
+          str
+      )
+      LogManager.DebugLog(this, str)
+    } catch {
+      case t: Throwable => {
+        LogManager.DebugException(this, "ex: ", t)
+        apiRes = ApiResult(
+            ReturnCode.TEST_FETCHPOST.id,
+            ReturnCode.TEST_FETCHPOST.toString(),
+            t.getMessage
+        )
+      }
     }
+    Future {
+      Ok(com.mangafun.views.html.common.apiresult.render(apiRes))
+    }
+  }
+  
+  def signinuser(): Action[AnyContent] = Action.async { implicit request =>
+    var str = ""
+    var apiRes = ApiResult(
+        ReturnCode.SIGNIN_USER.id,
+        ReturnCode.SIGNIN_USER.toString(),
+        "init"
+    )
+    var fApiRes: Future[ApiResult] = null.asInstanceOf[Future[ApiResult]]
+    fApiRes = Future {
+      apiRes
+    }
+    try {
+      val oReq = request.body.asJson
+      val jsReq = oReq.get
+      val email = (jsReq \ "email").getOrElse(JsString("null")).as[String]
+      val password = (jsReq \ "pwd").getOrElse(JsString("null")).as[String]
+      val fUser = userRepo.getUserByEmail(email)
+      fApiRes = fUser.map( oUser => {
+        oUser match {
+          case Some(u) => {
+            // TODO: verify password
+            ApiResult(
+              ReturnCode.SIGNIN_USER.id,
+              ReturnCode.SIGNIN_USER.toString(),
+              "user found"
+            )
+          }
+          case None => {
+            ApiResult(
+              ReturnCode.SIGNIN_USER.id,
+              ReturnCode.SIGNIN_USER.toString(),
+              "user not found"
+            )
+          }
+        }
+      })
+      str += jsReq
+      LogManager.DebugLog(this, str)
+    } catch {
+      case t: Throwable => {
+        LogManager.DebugException(this, "ex: ", t)
+        fApiRes = Future {
+          ApiResult(
+            ReturnCode.SIGNIN_USER.id,
+            ReturnCode.SIGNIN_USER.toString(),
+            t.getMessage
+          )
+        }
+      }
+    }
+    fApiRes.map( apiRes => {
+      Ok(com.mangafun.views.html.common.apiresult.render(apiRes))
+    })
   }
   
   def createuser(): Action[AnyContent] = Action.async { implicit request =>

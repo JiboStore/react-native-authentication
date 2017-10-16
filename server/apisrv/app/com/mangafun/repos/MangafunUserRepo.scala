@@ -57,6 +57,14 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
     db.collection[BSONCollection]("mfuser")
   })
   
+  def getUserByEmail(email: String): Future[Option[MangafunUser]] = {
+    val queryParams: BSONDocument = BSONDocument("email" -> email)
+    val fres = bsonCollection.flatMap( db => {
+      db.find(queryParams).one[MangafunUser]
+    })
+    fres
+  }
+  
   def createNewUser(firstname: String, lastname: String, birthday: Date, gender: Int, email: String, password: String): Future[WriteResult] = {
     val now = new Date()
     val usercount = countAllUsers()

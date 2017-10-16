@@ -6,12 +6,19 @@ import java.util.Date
 import javax.inject.Inject
 import play.api.libs.json._
 import play.modules.reactivemongo.ReactiveMongoApi
-import play.modules.reactivemongo.json._
-import play.modules.reactivemongo.json.collection._
+import reactivemongo.play.json._
+import reactivemongo.play.json.collection._
 import reactivemongo.api.ReadPreference
 import reactivemongo.api.commands.WriteResult
 import reactivemongo.api.collections.bson.BSONCollection
+import reactivemongo.api.commands.bson.BSONCountCommand.{ Count, CountResult }
+import reactivemongo.api.commands.bson.BSONCountCommandImplicits._
 import reactivemongo.bson._
+
+//import reactivemongo.api.Cursor
+//import scala.collection.immutable.HashMap
+//import reactivemongo.api.commands.bson.BSONCountCommandImplicits._
+//import reactivemongo.bson.BSONDocument
 
 import org.mindrot.jbcrypt.BCrypt
 
@@ -50,13 +57,15 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
     db.collection[BSONCollection]("mfuser")
   })
   
-  def createNewUser(firstname: String, lastname: String, birthday: Date, gender: Int, email: String, password: String) = {
+  def createNewUser(firstname: String, lastname: String, birthday: Date, gender: Int, email: String, password: String): Future[WriteResult] = {
     val now = new Date()
+    val usercount = countAllUsers()
     val userid = email // for now
     val pwsalt = BCrypt.gensalt()
     val pwhash = BCrypt.hashpw(password, pwsalt)
-    val user = MangafunUser(
-        userid,
+    usercount.flatMap( count => {
+      val user = MangafunUser(
+        count + 1 + "",
         firstname,
         lastname,
         birthday,
@@ -66,11 +75,23 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
         pwhash,
         now,
         now
-    )
-    val fres = bsonCollection.flatMap( db => {
-      db.insert(user)
+      )
+      bsonCollection.flatMap( db => {
+        db.insert(user)
+      })
     })
-    fres
+  }
+  
+  def countAllUsers(): Future[Int] = {
+    val query = BSONDocument("_id" -> BSONDocument("$exists" -> true))
+    val command = Count(query)
+    val result: Future[CountResult] = bsonCollection.flatMap( db => {
+      db.runCommand(command)
+    })
+    result.map( res => {
+      val count: Int = res.value
+      count
+    })
   }
 
 }

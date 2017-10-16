@@ -55,7 +55,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
       val email = (jsReq \ "email").getOrElse(JsString("null")).as[String]
       val password = (jsReq \ "pwd").getOrElse(JsString("null")).as[String]
       val sdt = new SimpleDateFormat("dd-MMM-yyyy")
-      val gender = 0
+      val gender = if ( sex.equalsIgnoreCase("female") ) 0 else 1
       val birthday = sdt.parse(bday)
       userRepo.createNewUser(firstname, lastname, birthday, gender, email, password)
       str += jsReq

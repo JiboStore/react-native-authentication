@@ -34,9 +34,9 @@ Responsibilities
 firstname: String
 lastname: String
 birthday: Date
-gender: char
+gender: Int
 --
-userid: String="generated-sha"
+userid: String="int - starting from 0"
 email: String="user given email"
 pwhash: String="password, secure hashed"
 pwsalt: String="password salt"

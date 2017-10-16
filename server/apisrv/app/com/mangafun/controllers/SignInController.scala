@@ -1,42 +1,24 @@
 package com.mangafun.controllers
 
-import play.api.mvc._
-import javax.inject.Inject
-import play.api.libs.json._
-import play.modules.reactivemongo.ReactiveMongoApi
-import play.modules.reactivemongo.MongoController
-import play.modules.reactivemongo.ReactiveMongoComponents
-import play.api.libs.concurrent.Execution.Implicits.defaultContext
-import reactivemongo.bson._
-import reactivemongo.api.commands.WriteResult
-import play.Logger
-import scala.concurrent._
-import scala.concurrent.duration._
-import scala.util.Failure
-import scala.util.Success
-import play.Play
-import play.Application
-import com.google.inject.Provider
-import scala.collection.mutable.ListBuffer
-import java.io.File
-import java.nio.charset.Charset
-import org.apache.commons.io.FileUtils
-import scala.collection.JavaConversions._
-import play.api.libs.ws.WSClient
-import play.api.libs.ws.WSRequest
-import play.api.libs.ws.WSResponse
-import akka.stream.scaladsl.Sink
-import akka.util.ByteString
-import scala.util.Random
-
-import com.google.gson.Gson
-
-import play.twirl.api.Html
-import com.mangafun.repos._
-import com.mangafun.models._
-import com.mangafun.utils._
 import scala.collection.Map
 import scala.collection.Seq
+import scala.concurrent._
+
+import com.google.inject.Provider
+import com.mangafun.repos._
+import com.mangafun.utils._
+
+import javax.inject.Inject
+import play.Application
+import play.api.libs.concurrent.Execution.Implicits.defaultContext
+import play.api.libs.ws.WSClient
+import play.api.mvc._
+import play.modules.reactivemongo.MongoController
+import play.modules.reactivemongo.ReactiveMongoApi
+import play.modules.reactivemongo.ReactiveMongoComponents
+import com.mangafun.models.ApiResult
+import java.text.SimpleDateFormat
+import play.api.libs.json.JsString
 
 class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: WSClient)(appProvider: Provider[Application])
   extends Controller with MongoController with ReactiveMongoComponents {
@@ -48,6 +30,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
   }
   
   def trainerRepo = new MangaRepoImpl(reactiveMongoApi)
+  def userRepo = new MangafunUserRepo(reactiveMongoApi)
   
   def index(): Action[AnyContent] = Action.async { implicit request =>
     Future {
@@ -64,7 +47,18 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
     )
     try {
       val oReq = request.body.asJson
-      str += oReq.getOrElse("nothing")
+      val jsReq = oReq.getOrElse(JsString("null"))
+      val firstname = (jsReq \ "firstname").getOrElse(JsString("null")).as[String]
+      val lastname = (jsReq \ "lastname").getOrElse(JsString("null")).as[String]
+      val bday = (jsReq \ "bday").getOrElse(JsString("01-Jan-1970")).as[String]
+      val sex = (jsReq \ "sex").getOrElse(JsString("null")).as[String]
+      val email = (jsReq \ "email").getOrElse(JsString("null")).as[String]
+      val password = (jsReq \ "pwd").getOrElse(JsString("null")).as[String]
+      val sdt = new SimpleDateFormat("dd-MMM-yyyy")
+      val gender = 0
+      val birthday = sdt.parse(bday)
+      userRepo.createNewUser(firstname, lastname, birthday, gender, email, password)
+      str += jsReq
       apiRes = ApiResult(
           ReturnCode.CREATE_USER.id,
           "success",

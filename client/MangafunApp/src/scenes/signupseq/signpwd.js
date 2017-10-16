@@ -40,7 +40,7 @@ let fetchPwd = (signupdata) => {
   return (dispatch) => {
     dispatch({
       type: SIGNUP_USER_PWD,
-      signupdata
+      signup_data: signupdata
     });
   }
 }
@@ -68,11 +68,16 @@ class SignPwdScreen extends Component {
       <Button
         title="Next"
         onPress={() => {
-            const { signup_data } = this.props;
+//             const { signup_data } = this.props;
             if ( validatePwd(this.pwd, this.repwd) ) {
-              Alert.alert("password match");
+//               Alert.alert("password match: " + JSON.stringify(signup_data));
+              const { signup_data } = this.props;
+              let obj = signup_data;
+              obj.pwd = this.pwd;
+              Alert.alert("password match: " + JSON.stringify(obj));
+              this.props.fetchPwd(obj); // cannot read property 'firstname' of undefined
               // send signup request to server
-              HttpUtil.fetchPost("http://localhost:3005/manga/api/signin/createuser", signup_data,
+              HttpUtil.fetchPost("http://localhost:3005/manga/api/signin/createuser", obj,
                 (jsonData) => {
                   var szMsg = jsonData.result.message;
                   console.log(jsonData);

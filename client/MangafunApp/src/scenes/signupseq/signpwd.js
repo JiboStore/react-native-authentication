@@ -34,6 +34,8 @@ import {
 
 import store from '../../store/store';
 
+import HttpUtil from '../../utils/HttpUtil';
+
 let fetchPwd = (signupdata) => {
   return (dispatch) => {
     dispatch({
@@ -69,6 +71,16 @@ class SignPwdScreen extends Component {
             const { signup_data } = this.props;
             if ( validatePwd(this.pwd, this.repwd) ) {
               Alert.alert("password match");
+              // send signup request to server
+              HttpUtil.fetchPost("http://localhost:3005/manga/api/signin/createuser", signup_data,
+                (jsonData) => {
+                  var szMsg = jsonData.result.message;
+                  console.log(jsonData);
+                },
+                (error) => {
+                  console.log(error);
+                }
+              )
             } else {
               Alert.alert("password mismatch");
             }

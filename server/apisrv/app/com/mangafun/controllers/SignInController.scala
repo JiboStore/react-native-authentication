@@ -80,22 +80,21 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
       val jsReq = oReq.get
       val email = (jsReq \ "email").getOrElse(JsString("null")).as[String]
       val password = (jsReq \ "pwd").getOrElse(JsString("null")).as[String]
-      val fUser = userRepo.getUserByEmail(email)
+      val fUser = userRepo.getUserByEmailAndPassword(email, password)
       fApiRes = fUser.map( oUser => {
         oUser match {
           case Some(u) => {
-            // TODO: verify password
             ApiResult(
               ReturnCode.SIGNIN_USER.id,
               ReturnCode.SIGNIN_USER.toString(),
-              "user found"
+              "user found and password valid"
             )
           }
           case None => {
             ApiResult(
               ReturnCode.SIGNIN_USER.id,
               ReturnCode.SIGNIN_USER.toString(),
-              "user not found"
+              "user not found / password not valid"
             )
           }
         }

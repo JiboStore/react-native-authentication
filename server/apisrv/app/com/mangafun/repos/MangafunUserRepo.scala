@@ -57,6 +57,23 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
     db.collection[BSONCollection]("mfuser")
   })
   
+  def getUserByEmailAndPassword(email: String, password: String): Future[Option[MangafunUser]] = {
+    val foUser = getUserByEmail(email)
+    foUser.map(oUser => {
+      oUser match {
+        case Some(u) => {
+          val bAuthenticated = BCrypt.checkpw(password, u.pwhash)
+          if ( bAuthenticated ) {
+            Some(u)
+          } else {
+            None
+          }
+        }
+        case None => None
+      }
+    })
+  }
+  
   def getUserByEmail(email: String): Future[Option[MangafunUser]] = {
     val queryParams: BSONDocument = BSONDocument("email" -> email)
     val fres = bsonCollection.flatMap( db => {

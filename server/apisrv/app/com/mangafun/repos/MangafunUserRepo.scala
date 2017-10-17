@@ -57,6 +57,18 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
     db.collection[BSONCollection]("mfuser")
   })
   
+  def updateSigninTime(user: MangafunUser): Future[WriteResult] = {
+    val selector = BSONDocument("email" -> user.email)
+    val modifier = BSONDocument(
+        "$set" -> BSONDocument(
+            "lastLogin" -> new Date()
+        )
+    )
+    bsonCollection.flatMap( db => {
+      db.update(selector, modifier)
+    })
+  }
+  
   def getUserByEmailAndPassword(email: String, password: String): Future[Option[MangafunUser]] = {
     val foUser = getUserByEmail(email)
     foUser.map(oUser => {

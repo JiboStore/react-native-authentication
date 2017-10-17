@@ -84,6 +84,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
       fApiRes = fUser.map( oUser => {
         oUser match {
           case Some(u) => {
+            userRepo.updateSigninTime(u)
             ApiResult(
               ReturnCode.SIGNIN_USER.id,
               ReturnCode.SIGNIN_USER.toString(),

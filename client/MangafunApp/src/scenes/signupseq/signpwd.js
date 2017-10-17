@@ -79,11 +79,17 @@ class SignPwdScreen extends Component {
               // send signup request to server
               HttpUtil.fetchPost("http://localhost:3005/manga/api/signin/createuser", obj,
                 (jsonData) => {
-                  var szMsg = jsonData.result.message;
+                  var szMsg = jsonData.apiresult.message;
                   console.log(jsonData);
+                  if ( jsonData.apiresult.result == 0 ) {
+                    Alert.alert("registration successful!");
+                  } else {
+                    Alert.alert("registration failed");
+                  }
                 },
                 (error) => {
                   console.log(error);
+                  Alert.alert("create request error");
                 }
               )
             } else {
@@ -93,11 +99,17 @@ class SignPwdScreen extends Component {
               obj.pwd = this.pwd;
               HttpUtil.fetchPost("http://localhost:3005/manga/api/signin/signinuser", obj,
                 (jsonData) => {
-                  var szMsg = jsonData.result.message;
+                  var szMsg = jsonData.apiresult.message;
                   console.log(jsonData);
+                  if ( jsonData.apiresult.result == 0 ) {
+                    Alert.alert("sign in successful");
+                  } else {
+                    Alert.alert("sign in failed");
+                  }
                 },
                 (error) => {
                   console.log(error);
+                  Alert.alert("sign in request error");
                 }
               )
             }

@@ -4,8 +4,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>30</x>
-      <y>20</y>
+      <x>0</x>
+      <y>0</y>
       <w>290</w>
       <h>280</h>
     </coordinates>
@@ -24,8 +24,8 @@ Responsibilities
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>370</x>
-      <y>20</y>
+      <x>340</x>
+      <y>0</y>
       <w>380</w>
       <h>220</h>
     </coordinates>
@@ -52,10 +52,10 @@ subscription: List[SubscriptionObject]
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>370</x>
-      <y>270</y>
-      <w>260</w>
-      <h>150</h>
+      <x>340</x>
+      <y>250</y>
+      <w>380</w>
+      <h>200</h>
     </coordinates>
     <panel_attributes>_object: MangafunManga_
 --
@@ -65,14 +65,16 @@ author: String="Masakazu Katsura"
 categories: String="Shonen, Echii"
 status: Int="1, ongoing, finished"
 description: String="shy ichitaka..."
-chapters: Obj</panel_attributes>
+chapters: Obj
+--
+access: String="public, private (purchase-only), subscribe"</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>370</x>
-      <y>430</y>
+      <x>340</x>
+      <y>460</y>
       <w>210</w>
       <h>70</h>
     </coordinates>
@@ -81,6 +83,20 @@ chapters: Obj</panel_attributes>
 id: String
 name: String
 pages: List[String/url]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>890</x>
+      <y>0</y>
+      <w>210</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>_object: Class_
+--
+id: Long="36548"
+[waiting for message]</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>

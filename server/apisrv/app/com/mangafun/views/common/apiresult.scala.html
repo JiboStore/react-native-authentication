@@ -11,6 +11,6 @@
 @(apiRes: ApiResult)
 
 {
-	"result": @{Html(new Gson().toJson(apiRes))},
+	"apiresult": @{Html(new Gson().toJson(apiRes))},
 	"payload": @{Html(new Gson().toJson(apiRes))}	
 }

@@ -125,6 +125,10 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
         ReturnCode.CREATE_USER.toString(),
         "init"
     )
+    var fApiRes: Future[ApiResult] = null.asInstanceOf[Future[ApiResult]]
+    fApiRes = Future {
+      apiRes
+    }
     try {
       val oReq = request.body.asJson
       val jsReq = oReq.getOrElse(JsString("null"))
@@ -137,27 +141,38 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
       val sdt = new SimpleDateFormat("dd-MMM-yyyy")
       val gender = if ( sex.equalsIgnoreCase("female") ) 0 else 1
       val birthday = sdt.parse(bday)
-      userRepo.createNewUser(firstname, lastname, birthday, gender, email, password)
-      str += jsReq
-      apiRes = ApiResult(
-          ReturnCode.CREATE_USER.id,
-          "success",
-          str
-      )
-      LogManager.DebugLog(this, str)
+      val fUserExists = userRepo.getUserByEmail(email).map( oUser => {
+        oUser match {
+          case Some(u) => { true }
+          case None => { false }
+        }
+      })
+      fApiRes = fUserExists.map( bExists => {
+        str += jsReq
+        if ( bExists ) {
+          LogManager.DebugLog(this, "USER EXISTS! " + str)
+          ApiResult( ReturnCode.CREATE_USER.id, ReturnCode.CREATE_USER.toString(), "user already exists!")
+        } else {
+          LogManager.DebugLog(this, "CREATING! " + str)
+          userRepo.createNewUser(firstname, lastname, birthday, gender, email, password)
+          ApiResult( ReturnCode.CREATE_USER.id, "success", str)
+        }
+      })
     } catch {
       case t: Throwable => {
         LogManager.DebugException(this, "ex: ", t)
-        apiRes = ApiResult(
+        fApiRes = Future {
+          ApiResult(
             ReturnCode.CREATE_USER.id,
             ReturnCode.CREATE_USER.toString(),
             t.getMessage
-        )
+          )
+        }
       }
     }
-    Future {
+    fApiRes.map( apiRes => {
       Ok(com.mangafun.views.html.common.apiresult.render(apiRes))
-    }
+    })
   }
   
   def fetchget(): Action[AnyContent] = Action.async { implicit request =>

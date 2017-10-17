@@ -84,6 +84,7 @@ class ReactNativeFetchController @Inject() (reactiveMongoApi: ReactiveMongoApi)(
     var apiRes = ApiResult(
         ReturnCode.TEST_FETCHPOST.id,
         ReturnCode.TEST_FETCHPOST.toString(),
+        ReturnResult.RESULT_ERROR.toString(),
         "init"
     )
     try {
@@ -93,6 +94,7 @@ class ReactNativeFetchController @Inject() (reactiveMongoApi: ReactiveMongoApi)(
       apiRes = ApiResult(
           ReturnCode.TEST_FETCHPOST.id,
           "success",
+          ReturnResult.RESULT_SUCCESS.toString(),
           str
       )
       LogManager.DebugLog(this, str)
@@ -103,6 +105,7 @@ class ReactNativeFetchController @Inject() (reactiveMongoApi: ReactiveMongoApi)(
         apiRes = ApiResult(
             ReturnCode.TEST_FETCHPOST.id,
             ReturnCode.TEST_FETCHPOST.toString(),
+            ReturnResult.RESULT_ERROR.toString(),
             t.getMessage
         )
       }

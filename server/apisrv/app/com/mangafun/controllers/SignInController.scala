@@ -37,6 +37,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
     var apiRes = ApiResult(
         ReturnCode.TEST_FETCHPOST.id,
         ReturnCode.TEST_FETCHPOST.toString(),
+        ReturnResult.RESULT_ERROR.toString(),
         "init"
     )
     try {
@@ -46,6 +47,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
       apiRes = ApiResult(
           ReturnCode.TEST_FETCHPOST.id,
           "success",
+          ReturnResult.RESULT_SUCCESS.toString(),
           str
       )
       LogManager.DebugLog(this, str)
@@ -55,6 +57,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
         apiRes = ApiResult(
             ReturnCode.TEST_FETCHPOST.id,
             ReturnCode.TEST_FETCHPOST.toString(),
+            ReturnResult.RESULT_ERROR.toString(),
             t.getMessage
         )
       }
@@ -69,6 +72,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
     var apiRes = ApiResult(
         ReturnCode.SIGNIN_USER.id,
         ReturnCode.SIGNIN_USER.toString(),
+        ReturnResult.RESULT_ERROR.toString(),
         "init"
     )
     var fApiRes: Future[ApiResult] = null.asInstanceOf[Future[ApiResult]]
@@ -88,6 +92,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
             ApiResult(
               ReturnCode.SIGNIN_USER.id,
               ReturnCode.SIGNIN_USER.toString(),
+              ReturnResult.RESULT_SUCCESS.toString(),
               "user found and password valid"
             )
           }
@@ -95,6 +100,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
             ApiResult(
               ReturnCode.SIGNIN_USER.id,
               ReturnCode.SIGNIN_USER.toString(),
+              ReturnResult.RESULT_FAILED.toString(),
               "user not found / password not valid"
             )
           }
@@ -109,6 +115,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
           ApiResult(
             ReturnCode.SIGNIN_USER.id,
             ReturnCode.SIGNIN_USER.toString(),
+            ReturnResult.RESULT_ERROR.toString(),
             t.getMessage
           )
         }
@@ -124,6 +131,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
     var apiRes = ApiResult(
         ReturnCode.CREATE_USER.id,
         ReturnCode.CREATE_USER.toString(),
+        ReturnResult.RESULT_ERROR.toString(),
         "init"
     )
     var fApiRes: Future[ApiResult] = null.asInstanceOf[Future[ApiResult]]
@@ -152,11 +160,11 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
         str += jsReq
         if ( bExists ) {
           LogManager.DebugLog(this, "USER EXISTS! " + str)
-          ApiResult( ReturnCode.CREATE_USER.id, ReturnCode.CREATE_USER.toString(), "user already exists!")
+          ApiResult( ReturnCode.CREATE_USER.id, ReturnCode.CREATE_USER.toString(), ReturnResult.RESULT_FAILED.toString(), "user already exists!")
         } else {
           LogManager.DebugLog(this, "CREATING! " + str)
           userRepo.createNewUser(firstname, lastname, birthday, gender, email, password)
-          ApiResult( ReturnCode.CREATE_USER.id, "success", str)
+          ApiResult( ReturnCode.CREATE_USER.id, "success", ReturnResult.RESULT_SUCCESS.toString(), str)
         }
       })
     } catch {
@@ -166,6 +174,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
           ApiResult(
             ReturnCode.CREATE_USER.id,
             ReturnCode.CREATE_USER.toString(),
+            ReturnResult.RESULT_ERROR.toString(),
             t.getMessage
           )
         }
@@ -203,6 +212,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
     var apiRes = ApiResult(
         ReturnCode.TEST_FETCHPOST.id,
         ReturnCode.TEST_FETCHPOST.toString(),
+        ReturnResult.RESULT_ERROR.toString(),
         "init"
     )
     try {
@@ -212,6 +222,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
       apiRes = ApiResult(
           ReturnCode.TEST_FETCHPOST.id,
           "success",
+          ReturnResult.RESULT_SUCCESS.toString(),
           str
       )
       LogManager.DebugLog(this, str)
@@ -222,6 +233,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
         apiRes = ApiResult(
             ReturnCode.TEST_FETCHPOST.id,
             ReturnCode.TEST_FETCHPOST.toString(),
+            ReturnResult.RESULT_ERROR.toString(),
             t.getMessage
         )
       }

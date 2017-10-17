@@ -22,9 +22,10 @@ import scala.collection.mutable.ListBuffer
 import org.mindrot.jbcrypt.BCrypt
 
 case class ApiResult (
-    var code: Int,
-    var error: String,
-    var message: String
+    var code: Int,        // the api request code
+    var error: String,    // error code or failed code, if any
+    var result: String,   // ReturnResult
+    var message: String   // message to be displayed to user
 ) {
   
 }

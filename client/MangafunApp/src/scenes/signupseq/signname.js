@@ -7,6 +7,7 @@
 import React, { Component } from 'react';
 import {
   AppRegistry,
+  AsyncStorage,
   StyleSheet,
   Alert,
   Button,
@@ -79,12 +80,23 @@ class SignNameScreen extends Component {
     console.log(payload)
     Alert.alert("hello: " + payload.email)
   }
+  componentDidMount = () => {
+    AsyncStorage.getItem("name").then((szObj) => {
+      if ( szObj != null ) {
+        const obj = JSON.parse(szObj);
+        console.log("asyncstorage name: " + JSON.stringify(obj));
+        this.props.fetchName(obj);
+      }
+    })
+  }
   render() {
     return (
       <View style={{flex: 1, flexDirection: 'column', justifyContent: 'space-around'}}>
         <TextInput placeholder="first name"
+//           value={this.props.signup_data.firstname}
           onChangeText={(text) => this.firstname = text}/>
         <TextInput placeholder="last name"
+//           value={this.props.signup_data.lastname}
           onChangeText={(text) => this.lastname = text}/>
       <Button
         title="Next"
@@ -92,6 +104,8 @@ class SignNameScreen extends Component {
         onPress={() => {
             Alert.alert("hello: " + this.firstname + ", " + this.lastname);
             let obj = {firstname: this.firstname, lastname: this.lastname};
+            let szObj = JSON.stringify(obj);
+            AsyncStorage.setItem("name", szObj);
             this.props.fetchName(obj);
 //             this.props.fetchMyData(this.firstname, this.lastname);
             this.props.navigation.navigate("SignBday");

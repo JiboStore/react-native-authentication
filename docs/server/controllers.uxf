@@ -27,7 +27,7 @@ Responsibilities
       <x>340</x>
       <y>0</y>
       <w>380</w>
-      <h>220</h>
+      <h>390</h>
     </coordinates>
     <panel_attributes>_object: MangafunUser_
 --
@@ -42,6 +42,7 @@ pwhash: String="password, secure hashed"
 pwsalt: String="password salt"
 createddate: DateTime
 lastlogin: DateTime
+sessions: List[ActiveSession] = "all active session"
 --
 in the future:
 subscription: List[SubscriptionObject]
@@ -53,7 +54,7 @@ subscription: List[SubscriptionObject]
     <id>UMLClass</id>
     <coordinates>
       <x>340</x>
-      <y>250</y>
+      <y>430</y>
       <w>380</w>
       <h>200</h>
     </coordinates>
@@ -74,7 +75,7 @@ access: String="public, private (purchase-only), subscribe"</panel_attributes>
     <id>UMLClass</id>
     <coordinates>
       <x>340</x>
-      <y>460</y>
+      <y>660</y>
       <w>210</w>
       <h>70</h>
     </coordinates>
@@ -96,6 +97,22 @@ pages: List[String/url]</panel_attributes>
     <panel_attributes>_object: Class_
 --
 id: Long="36548"
+[waiting for message]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>740</x>
+      <y>130</y>
+      <w>200</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>_object: ActiveSession_
+--
+id: String="server generated during login"
+deviceId: String="deviceId"
+createdDate: DateTime
 [waiting for message]</panel_attributes>
     <additional_attributes/>
   </element>

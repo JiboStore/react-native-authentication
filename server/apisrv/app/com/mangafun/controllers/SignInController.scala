@@ -152,6 +152,10 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
       val sex = (jsReq \ "sex").getOrElse(JsString("null")).as[String]
       val email = (jsReq \ "email").getOrElse(JsString("null")).as[String]
       val password = (jsReq \ "pwd").getOrElse(JsString("null")).as[String]
+      val deviceinfo = (jsReq \ "deviceinfo").getOrElse(JsString("null")).as[JsValue]
+      LogManager.DebugLog(this, "deviceinfo: " + deviceinfo);
+      val deviceid = (jsReq \ "deviceinfo" \ "deviceId").getOrElse(JsString("null")).as[String]
+      LogManager.DebugLog(this, "deviceid: " + deviceid);
       val sdt = new SimpleDateFormat("dd-MMM-yyyy")
       val gender = if ( sex.equalsIgnoreCase("female") ) 0 else 1
       val birthday = sdt.parse(bday)
@@ -168,7 +172,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
           ApiResult( ReturnCode.CREATE_USER.id, ReturnCode.CREATE_USER.toString(), ReturnResult.RESULT_FAILED.toString(), "user already exists!")
         } else {
           LogManager.DebugLog(this, "CREATING! " + str)
-          userRepo.createNewUser(firstname, lastname, birthday, gender, email, password)
+          userRepo.createNewUser(firstname, lastname, birthday, gender, email, password, deviceinfo.toString)
           ApiResult( ReturnCode.CREATE_USER.id, "success", ReturnResult.RESULT_SUCCESS.toString(), str)
         }
       })

@@ -31,6 +31,7 @@ case class MangafunUser (
   var email: String,
   var pwsalt: String,
   var pwhash: String,
+  var deviceinfostring: String,
   var createdDate: Date,
   var lastLogin: Date
 ) {
@@ -94,7 +95,7 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
     fres
   }
   
-  def createNewUser(firstname: String, lastname: String, birthday: Date, gender: Int, email: String, password: String): Future[WriteResult] = {
+  def createNewUser(firstname: String, lastname: String, birthday: Date, gender: Int, email: String, password: String, devinfostr: String): Future[WriteResult] = {
     val now = new Date()
     val usercount = countAllUsers()
     val userid = email // for now
@@ -110,6 +111,7 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
         email,
         pwsalt,
         pwhash,
+        devinfostr,
         now,
         now
       )

@@ -77,7 +77,7 @@ class SignPwdScreen extends Component {
               const { signup_data } = this.props;
               let obj = signup_data;
               obj.pwd = this.pwd;
-              obj.deviceInfo = devInfo;
+              obj.deviceinfo = devInfo;
               Alert.alert("password match: " + JSON.stringify(obj));
               this.props.fetchPwd(obj); // cannot read property 'firstname' of undefined
               // send signup request to server
@@ -101,7 +101,7 @@ class SignPwdScreen extends Component {
               const { signup_data } = this.props;
               let obj = signup_data;
               obj.pwd = this.pwd;
-              obj.deviceInfo = devInfo;
+              obj.deviceinfo = devInfo;
               HttpUtil.fetchPost("http://localhost:3005/manga/api/signin/signinuser", obj,
                 (jsonData) => {
                   var szMsg = jsonData.apiresult.message;

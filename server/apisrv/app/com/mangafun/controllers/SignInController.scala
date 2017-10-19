@@ -19,6 +19,7 @@ import play.modules.reactivemongo.ReactiveMongoComponents
 import com.mangafun.models.ApiResult
 import java.text.SimpleDateFormat
 import play.api.libs.json.JsString
+import play.api.libs.json.JsValue
 
 class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: WSClient)(appProvider: Provider[Application])
   extends Controller with MongoController with ReactiveMongoComponents {
@@ -84,6 +85,10 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
       val jsReq = oReq.get
       val email = (jsReq \ "email").getOrElse(JsString("null")).as[String]
       val password = (jsReq \ "pwd").getOrElse(JsString("null")).as[String]
+      val deviceinfo = (jsReq \ "deviceinfo").getOrElse(JsString("null")).as[JsValue]
+      LogManager.DebugLog(this, "deviceinfo: " + deviceinfo);
+      val deviceid = (jsReq \ "deviceinfo" \ "deviceId").getOrElse(JsString("null")).as[String]
+      LogManager.DebugLog(this, "deviceid: " + deviceid);
       val fUser = userRepo.getUserByEmailAndPassword(email, password)
       fApiRes = fUser.map( oUser => {
         oUser match {

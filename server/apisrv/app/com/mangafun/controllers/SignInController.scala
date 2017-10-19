@@ -172,7 +172,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
           ApiResult( ReturnCode.CREATE_USER.id, ReturnCode.CREATE_USER.toString(), ReturnResult.RESULT_FAILED.toString(), "user already exists!")
         } else {
           LogManager.DebugLog(this, "CREATING! " + str)
-          userRepo.createNewUser(firstname, lastname, birthday, gender, email, password, deviceinfo.toString)
+          userRepo.createNewUser(firstname, lastname, birthday, gender, email, password, deviceid, deviceinfo.toString)
           ApiResult( ReturnCode.CREATE_USER.id, "success", ReturnResult.RESULT_SUCCESS.toString(), str)
         }
       })

@@ -21,6 +21,8 @@ import reactivemongo.bson._
 //import reactivemongo.bson.BSONDocument
 
 import org.mindrot.jbcrypt.BCrypt
+import scala.collection.immutable.List
+import com.mangafun.utils.MangafunUtils
 
 case class MangafunUser (
   var userid: String,
@@ -31,11 +33,30 @@ case class MangafunUser (
   var email: String,
   var pwsalt: String,
   var pwhash: String,
-  var deviceinfostring: String,
+  var deviceinfo: String,
+  var sessions: List[MangafunUserSession],
   var createdDate: Date,
   var lastLogin: Date
 ) {
   
+}
+
+case class MangafunUserSession (
+  var sessionid: String,
+  var deviceid: String,
+  var deviceinfo: String,
+  var lastdeviceinfo: String,
+  var createdDate: Date,
+  var lastLogin: Date
+) {
+  
+}
+
+object MangafunUserSession {
+  import play.api.libs.json.Json
+  // Generates Writes and Reads
+  implicit var sessionJsonFormats = Json.format[MangafunUserSession]
+  implicit var sessionBsonFormats = Macros.handler[MangafunUserSession]
 }
 
 object MangafunUser {
@@ -95,13 +116,21 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
     fres
   }
   
-  def createNewUser(firstname: String, lastname: String, birthday: Date, gender: Int, email: String, password: String, devinfostr: String): Future[WriteResult] = {
+  def createNewUser(firstname: String, lastname: String, birthday: Date, gender: Int, email: String, password: String, devid: String, devinfostr: String): Future[WriteResult] = {
     val now = new Date()
     val usercount = countAllUsers()
     val userid = email // for now
     val pwsalt = BCrypt.gensalt()
     val pwhash = BCrypt.hashpw(password, pwsalt)
     usercount.flatMap( count => {
+      val session = MangafunUserSession(
+          MangafunUtils.generateSessionId(),
+          devid,
+          devinfostr,
+          devinfostr,
+          now,
+          now
+      )
       val user = MangafunUser(
         count + 1 + "",
         firstname,
@@ -112,6 +141,7 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
         pwsalt,
         pwhash,
         devinfostr,
+        List(session),
         now,
         now
       )

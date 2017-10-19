@@ -34,6 +34,8 @@ import {
 
 import store from '../../store/store';
 
+import DeviceInfoUtil from '../../utils/DeviceInfoUtil';
+
 import HttpUtil from '../../utils/HttpUtil';
 
 let fetchPwd = (signupdata) => {
@@ -69,11 +71,13 @@ class SignPwdScreen extends Component {
         title="Next"
         onPress={() => {
 //             const { signup_data } = this.props;
+            let devInfo = DeviceInfoUtil.getDeviceInfo();
             if ( validatePwd(this.pwd, this.repwd) ) {
 //               Alert.alert("password match: " + JSON.stringify(signup_data));
               const { signup_data } = this.props;
               let obj = signup_data;
               obj.pwd = this.pwd;
+              obj.deviceInfo = devInfo;
               Alert.alert("password match: " + JSON.stringify(obj));
               this.props.fetchPwd(obj); // cannot read property 'firstname' of undefined
               // send signup request to server
@@ -97,6 +101,7 @@ class SignPwdScreen extends Component {
               const { signup_data } = this.props;
               let obj = signup_data;
               obj.pwd = this.pwd;
+              obj.deviceInfo = devInfo;
               HttpUtil.fetchPost("http://localhost:3005/manga/api/signin/signinuser", obj,
                 (jsonData) => {
                   var szMsg = jsonData.apiresult.message;

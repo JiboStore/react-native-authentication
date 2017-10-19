@@ -149,6 +149,9 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
       apiRes
     }
     var payloadUser = PayloadUser("", "", "")
+    var fTuple: Future[(ApiResult, PayloadUser)] = Future {
+      (apiRes, payloadUser)
+    }
     try {
       val oReq = request.body.asJson
       val jsReq = oReq.getOrElse(JsString("null"))
@@ -171,38 +174,66 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
           case None => { false }
         }
       })
-      fApiRes = fUserExists.map( bExists => {
+      fTuple = fUserExists.flatMap( bExists => {
         str += jsReq
         if ( bExists ) {
           LogManager.DebugLog(this, "USER EXISTS! " + str)
-          ApiResult( ReturnCode.CREATE_USER.id, ReturnCode.CREATE_USER.toString(), ReturnResult.RESULT_FAILED.toString(), "user already exists!")
+          val fAr = Future {
+            ApiResult( ReturnCode.CREATE_USER.id, ReturnCode.CREATE_USER.toString(), ReturnResult.RESULT_FAILED.toString(), "user already exists!")
+          }
+          val fPu = Future {
+            PayloadUser("", "", "")
+          }
+          val res: Future[(ApiResult, PayloadUser)] = {
+            val ar = fAr
+            val pu = fPu
+            for { v1 <- ar; v2 <- pu } yield (v1, v2)
+          }
+          res
         } else {
           LogManager.DebugLog(this, "CREATING! " + str)
           val fres = userRepo.createNewUser(firstname, lastname, birthday, gender, email, password, deviceid, deviceinfo.toString)
-          fres.map {
+          val fPu = fres.map {
             case ( wr, user, sessionId ) => {
-              payloadUser = PayloadUserFactory.createWithUserAndSession(user, sessionId)
+              PayloadUserFactory.createWithUserAndSession(user, sessionId)
             }
           }
-          ApiResult( ReturnCode.CREATE_USER.id, "success", ReturnResult.RESULT_SUCCESS.toString(), str)
+          val fAr = Future {
+            ApiResult( ReturnCode.CREATE_USER.id, "success", ReturnResult.RESULT_SUCCESS.toString(), str)
+          }
+          // https://stackoverflow.com/a/11158557/474330
+          val res: Future[(ApiResult, PayloadUser)] = {
+            val ar = fAr
+            val pu = fPu
+            for { v1 <- ar; v2 <- pu } yield (v1, v2)
+          }
+          res
         }
       })
     } catch {
       case t: Throwable => {
         LogManager.DebugException(this, "ex: ", t)
-        fApiRes = Future {
-          ApiResult(
-            ReturnCode.CREATE_USER.id,
-            ReturnCode.CREATE_USER.toString(),
-            ReturnResult.RESULT_ERROR.toString(),
-            t.getMessage
+        fTuple = Future {
+          (
+            ApiResult(
+              ReturnCode.CREATE_USER.id,
+              ReturnCode.CREATE_USER.toString(),
+              ReturnResult.RESULT_ERROR.toString(),
+              t.getMessage
+            ),
+            payloadUser
           )
         }
       }
     }
-    fApiRes.map( apiRes => {
-      Ok(com.mangafun.views.html.signin.createuser.render(apiRes, payloadUser))
+    fTuple.map( (tuple) => {
+      val ar = tuple._1
+      val pu = tuple._2
+      Ok(com.mangafun.views.html.signin.createuser.render(ar, pu))
     })
+//    fApiRes.map( apiRes => {
+//      Ok(com.mangafun.views.html.signin.createuser.render(apiRes, payloadUser))
+//    })
   }
   
   def fetchget(): Action[AnyContent] = Action.async { implicit request =>

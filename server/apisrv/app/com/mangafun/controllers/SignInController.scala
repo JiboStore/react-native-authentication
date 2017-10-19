@@ -20,6 +20,9 @@ import com.mangafun.models.ApiResult
 import java.text.SimpleDateFormat
 import play.api.libs.json.JsString
 import play.api.libs.json.JsValue
+import reactivemongo.api.commands.WriteResult
+import com.mangafun.models.PayloadUserFactory
+import com.mangafun.models.PayloadUser
 
 class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: WSClient)(appProvider: Provider[Application])
   extends Controller with MongoController with ReactiveMongoComponents {
@@ -90,27 +93,29 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
       val deviceid = (jsReq \ "deviceinfo" \ "deviceId").getOrElse(JsString("null")).as[String]
       LogManager.DebugLog(this, "deviceid: " + deviceid);
       val fUser = userRepo.getUserByEmailAndPassword(email, password)
-      fApiRes = fUser.map( oUser => {
-        oUser match {
-          case Some(u) => {
-            userRepo.updateSigninTime(u)
-            ApiResult(
-              ReturnCode.SIGNIN_USER.id,
-              ReturnCode.SIGNIN_USER.toString(),
-              ReturnResult.RESULT_SUCCESS.toString(),
-              "user found and password valid"
-            )
-          }
-          case None => {
-            ApiResult(
-              ReturnCode.SIGNIN_USER.id,
-              ReturnCode.SIGNIN_USER.toString(),
-              ReturnResult.RESULT_FAILED.toString(),
-              "user not found / password not valid"
-            )
+      fApiRes = fUser.map{ 
+        case (oUser, sessionId) => {
+          oUser match {
+            case Some(u) => {
+              userRepo.updateSigninTime(u)
+              ApiResult(
+                ReturnCode.SIGNIN_USER.id,
+                ReturnCode.SIGNIN_USER.toString(),
+                ReturnResult.RESULT_SUCCESS.toString(),
+                "user found and password valid"
+              )
+            }
+            case (None) => {
+              ApiResult(
+                ReturnCode.SIGNIN_USER.id,
+                ReturnCode.SIGNIN_USER.toString(),
+                ReturnResult.RESULT_FAILED.toString(),
+                "user not found / password not valid"
+              )
+            }
           }
         }
-      })
+      }
       str += jsReq
       LogManager.DebugLog(this, str)
     } catch {
@@ -143,6 +148,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
     fApiRes = Future {
       apiRes
     }
+    var payloadUser = PayloadUser("", "", "")
     try {
       val oReq = request.body.asJson
       val jsReq = oReq.getOrElse(JsString("null"))
@@ -172,7 +178,12 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
           ApiResult( ReturnCode.CREATE_USER.id, ReturnCode.CREATE_USER.toString(), ReturnResult.RESULT_FAILED.toString(), "user already exists!")
         } else {
           LogManager.DebugLog(this, "CREATING! " + str)
-          userRepo.createNewUser(firstname, lastname, birthday, gender, email, password, deviceid, deviceinfo.toString)
+          val fres = userRepo.createNewUser(firstname, lastname, birthday, gender, email, password, deviceid, deviceinfo.toString)
+          fres.map {
+            case ( wr, user, sessionId ) => {
+              payloadUser = PayloadUserFactory.createWithUserAndSession(user, sessionId)
+            }
+          }
           ApiResult( ReturnCode.CREATE_USER.id, "success", ReturnResult.RESULT_SUCCESS.toString(), str)
         }
       })
@@ -190,7 +201,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
       }
     }
     fApiRes.map( apiRes => {
-      Ok(com.mangafun.views.html.common.apiresult.render(apiRes))
+      Ok(com.mangafun.views.html.signin.createuser.render(apiRes, payloadUser))
     })
   }
   

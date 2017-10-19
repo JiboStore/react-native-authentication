@@ -91,19 +91,20 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
     })
   }
   
-  def getUserByEmailAndPassword(email: String, password: String): Future[Option[MangafunUser]] = {
+  def getUserByEmailAndPassword(email: String, password: String): Future[(Option[MangafunUser], String)] = {
+    val sesid = MangafunUtils.generateSessionId()
     val foUser = getUserByEmail(email)
     foUser.map(oUser => {
       oUser match {
         case Some(u) => {
           val bAuthenticated = BCrypt.checkpw(password, u.pwhash)
           if ( bAuthenticated ) {
-            Some(u)
+            (Some(u), sesid)
           } else {
-            None
+            (None, "")
           }
         }
-        case None => None
+        case None => (None, "")
       }
     })
   }
@@ -116,15 +117,16 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
     fres
   }
   
-  def createNewUser(firstname: String, lastname: String, birthday: Date, gender: Int, email: String, password: String, devid: String, devinfostr: String): Future[WriteResult] = {
+  def createNewUser(firstname: String, lastname: String, birthday: Date, gender: Int, email: String, password: String, devid: String, devinfostr: String): Future[(WriteResult, MangafunUser, String)] = {
     val now = new Date()
+    val sesid = MangafunUtils.generateSessionId()
     val usercount = countAllUsers()
     val userid = email // for now
     val pwsalt = BCrypt.gensalt()
     val pwhash = BCrypt.hashpw(password, pwsalt)
     usercount.flatMap( count => {
       val session = MangafunUserSession(
-          MangafunUtils.generateSessionId(),
+          sesid,
           devid,
           devinfostr,
           devinfostr,
@@ -146,7 +148,7 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
         now
       )
       bsonCollection.flatMap( db => {
-        db.insert(user)
+        db.insert(user).map((_, user, sesid))
       })
     })
   }

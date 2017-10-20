@@ -7,6 +7,7 @@
 import React, { Component } from 'react';
 import {
   AppRegistry,
+  AsyncStorage,
   StyleSheet,
   Alert,
   Button,
@@ -29,7 +30,8 @@ import {
   SIGNUP_USER_BDAY,
   SIGNUP_USER_SEX,
   SIGNUP_USER_EMAIL,
-  SIGNUP_USER_PWD
+  SIGNUP_USER_PWD,
+  STORAGE_KEY_SESSIONID
 } from '../../constants/type';
 
 import store from '../../store/store';
@@ -87,6 +89,8 @@ class SignPwdScreen extends Component {
                   console.log(jsonData);
                   if ( jsonData.apiresult.result == 0 ) {
                     Alert.alert("registration successful!");
+                    let szSession = jsonData.payload.session;
+                    AsyncStorage.setItem(STORAGE_KEY_SESSIONID, szSession);
                   } else {
                     Alert.alert("registration failed");
                   }
@@ -108,6 +112,8 @@ class SignPwdScreen extends Component {
                   console.log(jsonData);
                   if ( jsonData.apiresult.result == 0 ) {
                     Alert.alert("sign in successful");
+                    let szSession = jsonData.payload.session;
+                    AsyncStorage.setItem(STORAGE_KEY_SESSIONID, szSession);
                   } else {
                     Alert.alert("sign in failed");
                   }

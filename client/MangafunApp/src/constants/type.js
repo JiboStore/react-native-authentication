@@ -8,3 +8,5 @@ export let SIGNUP_USER_BDAY = "SIGNUP_USER_BDAY";
 export let SIGNUP_USER_SEX = "SIGNUP_USER_SEX";
 export let SIGNUP_USER_EMAIL = "SIGNUP_USER_EMAIL";
 export let SIGNUP_USER_PWD = "SIGNUP_USER_PWD";
+
+export let STORAGE_KEY_SESSIONID = "SKLSTPGE"; // storage key last page, to mislead hacker

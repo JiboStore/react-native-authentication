@@ -19,6 +19,10 @@ import {
 import DeviceInfo from 'react-native-device-info';
 // var DeviceInfo = require('react-native-device-info');
 
+import DeviceInfoUtil from '../../utils/DeviceInfoUtil';
+
+import HttpUtil from '../../utils/HttpUtil';
+
 import { StackNavigator } from 'react-navigation';
 
 import {
@@ -33,7 +37,8 @@ import {
   SIGNUP_USER_BDAY,
   SIGNUP_USER_SEX,
   SIGNUP_USER_EMAIL,
-  SIGNUP_USER_PWD
+  SIGNUP_USER_PWD,
+  STORAGE_KEY_SESSIONID
 } from '../../constants/type';
 
 import store from '../../store/store';
@@ -102,6 +107,24 @@ class SignNameScreen extends Component {
         this.props.fetchName(obj);
       }
     })
+    
+    AsyncStorage.getItem(STORAGE_KEY_SESSIONID).then((szSessionId) => {
+      if ( szSessionId != null ) {
+        console.log(STORAGE_KEY_SESSIONID + " => " + szSessionId);
+        let postParam = {
+          sessionid: szSessionId
+        };
+        HttpUtil.fetchPost("http://localhost:3005/manga/api/signin/signinsession", postParam,
+          (jsonData) => {
+            console.log(JSON.stringify(jsonData));
+          },
+          (error) => {
+            console.error(error);
+          }
+        )
+      }
+    }) // end asyncstorage
+    
   }
   render() {
     return (

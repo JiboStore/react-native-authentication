@@ -97,20 +97,32 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
       val deviceid = (jsReq \ "deviceinfo" \ "deviceId").getOrElse(JsString("null")).as[String]
       LogManager.DebugLog(this, "deviceid: " + deviceid);
       val fUser = userRepo.getUserByEmailAndPassword(email, password)
-      fTuple = fUser.map(
+      fTuple = fUser.flatMap(
         (oUser) => {
           oUser match {
             case Some(u) => {
               userRepo.updateSigninTime(u)
-              val payloadUser = PayloadUserFactory.createWithUserAndSession(u, "todo: sessionId")
+              // create new session for the user
+              val fwrsid = userRepo.createNewSessionForUser(u, deviceid, deviceinfo.toString())
+              val fPayloadUser = fwrsid.map( (tuple) => {
+                val sesid = tuple._2
+                val payloadUser = PayloadUserFactory.createWithUserAndSession(u, sesid)
+                payloadUser
+              })
+              
               val apiRes = ApiResult(
                 ReturnCode.SIGNIN_USER.id,
                 ReturnCode.SIGNIN_USER.toString(),
                 ReturnResult.RESULT_SUCCESS.toString(),
                 "user found and password valid"
               )
-              val tup = (apiRes, payloadUser)
-             tup
+              val fres = for {
+                pu <- fPayloadUser;
+                ar <- Future{ apiRes }
+              } yield {
+                (ar, pu)
+              }
+              fres
             }
             case (None) => {
               val apiRes = ApiResult(
@@ -120,7 +132,9 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
                 "user not found / password not valid"
               )
               val tup = (apiRes, payloadUser)
-              tup
+              Future {
+                tup
+              }
             }
           }
         }
@@ -136,7 +150,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
           ReturnResult.RESULT_ERROR.toString(),
           t.getMessage
         )
-        (apiRes, payloadUser)
+        fTuple = Future { (apiRes, payloadUser) }
       }
     }
     fTuple.map( (tuple) => {

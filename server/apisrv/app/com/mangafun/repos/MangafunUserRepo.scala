@@ -117,6 +117,36 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
     fres
   }
   
+  def createNewSessionForUser(user: MangafunUser, devid: String, devinfo: String): Future[(WriteResult, String)] = {
+    val now = new Date()
+    val sesid = MangafunUtils.generateSessionId()
+    val sesObj = MangafunUserSession(
+      sesid,
+      devid,
+      devinfo,
+      devinfo,
+      now,
+      now
+    )
+    val sessions = sesObj :: user.sessions
+    val selector = BSONDocument("email" -> user.email)
+    val modifier = BSONDocument(
+        "$set" -> BSONDocument(
+            "sessions" -> sessions
+        )
+    )
+    val fwr = bsonCollection.flatMap( db => {
+      db.update(selector, modifier)
+    })
+    val res: Future[(WriteResult, String)] = for { 
+      wr <- fwr; 
+      sid <- Future{ sesid } 
+    } yield {
+      (wr, sid) 
+    }
+    res
+  }
+  
   def createNewUser(firstname: String, lastname: String, birthday: Date, gender: Int, email: String, password: String, devid: String, devinfostr: String): Future[(WriteResult, MangafunUser, String)] = {
     val now = new Date()
     val sesid = MangafunUtils.generateSessionId()

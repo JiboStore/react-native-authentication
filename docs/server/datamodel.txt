@@ -19,3 +19,6 @@ signinbasedonsession:
 -. and deviceId matches, user is signed in
 -. if not match, or more than 1 user is found, delete all the corresponding sessions from all users
 3. sessionId is returned and user is signed in
+
+important scala stuff:
+https://stackoverflow.com/a/11158557/474330

@@ -13,6 +13,7 @@ GET		/manga/api/rnfetchget		@com.mangafun.controllers.ReactNativeFetchController
 POST	/manga/api/rnfetchpost		@com.mangafun.controllers.ReactNativeFetchController.fetchpost()
 POST	/manga/api/signin/createuser		@com.mangafun.controllers.SignInController.createuser()
 POST	/manga/api/signin/signinuser		@com.mangafun.controllers.SignInController.signinuser()
+POST	/manga/api/signin/signinsession		@com.mangafun.controllers.SignInController.signinsession()
 
 GET		/aonhub/seeder/updatemangajson		@com.mangafun.controllers.AonhubSeederController.updatemangajson()
 GET		/aonhub/seeder/getmangainfo			@com.mangafun.controllers.AonhubSeederController.getmangainfo(mangaId: Int ?= 2940)

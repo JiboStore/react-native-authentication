@@ -38,37 +38,84 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
   
   def index(): Action[AnyContent] = Action.async { implicit request =>
     var str = ""
-    var apiRes = ApiResult(
+    var fApiResult = Future {
+      ApiResult(
         ReturnCode.TEST_FETCHPOST.id,
         ReturnCode.TEST_FETCHPOST.toString(),
         ReturnResult.RESULT_ERROR.toString(),
         "init"
-    )
+      )
+    }
     try {
       val oReq = request.body.asJson
       val jsReq = oReq.getOrElse(JsString("null"))
       str += jsReq
-      apiRes = ApiResult(
+      fApiResult = Future {
+        ApiResult(
           ReturnCode.TEST_FETCHPOST.id,
           "success",
           ReturnResult.RESULT_SUCCESS.toString(),
           str
-      )
+        )
+      }
       LogManager.DebugLog(this, str)
     } catch {
       case t: Throwable => {
         LogManager.DebugException(this, "ex: ", t)
-        apiRes = ApiResult(
+        fApiResult = Future {
+          ApiResult(
             ReturnCode.TEST_FETCHPOST.id,
             ReturnCode.TEST_FETCHPOST.toString(),
             ReturnResult.RESULT_ERROR.toString(),
             t.getMessage
-        )
+          )
+        }
       }
     }
-    Future {
+    fApiResult.map( apiRes => {
       Ok(com.mangafun.views.html.common.apiresult.render(apiRes))
+    })
+  }
+  
+  def signinsession(): Action[AnyContent] = Action.async { implicit request =>
+    var str = ""
+    var fApiResult = Future {
+      ApiResult(
+        ReturnCode.TEST_FETCHPOST.id,
+        ReturnCode.TEST_FETCHPOST.toString(),
+        ReturnResult.RESULT_ERROR.toString(),
+        "init"
+      )
     }
+    try {
+      val oReq = request.body.asJson
+      val jsReq = oReq.getOrElse(JsString("null"))
+      str += jsReq
+      fApiResult = Future {
+        ApiResult(
+          ReturnCode.TEST_FETCHPOST.id,
+          "success",
+          ReturnResult.RESULT_SUCCESS.toString(),
+          str
+        )
+      }
+      LogManager.DebugLog(this, str)
+    } catch {
+      case t: Throwable => {
+        LogManager.DebugException(this, "ex: ", t)
+        fApiResult = Future {
+          ApiResult(
+            ReturnCode.TEST_FETCHPOST.id,
+            ReturnCode.TEST_FETCHPOST.toString(),
+            ReturnResult.RESULT_ERROR.toString(),
+            t.getMessage
+          )
+        }
+      }
+    }
+    fApiResult.map( apiRes => {
+      Ok(com.mangafun.views.html.common.apiresult.render(apiRes))
+    })
   }
   
   def signinuser(): Action[AnyContent] = Action.async { implicit request =>

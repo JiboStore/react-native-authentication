@@ -2,3 +2,20 @@ Access to manga is:
 public: free for all
 private: purchase only (do it last, may purchase by title or by chapter, it is quite complicated)
 subscription: time-based, per author (or free for all) but only during subscription time
+
+createuser:
+1. create MangafunUser
+2. insert a new session object based on the creating device id
+3. sessionId is returned and the next time, user will authenticate with the sessionId
+
+signinuser:
+1. user provide his email and password
+2. create a new session object and attached it to that MangafunUser
+3. sessionId is returned and the next time, user will authenticate with the sessionId
+
+signinbasedonsession:
+1. user provide sessionId
+2. from the sessionId. search for the corresponding MangafunUser, if found:
+-. and deviceId matches, user is signed in
+-. if not match, or more than 1 user is found, delete all the corresponding sessions from all users
+3. sessionId is returned and user is signed in

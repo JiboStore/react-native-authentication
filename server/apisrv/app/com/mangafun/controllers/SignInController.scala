@@ -83,6 +83,10 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
     fApiRes = Future {
       apiRes
     }
+    var payloadUser = PayloadUser("", "", "")
+    var fTuple: Future[(ApiResult, PayloadUser)] = Future {
+      (apiRes, payloadUser)
+    }
     try {
       val oReq = request.body.asJson
       val jsReq = oReq.get
@@ -93,47 +97,56 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
       val deviceid = (jsReq \ "deviceinfo" \ "deviceId").getOrElse(JsString("null")).as[String]
       LogManager.DebugLog(this, "deviceid: " + deviceid);
       val fUser = userRepo.getUserByEmailAndPassword(email, password)
-      fApiRes = fUser.map{ 
-        case (oUser, sessionId) => {
+      fTuple = fUser.map(
+        (oUser) => {
           oUser match {
             case Some(u) => {
               userRepo.updateSigninTime(u)
-              ApiResult(
+              val payloadUser = PayloadUserFactory.createWithUserAndSession(u, "todo: sessionId")
+              val apiRes = ApiResult(
                 ReturnCode.SIGNIN_USER.id,
                 ReturnCode.SIGNIN_USER.toString(),
                 ReturnResult.RESULT_SUCCESS.toString(),
                 "user found and password valid"
               )
+              val tup = (apiRes, payloadUser)
+             tup
             }
             case (None) => {
-              ApiResult(
+              val apiRes = ApiResult(
                 ReturnCode.SIGNIN_USER.id,
                 ReturnCode.SIGNIN_USER.toString(),
                 ReturnResult.RESULT_FAILED.toString(),
                 "user not found / password not valid"
               )
+              val tup = (apiRes, payloadUser)
+              tup
             }
           }
         }
-      }
+      )
       str += jsReq
       LogManager.DebugLog(this, str)
     } catch {
       case t: Throwable => {
         LogManager.DebugException(this, "ex: ", t)
-        fApiRes = Future {
-          ApiResult(
-            ReturnCode.SIGNIN_USER.id,
-            ReturnCode.SIGNIN_USER.toString(),
-            ReturnResult.RESULT_ERROR.toString(),
-            t.getMessage
-          )
-        }
+        val apiRes = ApiResult(
+          ReturnCode.SIGNIN_USER.id,
+          ReturnCode.SIGNIN_USER.toString(),
+          ReturnResult.RESULT_ERROR.toString(),
+          t.getMessage
+        )
+        (apiRes, payloadUser)
       }
     }
-    fApiRes.map( apiRes => {
-      Ok(com.mangafun.views.html.common.apiresult.render(apiRes))
+    fTuple.map( (tuple) => {
+      val ar = tuple._1
+      val pu = tuple._2
+      Ok(com.mangafun.views.html.signin.createuser.render(ar, pu))
     })
+//    fApiRes.map( apiRes => {
+//      Ok(com.mangafun.views.html.common.apiresult.render(apiRes))
+//    })
   }
   
   def createuser(): Action[AnyContent] = Action.async { implicit request =>

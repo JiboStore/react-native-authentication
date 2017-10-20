@@ -91,7 +91,7 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
     })
   }
   
-  def getUserByEmailAndPassword(email: String, password: String): Future[(Option[MangafunUser], String)] = {
+  def getUserByEmailAndPassword(email: String, password: String): Future[Option[MangafunUser]] = {
     val sesid = MangafunUtils.generateSessionId()
     val foUser = getUserByEmail(email)
     foUser.map(oUser => {
@@ -99,12 +99,12 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
         case Some(u) => {
           val bAuthenticated = BCrypt.checkpw(password, u.pwhash)
           if ( bAuthenticated ) {
-            (Some(u), sesid)
+            Some(u)
           } else {
-            (None, "")
+            None
           }
         }
-        case None => (None, "")
+        case None => None
       }
     })
   }

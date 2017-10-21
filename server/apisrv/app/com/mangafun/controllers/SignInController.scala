@@ -98,6 +98,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
       val jsReq = oReq.getOrElse(JsString("null"))
       val sessionid = (jsReq \ "sessionid").getOrElse(JsString("null")).as[String]
       val deviceid = (jsReq \ "deviceid").getOrElse(JsString("null")).as[String]
+      val deviceinfo = (jsReq \ "deviceinfo").getOrElse(JsString("null")).as[String]
       val foUser = userRepo.getUserBySessionId(sessionid)
       fTuple = foUser.flatMap( oUser => {
         oUser match {
@@ -108,6 +109,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
             if ( sessionObj.deviceid.equals(deviceid) ) {
               LogManager.DebugLog(this, "signinsession successful")
               // todo: update the last login time in the session
+              userRepo.updateSigninTimeOfUserAndSession(u, sessionid, deviceinfo)
               Future {
                 ( 
                     ApiResult( ReturnCode.SIGNIN_SESSION.id, "success", ReturnResult.RESULT_SUCCESS.toString(), "valid session"),

@@ -23,6 +23,7 @@ import reactivemongo.bson._
 import org.mindrot.jbcrypt.BCrypt
 import scala.collection.immutable.List
 import com.mangafun.utils.MangafunUtils
+import scala.collection.mutable.ListBuffer
 
 case class MangafunUser (
   var userid: String,
@@ -85,6 +86,27 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
         "$set" -> BSONDocument(
             "lastLogin" -> new Date()
         )
+    )
+    bsonCollection.flatMap( db => {
+      db.update(selector, modifier)
+    })
+  }
+  
+  def updateSigninTimeOfUserAndSession(user: MangafunUser, sessionid: String, deviceinfo: String): Future[WriteResult] = {
+    val now = new Date()
+    val lSession = user.sessions.to[ListBuffer]
+    lSession.foreach( session => {
+      if ( session.sessionid.equals(sessionid) ) {
+        session.lastLogin = now
+        session.lastdeviceinfo = deviceinfo
+      }
+    })
+    val selector = BSONDocument("email" -> user.email)
+    val modifier = BSONDocument(
+        "$set" -> BSONDocument(
+            "lastLogin" -> now,
+            "sessions" -> lSession.toList
+         )
     )
     bsonCollection.flatMap( db => {
       db.update(selector, modifier)

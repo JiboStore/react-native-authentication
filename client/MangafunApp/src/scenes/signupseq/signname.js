@@ -112,9 +112,12 @@ class SignNameScreen extends Component {
       if ( szSessionId != null ) {
         console.log(STORAGE_KEY_SESSIONID + " => " + szSessionId);
         let deviceId = DeviceInfoUtil.getDeviceInfo().deviceId;
+        let deviceInfo = DeviceInfoUtil.getDeviceInfo();
+        let szDeviceInfo = JSON.stringify(deviceInfo);
         let postParam = {
           sessionid: szSessionId,
-          deviceid: deviceId
+          deviceid: deviceId,
+          deviceinfo: szDeviceInfo
         };
         HttpUtil.fetchPost("http://localhost:3005/manga/api/signin/signinsession", postParam,
           (jsonData) => {

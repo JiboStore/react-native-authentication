@@ -112,6 +112,7 @@ class SignNameScreen extends Component {
       if ( szSessionId != null ) {
         console.log(STORAGE_KEY_SESSIONID + " => " + szSessionId);
         let deviceId = DeviceInfoUtil.getDeviceInfo().deviceId;
+//         let deviceId = "testwrongdeviceid";
         let deviceInfo = DeviceInfoUtil.getDeviceInfo();
         let szDeviceInfo = JSON.stringify(deviceInfo);
         let postParam = {
@@ -122,6 +123,13 @@ class SignNameScreen extends Component {
         HttpUtil.fetchPost("http://localhost:3005/manga/api/signin/signinsession", postParam,
           (jsonData) => {
             console.log(JSON.stringify(jsonData));
+            if ( jsonData.apiresult.result == 0 ) {
+              Alert.alert("auto sign in success!");
+            } else {
+              // login failed, delete off the session
+              Alert.alert("auto sign in failed");
+              AsyncStorage.removeItem(STORAGE_KEY_SESSIONID);
+            }
           },
           (error) => {
             console.error(error);

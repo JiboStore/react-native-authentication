@@ -117,6 +117,14 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
     fres
   }
   
+  def getUserBySessionId(sessionid: String): Future[Option[MangafunUser]] = {
+    val queryParams: BSONDocument = BSONDocument("sessions.sessionid" -> sessionid)
+    val fres = bsonCollection.flatMap( db => {
+      db.find(queryParams).one[MangafunUser]
+    })
+    fres
+  }
+  
   def createNewSessionForUser(user: MangafunUser, devid: String, devinfo: String): Future[(WriteResult, String)] = {
     val now = new Date()
     val sesid = MangafunUtils.generateSessionId()

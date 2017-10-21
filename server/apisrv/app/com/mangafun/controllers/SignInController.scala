@@ -79,42 +79,80 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
   
   def signinsession(): Action[AnyContent] = Action.async { implicit request =>
     var str = ""
-    var fApiResult = Future {
-      ApiResult(
-        ReturnCode.TEST_FETCHPOST.id,
-        ReturnCode.TEST_FETCHPOST.toString(),
+    var apiRes = ApiResult(
+        ReturnCode.SIGNIN_SESSION.id,
+        ReturnCode.SIGNIN_SESSION.toString(),
         ReturnResult.RESULT_ERROR.toString(),
         "init"
-      )
+    )
+    var fApiRes: Future[ApiResult] = null.asInstanceOf[Future[ApiResult]]
+    fApiRes = Future {
+      apiRes
+    }
+    var payloadUser = PayloadUserFactory.createEmptyPayloadUser()
+    var fTuple: Future[(ApiResult, PayloadUser)] = Future {
+      (apiRes, payloadUser)
     }
     try {
       val oReq = request.body.asJson
       val jsReq = oReq.getOrElse(JsString("null"))
+      val sessionid = (jsReq \ "sessionid").getOrElse(JsString("null")).as[String]
+      val deviceid = (jsReq \ "deviceid").getOrElse(JsString("null")).as[String]
+      val foUser = userRepo.getUserBySessionId(sessionid)
+      fTuple = foUser.flatMap( oUser => {
+        oUser match {
+          case Some(u) => {
+            val sessionObj = u.sessions.find( s => {
+              s.sessionid.equals(sessionid)
+            }).get
+            if ( sessionObj.deviceid.equals(deviceid) ) {
+              LogManager.DebugLog(this, "signinsession successful")
+              // todo: update the last login time in the session
+              Future {
+                ( 
+                    ApiResult( ReturnCode.SIGNIN_SESSION.id, "success", ReturnResult.RESULT_SUCCESS.toString(), "valid session"),
+                    PayloadUserFactory.createWithUserAndSession(u, sessionid)
+                )
+              }
+            } else {
+              // session found, but doesn't match deviceid, delete the session
+              // todo: delete the session
+              Future {
+                (
+                    ApiResult( ReturnCode.SIGNIN_SESSION.id, ReturnCode.SIGNIN_SESSION.toString(), ReturnResult.RESULT_FAILED.toString(), "invalid session"),
+                    PayloadUserFactory.createEmptyPayloadUser()
+                )
+              }
+            }
+          }
+          case None => {
+            // session not found
+            Future {
+              (
+                  ApiResult( ReturnCode.SIGNIN_SESSION.id, ReturnCode.SIGNIN_SESSION.toString(), ReturnResult.RESULT_FAILED.toString(), "session not found"),
+                  PayloadUserFactory.createEmptyPayloadUser()
+              )
+            }
+          }
+        }
+      })
       str += jsReq
-      fApiResult = Future {
-        ApiResult(
-          ReturnCode.TEST_FETCHPOST.id,
-          "success",
-          ReturnResult.RESULT_SUCCESS.toString(),
-          str
-        )
-      }
       LogManager.DebugLog(this, str)
     } catch {
       case t: Throwable => {
         LogManager.DebugException(this, "ex: ", t)
-        fApiResult = Future {
-          ApiResult(
-            ReturnCode.TEST_FETCHPOST.id,
-            ReturnCode.TEST_FETCHPOST.toString(),
-            ReturnResult.RESULT_ERROR.toString(),
-            t.getMessage
+        fTuple = Future {
+          (
+            ApiResult( ReturnCode.SIGNIN_SESSION.id, ReturnCode.SIGNIN_SESSION.toString(), ReturnResult.RESULT_ERROR.toString(), "error"),
+            PayloadUserFactory.createEmptyPayloadUser()
           )
         }
       }
     }
-    fApiResult.map( apiRes => {
-      Ok(com.mangafun.views.html.common.apiresult.render(apiRes))
+    fTuple.map( (tuple) => {
+      val ar = tuple._1
+      val pu = tuple._2
+      Ok(com.mangafun.views.html.signin.createuser.render(ar, pu))
     })
   }
   
@@ -130,7 +168,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
     fApiRes = Future {
       apiRes
     }
-    var payloadUser = PayloadUser("", "", "")
+    var payloadUser = PayloadUserFactory.createEmptyPayloadUser()
     var fTuple: Future[(ApiResult, PayloadUser)] = Future {
       (apiRes, payloadUser)
     }
@@ -222,7 +260,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
     fApiRes = Future {
       apiRes
     }
-    var payloadUser = PayloadUser("", "", "")
+    var payloadUser = PayloadUserFactory.createEmptyPayloadUser()
     var fTuple: Future[(ApiResult, PayloadUser)] = Future {
       (apiRes, payloadUser)
     }

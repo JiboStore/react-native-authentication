@@ -5,6 +5,7 @@ object ReturnCode extends Enumeration {
   val TEST_FETCHPOST = Value("TEST_FETCHPOST")
   val CREATE_USER = Value("CREATE_USER")
   val SIGNIN_USER = Value("SIGNIN_USER")
+  val SIGNIN_SESSION = Value("SIGNIN_SESSION")
 }
 
 object ReturnResult extends Enumeration {

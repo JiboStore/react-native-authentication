@@ -32,6 +32,10 @@ object PayloadUserFactory {
     )
     pu
   }
+  
+  def createEmptyPayloadUser() = {
+    PayloadUser("", "", "")
+  }
 }
 
 //case class PayloadSession (

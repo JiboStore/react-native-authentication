@@ -113,6 +113,19 @@ class MangafunUserRepo @Inject() (reactiveMongoApi: ReactiveMongoApi) {
     })
   }
   
+  def deleteSessionOfUser(user: MangafunUser, sessionid: String) = {
+    val lSession = user.sessions.filterNot( s => s.sessionid.equals(sessionid) )
+    val selector = BSONDocument("email" -> user.email)
+    val modifier = BSONDocument(
+        "$set" -> BSONDocument(
+            "sessions" -> lSession
+        )
+    )
+    bsonCollection.flatMap( db => {
+      db.update(selector, modifier)
+    })
+  }
+  
   def getUserByEmailAndPassword(email: String, password: String): Future[Option[MangafunUser]] = {
     val sesid = MangafunUtils.generateSessionId()
     val foUser = getUserByEmail(email)

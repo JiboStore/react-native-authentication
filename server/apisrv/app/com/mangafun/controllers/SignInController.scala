@@ -108,7 +108,6 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
             }).get
             if ( sessionObj.deviceid.equals(deviceid) ) {
               LogManager.DebugLog(this, "signinsession successful")
-              // todo: update the last login time in the session
               userRepo.updateSigninTimeOfUserAndSession(u, sessionid, deviceinfo)
               Future {
                 ( 
@@ -119,6 +118,7 @@ class SignInController @Inject() (reactiveMongoApi: ReactiveMongoApi)(wsClient: 
             } else {
               // session found, but doesn't match deviceid, delete the session
               // todo: delete the session
+              userRepo.deleteSessionOfUser(u, sessionid)
               Future {
                 (
                     ApiResult( ReturnCode.SIGNIN_SESSION.id, ReturnCode.SIGNIN_SESSION.toString(), ReturnResult.RESULT_FAILED.toString(), "invalid session"),
